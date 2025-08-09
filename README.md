@@ -2,17 +2,24 @@
 description: English Learning
 ---
 
-# 英文
+# 📚 英文
 
 {% hint style="success" %}
-Author：Yusuf 100
+Author: Yusuf 100
 {% endhint %}
-
-***
 
 如何寫出一篇好作文是一大難題。在109學年度第一學期(高一上學期)，我每個月設定一個進度，分別&#x662F;**`整理單字`**、**`整理句型`**、**`文章閱讀`**&#x4EE5;&#x53CA;**`改寫作文`**，以循序漸進的方式精進寫作文的技巧，層層深入，期望我的文章能夠在眾多文章中突出，鶴立雞群。
 
 畢業後，我終於有了充足的時間繼續更新這個網頁。我認為英文老師在教我的這段期間提供的講義都是非常有意義的，所以決定將我在國高中期間學到的東西整理起來放到這個網頁上面，不只可以作為學習用途，還可以練習英文打字速度，並將英文課程內容放在這裡，留作紀念。
+
+{% hint style="info" %}
+歡迎追蹤我～喜歡這個網站的話歡迎跟大家分享～也邀請大家到我的選修化學教學網站看看～
+
+* [Discord Server](https://discord.gg/nDbebSB7s9) (300+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應。
+* 高中選修化學：[選修化學一](https://hackmd.io/@Yusuf100/chemistry-1)、[選修化學二](https://hackmd.io/@Yusuf100/chemistry-2)。
+* [YouTube](https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp) (主要是遊戲的影片)。
+* [IG](https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D\&utm_source=qr)。
+{% endhint %}
 
 ***
 
