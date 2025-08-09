@@ -2,7 +2,7 @@
 description: English Learning
 ---
 
-# 📚 英文
+# 英文
 
 {% hint style="success" %}
 Author: Yusuf 100
