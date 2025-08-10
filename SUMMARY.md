@@ -3,13 +3,6 @@
 * [英文](README.md)
 * [學習成果](xue-xi-cheng-guo.md)
 
-## Learning Outcome
-
-* [Composition 1](learning-outcome/composition-1.md)
-* [Composition 2](learning-outcome/composition-2.md)
-* [Composition 3](learning-outcome/composition-3.md)
-* [Composition 4](learning-outcome/composition-4.md)
-
 ## Vocabulary
 
 * [Verb](vocabulary/verb.md)

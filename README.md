@@ -27,10 +27,10 @@ Author: Yusuf 100
 
 我改寫了之前的作文。我先重新組織文章，接著選用適合的動詞、形容詞，並適時加上副詞修飾。在用字上，我盡量避免使用過多相同的詞彙；在文法上，我加入了之前學的強調句型、動名詞，使我的作文有更多變化與氣魄；在意象經營上，我結合之前讀過的文章，創造出新的描寫方式。改寫作文的過程是很痛苦的，不過我也發現我的英文有在進步，寫出來的作文越來越棒，令我興喜。
 
-* [Composition 1 ─ Something that I Won't Forget](learning-outcome/composition-1.md)
-* [Composition 2 ─ A Dear John Letter](learning-outcome/composition-2.md)
-* [Composition 3 ─ What I'm Concerned About](learning-outcome/composition-3.md)
-* [Composition 4 ─ A Tourist Attraction in Taiwan that I Would Recommend](learning-outcome/composition-4.md)
+* [Composition 1 ─ Something that I Won't Forget](broken-reference)
+* [Composition 2 ─ A Dear John Letter](broken-reference)
+* [Composition 3 ─ What I'm Concerned About](broken-reference)
+* [Composition 4 ─ A Tourist Attraction in Taiwan that I Would Recommend](broken-reference)
 
 ***
 

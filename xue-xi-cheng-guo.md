@@ -6,8 +6,6 @@ description: 高一上的學習成果 ─ 改寫四篇作文。在學期初，�
 
 ## 作文一：Something that I Won't Forget
 
-我在學期初就已經寫過這篇文章，主題是「描述過去一個難忘的回憶」。經過一個學期的學習，我試著用所學改寫這篇作文，讓它更加生動。
-
 ### Before
 
 <div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="562"><figcaption></figcaption></figure></div>
