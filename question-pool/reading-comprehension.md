@@ -1609,7 +1609,7 @@ Fill in the penalties according to the passage.
 
 1.  Fill in the blanks with the details in the passage.
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="540"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="540"><figcaption></figcaption></figure></div>
 2. Janet and George were travelling to East Africa in April 2020 because they wanted to see the Great Migration. Before departure, George contacted his best friend, Dino Martins, and heard about the locust plague. After Dino showed them this passage, George thought it through. He could tell that Dino wanted to \_\_\_3\_\_\_.\
    (A) highlight the incompetence of the governments in East African countries\
    (B) analyze the cause and effect of the locust outbreak in East Africa\
@@ -1618,11 +1618,11 @@ Fill in the penalties according to the passage.
 3.  Later, George accidentally heard Dino said that the total number of current locusts in Kenya was about 45 million. As a scientist, George estimated that in 6 months, the number of the locusts would quickly reach \_\_\_4\_\_\_. (Choose from A to G) What a disaster!\
 
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="444"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="444"><figcaption></figcaption></figure></div>
 4.  In order not to be disappointed by the locust swarms, Janet and George decided to avoid travelling to countries like \_\_\_5\_\_\_ and \_\_\_6\_\_\_, which were the epicenter of the locust crisis.\
 
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="392"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="392"><figcaption></figcaption></figure></div>
 5. Keith Cressman, FAO Senior Locust Forecasting Officer, once warned, "(Africa) They're in a precarious situation. The potential hunger threat is tremendous in a region where 42 million are expected to face acute food insecurity." Which sentence best explains his warning? The sentences in this passage are numbered **(1)** to **(5)**. Write down the **NUMBER** of the sentence on the answer sheet. \_\_\_7\_\_\_
 
 ### BE.
@@ -1996,7 +1996,7 @@ Fill in the penalties according to the passage.
     (D) The explorer for whom the plant was named over a century ago.&#x20;
 4.  Which of the following would most likely depict the focus of this passage?
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="231"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="231"><figcaption></figcaption></figure></div>
 
 ### BR.
 
@@ -2029,7 +2029,7 @@ Fill in the penalties according to the passage.
 
 &#x20;       For her invention, Aliana won the top prize of US$25,000 at a major science competition. She will use the money to improve her invention with LCD technology, which will put a TV-like image on the A-pillar instead of a projected image. Her next step will be getting a major car manufacturer to use the system.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. What is the purpose of the first paragraph?\
    (A) To resolve a disputable issue.\

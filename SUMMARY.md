@@ -1,7 +1,7 @@
 # Table of contents
 
 * [英文](README.md)
-* [學習心得](xue-xi-xin-de.md)
+* [學習成果](xue-xi-cheng-guo.md)
 
 ## Learning Outcome
 
