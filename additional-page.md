@@ -209,4 +209,28 @@ hidden: true
     (A) brooding (B) broadening (C) booming (D) bidding
 100. The fruit has a \_\_\_\_\_\_\_\_ flavor. Being bitter is its special quality.\
      (A) distinctive (B) devoured (C) descriptive (D) disposable
-101. 100a
+101. The sentence is composed of a main \_\_\_\_\_\_\_\_ and a subordinate one.\
+     (A) clutch (B) clause (C) comrade (D) compound
+102. In the recipes of apple pies, you need apples, flours, butter, \_\_\_\_\_\_\_\_ and cinnamon.\
+     (A) wreathes (B) walnuts (C) veils (D) yarns
+103. Charlie Chaplin was a distinguished \_\_\_\_\_\_\_\_, who brought happiness to the audience.\
+     (A) commuter (B) conductor (C) comrade (D) comedian
+104. In the shop Dollar Tree, shoppers can find many kinds of household \_\_\_\_\_\_\_\_ for only one US dollar.\
+     (A) compounds (B) clans (C) commodities (D) conceptions
+105. In Maokong, there are several tea houses where you can sit or gaze out as the gondola \_\_\_\_\_\_\_\_ to the top.\
+     (A) assaults (B) ascends (C) bans (D) batters
+106. Isn't it strange that 80 percent of the townspeople \_\_\_\_\_\_\_\_ in one single building?\
+     (A) publicize (B) reap (C) reside (D) rattle
+107. I could see the \_\_\_\_\_\_\_\_ of a woman through the frosted glass.\
+     (A) procession (B) profile (C) prophecy (D) pistol
+108. The gambling machines only accept \_\_\_\_\_\_\_\_. You have to exchange your money for them.\
+     (A) trademarks (B) thrillers (C) tenants (D) tokens
+109. We waited until the sun emerged from behind the mountain \_\_\_\_\_\_\_\_ before we set off on the trip.\
+     (A) ridge (B) rib (C) saddle (D) saint
+110. Hard as he tried, there was only a \_\_\_\_\_\_\_\_ improvement in his schoolwork.\
+     (A) martial (B) memorable (C) majestic (D) marginal
+111. The birthplace was considered a \_\_\_\_\_\_\_\_ to memorize the great poet.\
+     (A) slay (B) shrub (C) shrine (D) skull
+112. The exact \_\_\_\_\_\_\_\_ of the hostages remained a mystery; no one knew where they were.\
+     (A) wharves (B) wards (C) whereabouts (D) whisks
+113.
