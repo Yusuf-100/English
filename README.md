@@ -38,7 +38,7 @@ Author: Yusuf 100
 * [Adjective](vocabulary/adjective.md)
 * [Adverb](vocabulary/adverb.md)
 * [Prep. / Conj. / Aux.](vocabulary/miscellaneous.md)
-* [Miscellaneous](vocabulary/miscellaneous-1.md) (我在各個地方隨機記錄的單字或片語)
+* [Miscellaneous](vocabulary/random-stuff.md) (我在各個地方隨機記錄的單字或片語)
 
 重新再看一遍2001\~4500單，並從中挑選我喜歡、常用的單字，真的很累。不過，我可以順便複習之前背過的單字，把忘記的記憶找回來，算是一舉兩得。整理完筆記後，發現我做了很多東西，很有成就感，也有動力繼續做下去。
 
@@ -90,6 +90,8 @@ Author: Yusuf 100
 * [作文百句 101\~148](composition/zuo-wen-bai-ju-101148.md)
 * [作文佳句、句型](composition/zuo-wen-jia-ju-ju-xing.md)
 * [文章欣賞](composition/wen-zhang-xin-shang.md)
+
+***
 
 ## 題庫
 

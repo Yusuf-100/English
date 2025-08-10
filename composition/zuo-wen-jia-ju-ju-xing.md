@@ -1,12 +1,49 @@
 ---
-description: 作文佳句、佳作、句型
+description: 想要寫出好的作文，就要多閱讀別人寫的文章，並從中選取適當的字詞與描述手法運用到自己的文章，藉此來增添文章的豐富度。
 ---
 
 # 作文佳句、句型
 
-***
+{% hint style="info" %}
+## 英文看圖作文注意事項
 
-想要寫出好的作文，就要多閱讀別人寫的文章，並從中選取適當的用字遣詞與描述手法運用到自己的文章，藉此來增添文章的豐富度。
+* 花時間看清圖片，不要離題 、觀察人物與背景、寫出「人事時地物」。
+  * 主角是誰?
+  * 出現在什麼樣的時空背景?
+  * 人物的表情及動作，試著將人物與背景的關係建立起來。
+* 圖片所給的東西盡可能地敘述完整，但這不代表圖上沒有的東西不可以寫入文章。
+  * 只要是合理且有助於故事發展的內容，都可以盡情發揮，但要避免提及無關緊要的細節。\
+    例如，明明是講喝酒，卻一直提宴會的食物很好吃，見到朋友很開心...，這樣會模糊焦點。
+  * 要「深入的細節」，而非「廣雜的細節」。\
+    例如，當要敘述一個戀人在公園裡等待對方到來的情境，很多同學描寫過多公園的景色，模糊了重點。要寫的細節應該是對戀人培養情緒有用的背景，例如戀人不斷看到有好多情侶檔手牽手，或者可以寫戀人是如何期待這次的約會，買了最好看的洋裝、項鍊，或是寫她在公園引頸期盼的表情、動作，這些才是「深入的細節」。
+* 用字：記敘文要用確切的單字，不宜用太艱深的單字。善用片語、轉折語，句型可以有變化，但不宜太花俏。
+  * 增加動作動詞的詞彙量以精確描寫圖中人物的動作。\
+    give it a light press / draw his sword / pin a red flower on his breast / insert a key in a hole / bang the box down on the counter / scrape the rust off the machine / wave goodbye to sb / squeeze the juice out of an orange / walk arm-in-arm / tiptoe to the bedside / stamp one's foot / lean against sth / race home / spring out of bed / whisper / mutter / beg / exclaim / groan
+  * 形容詞和副詞可以幫助描寫圖中人物的內心狀態或圖中的景色，增加文章的豐富度。可以使用的句型有make / keep / leave sb O.C.、with + O + O.C.、分詞構句等。\
+    walk at a quick pace / walk with a slouch / jump about in excitement / He stands there rooted to the spot, stunned and speechless. / He stands there with his hands on his hips. / Tired from his walk, he plumps into a chair.
+  * 從單字本找出適合自己使用的英文單字和片語。
+* 可以發揮創意想像力，但劇情過程必須合理化：圖片與圖片之間都有一個過程，一定要清楚交代每兩張圖片之間所發生的事。這些都是你一開始設定故事大綱時就要底定的，最好不要邊寫邊想。
+* 平均分配每張圖和圖與圖之間的字數：通常中間的圖片會是故事的重心所在，結尾的圖片可能會是故事的高潮點，此時字數可以多一些，但比例仍不能過於失衡。
+* Point of view / 取名：可以試著由不同的角度去寫看圖作文，但所使用的人或動物必須在三張圖片中皆有出現，故事主角一定要有名字，比較好稱呼。
+* 注意時態。
+  * 看圖作文多是記敘文，因此時態以過去式為主。但若是對話中的文字，則應以當時所欲表達的時態為主來表示。\
+    next day -> the next day / yesterday -> the previous day / after three weeks -> three weeks later / today morning -> this morning
+  * 注意不規則動詞的過去式。
+* 有創意但不失合理化的結尾：看圖作文結尾往往是劇情高潮，所以最好寫很有創意的情節。\
+  Tim woke up in a tidy office, not knowing when it was and where he was. Then, a policeman walked toward him angrily. Yawning loudly, he took a closer look. To his astonishment, it was his father. His father told him what had happened. While his father was patrolling the streets and found him drunk, he dropped and took him to the police station. His father admonished him not to make the same mistake again. Tim felt embarrassed and promise not to drink so much next time.
+* 一定要留幾分鐘(例如5分鐘)檢查作文的拼字、文法及內容是否有誤。
+* 以下舉出看圖作文易犯的錯誤。
+  * 誤用「」，應該為" "。
+  * 標點符號不能出現在句首。
+  * because, even if, although, when, while 等所帶出的為附屬子句，不是一完整句不可以句點結尾。
+  * so, and, because, but 通常不放在句首。
+  * 第三人稱單數動詞要加s或es。
+  * 可數名詞要標明單複數。
+  * 不規則動詞的過去式要注意(例如teach -> taught)。
+  * 主詞和代名詞要一致(例如people -> they)。
+  * 若使用泛主詞，全文的用法要一致。
+  * 雖為看圖作文，但文章中的直接對話不宜太多，以免淪為劇本形式而非作文。
+{% endhint %}
 
 ***
 
@@ -115,6 +152,8 @@ description: 作文佳句、佳作、句型
 * With the music playing loudly, he failed to notice a series of furious honks from a taxi driver.
 * This lesson and memory would be deeply engraved in their hearts.
 
+***
+
 ## 作文句型
 
 * 分詞構句 (and, because)\
@@ -150,6 +189,8 @@ description: 作文佳句、佳作、句型
   For a better learning environment, <mark style="color:blue;">**it is important that every student (should) pay**</mark> attention in class.
 * ,which 代替前面的東西\
   He was knocked unconscious<mark style="color:blue;">**, which**</mark> made it possible for me to escape and call for help.
+
+***
 
 ## 作文片語
 
@@ -191,6 +232,8 @@ description: 作文佳句、佳作、句型
 * If only... 但願(假設語氣)\
   Kevin jumped nevertheless, breaking his arms, his legs, an his parents' heart. <mark style="color:blue;">**If only Kevin had realized**</mark> who he really was!
 
+***
+
 ## 英文看圖作文注意事項
 
 * 花時間看清圖片不要離題/ 觀察人物與背景/ 記住文章要寫出「人事時地物」\
@@ -229,6 +272,8 @@ description: 作文佳句、佳作、句型
   h. 主詞和代名詞要一致(people -> they)\
   i. 若使用泛主詞，全文的用法要一致。\
   j. 雖為看圖作文，但文章中的直接對話不宜太多，以免淪為劇本的形式而非作文。
+
+***
 
 ## 作文佳句欣賞
 

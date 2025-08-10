@@ -217,6 +217,8 @@ description: 翻譯單字與範例
 * overpopulation 人口過剩
 * distribution 分配
 
+***
+
 ## 翻譯題目
 
 * 飼養寵物並非一向短暫的人生體驗，而是一個對動物的終生承諾。\
