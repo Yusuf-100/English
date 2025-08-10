@@ -123,13 +123,142 @@ description: 本頁記錄了非常多文法規則及例句，基本上包含高�
 Nobody suggested that the meeting <mark style="color:blue;">**(should) be held**</mark> on the first day of the next month.
 {% endhint %}
 
-### **E. Lest + (should) VR. 以免**
+{% hint style="danger" %}
+雖然上述動詞或形容詞可能會使用「省略should」的句型，但他們通常也有別的用法，需要視句意而定。
 
-### F. It's (about / almost / high / right / proper) time that + S. / to V. **是時候...**
+* John insists that Grace <mark style="color:blue;">**(should) apologize**</mark> to his daughter. 堅持(應該)要道歉\
+  However, Grace insists that she <mark style="color:blue;">**is**</mark> innocent. 堅持自己是無辜的
+* I suggest that Mary <mark style="color:blue;">**(should) go**</mark> on a diet. 建議(應該)要節食\
+  The study suggests that girls <mark style="color:blue;">**are**</mark> more sensitive to sounds than boys. 研究顯示...
+{% endhint %}
+
+### **E. Lest + (should) VR.** 以免
+
+*   那個媽媽墊著腳尖走路，以免把睡覺中的寶寶吵醒。
+
+    The mother walked on tiptoe lest she (should) wake the sleeping baby up.
+*   我們應該盡可能常使用大眾交通工具，以免全球暖化更惡化。
+
+    We should do our best to take public transportation often lest the global warming become worse.
+*   他拿著傘以免淋成落湯雞。
+
+    He brought an umbrella lest he get soaking wet in the rain.
+
+### F. It's (about / almost / high / right / proper) time that + S. / to V. 是時候...
+
+* 現在是時候採取預防措施來防止不良後果了。\
+  It's high time that the precautionary measures <mark style="color:blue;">**were taken**</mark> to prevent the bad consequences.
+* 從現在起，正是存錢的好時機。\
+  It's high time to <mark style="color:blue;">**save**</mark> your money from now on.
 
 ## 動名詞
 
+### A. Be worth + Ving / N.
+
+*   他的善行值得讚揚。
+
+    His good deed is worth praising.
+*   這首詩值得背誦。
+
+    The poem is worth reciting.
+*   你們對這議題進行冗長的討論是不值得的。
+
+    It is not worthwhile for you to discuss too much about the issue.
+
+### B. Have fun / a good time + Ving / have difficulty / trouble / problems / a hard time + Ving
+
+*   他錯過了許多課，進度趕得很辛苦。
+
+    Having missed a lot of lessons, he had a hard time catching up.
+*   我們的外國朋友在台灣各地旅遊並品嘗當地美食，玩得很愉快。
+
+    Our foreign friends had a good time traveling in Taiwan and tasting local delicacies.
+
+### C. 一...就...：On + Ving, S. ... / 當...：In + Ving, S. ...
+
+*   一獲知球隊贏得冠軍，所有的球迷高興地又叫又跳。
+
+    On learning that the team won the championship, all the fans shouted and jumped with joy.
+*   當面對生命中的種種挑戰時，他一直保有對上帝的信仰，從不放棄。
+
+    In facing a variety of challenges in life, he always believes in God and never gives up.
+*   那些問題學生一看到教官就逃跑。
+
+    Those troublesome students ran away on seeing the military instructor.
+*   一聽到火災警報響起，他馬上向消防隊報案
+
+    On hearing the fire alarm go off, he called the fire department immediately.
+
+### D. 無法...的；不可...的：There is no + Ving
+
+*   不可否認的，網際網路已成為我們生活中一項不可或缺的便利工具。
+
+    There is no denying that the Internet has become an indispensable convenience in our life.
+*   由於競爭激烈，最後誰會贏得冠軍還無從得知。
+
+    There is no knowing who'll be the champion in the end due to the keen competition.
+*   喜好是無法解釋的。
+
+    There is no accounting for taste.
+
+### E. Can't help + Ving / can't but + VR / have no choice but to + VR / can't do nothing but + VR
+
+*   這公司因為生意越來越差，不得不解雇一些工人。
+
+    The company can't do nothing but dismiss some of the workers because of the declining business.
+*   被搶匪以槍指著，店員別無選擇，只好把所有錢都交出來。
+
+    Being pointed at a gun by the robber, the clerk had no choice but to give out all the money.
+*   被欺侮的男孩忍不住揮拳回擊保護自己。
+
+    The bullied boy couldn't help but punch back to protect himself.
+
 ## It的用法
+
+### A. It is adj. (for sb.) to V.
+
+*   年輕人需要盡量多讀好書，這是必要的。
+
+    It's necessary for young people to read as many good books as possible.
+*   今天要堅持那個信念是困難的。
+
+    It's difficult to persist in that belief today.
+
+### B. It is adj of sb. to V.
+
+*   他這樣當面羞辱你，真是壞心。
+
+    It's unkind of him to insult you to your face.
+*   他捐了一大筆錢給孤兒院，真是好心。
+
+    It's kind of him to donate a lot of money to the orphanage.
+
+### C. It occurs to / hits / strikes sb. that + S. / it occurs to / hits / strikes sb. to V.
+
+*   當我走在路上的時候突然想到媽媽叫我幫她跑腿辦事。
+
+    When I was walking on the street, it occurred to me that Mother had asked me to run an errand for her.
+*   你有沒有想過要充分利用時間而不是虛度光陰。
+
+    Has it ever occurred to you that you should make good use of time instead of idling it away?
+
+### D. Find / believe / make it adj. (for sb.) to V.
+
+*   她跑得這麼快，以至於我發現要追上她很難。
+
+    She ran so fast that I found it hard to catch up with her.
+*   捷運使得人們更加方便地在這個城市四處行動。
+
+    The MRT makes it much more convenient for people to move around in this city.
+
+### E. It is said / believed / reported / rumored that + S.
+
+*   謠傳他中了樂透的頭彩。
+
+    It is rumored that he hit the jackpot.
+*   大家相信多吃少運動會造成肥胖。
+
+    It is believed that eating more and exercising less will cause obesity.
 
 ## 假設語氣
 
