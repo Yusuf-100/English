@@ -15,10 +15,10 @@ Author: Yusuf 100
 {% hint style="info" %}
 歡迎追蹤我～喜歡這個網站的話歡迎跟大家分享～也邀請大家到我的選修化學教學網站看看～
 
-* [Discord Server](https://discord.gg/nDbebSB7s9) (300+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應。
-* 高中選修化學：[選修化學一](https://hackmd.io/@Yusuf100/chemistry-1)、[選修化學二](https://hackmd.io/@Yusuf100/chemistry-2)。
-* [YouTube](https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp) (主要是遊戲的影片)。
-* [IG](https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D\&utm_source=qr)。
+* [Discord Server](https://discord.gg/nDbebSB7s9) (300+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應
+* 高中選修化學：[選修化學一](https://hackmd.io/@Yusuf100/chemistry-1)、[選修化學二](https://hackmd.io/@Yusuf100/chemistry-2)
+* [YouTube](https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp) (主要是遊戲的影片)
+* [IG](https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D\&utm_source=qr)
 {% endhint %}
 
 ***
@@ -37,7 +37,8 @@ Author: Yusuf 100
 * [Noun](vocabulary/noun.md)
 * [Adjective](vocabulary/adjective.md)
 * [Adverb](vocabulary/adverb.md)
-* [Miscellaneous](vocabulary/miscellaneous.md)
+* [Prep. / Conj. / Aux.](vocabulary/miscellaneous.md)
+* [Miscellaneous](vocabulary/miscellaneous-1.md) (我在各個地方隨機記錄的單字或片語)
 
 重新再看一遍2001\~4500單，並從中挑選我喜歡、常用的單字，真的很累。不過，我可以順便複習之前背過的單字，把忘記的記憶找回來，算是一舉兩得。整理完筆記後，發現我做了很多東西，很有成就感，也有動力繼續做下去。
 

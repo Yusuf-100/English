@@ -1,20 +1,8 @@
 ---
-description: Some phrases.
+description: 本頁記錄了一些常用的片語，可以適時應用在文章中。
 ---
 
-# Some Phrases
-
-***
-
-## Welcome to the Useful Phrases Guide
-
-In the following page, you will encounter a curated list of phrases that could greatly enhance your communication skills in various situations. Whether it's for practical daily use, professional engagement, or even learning a new language, these phrases have been selected for their effectiveness and versatility.
-
-Please note that this is merely a starting point. For a deeper understanding of each phrase, including its origins, variations, or cultural nuances, we encourage you to conduct an online search where you'll find extensive resources for your interest or needs.
-
-Let this guide serve as your stepping stone into the world of impactful communication. Happy exploring!
-
-***
+# Phrases
 
 | <p>遵守<br>abide by / conform to / comply with</p>            | <p>富於<br>abound in / be rich in</p>                                                                                                                                       | <p>解釋、導致、占了<br>account for / make up</p>          |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |

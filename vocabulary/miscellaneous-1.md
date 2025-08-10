@@ -1,10 +1,8 @@
-# Random Stuff
+---
+description: 本頁為我在各個地方隨機記錄的單字或片語(可能重複)。
+---
 
-***
-
-底下單字為隨機的單字或片語。單字或片語可能重複。
-
-***
+# Miscellaneous
 
 * recipe (n.) 食譜
 * layered (adj.) 多層的
@@ -525,4 +523,3 @@
 * department of business administration 企管系
 * college of law 法律院
 * college of medicine 醫學院
-*

@@ -9,9 +9,8 @@
 * [Noun](vocabulary/noun.md)
 * [Adjective](vocabulary/adjective.md)
 * [Adverb](vocabulary/adverb.md)
-* [Miscellaneous](vocabulary/miscellaneous.md)
-* [Random Stuff](vocabulary/random-stuff.md)
-* [Some Phrases](vocabulary/some-phrases.md)
+* [Prep. / Conj. / Aux.](vocabulary/miscellaneous.md)
+* [Miscellaneous](vocabulary/miscellaneous-1.md)
 
 ## GRAMMAR
 
@@ -19,7 +18,8 @@
 * [強調用法](grammar/jiang-diao-yong-fa.md)
 * [動名詞](grammar/dong-ming-ci.md)
 * [It的用法](grammar/it-de-yong-fa.md)
-* [Other Stuff](grammar/other-stuff.md)
+* [Grammar](grammar/grammar.md)
+* [Phrases](grammar/phrases.md)
 
 ## translation
 

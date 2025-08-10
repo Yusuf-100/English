@@ -1,10 +1,8 @@
 ---
-description: 其他文法 (想不到名字)
+description: 本頁記錄了非常多文法規則及例句，基本上包含高中英文會用到的所有文法。
 ---
 
-# Other Stuff
-
-***
+# Grammar
 
 ## 假設語氣
 
