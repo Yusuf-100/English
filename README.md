@@ -48,10 +48,10 @@ Author: Yusuf 100
 
 句型是文章的靈魂，它讓一篇文章更加生動。我參考晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，依`詞類`及`功用`分類句型，例如動名詞或強調句，藉此加強文章語言架構的豐富度。
 
-* [倒裝句](grammar/dao-zhuang-ju.md)
-* [強調用法](grammar/jiang-diao-yong-fa.md)
-* [動名詞](grammar/dong-ming-ci.md)
-* [It的用法](grammar/it-de-yong-fa.md)
+* [倒裝句](broken-reference)
+* [強調用法](broken-reference)
+* [動名詞](broken-reference)
+* [It的用法](broken-reference)
 
 整理句型時，我發現也可以依照文章的起承轉合來整理，這樣就能知道各種句型適用的地方，不會誤用。這個月學到了寫作文常用的句型，未來我會試著練習用用看。
 
