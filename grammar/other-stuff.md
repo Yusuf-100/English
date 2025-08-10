@@ -26,7 +26,7 @@ description: 本頁記錄了非常多文法規則及例句，基本上包含了�
 
 ### C. 絕不：by no means + Aux. + S. + V. / beV. + S.
 
-{% hint style="info" %}
+{% hint style="success" %}
 要表示「絕不」的意思，除了by no means，也能用on no account、under no circumstance、in no way等片語，可以在寫作時靈活運用。&#x20;
 {% endhint %}
 

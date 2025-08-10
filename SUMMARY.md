@@ -5,12 +5,11 @@
 
 ## Vocabulary
 
-* [Verb](vocabulary/verb.md)
-* [Noun](vocabulary/noun.md)
-* [Adjective](vocabulary/adjective.md)
-* [Adverb](vocabulary/adverb.md)
-* [Prep. / Conj. / Aux.](vocabulary/miscellaneous.md)
-* [Miscellaneous](vocabulary/random-stuff.md)
+* [Verbs](vocabulary/verb.md)
+* [Nouns](vocabulary/noun.md)
+* [Adjectives](vocabulary/adjective.md)
+* [Adverbs](vocabulary/adverb.md)
+* [Miscellaneous](vocabulary/miscellaneous.md)
 
 ## GRAMMAR
 

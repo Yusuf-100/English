@@ -33,27 +33,20 @@ Author: Yusuf 100
 
 單字是一篇文章最基本的組成元素，沒有足夠的單字量，就無法精準傳達感情。我將單字&#x4F9D;**`詞性`**&#x5206;五類：動詞、名詞、形容詞、副詞及其他，希望未來能靈活運用，寫出好作品。
 
-* [Verb](vocabulary/verb.md)
-* [Noun](vocabulary/noun.md)
-* [Adjective](vocabulary/adjective.md)
-* [Adverb](vocabulary/adverb.md)
-* [Prep. / Conj. / Aux.](vocabulary/miscellaneous.md)
-* [Miscellaneous](vocabulary/random-stuff.md) (我在各個地方隨機記錄的單字或片語)
-
-重新再看一遍2001\~4500單，並從中挑選我喜歡、常用的單字，真的很累。不過，我可以順便複習之前背過的單字，把忘記的記憶找回來，算是一舉兩得。整理完筆記後，發現我做了很多東西，很有成就感，也有動力繼續做下去。
+* [Verbs](vocabulary/verb.md)
+* [Nouns](vocabulary/noun.md)
+* [Adjectives](vocabulary/adjective.md)
+* [Adverbs](vocabulary/adverb.md)
+* [Miscellaneous](vocabulary/miscellaneous.md) (介係詞、連接詞、助詞，以及我在各個地方隨機記錄的單字或片語)
 
 ***
 
 ## GRAMMAR
 
-句型是文章的靈魂，它讓一篇文章更加生動。我參考晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，依`詞類`及`功用`分類句型，例如動名詞或強調句，藉此加強文章語言架構的豐富度。
+文法與片語是文章的靈魂，它讓一篇文章更加生動。我參考晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，依`詞類`及`功用`將他們分類，藉此加強文章語言架構的豐富度。
 
-* [倒裝句](broken-reference)
-* [強調用法](broken-reference)
-* [動名詞](broken-reference)
-* [It的用法](broken-reference)
-
-整理句型時，我發現也可以依照文章的起承轉合來整理，這樣就能知道各種句型適用的地方，不會誤用。這個月學到了寫作文常用的句型，未來我會試著練習用用看。
+* [Grammar](grammar/other-stuff.md)
+* [Phrases](vocabulary/some-phrases.md)
 
 ***
 
@@ -68,8 +61,6 @@ Author: Yusuf 100
 * [記敘文](composition/wen-zhang-xin-shang.md#a.-a-lesson-in-forgiveness)
 * [議論文](composition/wen-zhang-xin-shang.md#d.-animal-testing-for-and-against)
 * [描寫文](composition/wen-zhang-xin-shang.md#g.-kyoto-the-heart-of-japan)
-
-文章閱讀看似輕鬆、不重要，事實上這是很重要的一步，因為透過學習他人的優點，我們可以更快學到精髓。在記敘文中，我學到很多動詞與副詞的使用方式；在議論文中，我學到如何寫出一篇強而有力、有自信的文章；在描寫文中，我發現意象的使用非常重要，因為它們可以表達出難以用文字說明的情感。
 
 ***
 
