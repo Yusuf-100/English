@@ -4,6 +4,133 @@ description: 本頁記錄了非常多文法規則及例句，基本上包含高�
 
 # Grammar
 
+## 倒裝句
+
+### A. 地方副詞(片語) + V. / beV. + S. / 代名詞 + V. / beV.
+
+* 這群鳥飛走了。\
+  Away flew the flock of birds.
+* 然後科技的時代來臨了。\
+  Then came the era of technology.
+* Lisa跳進水裡。\
+  Into the water jumped Lisa.
+
+### B. 否定副詞 + Aux. + S. + V. / be + S.
+
+* 他從沒想過出國留學。\
+  Never had he thought of going abroad for further studies.
+* 我母親很少說別人的壞話。\
+  Seldom does my mother speak ill of others.
+* 我幾乎不可能當面見到我最喜歡的明星。\
+  Hardly am I likely to meet my favorite star in person.
+
+### C. 絕不：by no means + Aux. + S. + V. / beV. + S.
+
+{% hint style="info" %}
+要表示「絕不」的意思，除了by no means，也能用on no account、under no circumstance、in no way等片語，可以在寫作時靈活運用。&#x20;
+{% endhint %}
+
+* 沒有我的允許，你絕對不能閱讀我的信件。\
+  By no means can you read my letter without my permission.
+* 你絕對不能在考試時作弊。\
+  On no account can you cheat on tests.
+* 因為他已經騙我超過三次，我再也不信任他了。\
+  By no means can I trust him since he has cheated me for more than three times.
+
+### **D. So adj. / such n. + beV. + S. that + S. + V.**
+
+* Jack的提案如此之好，以至於被他的老闆所信用。\
+  So great was Jack's proposal that it was adopted by his boss.
+* 我父親如此憤怒，將所有東西橫掃到桌下。\
+  So angry was my father that he swept all the things under the table.
+* Michael是如此優秀的球員，以致於他已經為他的球隊贏得許多比賽。\
+  Such an excellent player is Michael that he has won a lot of games for his team.
+
+### E. **Only + adv.子句 / 片語 + beV. / Aux. + S.**
+
+*   只有在他失去健康後，他才知道健康的重要性。
+
+    Only when he lost his health did he realize the importance of health.
+*   只有努力工作，你才能成功實現你的目標。
+
+    Only if you work hard will you attain your aims successfully.
+
+    他只有當他的孩子們睡著時，才能休息一下。
+
+    Only when his children fell asleep could he take a rest for a while.
+
+## 強調用法
+
+### A. It is ... that
+
+* 正是這種敢於叛逆與表達自己想法的勇氣，使他的作品有獨特的創造力。\
+  It is exactly his courage to rebel and to express his own ideas that makes his films with distinct creativity.
+*   直到兩小時後電力才恢復。
+
+    It wasn't until two hours later that the electricity was restored.
+*   就是他的鼓勵，讓我度過了困難。
+
+    It was his encouragement that helped me go through the hardships.
+
+### B. Such + N. + that / so + adj. / adv. + that
+
+*   她是這麼善解人意的女人，以至於她的朋友們常對她傾吐心事。
+
+    Such a considerate woman is she that her friends usually confide in her.
+*   他花在課業上的時間是如此的少，以至於比同學落後許多。
+
+    So little was the time he spent on his studies that he fell behind his classmates a lot.
+* Candy太可愛了，以至於班上很多人都很喜歡她。\
+  So adorable is Candy that many people in the class love her very much.
+
+### C. Cannot V. too much / adv. / cannot over V. / cannot be too adj.
+
+*   人們覺得這個孩子的英勇行為非常值得稱讚。
+
+    People cannot praise the boy for his heroic act too much.
+*   守時的重要性再怎麼強調也不為過。
+
+    The importance of punctuality cannot be over emphasized.
+*   開車的時候再怎麼小心也不為過。
+
+    You cannot be too careful when driving.
+
+### D. **It's important / crucial / essential that S. (should) VR.**
+
+*   老人要定期做健康檢查，這是很重要的。
+
+    It is crucial that an old person have regular physical examinations.
+*   所有的期末報告都得在星期一早上之前交出去，這是必要的。任何做不到這一點的人都會被當掉。
+
+    It is necessary that all term papers be submitted by Monday morning. Anyone who cannot do this will be flunked.
+*   為了安全的緣故，這些規則需要嚴格遵守，這是必要的。
+
+    It is vital that these rules be observed seriously for the sake of your safety.
+
+{% hint style="success" %}
+通常當句意有「應該」的意思時，以下動詞或形容詞就可能使用「省略should」的用法。
+
+* 建議：advise / advice / suggest / suggestion / propose / proposition / proposal / recommend / recommendation
+* 堅持：insist
+* 命令：order / command
+* 要求：ask / demand / require / requirement / request
+* 規定：rule / regulation / stipulate / stipulation
+* 必須的：necessary / essential / imperative / urgent / vital
+* 明智的：advisable
+* 重要的：important
+* 適當的：proper
+
+Nobody suggested that the meeting <mark style="color:blue;">**(should) be held**</mark> on the first day of the next month.
+{% endhint %}
+
+### **E. Lest + (should) VR. 以免**
+
+### F. It's (about / almost / high / right / proper) time that + S. / to V. **是時候...**
+
+## 動名詞
+
+## It的用法
+
 ## 假設語氣
 
 General Rules:
