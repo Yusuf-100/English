@@ -1,13 +1,13 @@
+---
+hidden: true
+---
+
 # Additional Page
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
 | AE.  | BC.  | BD.  | BE.  |
-
-a
-
-H\<sub>2\</sub>O
 
 1. You need to apply for a \_\_\_\_\_\_\_\_ if you want to stay in a foreign country for a long time.\
    (A) visa (B) vine (C) vow (D) wharf

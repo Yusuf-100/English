@@ -1,10 +1,8 @@
 ---
-description: 克漏字相關題目
+description: 克漏字相關題目。
 ---
 
 # Cloze
-
-***
 
 ## 答案
 

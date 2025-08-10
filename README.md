@@ -52,15 +52,13 @@ Author: Yusuf 100
 
 ## 文章閱讀
 
-透過閱讀文章，可以擴大詞彙量並鍛鍊語&#x611F;**`。`**&#x5C31;像是寫書法臨摹名家作品，看越多文章，就能有更多想法。在這裡，我&#x4EE5;**`文體`**&#x5340;分文章，分為記敘文、議論文、描寫文。我用自己的方式為這些文章標註重點，記錄我喜歡的單字和佳句，以便在未來寫作時引用，讓我對事物有更佳的詮釋能力。
+透過閱讀文章，可以擴大詞彙量並鍛鍊語&#x611F;**`。`**&#x5C31;像是寫書法臨摹名家作品，看越多文章，就能有更多想法。在閱讀時，可以記錄喜歡的單字和佳句，在未來寫作時使用，增加對事物的詮釋能力。從國三到高三，老師提供了很多英文作文讓我們參考，並從中提取多個單字、片語、佳句，讓學生慢慢學習寫作文。雖然老師將作文分成多個段落，按段落編號，但我將作文重新整合起來，以`作文`來編號，每50篇編成一頁以方便閱讀。另外，我也將其它的作文、佳句、句型放在別的頁面。
 
-{% hint style="info" %}
-原本高一時我將這個部分獨立成一個大章節，但現在我將它們放在「作文」章節的「[文章欣賞](composition/wen-zhang-xin-shang.md)」。
-{% endhint %}
-
-* [記敘文](composition/wen-zhang-xin-shang.md#a.-a-lesson-in-forgiveness)
-* [議論文](composition/wen-zhang-xin-shang.md#d.-animal-testing-for-and-against)
-* [描寫文](composition/wen-zhang-xin-shang.md#g.-kyoto-the-heart-of-japan)
+* [作文百句 1\~50](composition/zuo-wen-bai-ju-150.md)
+* [作文百句 51\~100](composition/zuo-wen-bai-ju-51100.md)
+* [作文百句 101\~148](composition/zuo-wen-bai-ju-101148.md)
+* [作文佳句、句型](composition/zuo-wen-jia-ju-ju-xing.md)
+* [文章欣賞](composition/wen-zhang-xin-shang.md)
 
 ***
 
@@ -72,24 +70,12 @@ Author: Yusuf 100
 
 ***
 
-## 作文欣賞
-
-從國三到高三，老師提供了很多英文作文讓我們參考，並從中提取多個單字、片語、佳句，讓學生慢慢學習寫作文。雖然老師將作文分成多個段落，按段落編號，但我將作文重新整合起來，以`作文`來編號，每50篇編成一頁以方便閱讀。另外，我也將其它的作文、佳句、句型放在別的頁面。
-
-* [作文百句 1\~50](composition/zuo-wen-bai-ju-150.md)
-* [作文百句 51\~100](composition/zuo-wen-bai-ju-51100.md)
-* [作文百句 101\~148](composition/zuo-wen-bai-ju-101148.md)
-* [作文佳句、句型](composition/zuo-wen-jia-ju-ju-xing.md)
-* [文章欣賞](composition/wen-zhang-xin-shang.md)
-
-***
-
 ## 題庫
 
 一堆不同大題的練習題目。
 
 * [Vocabulary](question-pool/vocabulary.md)
 * [Cloze](question-pool/cloze.md)
-* [Fill In The Blanks](question-pool/fill-in-the-blanks.md)
+* [Fill in the Blanks](question-pool/fill-in-the-blanks.md)
 * [Discourse Structure](question-pool/discourse-structure.md)
 * [Reading Comprehension](question-pool/reading-comprehension.md)

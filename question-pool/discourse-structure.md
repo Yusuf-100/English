@@ -1,10 +1,8 @@
 ---
-description: 篇章結構相關題目
+description: 篇章結構相關題目。
 ---
 
 # Discourse Structure
-
-***
 
 ## 答案
 

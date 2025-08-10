@@ -1,5 +1,5 @@
 ---
-description: 翻譯單字與範例
+description: 翻譯單字與範例。
 ---
 
 # Vocab & Examples

@@ -32,7 +32,7 @@
 
 * [Vocabulary](question-pool/vocabulary.md)
 * [Cloze](question-pool/cloze.md)
-* [Fill In The Blanks](question-pool/fill-in-the-blanks.md)
+* [Fill in the Blanks](question-pool/fill-in-the-blanks.md)
 * [Discourse Structure](question-pool/discourse-structure.md)
 * [Reading Comprehension](question-pool/reading-comprehension.md)
 

@@ -4,8 +4,6 @@ description: 單字相關題目。
 
 # Vocabulary
 
-***
-
 ## 答案
 
 <details>

@@ -1,10 +1,8 @@
 ---
-description: 文意選填相關題目
+description: 文意選填相關題目。
 ---
 
-# Fill In The Blanks
-
-***
+# Fill in the Blanks
 
 ## 答案
 

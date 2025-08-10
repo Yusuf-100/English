@@ -1,21 +1,13 @@
 ---
-description: 文章欣賞
+description: 想要寫出好的作文，就要多閱讀別人寫的文章，並從中選取適當的用字遣詞與描述手法運用到自己的文章，藉此來增添文章的豐富度。
 ---
 
 # 文章欣賞
 
-***
-
-想要寫出好的作文，就要多閱讀別人寫的文章，並從中選取適當的用字遣詞與描述手法運用到自己的文章，藉此來增添文章的豐富度。
-
-***
-
 ## ● 記敘文、論說文、描寫文範例
 
 {% hint style="success" %}
-A、B、C為高一期間老師提供的三&#x7BC7;**`記敘文`**
-
-表達內心的感受有很多種方式，可以透過動詞增&#x52A0;**`深度`**、透過形容詞增&#x52A0;**`強度`**、再透過副詞增加整&#x9AD4;**`氣勢`**，讓文章句句寫入心坎，句句動人。
+A、B、C為高一期間老師提供的三篇記敘文。
 {% endhint %}
 
 ### A. A Lesson in Forgiveness
@@ -34,8 +26,6 @@ A、B、C為高一期間老師提供的三&#x7BC7;**`記敘文`**
 
 &#x20;       I walked away and enjoyed the cookies. They tasted great. After I had eaten several, I **discovered** an envelope inside the bag and pulled it out. When I opened it up, I was very surprised. In the envelope, there were the seven dollars and a short note that said, “I’m proud of you!”
 
-***
-
 ### B. Mother’s Hands
 
 &#x20;       Night after night, Mom came to **tuck me in**, even long after my childhood years. As part of her nightly routine, she would **lean down**, push my long hair out of the way, and then kiss me on the forehead.
@@ -51,8 +41,6 @@ A、B、C為高一期間老師提供的三&#x7BC7;**`記敘文`**
 &#x20;       For the thousandth time, I recalled the night when my young voice had **ungratefully** complained. I understood that if I had apologized to Mom **on the spot**, I might not have been so **regretful** later. Right then, upon sensing that she was about to leave, I **involuntarily** **seized** her hand in mine. I told her how sorry I was for that night. To my surprise, Mom didn’t get angry at me; in fact, she didn’t even remember the incident. **She had forgiven — and forgotten — long before**.
 
 &#x20;       That night, I fell asleep with a new appreciation of my gentle mother and her caring hands. The guilt I had carried around for so long was **nowhere to be found**.
-
-***
 
 ### C. Butterflies and Elephants
 
@@ -78,12 +66,8 @@ A、B、C為高一期間老師提供的三&#x7BC7;**`記敘文`**
 
 &#x20;       Then, **a realization swept over me**. At that instant, I knew I could do anything! Taking a bow, I felt a **glow** that I would never forget. I **came to comprehend** that within me existed a young woman once tested — a young woman bolder than her fear.
 
-***
-
 {% hint style="success" %}
-D、E、F為高一期間老師提供的三&#x7BC7;**`議論文`**
-
-議論文立論要夠明顯，就要適當使&#x7528;**`語意強烈`**&#x4E14;**`鮮明`**&#x7684;句子來陳述論點。
+D、E、F為高一期間老師提供的三篇議論文。
 {% endhint %}
 
 ### D. Animal Testing: For and Against
@@ -99,8 +83,6 @@ D、E、F為高一期間老師提供的三&#x7BC7;**`議論文`**
 &#x20;       Another problem with animal testing is reliability. While some animals are similar to humans, they are still different and may be poor test subjects. Many drugs that pass animal tests **end up being unsafe** for humans or simply do not work. This wastes the lives of the animals, along with significant amounts of money too. Furthermore, medications that could be safe and effective for humans may never be discovered if they are found to be unsafe for animals.
 
 &#x20;       **In conclusion**, animal testing **should be strictly regulated**. **Researchers are required** to treat animal test subjects as humanely as possible and **carefully consider** the necessity of animal testing. **After all**, some important medical breakthroughs could have been made without the use of animals **in the first place**. **Hopefully**, alternative methods can be found as soon as possible so that relatively new animals will be needed for research purposes in the future.
-
-***
 
 ### E. To Vaccinate or Not to Vaccinate?
 
@@ -120,8 +102,6 @@ D、E、F為高一期間老師提供的三&#x7BC7;**`議論文`**
 
 &#x20;       To vaccinate or not to vaccinate remains a contentious question. **However, while the points put forth by anti-vaxxers are compelling, a more accurate picture of vaccination can be found by simply looking at facts and numbers.**
 
-***
-
 ### F. Fast Fashion, But at What Cost?
 
 &#x20;       Over the last decade, the fashion industry has been transformed by consumer demand for designer looks at affordable prices. Retailers offering clothing made cheaply and quickly now dominate the fashion market. Instead of the six months it used to take for distinctive new styles to make their way from catwalk to clothing store, stunning new collections are now emerging every few weeks! This trend is known as “fast fashion.”
@@ -132,12 +112,8 @@ D、E、F為高一期間老師提供的三&#x7BC7;**`議論文`**
 
 &#x20;       **Since some very complex social and environmental problems may have their roots in fast fashion, everyone should contribute to reversing the situation**. **It is high time that** brands took prompt action so as to ensure that clothes are produced more sustainably, and that laborers receive fair wages and enjoy better working conditions. Consumers conscious of these problems can do their part by shopping more responsibly, and by recycling old clothing. Remember, our preferences and shopping choices can make a meaningful and permanent difference. Seemingly very small efforts can do a lot to protect our planet for future generations.
 
-***
-
 {% hint style="success" %}
-G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人物描寫`**&#x7684;佳句
-
-描寫人事物需要精準使用各種動詞、形容詞以及副詞，讓被描寫的人事物有鮮明的形象，且使讀者對其留下深刻的印象。
+G、H為高一期間老師提供的兩篇描寫文，I為人物描寫的佳句。
 {% endhint %}
 
 ### G. Kyoto: The Heart of Japan
@@ -150,9 +126,27 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       In Kyoto, **culture and natural beauty flow together** like the moving and graceful motions of kyomai. Regardless of the season, the city is a must-see destination for tourists seeking an **authentic** local experience. Those who visit are likely to end up falling in love with the heart of Japan.
 
-***
+### H. The Chain of Love
 
-### H. 人物描寫
+&#x20;       He was driving his **battered** old car home on a country road one evening. Since the **closure** of the Levi’s factory, he’d been unemployed. With winter raging on, the **chill** had finally **hit home**.
+
+&#x20;       It was starting to get dark. Although snow **flurries** drifted in the **dim** light of day, he could still notice an elderly lady **stranded** by the roadside. Apparently, she needed some help. So, he **pulled up** in front of her Mercedes-Benz and got out. When he approached her, she was worried. “No one stopped to help for the last hour **or so**,” she thought to herself. “Is he going to rob me?” Realizing that she was frightened, he said quickly, “I’m here to help, **ma’am**. Why don’t you wait in the car? It’s **freezing** outside. By the way, my name is Joe.”
+
+&#x20;       All she had was **a flat tire**, but for an old lady, that was bad enough. While Joe was changing the tire, the lady **rolled down** her window and began to talk to him. She thanked him for coming to her **aid**. Joe just smiled as he put the flat tire into the **trunk**.
+
+&#x20;       She asked him how much she **owed** him. Joe, however, never **thought twice about** helping others. He certainly never thought about any kind of payment or **reward**. To him, this wasn’t a job, but rather a way to help someone in need, just like those who had given him a hand in the past. He told the elderly lady that if she really wanted to **repay** him, she could help someone else that was in need.
+
+&#x20;       He waited until she started her car and **drove off**. It had been a cold and depressing day, but he felt **content** as he headed for home.
+
+&#x20;       A few miles down the road, the lady saw a small, **shabby** café. She went in to grab a bite and take the chill off before making the last leg of her trip home.
+
+&#x20;       A waitress came over and brought the elderly lady a clean **towel** for her wet hair. The waitress had a sweet smile, one that even **being on her feet** for an entire day couldn’t **erase**. The lady noticed that the waitress was heavily pregnant. She wondered how a person like this waitress could be so **thoughtful** to a perfect stranger. Then she remembered Joe.
+
+&#x20;       Finally, the lady finished her meal. When the waitress went to get the lady’s change for the hundred-dollar bill, the lady **slid** out the door. When the waitress came back, the lady was no longer in sight. To the surprise of the waitress, the lady had paid almost fifty times as much as the price of the meal. Then, the waitress saw something written on a napkin. **Tears blurred her vision** as she read what the lady had written. It said, “Someone once helped me out in the way I’m helping you. If you want to **pay me back**, don’t let the chain of love end with you.”
+
+&#x20;       That night, as the waitress lay in bed, she thought about the money and what the lady had written. “How would she know that we need money, especially with our baby **due** next month?” she wondered. Her husband, who **was worried sick** about their future, was lying beside her. She gave him a soft kiss and **whispered**, “Everything will be all right. I love you, Joe.”
+
+### I. 人物描寫
 
 #### 聲音/說話
 
@@ -196,29 +190,9 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 ***
 
-### I. The Chain of Love
+## ● 文章欣賞
 
-&#x20;       He was driving his **battered** old car home on a country road one evening. Since the **closure** of the Levi’s factory, he’d been unemployed. With winter raging on, the **chill** had finally **hit home**.
-
-&#x20;       It was starting to get dark. Although snow **flurries** drifted in the **dim** light of day, he could still notice an elderly lady **stranded** by the roadside. Apparently, she needed some help. So, he **pulled up** in front of her Mercedes-Benz and got out. When he approached her, she was worried. “No one stopped to help for the last hour **or so**,” she thought to herself. “Is he going to rob me?” Realizing that she was frightened, he said quickly, “I’m here to help, **ma’am**. Why don’t you wait in the car? It’s **freezing** outside. By the way, my name is Joe.”
-
-&#x20;       All she had was **a flat tire**, but for an old lady, that was bad enough. While Joe was changing the tire, the lady **rolled down** her window and began to talk to him. She thanked him for coming to her **aid**. Joe just smiled as he put the flat tire into the **trunk**.
-
-&#x20;       She asked him how much she **owed** him. Joe, however, never **thought twice about** helping others. He certainly never thought about any kind of payment or **reward**. To him, this wasn’t a job, but rather a way to help someone in need, just like those who had given him a hand in the past. He told the elderly lady that if she really wanted to **repay** him, she could help someone else that was in need.
-
-&#x20;       He waited until she started her car and **drove off**. It had been a cold and depressing day, but he felt **content** as he headed for home.
-
-&#x20;       A few miles down the road, the lady saw a small, **shabby** café. She went in to grab a bite and take the chill off before making the last leg of her trip home.
-
-&#x20;       A waitress came over and brought the elderly lady a clean **towel** for her wet hair. The waitress had a sweet smile, one that even **being on her feet** for an entire day couldn’t **erase**. The lady noticed that the waitress was heavily pregnant. She wondered how a person like this waitress could be so **thoughtful** to a perfect stranger. Then she remembered Joe.
-
-&#x20;       Finally, the lady finished her meal. When the waitress went to get the lady’s change for the hundred-dollar bill, the lady **slid** out the door. When the waitress came back, the lady was no longer in sight. To the surprise of the waitress, the lady had paid almost fifty times as much as the price of the meal. Then, the waitress saw something written on a napkin. **Tears blurred her vision** as she read what the lady had written. It said, “Someone once helped me out in the way I’m helping you. If you want to **pay me back**, don’t let the chain of love end with you.”
-
-&#x20;       That night, as the waitress lay in bed, she thought about the money and what the lady had written. “How would she know that we need money, especially with our baby **due** next month?” she wondered. Her husband, who **was worried sick** about their future, was lying beside her. She gave him a soft kiss and **whispered**, “Everything will be all right. I love you, Joe.”
-
-***
-
-## 1.
+### 1.
 
 {% hint style="info" %}
 此為看圖作文。題目提供一張顧客與他們的寵物在寵物友善餐廳用餐的圖片。\
@@ -229,7 +203,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       Were I the manager of the restaurant, however, rather than having a radiant smile plastered on my face, I would find my brows knitted, face lined, full of woe. In fact, this situation might be a complete nightmare haunting me every day. To begin with, I dare not imagine the gravity of the situation where my customer suffering allergies has his irritation, swelling, or even wheezing triggered simply because of a few hairs of a dog's or a cat's. While a meal can be enjoyed at a high price, no meal is to be enjoyed at the cost of one's life. In addition, it is quite a hard task to keep pets sitting still, let alone behaving themselves. Some barking or knocking over the tables or chairs are, therefore, to be expected, which, in turn, certainly, turns some customers away. After all, most people would prefer romantic music to barking, waiters and waitress serving around to dogs and cats roaming about. Worse yet, besides leaving the invisible germs and bacteria, pets leave visible excrement as well. Such a daily grind it will be to scrub those stained floor and furniture if pets are allowed to dine with their owners. With those mentioned above taken into consideration, I, as a manager of a general restaurant, prefer leaving the privilege of dining with pets to the pet-friendly restaurants only.
 
-## 2. The Heat Is On
+### 2. The Heat Is On
 
 &#x20;       It has been estimated by some scientists that up to a third of all species of life on Earth could be extinct by 2050. <mark style="color:blue;">**For this potential catastrophe, they put the blame squarely on global warming**</mark>. Higher temperatures are already <mark style="color:blue;">**having a marked effect on**</mark> the natural world. In many areas, plants are flowering earlier in the spring than usual, and animal breeding patterns have been <mark style="color:blue;">**disrupted**</mark>.
 
@@ -247,7 +221,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       In the meantime, there is much that ordinary people can do to fight global warming. <mark style="color:blue;">**They can try to reduce their so-called carbon footprint by consuming less energy**</mark>. <mark style="color:blue;">**Even a high school student like you can cut down on your electricity use**</mark>. <mark style="color:blue;">**You can always turn lights and appliances off when you don't need them, for example**</mark>. <mark style="color:blue;">**And cycling or walking to school can lead to a small reduction in gasoline consumption**</mark>. <mark style="color:blue;">**Every little bit helps**</mark>.
 
-## 3. Helpless Love
+### 3. Helpless Love
 
 &#x20;       Love and her friends were taking vacation on a tropical island. It was a <mark style="color:blue;">**gorgeous**</mark> place, <mark style="color:blue;">**with a warm sun shining down on sandy beaches lined with beautiful palm trees that swayed in a gentle, soothing breeze**</mark>. They were having a great time, and wished their wonderful vacation would last forever. Unfortunately, reports came in of the approach of a powerful tropical storm. <mark style="color:blue;">**The poorly protected island needed to be evacuated immediately**</mark>, so the fun had to stop.
 
@@ -267,7 +241,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       When the boat was finally out to sea and at a safe distance from the island, Love looked around to see who had saved her. She saw Knowledge relaxing in a chair. "Thank you for helping me," she said to him. "It isn't me that you should be grateful to," Knowledge replied. "It was Time that saved you, in her ancient wisdom. Unlike the others, she knows your true value to the world."
 
-## 4.
+### 4.
 
 {% hint style="info" %}
 此為看圖作文。大意為男主角在讀書休息之餘注意到母親的生日快到了，所以他上網尋找合適的禮物，最後他買了一些禮物要等母親回家時送給她，請考生接續故事寫出故事的結尾。
@@ -277,7 +251,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       Then came his mother's birthday. With the slightest effort, he wrapped up the cake and wrote a card full of words of love. When his mom returned, the overly enthusiastic John stood at the door, eagerly presenting her the fit. The smile on his mom's face froze the moment she saw the cake, a chocolate cake, the last cake she would buy but John's favorite. Sensing that something went wrong, John immediately brought her the bouquet of flowers he had prepared in an attempt to save the day, which turned out only to make his mom much more saddened. "I am allergic to pollen, but thanks anyway." said Mom with a sigh. Well, that explained why there was no cake or flowers on her birthday before. "I should have known better and bought the scarf," whispered John in his mind. And while Mom was coughing profusely because of the pollen, his father returned and confronted him with a receipt. Well, not only was John denied his future financial support but his laptop was confiscated. Had he paid more attention to his family, things would have been different.
 
-## 5. 模擬考英文作文佳作
+### 5. 模擬考英文作文佳作
 
 {% hint style="info" %}
 底下每一項為作文兩段的其中一段，並非整篇文章，也並非來自同個作者。
@@ -327,7 +301,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 * The bar graph presented illustrates the number of hours high school students spend at school in four different countries in 2021. Brazilian students spend the least amount of time at school, which is merely 5 hours. Japanese students, on the other hand, contribute 6 hours of their day to learning at school. Marginally more than Japan is America, where students spend 6.5 hours learning. Coming in at first place with a landslide victory is Taiwan, with students toiling 9.5 hours a day. As obviously illustrated by the graph, Taiwanese students dwarf its counterparts in terms of school hours, studying for another additional three or three and half hours per day. The fact alone, however, begs the question: do longer instruction time correlate with higher achievement? To be more specific, do longer school hours promise Taiwanese students a more competitive future? Sad to admit, compared with Taiwan where graduates are offered low salaries, Brazil is a rising power and while Japan and the USA are brimmed with universities much more prominent than those in Taiwan, universities in Taiwan are witnessing a plummet in their international ranking. That being the truth, it is the high time we made a change to the long school hours.
 * I, for the following reasons, strongly agree that school hours should be reasonably trimmed to facilitate students' learning. First and foremost, we should all be aware of the fact that school hours don't translate perfectly to learning hours. In fact, an eager learner absorbs more knowledge within productive five hours than a reluctant learner struggling to keep awake throughout his nine-hour agony. Besides, shorter school hours lend space for more club activities, better social interactions, a healthier body and many more. With more time at their disposal, students are allowed to engage in extracurricular activities to broaden their horizons with people sharing the same interest. With more time available, students are able to exercise for a sound mind and body, and are left with the luxury to learn time management, optimizing their schedules or plans for their objectives and ambitions. With all the advantages mentioned above, I agree that the unnecessarily stretched out school hours should be pruned, paving the way for a more dynamic and active learning environment where students are granted with more stuff rather than time.
 
-## 6.
+### 6.
 
 {% hint style="info" %}
 題目提供一張圖，上面有很多騎著機車的人停在紅綠燈前看手機。\
@@ -356,7 +330,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       I really hate those who are phubbing on the street. They are calling, they are texting, they are sending photos, they are communicating through social media apps, and they are doing all these on the street where people and cars come and go. They walk slowly like zombies; others have to evade them lest they should collide with them. So addicted to their phones they are that they are not aware of the surroundings, putting not only their own lives but also others' at risk. Of course, fines and laws may help regulate those smartphone zombies to a certain degree. Yet, I would be much happier if I can witness a smartphone zombie accidentally falling into a pit or something. He deserves it.
 
-## 7.
+### 7.
 
 {% hint style="info" %}
 此為看圖作文。題目提供一張圖，上面有兩家幼兒園的資料。\
@@ -367,7 +341,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       Though parents may be rest assured that their children studying in Bright Beginnings Preschool come back safe and sound from school, I wonder if such overprotected environment actually benefits the children's development. At the age of four to six when one's curiosity thrives, preschoolers should be exploring the unchartered areas and exposing themselves to all novel ideas, seizing every opportunity that will spark their interests instead of passively taking in whatever the teacher says. Children learn best when they are active participants in a learning experience. While they are too young to reason, they are curious enough to see, to feel, to manipulate, to touch, to hear, and sometimes, to taste things to figure out who the world works. That is, despite the grazes and bruises resulting from all the falling and tripping, students in Happy Trails Preschool will learn the dos and don'ts by heart while their counterparts in Bright Beginning Preschool stare at their teachers absent-minded. In short, considering children at the age of four to six, I regard the Happy Trails Preschool the optimal option for children to enroll in.
 
-## 8.
+### 8.
 
 {% hint style="info" %}
 第一段請寫你喜歡學校的哪個部分。第二段請寫你覺得學校還有什麼可以改進的地方。
@@ -377,7 +351,7 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       Nevertheless, in stark contrast to the beauty and serenity manifested by the garden, what happened in and around the elevators can boil down to one word: chaos. Since my school is a high-rise complex, students need to take the elevators to get up and down the floors. It's thus not uncommon to see students, pressed by time, run racing toward the elevators upon the ring of the bell practically during every recess. However, there are always obnoxious people trying to cut in line, or even elbow their way to get in, and the situation deteriorated with more and more students following suit. I have an aversion to this kind of inappropriate behavior, and I believe it's far from being effective by merely reprimanding the rebuking these students. From my perspective, I think the school officials should take the misbehaving more seriously and come up with corresponding punishment and plans to keep such irksome deeds at bay. In addition, teachers should also inform students not to commit such behavior, or warn them about the possible outcomes. Of course, this is quite a task for the school officials to deal with, but I do firmly believe that if there's something left to be desired, it will be the social etiquette on taking the elevator.
 
-## 9.
+### 9.
 
 {% hint style="info" %}
 此為看圖作文。題目提供兩張圖(A、B)，A是夜市，B是food park。\
@@ -394,14 +368,14 @@ G、I為高一期間老師提供的兩&#x7BC7;**`描寫文`**，H&#x70BA;**`人�
 
 &#x20;       My ideal dining experience would be one taking place in a night market. Pacing at ease with my girlfriends aside, we hold hands as we enjoy the vibrant atmosphere and weave through the crowds. From time to time, we are attracted to new stalls lined with people where the cook may grill enormous squids the size of our faces or roast tender chicken thighs on sticks over flaming charcoal with seasoning sauce brushed over and a luring aroma drifting. He would wipe his sweat with a towel hung around his neck and hand us his signature dish, with eager eyes, agile hands, and a voice slightly too loud. Night market vendors indeed offer dining experiences with liveliness and passion paralleled by none. And the intimacy of having food with one's beloved while walking hand in hand in a casual carnival-like atmosphere of night markets renders the air of romance to the dining experience as well. Who cares if it isn't the cleanest? Or if it's too hot or crowded? Night markets are packed with uncharted surprises around every corner for people to have a wonderful dining experience.
 
-## 10.
+### 10.
 
 {% hint style="info" %}
 請你寫一封信給你的好朋友Ken，署名Jack。\
 第一段祝賀Ken的隊伍在籃球比賽獲得冠軍。第二段寫比賽中令你印象最深刻的事情。
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 信件中的結尾語會隨著不同的寫信對象改變\
 1\. 較親密的對象：Yours always (永遠是你的摯愛)、Yours ever (永遠愛你的)\
 2\. 一般的朋友：Your friend\
@@ -419,7 +393,7 @@ However, apart from your leadership, what impresses me most is your stunning bas
 Sincerely yours,\
 Jack
 
-## 11.
+### 11.
 
 {% hint style="info" %}
 此為看圖作文。題目提供兩張圖，左圖的人在健身房使用跑步機，右圖的人在山上健行。\
@@ -436,7 +410,7 @@ Jack
 
 &#x20;       Personally, I prefer indoor workouts. You see, gyms exist, and they sell memberships for a reason, right? They must have something going for them to justify the expenses. As far as I am concerned, exercising indoors frees me from the concern for weather. Rain or shine, I can still keep running on the treadmill to burn the extra calories of mine. In addition, indoor workout is much safer. Just imagine the scenario of my spraining the ankle while exercising. If I happen to sprain my ankle while hiking in the mountains, I would have to scramble all the way down the mountain to rush to the hospital for a treatment. But if I have my ankle sprained in a gym, I could simply get off the treadmill, take a seat on the bench, and wait for the medical care. Next, in terms of entertainment, though hikers never fail to find excitement in natural wonders, I find myself well engaged and entertained as well as long as my treadmill has a TV attached to or I have podcasts to listen to. In conclusion, for the reasons above, indoor workout is simply the preferable method for me, providing convenient and enjoyable exercise for the other health-conscious people alike.
 
-## 12.
+### 12.
 
 {% hint style="info" %}
 此為看圖作文。題目提供一張學生參加大學博覽會的圖。\
@@ -453,7 +427,7 @@ Jack
 
 &#x20;       The college expo, by offering students a face-to-face talk with their official representatives and alumni, is the most efficient method for them to gain access to college information. In fact, with quite a number of colleges at the expo presenting information ranging from course curriculum, faculty, approach to the field, and the introduction of the campus, it's relatively easy to make a comparison and a contrast to see which college is a good fit. To see is to believe; instead of sticking to online research, high school students should take their time attending the college expo, thinking about which university suits them best so that their hearts won't be filled with regret for the years to come. Furthermore, since admissions staff attending the college expo are also on the lookout for great candidates, it's a good opportunity for students to leave their dream schools good impressions by asking their representatives smart questions. It is highly likely that they will remember your name when going through piles of applications later. All in all, with so many pros and virtually no cons, the college expo is an event every high school student should take part in.
 
-## 13.
+### 13.
 
 {% hint style="info" %}
 此為看圖作文。題目提供兩個不同露營場地的各項特色(費用、住宿環境、飲食、盥洗設備等)。\
@@ -464,7 +438,7 @@ Jack
 
 &#x20;       Were I to go on a vacation, Campsite A would be my choice. In fact,fed up with the stress resulting from the quick pace of city life, God knows how much I would like to retreat to a place where wifi cannot reach. With no more beeping sounds indicating oncoming messages, and no more e-mails waiting to be dealt with, I can finally free myself from all the annoyances and reclaim the long lost inner peace in Mother Nature's embrace. At Campsite A, a campsite lying in a natural park, I am to watch the dazzling sunshine paint the whole world golden, listen to the birds chirp merrily on the branches, and feel the wind gently ruffle my hair. The natural beauty of camping will make for an immersive experience that connects me with nature while providing me with the much-needed relaxation from modern life. In short, I am strongly convinced that after my short stay at Campsite A, I am ready to overcome any difficulty ahead in life.
 
-## 14.
+### 14.
 
 {% hint style="info" %}
 提示：以下有兩項即將上市之新科技產品。\
@@ -490,7 +464,7 @@ Jack
 
 &#x20;       In the near future, the Sound-wave Fire Extinguisher is to be seen often on the fire scenes. Since it can smother the flames from a long distance with the help of a drone or a helicopter, firefighters battling blazes need not charge toward the burning buildings, jeopardizing their lives. Better still, since it is powered by drones, it can deal with almost any type of fire, be it a raging forest fire involving a vastness of the territory or a fire breaking out in a high-rise complex that would otherwise be hard to access. In other words, tragedies can be prevented in time before they wreck havoc on nature or us humans. Moreover, while most firefighting equipment are to be worn down one day, the Sound-wave Fire Extinguisher will never expire, which would definitely be of tremendous assistance to the fire stations in terms of cost and maintenance. With all these potential benefits promised, I am more than willing to see the Sound-wave Fire Extinguisher hit the market soon.
 
-## 15.
+### 15.
 
 {% hint style="info" %}
 此為看圖作文。大意為男主角參加一個才藝競賽，在他上一位的女表演者的傑出演出讓他相當緊張，請考生接續故事寫出故事的結尾。
@@ -506,7 +480,7 @@ Jack
 
 &#x20;       On the day of the contest, he waited for his turn by the stage. Much to his astonishment, all the contestants' performances seemed to outshine his. The girl on the stage, for example, as dancing so gracefully, communicating through the universal language of movement and holding the audience spellbound. It was not until then that it hit hard on him that he could rival none of them. Trembling with butterflies in his stomach, he managed to compose himself, confront the situation head-on, and step onto the stage. He did not start singing immediately. Instead, he made a confession about how he was dazzled by the other contestants, those future stars meant to be. He could see the judges, grim-faced and silent, and he could hear the audience murmuring about as he was pouring all his heart and soul into his speech. However, to his great surprise, at the end of his speech, he was greeted with a round of thunderous applause. The sincerity he conveyed through his words worked like most beautiful lyrics, striking a chord among everyone. Tom was given a second chance for another presentation.
 
-## 16.
+### 16.
 
 {% hint style="info" %}
 此為看圖作文。大意為男主角的運動鞋壞掉，所以透過網路上的一個網站買了一雙中意且正在大特價的名牌運動鞋，但貨送到後，他卻發現是假貨，不僅logo被換掉，鞋子的招牌標誌也是反的，請考生接續故事寫出故事的結尾。
@@ -522,7 +496,7 @@ Jack
 
 &#x20;       It was not until the day after when the package arrived that he realized what a blunder he had made. In a buoyant mood, John opened the package, only to be shocked by what met his eyes. With the iconic swoosh mirrored and the logo "Nike" becoming "Nice", even an outsider like John could easily discern that the sneakers were a fake. Worse still, John swore that he had heard the knock-off Nike sneakers repeatedly saying mockingly "NICE" to him. Simmering with rage, John decided to get a refund, but the seller had already blocked him. He was left at his wit's end. Overwhelmed with disappointment, he had no choice but to purchase another pair from another website. Fortunately, the experience teaches him a valuable lesson. John learns that he should stay calm when tempted by a bargain and think before he leaps. He should always be extremely vigilant when shopping online and never make purchases on unreliable or unauthorized websites. Now whenever John is poised to place an order, he will remind himself of the blunder he made and check the credibility of the site, with a view to making a sensible decision and not falling for scams of any kind.
 
-## 17.
+### 17.
 
 {% hint style="info" %}
 108課綱新增了「自主學習」的課程讓學生自主選擇想要學習的內容並訂定學習計畫。\
@@ -539,7 +513,7 @@ Jack
 
 &#x20;       I started my project by buying my bunny a cage first. It was not a fancy one, but spacious enough for it to stretch out fully and stand on its hind legs without hitting the top of the cage. Right after its home was secured, I set out planning its diet and exercise time, making sure that it grew healthy. Guess what, I even set aside one hour a week to play with my bunny. By the end of the semester, I was glad to find that the little fluffy something had grown into a healthy bunny and I myself becoming more active in practically every aspect of life as well. For example, I used to be a procrastinator making lame excuses for whatever needed to be done, but now I make it a rule to attend to the bunny, never missing its feeding time for any single excuse. After all, a real life cannot be joked about. And I used to sit idly waiting for my teachers to feed me the answers to questions of all kinds, but now I refer to the books or consult with teachers whenever I am plagued by problems with pet raising. No more am I a student waiting to be instructed but one endeavoring to get educated, to get informed. In conclusion, with the self-directed learning project, I come to the realization that there's no better learning than learning for oneself and by oneself.
 
-## 18.
+### 18.
 
 {% hint style="info" %}
 你已升上大學，以下為學校開設的兩門選修課：\
@@ -553,7 +527,7 @@ Jack
 
 &#x20;       After a semester of discussion sessions, voluntary work an deep thinking about what true happiness is, I learned that happiness is not found in luxurious houses, fancy restaurants, boisterous parties, or exciting video games. Those things give you temporary joy but leave you with more emptiness in the mind. Throughout time people have sought happiness in this material world but instead ended up with more worries. Now I have learned that the deepest happiness is attained not from things oneself but from within and that happiness comes with a calm, peaceful state of mind. Also, happiness is something that can be created, by positive thinking, seizing the moment and truly caring about the people you love. With things I learned in this course, I can't wait to share what I know about happiness with my friends and even spread happiness around me.
 
-## 19.
+### 19.
 
 {% hint style="info" %}
 此為圖表作文。題目提供兩張圖，一張為AMC高二學生睡眠時間調查(早或晚於晚上11點)，另一張是針對晚於晚上11點睡的學生晚睡理由的調查。\
@@ -570,7 +544,7 @@ Jack
 
 &#x20;       Bombarded with schoolwork and assignments, I have no choice but to become a night owl with an eye to tackling all the daily tasks. In fact, as a student from a prestigious high school putting a high premium on academic performances, I am left with no alternative but to spend more time studying at the expense of my previous sleep time. However, most of the time, after a night of minimal sleep, I, instead of becoming a prodigy with a mind knowing everything, end up being a zombie with slowed thinking, lack of energy, and an irritable mood. Lacking in sleep, I have difficulty focusing during class, and it turns out I need more time and effort to catch up with my peers due to my consistent dozing off. What an irony! Moreover, the bad sleeping habits also have serious and far-reaching effects on my health, making me obese and tired. Believe it or not, I have gained more than 7 kilograms in half a year simply because of the lack of sleep. All in all, though studying is the path to a brighter future, I am still convinced that I won't be able to reap what I've sown if I am not healthy enough.
 
-## 20.
+### 20.
 
 {% hint style="info" %}
 此為圖表作文。題目提供一張分析台灣年輕人喜歡的節日的圖表。\
@@ -581,7 +555,7 @@ Jack
 
 &#x20;       When looking at the chart, I find myself in the majority. Like the 25% of Taiwanese young people, I find the Chinese New Year the most welcome festival for me, too. Not only does this festival provide me with a longer holiday time to relieve myself from the hustle and bustle characteristic of my busy academic life, but it also serves as a previous time for my family to gather together and have a yearly reunion dinner. Furthermore, during the span of the festival, my seldom-say-yes mom will finally show some mercy and give free rein to the strict regulations she used to impose on me. Yes, there's no better occasion than the Chinese New Year for me to avail myself of to gamble with my cousins, winning myself some pocket money or burn the midnight oil to do what I enjoy, free from my mom's grievances. Above, all, I am granted with the luxury of time to spend with my grandparents whom I hold dear most, chatting with them over a hot pot of Oolong tea. With my beloved family members around, a purse bulging with money, and lots of time at my disposal, the Chinese New Year definitely tops the chart as my favorite holiday as well.
 
-## 21.
+### 21.
 
 {% hint style="info" %}
 提示：John喜歡玩電玩，卻因此導致課業表現不佳，受到父母的責罵。John曾試著與父母溝通，但皆以失敗告終。身為一位醫生，請你(Dr. Lee)寫一封信給他，並適當地給予勸告。
@@ -607,7 +581,7 @@ Dear Helpless John,
 Best wishes,\
 Dr. Lee
 
-## 22.
+### 22.
 
 {% hint style="info" %}
 第一段請寫一個你的夢想及其產生的原因。第二段請假設你的夢想成真，此時你會做什麼。
@@ -623,7 +597,7 @@ Dr. Lee
 
 &#x20;       Were I a warrior, I would kill as many enemies as I could, since the number of enemies killed is indicative of the amount of my gallantry. After all, warriors are supposed to be proactive, not reactive. They are to take the lead and charge forward. By the same token, I would train my troop hard with a view to making every soldier militant enough to leave his mark on history. Last but not least, with the power I have, I would like to earn myself a life of comfort and a social status worth being coveted, not to mention a charming beauty by whom a warrior is usually accompanied. Yet, a dream is always a dream. In reality, I am weak like a chicken and can never be an aggressive warrior like the one in the movie.
 
-## 23.
+### 23.
 
 {% hint style="info" %}
 請寫一篇作文描述你對社群軟體交友的看法，並舉自己或其他人的經驗為例應證你的看法。
@@ -635,7 +609,7 @@ Dr. Lee
 
 &#x20;       Wholesome as Facebook is, bringing our friendship over the barrier of time and distance, we must acknowledge the fact that all those using Facebook are not as honest and moral as we expect them to be. Even those who proceed with extreme caution in the first place like my cousin could end up being the victim of Facebook friendship. Thus, my attitude toward Facebook friendship is that one cannot be too careful when making friends online, for everything in the virtual world may be "virtual".
 
-## 24.
+### 24.
 
 {% hint style="info" %}
 請寫一篇作文描述你印象最深刻的家庭活動。
@@ -661,7 +635,7 @@ Dr. Lee
 
 &#x20;       This meal is special and memorable to me. To begin with, with my parents preoccupied with their work and me pinned down at desk cramming for textbooks piled up high, we hadn't had a chance to sit down together and have a hearty talk over a meal. However, on that day, in such a relaxing atmosphere, we enjoyed our food and poured out our hearts to each other. I shared my secret with Mom, and my parents told me their expectations of me. The food was great, yet the feeling of all of us as a family being together was much better. Besides, the setting of the meal is in itself special and memorable enough. Next-to luxury meals are presented in magnificently adorned restaurants yet a real luxury meal is held in nature alive with lives. That day, while we were having the picnic on the cliff, we not only treated ourselves to a meal, but were treated to a feast offered by nature with the sky and ocean, both boldly blue, delighting our eyes and ears. The picnic that day, though simple in taste, is profound in meanings and will always be engraved in my mind.
 
-## 25.
+### 25.
 
 {% hint style="info" %}
 此為看圖作文。大意為Jack在某個炎熱的夏日決定到海邊消暑，他在海上和他的兩隻狗玩的很開心，但他忽然溺水了，請考生接續故事寫出故事的結尾。
@@ -679,7 +653,7 @@ Dr. Lee
 
 &#x20;       However, while we were all having a good time, all of a sudden, Jack's face got twisted. The next moment, he was drowning with his hands waving frantically. Apparently, he got cramp in his feet. Aware that he was in danger, I swam back to the shore, barking as loud as I could to catch people's attention. Luckily, people noticed my barking and immediately called for help. In the end, Jack was rescued and sent to the nearest hospital for further treatment. The doctor said the absence of warm-up triggered the cramp in his feet, which caused his drowning afterward. Poor Jack, two lessons he has learned since. One is never miss any warm-up before swimming. The other is any vacation won't be complete without taking me, Lucky.
 
-## 26.
+### 26.
 
 {% hint style="info" %}
 第一段請寫你認為早自習是否該廢除，並書寫你的理由。第二段寫如果早自習被廢除，對身為學生或學生家長的你會有什麼影響。
@@ -699,7 +673,7 @@ Dr. Lee
 
 &#x20;       Were I a parent, after the policy is implemented, I would envision my child wake up full of vitality for having sufficient sleep instead of pulling a long face, being dragged out of the cozy bed and rushed by me to do his morning routines for fear of being late for the 7:30 morning self-study session. As for myself, I would spare myself the trouble of getting up early to prepare breakfast for him and the possibility of getting annoyed by his ever-slow movements. With more time to sleep and a better mood, maybe I can see a boost in my productivity at work, too.
 
-## 27.
+### 27.
 
 {% hint style="info" %}
 題目有提供一些活動供考生選擇。你(Teresa)參加了某個活動後，覺得很有意義，想要邀請你的好朋友(Julie)一起參加，所以寫了一封信給他。
@@ -727,7 +701,7 @@ Dear Julie,
 Best regards,\
 Teresa
 
-## 28.
+### 28.
 
 {% hint style="info" %}
 你的好朋友(Tom)弄丟了你上禮拜借給他的限量版耳機，現在他已經寫了一封道歉信給你，在信裡面他提供了兩個補救方案。\
@@ -747,7 +721,7 @@ Plan B：賠償你一個新的且和原本一樣的限量版耳機。
 
 &#x20;       Besides paying me back, I think there are two other things Tom can do. Firstly, he can spare some time to accompany me to <mark style="color:blue;">**the electronics store**</mark> to buy new headphones. Since Tom is <mark style="color:blue;">**a computer geek**</mark>, he can give me some suggestions about different headphones. Secondly, maybe he can still find the ones he lost. As long as he makes an effort, I think there is a chance that he can <mark style="color:blue;">**recover the lost headphones**</mark>. Those are two things that I think Tom can do to <mark style="color:blue;">**make up for his careless mistakes**</mark>, and hopefully, I can get my headphones back as soon as possible.
 
-## 29.
+### 29.
 
 {% hint style="info" %}
 請寫疫情期間在家線上上課讓你的生活產生什麼改變及影響，與你對線上上課的看法。
@@ -763,7 +737,7 @@ Plan B：賠償你一個新的且和原本一樣的限量版耳機。
 
 &#x20;       These changes make home life and online learning much more bearable. Never have I found the Internet so fascinating and grand, filled with knowledge school doesn't or fails to teach. Now that the pandemic is over, so is the thrilling drive. Though literally "surfing the Internet and learning online" is an odyssey like no other, I would much rather actually step out of my door instead of being stuck to a chair. After all, there's more to the actual learning than online learning.
 
-## 30.
+### 30.
 
 {% hint style="info" %}
 你即將從高中畢業。現在請你寫一封信，提供一些建議給現在正就讀高中的Rose。
@@ -778,7 +752,7 @@ Dear Rose,
 Best wishes,\
 Tom
 
-## 31.
+### 31.
 
 {% hint style="info" %}
 你即將搬入宿舍，現在你(Jack或Jill)想寫一封信給你未來的室友。
@@ -828,7 +802,7 @@ Dear roommates,
 Best regards,\
 Jill
 
-## 32.
+### 32.
 
 {% hint style="info" %}
 此為看圖作文。題目提供三家不同的外送平台的資訊。\
@@ -839,7 +813,7 @@ Jill
 
 &#x20;       Nonetheless, while food delivery services does facilitate our life quite a few aspects, the drawbacks coming along with it still outweigh the benefits it provides. First of all, it is the food delivery service that is held accountable for people's laziness. A few steps away or a click away? Well, it's quite self-evident that with easier access to food delivery platforms, people are less motivated to go out for a meal, which in turn make people not only socially but also physically inactive. Furthermore, coming along with the rapid growth of food delivery service is the rising traffic accidents. It is not uncommon to see deliverymen zooming through the busy traffic with a view to delivering the meals on time, a move that may put the passengers' and other riders' and drivers' lives in jeopardy. In view of these, I wold rather go out for a meal than place an order at home. After all, while I myself can be of little help of reducing the number of car crashes related to food delivery, a trip to a restaurant is itself a step for me to reach out to other places and enjoy the delights of the social interaction with different environments, a choice beneficial in terms of road safety and my interest.
 
-## 33.
+### 33.
 
 {% hint style="info" %}
 你現在被困在一個荒島上，可以攜帶三樣東西。\
@@ -850,7 +824,7 @@ Jill
 
 &#x20;       After taking in the scenery of the primitive island and getting a panorama of the place, I would settle myself down in the best site. To build myself a shelter, I would need the ax to cut down the trees to get the wood needed for a cabin. With the ax, I could also make myself tools of various kinds, such as spears, and knives, with which I could go hunting for food. After the laborious work, I would play go-and-fetch with my lovely dog, Chris. It is said that dogs are the best companions for human beings. I am convinced that my dog Chris would accompany me in such a hard time and stay alert to any danger around me so as to warn me of any possible menace. Every late evening, Chris and I would lie on the beach, enjoying the tranquility and serenity characteristic of any unpopulated island, a delight hardly experienced were I still living in the quick-paced city. And if one day I grew tired of the food derived from the island, I could still satisfy my palate by eating the instant noodles brought to my heart's content. With an ax to protect myself in the bleak island, the instant noodles to fill my stomach and the dog to kill my time with, I would enjoy the "backpack tour" a lot. Provided that one day I were fed up with the boredom and inconvenience of the island, I could still hack some trees with the ax, and build myself a ship. With my dog, and whatever instant noodles left and the ax of great use, I would set off on another cruise. Were I lucky enough, I would land on another paradise, enjoying myself again.
 
-## 34.
+### 34.
 
 {% hint style="info" %}
 請寫一篇作文，內容為一件令你印象深刻的事，分段數量不限。
@@ -866,7 +840,7 @@ Jill
 
 &#x20;       That day after school, I was summoned by my Chinese teacher for a long talk regarding my odd behavior in class and my constantly sleeping whenever I get the chance. I was again a dull and tedious speech, but I tried hard to keep my head up from nodding off again. When the long talk was finally over, and I stepped out of the teacher's office, I was greeted by overwhelming darkness and silence. All my friends had already gone. No enthusiastic fans, no exciting cheers. Alas, dreams are always dreams.
 
-## 35.
+### 35.
 
 {% hint style="info" %}
 試以寵物的角度寫這篇作文。內容大意為：你的故主Vincent非常懶散。某天，在他父親的催促下，他帶你出去散步，但途中遇到了一些事情，請接續故事寫出故事的結尾，分段數量不限。
@@ -878,7 +852,7 @@ Jill
 
 &#x20;       Love is itself power. Lazy as Vincent was, from that day on, he has made it a habit to jog every day to lose weight, and of course, he jogs along with me. No more a dog confined to home, I now enjoy a healthy and happy life and guess what, we are to have a new partner tonight, the very girl who changes the life of Vincent's and mine.
 
-## 36.
+### 36.
 
 {% hint style="info" %}
 此為看圖作文。題目提供左右兩張圖，左圖為一個乾涸的水庫，右圖為一群民眾瘋狂搶著拿容器裝運送水的車提供的水。\
@@ -895,7 +869,7 @@ Jill
 
 &#x20;       Long have we been exposed to the image of a full reservoir, with its glistening reflection of sunlight as well as the flora and fauna surrounding it, all interwoven into the illusion that water is always abundant. However, the truth is that there are times when we might be deprived of this precious asset, and we may be potentially forced into living lives like those of the people craving for water as demonstrated in the picture. To save us from the possible scenario, the government ought to initiate more campaigns to raise the awareness of the vulnerability of water resources, or even charge higher for water. In fact, apart from having the nature to blame, water shortage does have a lot to do with the ignorance of the public. It is my strong belief that the gravity of the issue can be eased as long as the concept of water conservation can be successfully instilled into the public or their waste of water can be checked by the high utility bill. In addition, more investments can be placed by the government on devices or mechanisms for saving water. Drip irrigation, for example, has been adopted in agriculture all around the globe, especially in regions prone to droughts. I'm convinced that with more pipes, tubes, and emitters designed, installed, and maintained, more rainfall can be retained and harnessed for dry seasons. In short, it is imperative that both of us and the government do our shares and make more endeavors into gearing up for the inevitable drought era.
 
-## 37.
+### 37.
 
 {% hint style="info" %}
 請寫一篇作文，內容為一件事對你的啟發，分段數量不限。
@@ -907,7 +881,7 @@ Jill
 
 &#x20;       Like promised, I did get my phone back. Throughout the whole event, I learned a valuable lesson of making it a habit to keep my cellphone tucked in the drawer during class. Of course, once  in a while, my hands would involuntarily reach for my phone as I fumbled around in my drawer for a took or pen. At times as such, all my teacher had to do was show my the very dirty sponge I scrubbed the floor with. And that was enough to hush all the shouting urges.
 
-## 38.
+### 38.
 
 {% hint style="info" %}
 請寫一篇作文，內容為自己的改變，分段數量不限。
@@ -919,7 +893,7 @@ Jill
 
 &#x20;       People often fear change, preferring a cozy spot in the comfort zone. However, where there is a will, there is a way. With the guidance of love, I have learned to change myself into someone who loves himself and worthy of being loved.
 
-## 39.
+### 39.
 
 {% hint style="info" %}
 太魯閣號出軌、高雄城中城大火、虎豹潭溺水意外等，台灣近日憾事頻傳。緊接而來的淚速、怒罵、究責、道歉、處分、祈福也難以還回寶貴的生命。請寫一篇英文作文，文分兩段。第一段描寫一件近來令你印象深刻的天災人禍，並說明當下的反應和感受。第二段請論述我們可以採取什麼行動來避免憾事再度發生。
@@ -935,7 +909,7 @@ Jill
 
 &#x20;       Something must be done to prevent tragedies as such from recurring. First and foremost, the government must make sure companies responsible for those so-called nature-experiencing activities must be licensed, for it turns out that the company in charge of the activity mentioned above isn't an eligible one. Besides, our government should have safety inspection conducted on a regular basis on such places as coastlines, mountain trails, and lakes where danger abounds in but supervision usually falls short. More manpower should also be put into work, for example, to install more surveillance cameras, have frequent patrols, or put up noticeable signs reminding people of potential danger. As for us, while we rejoice at the fun Mother Nature generously grants, we should always remember to stay alert to the surroundings. Evacuate soon the moment signs of rising water surface. It is my strong belief that, with the government and us both doing our shares, we can successfully keep disasters at bay.
 
-## 40.
+### 40.
 
 {% hint style="info" %}
 請寫一篇作文，關注環境議題。
@@ -945,7 +919,7 @@ Jill
 
 &#x20;       Another good way is that we should take advantage of the public transportation of carpool instead of driving private cars. For instance, we may go to work or travel by MRT, buses, or trains. There is still another useful and practical energy-saving method - that is, going to school or office by bicycle or on foot. They both can not only do much good to health but also help reduce air pollution. To sum up, if we don't want our earth to be a ruin, then all global villagers should shoulder their shares of duty to conserve the energy and protect our fragile Mother Earth.
 
-## 41.
+### 41.
 
 {% hint style="info" %}
 第一段請寫你想去哪個國家，他有什麼特色。第二段請寫你如果去了那個國家會做什麼。
@@ -955,7 +929,7 @@ Jill
 
 &#x20;       If given the chance to pay a visit to Brazil, there are some activities I would like to engage myself in. First and foremost, I would like to watch a thrilling and exciting soccer game, shouting and cheering with the fans and experiencing a surge of adrenaline overwhelming me. After calming myself down, I would like to feast my eyes on the gorgeous carnival and experience the lively activities in person. I will dance to the vigorous and gleeful samba music, swinging my arms, swaying my hips, and dancing to my heart's content. However, while some sights in Brazil are pleasant, filling my heart with happiness; some are miserably pathetic. To the latter, I will not shut my eyes, for they are also what render meanings to life. As far as I know, there are still a large number of population living in unfavorable conditions. Therefore, I would like to take part in an international charity to offer them assistance as long as I have the ability desired. Instead of simply being a tourist taking in the splendid landscape, I hope to be a helper offering them a hand during my trip. After this invaluable journey, I believe not only will I gain beautiful memories but I will also learn more about life.
 
-## 42.
+### 42.
 
 {% hint style="info" %}
 請寫一篇作文，推薦或不推薦一個旅遊地點，分段數量不限。
@@ -982,7 +956,7 @@ Jill
 * For travelers with guts, Palawan also offers a unique man-made diving experience. During World War II, several Japanese ships were sunk in Coron Bay. Novice divers can explore the outside of the ships to see beautiful coral formations growing on these former machines of war.
 * It's a place where rocks, sand, and water create magical vistas, and unbelievable experience happen every day. Whether you want to visit hidden beaches, mysterious caves, or urban Palawan, spend some time in this slice of heaven soon, before you have to come back down to earth.
 
-## 43.
+### 43.
 
 {% hint style="info" %}
 此為看圖作文。大意為Jack精通多項運動，但是不會游泳。某天Jack因為心情不好，就將寵物貓Cathy丟到水池裡。當天晚上Jack做了一個噩夢，內容為他被同學丟到游泳池裡，幸好最後Cathy把他救了起來，他才免於溺斃。
@@ -994,7 +968,7 @@ Jill
 
 &#x20;       That night, Jack was haunted by a nightmare, dreaming that his classmates poked fun at his inability to swim, one of whom even threw him into the pool. Worse still, the more he attempted to reach for the edge of the pool, the deeper he sank. Just as he was to be drowned, Cathy came to his rescue. At that moment, the realization hit him like a punch: what he did this afternoon was no less mean than what his classmates treated him. Thanks to the very nightmare, Jack was resolved to treat his lovely pet well.
 
-## 44.
+### 44.
 
 {% hint style="info" %}
 第一段請寫全球暖化造成的影響。第二段請寫你會如何阻止全球暖化。
@@ -1012,7 +986,7 @@ Jill
 
 &#x20;       As for me, a member of the Earth, there are some steps to take to make some differences. First, I am to make good use of such mass transportation as buses and the MRT. In this way, we can at least cut down on the emission of carbon dioxide and other toxic gases as well, slowing down the aggravation of global warming. Moreover, I am obliged to make it a rule to turn off the power after I use the electronic appliances so as to conserve electricity. I am convinced that little though we can do, we can still turn the situation for the better and save our mother earth from all the possible harms the global warming may do to us.
 
-## 45.
+### 45.
 
 {% hint style="info" %}
 第一段請寫你覺得台灣有什麼問題。第二段請寫你覺得要怎麼解決這個問題。
@@ -1022,7 +996,7 @@ Jill
 
 &#x20;       To solve the problem of littering, some actions should be taken. To begin with, there should be more trash cans put up to ensure that people can always find a trash can when a necessity arises. As for the existing ones, better managements are required to make sure that they are not overloaded and free from animal scavengers. Next, should anyone litter twice a month, they will be heavily fined up to fifty thousand dollars to pay for their irresponsible behavior. Of course, to facilitate the law enforcement, more surveillance cameras are to be installed. Last but not least, the concept of not littering trash at will should be instilled and promoted among people. After all, education is the key to everything. Only by following the methods mentioned above can we effectively solve the problem of littering and enjoy a cleaner and better environment.
 
-## 46.
+### 46.
 
 {% hint style="info" %}
 第一段請寫你覺得台灣哪兩個東西最讓你感到自豪。第二段請寫你會如何向全世界宣傳它們。
@@ -1032,7 +1006,7 @@ Jill
 
 &#x20;       To introduce the two shining jewels of Taiwan to the world, I have a few ideas up in my sleeves. To begin with, with the Internet prevailing nowadays, we can take advantage of such social media as YouTube or Facebook to make Taiwan known internationally. For example, we can invite some international Internet celebrities to Taiwan. After they savor the beauty of Taiwan in person, they will surely help promote to the world the hospitality characteristic of the Taiwanese and the gorgeous views Taiwan commands. In addition, not only the celebrities but everyone can be a diplomat to enhance the image of Taiwan. Make foreign friends at home, abroad, or online. Demonstrate the kindness while interacting with them and have the beauty of the landscape unfolded to them by taking them on tour or showing them pictures. Well goes the saying, "Many a little makes a mickle." The more Taiwan is known to the world, the better the world will be.
 
-## 47.
+### 47.
 
 {% hint style="info" %}
 第一段請寫你覺得為什麼單性別的學校在以前會很流行。第二段請寫你支持單性別的學校還是混合性別的學校，並說明你的理由。
@@ -1042,7 +1016,7 @@ Jill
 
 &#x20;       On the other hand, those who prefer co-ed education hold the belief that since a society is composed of both genders, it's against nature to separate girls from boys or vice versa when they are in high school. In fact, many find it difficult to communicate with or interact with the opposite sex, which all have to do with their being confined to single-sex high schools. Besides, no one likes to be restricted, not to mention the adolescents, who are most rebellious. The harder they are denied the excess to the opposite sex, the more curious they are about their counterparts. Without an environment such as schools where proper gender education can be taught and practiced, a teenager driven by curiosity is hard to discipline. After weighing the pros and cons of the two, I opt for the co-ed education. After all, we do not study and learn at school to live with people of the same gender in the society afterwards, do we?
 
-## 48.
+### 48.
 
 {% hint style="info" %}
 此為圖表作文。題目提供一張數據圖，為十年前和現在，經常使用網路的家庭比例的變化。\
@@ -1053,20 +1027,18 @@ Jill
 
 &#x20;       As far as I am concerned, while we rejoice at the pervasive use of the Internet, which, to a certain extent, symbolizes the advance of our society, we should not ignore some of the side effects it may bring. Take e-mail, one of the services the Internet provides, for example. With the prevalence of e-mail, we hardly receive any handwritten letter now. Instantly though we may get the mail, we, at the same time, are deprived of the anticipation of receiving letters. In the near future, there will be no more girls anxiously waiting at the door for the mailman to bring them letters from their sweethearts far away. What's more, since e-mails are easy to get, they are easy to delete. In fact, it's not uncommon for most of us to delete or dump dozens of e-mails daily. It can be predicted that soon no more will we see chests filled with letters carefully cherished and preserved. I believe none of us will feel comfortable about these. It seems that the bond between people, instead of being strengthened further with the progress of technology, becomes somewhat fragile in certain aspect. To sum up, in my opinion, the high percentage of people going online regularly illustrated by the chart should serve as a warning to all of us, reminding us not to enjoy the convenience of the Internet at the expense of the previous bond and interaction between people.
 
-{% hint style="info" %}
+{% hint style="success" %}
 一些寫圖表作文時可以用的單字。
 
-動詞：\
-display 列出 顯示/ provide 提供/ indicate 提示 顯示/ compare 比較/ illustrate 說明 闡明/ reflect 反映/ describe、depict 描述 描繪/ interpret 解讀/ increase、rise、soar、skyrocket、surge 上升/ reach 達到/ decrease、fall、drop、plunge、decline 下降/ remain 維持
-
-名詞：\
-chart、diagram、graph 圖表/ figure 數字 圖表/ date 資料/ statistics 統計/ table 表格/ trend 趨勢/ contrast 對比/ proportion 比例 比率 -> in proportion to 成比例/ surge 增加 上漲/ decline 下降 減少
-
-形容詞、副詞\
-sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapidly 快速的/ significant -> significantly 顯著的/ considerable -> considerably 明顯的/ gradual -> gradually 逐步的 漸漸的/ slight -> slightly 稍微的 輕微的
+* 動詞\
+  display 列出、顯示 / provide 提供 / indicate 提示、顯示 / compare 比較 / illustrate 說明、闡明 / reflect 反映 / describe、depict 描述、描繪 / interpret 解讀 / increase、rise、soar、skyrocket、surge 上升 / reach 達到 / decrease、fall、drop、plunge、decline 下降 / remain 維持
+* 名詞\
+  chart、diagram、graph 圖表 / figure 數字、圖表 / date 資料 / statistics 統計 / table 表格 / trend 趨勢 / contrast 對比 / proportion 比例、比率 -> in proportion to 成比例 / surge 增加、上漲 / decline 下降、減少
+* 形容詞、副詞\
+  sharp -> sharply 劇烈的 / dramatic -> dramatically 大幅度的 / rapid -> rapidly 快速的 / significant -> significantly 顯著的 / considerable -> considerably 明顯的 / gradual -> gradually 逐步的、漸漸的 / slight -> slightly 稍微的、輕微的
 {% endhint %}
 
-## 49.
+### 49.
 
 {% hint style="info" %}
 此為看圖作文。大意為你和Jane一起去一家排很長的餐廳用餐，Jane卻發現了兩隻老鼠，餐廳的經理隨後出來道歉，請考生接續故事寫出故事的結尾。
@@ -1076,7 +1048,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       In no time at all, a waiter hurried out, trying to chase the rats out with a broom. Yet the rats ran about. Scared, customers to push and shove towards the exit, which made a lot more mess in the restaurant. Bowls and platters fell on the floor, tables and chairs tipped over. Finally, the rats were caught in a mouse trap. Even though the manager came out apologizing and offered free dinner, we lost appetite. We have never gone there since but yesterday Jane and I scootered by the restaurant again, and we were even more shocked to find the restaurant now sells rat cuisines!
 
-## 50.
+### 50.
 
 {% hint style="info" %}
 此為110學測英文作文題目，是一篇看圖作文。題目提供一張遊客在花田裡任意踩踏的圖片，其中，在花田內豎立著一個寫著「歡迎賞花拍照，但請勿進入踐踏，謝謝合作」的標誌。\
@@ -1095,7 +1067,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       Were I the owner of the garden, I would fine whoever ignores the warning sign. Everything has a price, and they are to pay for their immoral behavior. Of course, fining is the last resort to turn to. As a gardener, I would hope, in the first place, to enhance the morality among the public and teach the younger generation how to live with the nature in harmony. Well goes the saying that do not do to others what you would not have others do to you. I might consider putting up more emoji signs right after the flowers to remind visitors that flowers, too, are animate. A picture of a flower in tears is perhaps more persuasive than a line of warning. I am convinced that with heavy fine on the one hand to have visitors live in harmony with nature, acts of trampling on the flowers will be reduced, and we will all have beautiful flowers to feast our eyes on.
 
-## 51.
+### 51.
 
 {% hint style="info" %}
 此為圖表作文。題目提供一張調查高中生缺乏規律運動的理由的圖表。\
@@ -1106,7 +1078,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       As a high school student myself, though reminded time and again the importance of regular exercise, I used to find the top three reasons listed reasonable. With studies pressuring and draining students of every bit of their time and energy, it comes naturally that they aren't motivated enough to leave their seats, put down their books, and go for a good game of basketball. In fact, without sufficient amounts of exercise, we, high school students, in turn, gradually become lazier and fatter, having our health at stake physically and mentally. Take myself for example. It was not until one day I looked in the mirror and was surprised to see an otherwise robust young man growing out of shape, and losing self-confidence that I told myself that no longer would the three common reasons justify my not exercising regularly. Now, I manage to squeeze some time out of my busy schedule every day for a ball game with friends or simply a walk in the neighborhood. Hopefully, on the way to a healthier and better life a young man I will be.
 
-## 52.
+### 52.
 
 {% hint style="info" %}
 此為看圖作文。大意為你在一家餐廳工作，遇到了一個女客人反應說餐點有問題，請考生接續故事寫出故事的結尾。
@@ -1122,7 +1094,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       I pulled a long face, stood, arms akimbo, and darted them a suspicious look, saying, "Let's help the cockroach to where it should go." And right after I finished the sentence, I picked the bug up with my own fingers. The mother and daughter shouted "No" in unison, but it was too late. Right in my hand lay the PLASTIC cockroach. As my breath became heavier out of rage, my chest started to rise and fall in indignation as well. "Uh...," the woman trailed off, overwhelmed by embarrassment. She ended up paying for her meal and said that she was terribly sorry for what she had done. Actually, if you ask me, in addition to the meal, as a mother, she should feel sorry for her daughter for not setting a good example for her to follow. That night, I dragged myself home, slumped into the sofa, and couldn't help but say to myself, "What a first day at work!"
 
-## 53.
+### 53.
 
 {% hint style="info" %}
 此為看圖作文。大意為一個女人在廚房做飯，忽然看到一隻大猩猩站在廚房門口，嚇得她把盤子掉到地上，但後來才發現原來大猩猩是她的老公假扮的。每張圖中都有一隻狗。
@@ -1146,7 +1118,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       Panicking, Mom accidentally let go of the plate with a big crash and the delicacy was then scattered on the ground, filling the room with the inviting scent. Seeing this, I raced to the mouth-watering food by instinct and left Mom standing there, eyes wide open and legs trembling.
 
-## 54. My Favorite Retreat
+### 54. My Favorite Retreat
 
 &#x20;       Beautiful melody flows out and soft lights warm the quiet room. Everyone is immersed in a delightful atmosphere. All the books nestle on the bookshelves in unison, exhibiting themselves to people strolling toward them. This is my favorite retreat, a bookstore in my neighborhood.
 
@@ -1154,7 +1126,7 @@ sharp -> sharply 劇烈的/ dramatic -> dramatically 大幅度的/ rapid -> rapi
 
 &#x20;       In short, my favorite retreat, the bookstore in my neighborhood, is where I expose myself to profound knowledge of all sorts, where I ease my turbulent mind, and where I find strength and courage to set off again on the journey of life.
 
-## 55.
+### 55.
 
 {% hint style="info" %}
 以下提供兩封信。第一封的主題是「跟LOL(遊戲)說再見」。第二封的主題是回復分手信。
@@ -1178,7 +1150,7 @@ Dear Sally,
 Best Wishes,\
 John
 
-## 56.
+### 56.
 
 {% hint style="info" %}
 你即將參加你的婚禮，請寫一個短篇作文關於你與你的伴侶的共同回憶。
@@ -1186,13 +1158,13 @@ John
 
 &#x20;       With the cozy atmosphere in the banquet hall and the music playing in the background, my wedding ceremony is about to take place in half an hour. Sitting in the room appreciating the beauty of my wife, who is dressed in the stunningly beautiful wedding gown, I start to recall the sweet memory between my wife and me. When I was 20 years old, I met my wife for the first time and I had a crush on her at first sight. I was attracted to her pretty look and inner beauty and she was impressed by my sincere attitude. Few weeks later, we became boyfriend and girlfriend and together we created an abundance of sweet memories such as walking arm in arm on campus, sharing our joys and sorrows. Of course, love is not a bed of roses but rather a journey full of ups and downs. We had the fierce quarrel one winter night. She was literally beside herself and even splashed a glass of water on me. Fortunately, we made up the next day. After going steady for 7 years, I felt it was time to settle down. I spent all my money buying a huge diamond and proposed to her on a romantic night. She was surprised, yet granted my request happily. "Honey, are you ready?" asks my wife with a sweet smile on her face. Am I ready? Of course, I am. Half an hour later, I am going to attend my own wedding, the most significant day in my life. With my heart full of ecstasy, contentment, and love, I am ready to face a brand-new life ahead of me.
 
-## 57. Injury And Afterthought
+### 57. Injury and Afterthought
 
 &#x20;       To me, the most engrossing subject at school was PE class. Physical education was the only class in which I could keep off annoying textbooks and unnerving tests. It is also the only class in which I can gain access to my favorite sports - basketball. With only two classes a week, it is often the case that I held fast to the chance of running on the basketball court, sparing no energy on both offense and defense. But tragedy always happened when adrenaline immersed one's mind. In an ordinary basketball game, when I aggressively try to steal the ball from my opponent, he mistakenly slapped me on the face with his nails slashing across my forehead. Blood oozed profusely all of a sudden and I felt my head burn as if someone were searing me with a fire. I was sent to the hospital for stitches immediately. However, a conspicuous scar was on my head.
 
 &#x20;       Even though after months of rest I felt much better, the miserable experience still shrouded me. Though my enthusiasm for playing basketball never fades, I became more cautious and mild on the court. I was ready to take time to evaluate the situation more since I learned that I shouldn't fall into injury just because of my careless act or aggressiveness. Perhaps the scars will always serve as a reminder that I should always take my own life as a top priority before I do anything.
 
-## 58.
+### 58.
 
 {% hint style="info" %}
 第一段請寫一個你喜歡的運動。第二段請寫你喜歡這個運動的原因以及這個運動對你的影響。
@@ -1202,7 +1174,7 @@ John
 
 &#x20;       I started playing football because of my all time favorite athlete, Lionel Messi. The man in his blue and white stripes jersey is no doubt the most glamorous star in the field of football. But what inspires me the most is what's behind all the fame and scoring records. Messi is a victim suffering from pituitary dwarfism, a disease that affects the human growth hormone so that the patient cannot develop properly. A child of humble origin, Messi couldn't afford any medical treatment needed. It was not until the national team of Argentina paid for his medical expenses that he started to take injections to help himself grow. Incredibly, this is what we call a blessing in disguise. Being shorter than all the other players, Messi is much more agile. In fact, he moves so quickly that no one stands a chance against him when the ball is under his control. He embodies for us the determination and perseverance to strive for what he truly loves. I learned his story at the age of twelve, and was touched and motivated by his unyielding spirit. And ever since then, I have been in love with football. By running around with the football, I cast behind all the worries pestering me for the time being. Trying every means to have the football under my control, I find myself become much more alert and concentrated. Of course, I find myself healthier than before as well. However, there's more to the influence the sport has on me. Whenever feeling frustrated because of failing to control the football, instead of giving way to the repeated failure, I tell myself if a man suffering from such a cruel disease can play football, why can't I? The thought of never yielding to any difficulty confronted does help me a lot in other aspects of life. I grow to be an unwavering girl, regarding every setback and obstacle as not a stumbling rock but a stepping stone toward success. Physically and mentally, football literally changes my life for the better.
 
-## 59.
+### 59.
 
 {% hint style="info" %}
 對於高中生的你，如果要從好成績、充足的睡眠時間、要好的朋友，這三個東西中拋棄一個，你會選擇什麼呢?
@@ -1214,17 +1186,17 @@ John
 
 &#x20;       Luckily, not having sufficient sleep is common among us students, who have been bombarded with textbooks piled up high and tests never-ending. In fact, we high school students, under current educational system, have long been trained to cope with the problem of insufficient sleep. With early school hours and late night cram schools being a norm, most of us push through and make it with caffeine products such as tea, coffee, or chocolate. Should all those fail, we turn to vitamin B, a 10-minute nap or even a pep talk for help, which also work wonders in keeping us sober again. Well, you see, even if left with two pillars, good grades and close friends, the world of a high school student still goes around, but if either of the two were to go instead, he would be left with an unbalanced life in which caffeine or vitamin B alone can't be of any help.
 
-## 60. I Have A Dream
+### 60. I Have a Dream
 
 {% hint style="info" %}
-這是一篇模仿 Martin Luther King Jr. 的 I Have A Dream 所寫出來的作文。
+這是一篇模仿 Martin Luther King Jr. 的 I Have a Dream 所寫出來的作文。
 {% endhint %}
 
 &#x20;       Sad to admit that before all of us are aware of what happened, the birds' happy chirping has been replaced by the deafening noise of heavy traffic. Before all of us are conscious of what's going on, the clear blue sky has been severely contaminated by pollutants of all kinds. Before we take notice of what lies in front of us, the white-sanded beaches have been littered with garbage and solid waste. Thus, I have a dream that one day people will realize that we have only one earth, and rise up to protect her by taking public means of transportation as often as possible. Only until then car our ears free themselves from the roar of cars and get a chance to hear the long-absent chirping of birds. I have a dream that one day people will stop emitting harmful gases into the air or dumping poisonous waste into the river. Only until then can our children enjoy themselves by flying their kites against the big expanse of the blue sky and have fun playing in clear brooks, feeling the water softly running through their fingers and toes. I have a dream of protecting the mother earth with all my might.
 
 &#x20;       To fulfill my dream, first I need to study as much as possible, especially those on environmental protection. Only when I am armed with knowledge as such can I know how to protect our fragile mother earth. Second, I have to try my utmost to instill the concept of environmental protection into people around me. A man alone can't achieve much; it takes the joint efforts to ensure we can live in harmony with nature. Last but not least, I will do my own part as an advocate for environmental protection, setting a good example for people to follow. For instance, I will reduce the use of vehicles with frequent bicycle riding or choose to purchase products made locally so as to avoid long-distance delivery, both of which will significantly help decrease my carbon footprint. In addition, I will cultivate such good habits as turning off electronic devices after using them and using air-conditioners less often. With the above-mentioned methods put into practice and achieved, I am firmly convinced that I can fulfill my dream: protect the mother earth with all my might.
 
-## 61.
+### 61.
 
 {% hint style="info" %}
 以下兩篇作文都是延續課文的故事所寫出來的。
@@ -1246,7 +1218,7 @@ John
 
 &#x20;       From that day on, every citizen rioted against the king, for his words were no longer believed. Chaos broke out throughout the kingdom, and at the center of it was the enraged princess, rebelling against her father. Eventually, the king was executed and a statue of the young man was put up in the amphitheater as a monument to real justice. As for the princess, she ruled the kingdom with kindness and her love forever in her heart.
 
-## 62.
+### 62.
 
 {% hint style="info" %}
 以下這篇為依照111學測英文作文題目所寫出來的作文的第二段。
@@ -1254,7 +1226,7 @@ John
 
 &#x20;       My ideal park would differ remarkably from the two parks demonstrated above. As a teenager, mine would be one vastly open for people to dash around and exert their ever-abundant stamina to the full. Pillars, stairs, and walls positioned evenly would form an obstacle course with enough difficulty and thrill. While scaling up walls and hopping on pillars would be non e but physically challenging, the success of grasping the edges and landing perfectly is all the more exciting and exhilarating. Of course, some might be concerned about the danger associated with all the falling and bumping on hard edges, all of which are seemingly life-threatening. However, given appropriate climbing gear, one is able to put those threats at bay. Moreover, the authorities concerned can cover edges with soft cushion as well as put a height limit to prevent little kids from using equipment or facilities as such. In short, my ideal park would be similar to that of an adventure land scattered with obstacles to attract people craving for a place where they can bounce around, climb up and down, and jump high without the risk of running any potential hazards. Well, cuts and bruises may be inevitable, but they are reminders of fun for a trip to an ideal park of mine.
 
-## 63.
+### 63.
 
 {% hint style="info" %}
 請寫一篇作文，內容為令你哭笑不得的一個經歷與你從中獲得的啟示。
@@ -1264,7 +1236,7 @@ John
 
 &#x20;       Seeing all these, I couldn't help laughing out loud and couldn't wait to tease Gigi the next day. But the next second, my hearty laughter turned into a horrifying scream. Too lost in my thought, I accidentally stepped into the pool of grossness. I tried pulling my foot out, only to have more waste smeared on my sneaker. I ended up hopping home with one foot, leaving a trail of poodle stool behind. I did learn something that day, however. First of all, never mock at someone too quickly, especially at someone who dyes her dog pink. Second, a poodle's waste on the sneaker is hard to get rid of and its smell lingers.
 
-## 64.
+### 64.
 
 {% hint style="info" %}
 此為看圖作文。大意為一個女生經過公園時看到一個男生正在一旁的牆壁上塗鴉，請考生接續故事寫出故事的結尾。
@@ -1276,7 +1248,7 @@ John
 
 &#x20;       From then on, never did Mary see any graffiti on the wall. There were no more portraits of her beaming, no lines conveying love, affection, and admiration, and neither were there pink hearts shining. Seeing the white, clean wall, strangely, Mary did not feel victorious or happy. She felt somehow lost and sad, though. It was at that moment that she came to realize that she might be angry about George's act of vandalizing but she, at the same time, had harmed a passionate boy's heart by depriving him of the chance to do what he liked most.
 
-## 65.
+### 65.
 
 {% hint style="info" %}
 第一段請寫台灣有什麼讓你覺得很得意。第二段請寫你覺得還可以再做什麼來發展它。
@@ -1290,7 +1262,7 @@ John
 
 &#x20;       Despite the good job Taiwan has done so far in the field of public health, she is still not recognized as a member of WHO. Yet, I am convinced that there are still some more we can work on to promote ourselves, not merely for the global recognition but for the responsibility as a global member. For example, with so many medical resources available and so many medical experts to consult, Taiwan is more than happy to share what she has with the world, especially in times of darkness as such. We can do so through holding global meetings, giving donation, or even having local visits to the countries where desperate needs are to be met. In this way, the promoted Taiwan, a global citizen doing her share, will be the next one I take pride in.
 
-## 66.
+### 66.
 
 {% hint style="info" %}
 此為圖表作文。題目提供一張關於政府補助購買電動機車金額與民眾申請補助購買電動機車的數量折線圖。\
@@ -1301,7 +1273,7 @@ John
 
 &#x20;       As the conversion from normal vehicles to electric ones is inevitable, I'll catch up with the trend and purchase an electric scooter. First and foremost, being aware of the threat that greenhouse gases, especially carbon dioxide, pose to the environment, I think it's high time we began to do our share with an eye to reducing the emission of these harmful gases. Next, although the government altered the grant for buying electric scooters a few years ago, it's still our responsibility to protect the Earth from heating up, and we should leave a healthy planet instead of a living hell to our future generations. In addition to environmental factors, electric scooters' convenience, light weight, and fewer noises, to name a few, are also their major advantages over their counterparts driven by fossil fuels. These unique properties they possess will definitely improve our living conditions a lot. Imagine living in an exhaust-free city where all of the vehicles make no noise. It's quite satisfying, isn't it? In conclusion, given so many strengths electric scooters have, buying one now is undoubtedly a sensible decision; therefore, I'll get one know.
 
-## 67. Asia's Favorite Drink
+### 67. Asian's Favorite Drink
 
 &#x20;       Bubble milk tea is Taiwan's national drink. It has even been suggested that an image of bubble milk tea feature in Taiwan's passports! But Taiwan isn't the only place to be in love with milk tea. Hong Kong, Thailand, and India, to name a few, all have their own take on the beverage. And though tea itself comes from Asia, the addition of milk was in fact a British invention.
 
@@ -1313,9 +1285,9 @@ John
 
 &#x20;       A similarly spiced tea is Thailand's cha yen. Sweetened with condensed milk and sugar, and bright orange in color, cha yen is served everywhere from street markets to shopping malls and is normally drunk ice-cold. Though the origin of Thai milk tea is uncertain, many Thai people attribute the invention to one of their leaders, Field Marshal Pibulsongkram, who was curious about Western culture and may have introduced the idea of adding milk to tea.
 
-&#x20;       But the list doesn't end there - Myanmar, Malaysia, and Singapore all have their own versions of milk tea, too! How do they compare to Taiwan't bubble tea? Try them and see for yourself? And stock up some if they are too popular.
+&#x20;       But the list doesn't end there - Myanmar, Malaysia, and Singapore all have their own versions of milk tea, too! How do they compare to Taiwan's bubble tea? Try them and see for yourself? And stock up some if they are too popular.
 
-## 68. Time Management Techniques That Will Make Your Life Better
+### 68. Time Management Techniques that Will Make Your Life Better
 
 &#x20;       Do you ever feel like being stranded by piles of tasks and don't have enough time to get everything done? Your problem might not be a lack of time but rather a lack of proper time management.
 
@@ -1332,7 +1304,7 @@ John
 
 &#x20;       These are a few techniques that can be used to help manage your time. Try them out and see which one works for you. You might be surprised to see how big of a difference time management can make.
 
-## 69. The Evolution of Music Listening
+### 69. The Evolution of Music Listening
 
 &#x20;       Most people listen to music digitally these days by either downloading or streaming tunes via a smartphone or computer. But accessing recorded music wasn't always this easy. Here's a look at how music listening has evolved through the ages.
 
@@ -1348,7 +1320,7 @@ John
 
 &#x20;       Even though today's technology places countless songs at our fingertips, vinyl records have, in the end, made a comeback, as many music lovers are choosing to browse record stores instead of online playlists. It seems that the evolution of music formats has come full circle - just like the records themselves.
 
-## 70. The Evolution of Email
+### 70. The Evolution of Email
 
 &#x20;       Email may seem like a modern invention, but it has actually been around for over half a century. First generation email, created in 1965 at the Massachusetts Institute of Technology (MIT), was part of an internal communications system that allowed users to connect to the same main computer to exchange messages. Computers terminals back then weren't equipped with memory or storage, so people had to rely on min computers to access those seemingly infinite electronic messages.
 
@@ -1362,7 +1334,7 @@ John
 
 &#x20;       As the history of email shows, finding solutions to problems is a driving force of innovation. Indeed, it's what has transformed email from a simple internal communication system into a global communication channel.
 
-## 71. World Population Set to Fall in 50 Years
+### 71. World Population Set to Fall in 50 Years
 
 &#x20;       For decades, people were terrified by the world's population explosion. Science fiction movies pictured an overpopulated planet with cities overrun by crowds and people dying of starvation. A new study, however, shows a very different future, one with shrinking populations that will pose challenges of their own.
 
@@ -1370,7 +1342,7 @@ John
 
 &#x20;       Around 23 countries, including Japan and South Korea, will see their populations halved by 2100. At the same time, countries will be aging faster. There may be as many people turning 80 as there are children being born. By and by, the population of the elderly, sick and solitary will outnumber that of the young, healthy, and strong. All this will create great economic and social change. Countries will have to rethink their immigration policies, and economies will have to adjust. A much smaller number of young people will have to support a growing elderly population.
 
-## 72. Species under Threat
+### 72. Species under Threat
 
 &#x20;       The world is full of amazing animal and plant species; however, due to a variety of factors, many of which are caused by humans, some species are dying out at an unprecedented rate. Roughly a million species are currently at risk of going extinct. Among them are these three wonderful living things.
 
@@ -1385,7 +1357,7 @@ John
 
 &#x20;       How many more wonderful species must join the endangered list before we learn to treat the natural world with the respect and admiration it deserves?
 
-## 73. The Life of a Plastic Bag
+### 73. The Life of a Plastic Bag
 
 &#x20;       I am a plastic bad. When I was very young, I was sent from the factory where I was born to a convenience store. I stayed there for a long time, waiting eagerly to be used. Finally, some kids came along, bought some snacks, and took me to the beach, where they had a picnic. When it was getting dark, they packed everything up and left, but they forgot one thing - me! The wind started to howl, and suddenly I was in the sea all on my own.
 
@@ -1395,7 +1367,7 @@ John
 
 &#x20;       According to a plastic bottle nearby, the humans are going to take us to a recycling plant. I really don't understand them. They produce us to make their lives better, but then they misuse us and make everyone's life worse! I'm tired of floating around, killing fish, and causing harm to the environment. I really hope that my future owner will use me properly in my next life.
 
-## 74. Convenience Stores, Where Our Wallets Are Always Open
+### 74. Convenience Stores, Where Our Wallets Are Always Open
 
 &#x20;       It has probably happened to you before. The glass doors of the convenience store slide open invitingly; you hear the familiar "Welcome!" and enter just to pick up one item. A few minutes later, you walk out carrying a whole bag full of drinks, snacks, and other goodies you never even thought of buying.
 
@@ -1407,7 +1379,7 @@ John
 
 &#x20;       To avoid falling into any of the traps above, try to be more aware of the clever strategies convenience stores use to get deeper into your pocket. If you can always remember the tricks that shop owners use, you won't have to worry about spending too much.
 
-## 75. Fighting for or against Graffiti
+### 75. Fighting for or against Graffiti
 
 &#x20;       When people draw on spray-paint pictures or words onto a wall, under bridges, or even on the sides of buses and trains, these pictures or words are called graffiti. It comes in all shapes and sizes, from simple words to detailed paintings. Some love it, while others hate it. The question is: Is graffiti a form of art or just a mess?
 
@@ -1419,7 +1391,7 @@ John
 
 &#x20;       Which side of the wall are you on when it comes to graffiti? Is it creative or destructive? Now, it's your turn to express yourself and share your thoughts about it!
 
-## 76. The Heart of a Champion
+### 76. The Heart of a Champion
 
 &#x20;       The starting gun sounds in the stadium with a loud bang! The crowd watches the UK's Derek Redmond take off, and many think he has a good chance to win the race. Years of training and dedication have brought him to this moment.: a four-hundred-meter race at the Olympics in front of a crowd of 65,000. He is determined to win the gold medal with all his heart. Four years ago, he was forced to miss the Olympics due to an injury, but now this is his moment. This is his time to show the world what he can do. One hundred meters. He is eager for success. Now he has to speed up. He races in front of the others and the medal feels closer with every step. One hundred and fifty meters...
 
@@ -1431,7 +1403,7 @@ John
 
 &#x20;       Arm in arm, and in tears, the Redmonds struggle toward the finish line in one of the greatest moments in Olympic history. Pride, courage, and a father's love carry them through as 65,000 emotional spectators watch in admiration and respect. The people of the world have sen someone fall and rise again - regardless of the disappointment, despite the pain. They have seen the heart of a champion.
 
-## 77.
+### 77.
 
 {% hint style="info" %}
 以下兩篇是與運動員、運動有關的作文。
@@ -1451,7 +1423,7 @@ John
 
 &#x20;       The cheering crowd brought Kyle back into the race. In the first lane, his classmate was approaching him like a bullet. Feeling excited and nervous as the baton was handed over to him, Kyle limped toward the finish line. Al his classmates were cheering along the way. Other runners soon passed him, but everyone was smiling, and so was he. Finally, as Kyle reached the finish line, he was awarded with a medal by his tearful mother. Almost everyone was crying with happy tears, feeling very proud of Kyle for what he had accomplished.
 
-## 78. My Mouth's in Airplane Mode!
+### 78. My Mouth's in Airplane Mode!
 
 &#x20;       "Ladies and gentlemen, this is your captain speaking. We've now reached an altitude of thirty thousand feet and will be serving breakfast soon. But I must warn you that it might taste a little different from what you're used to. And...you probably won't enjoy it as much as you do on the ground. Please remember that this isn't our fault. Thanks, and enjoy your flight."
 
@@ -1463,7 +1435,7 @@ John
 
 &#x20;       "We will soon be landing, ladies and gentlemen. Hope you've had a pleasant flight and enjoyed your in-flight meals. We look forward to serving you again soon. Safe travels!"
 
-## 79. Malala: Stronger Than Violence
+### 79. Malala: Stronger Than Violence
 
 &#x20;       None of the fourteen female students took notice when their school truck stopped. On the crowded roads of Pakistan, such stops were common. Suddenly, two men wearing masks hopped onto the school bus. "Which one is Malala?" one of them asked. No one replied, but a few looked toward fifteen-year-old Malala Yousafzai. The man shot Malala in the head, and then hopped off and disappeared. Blood dripped from Malala's head, and her body fell to the floor.
 
@@ -1473,13 +1445,13 @@ John
 
 &#x20;       During a speech Malala once gave at the UN, she shared these wise and powerful words with the world: "Let us pick up our books and pens. They are our most powerful weapons. One child, one teacher, one book, and one pen can change the world!"
 
-## 80. The Pros and Cons of Single-Sex High Schools
+### 80. The Pros and Cons of Single-Sex High Schools
 
 &#x20;       Gender-segregated schooling has been in place in Taiwan for decades, especially in senior high schools. While not all schools are separated by gender, many such schools still exist, and there are many people who support the idea. There are some potential benefits to this practice. It's believed that by separating girls and boys during their hormonal teenage years, they're less distracted and better able to focus on their studies. The practice might also prevent children from conforming to certain overt gender stereotypes, as they aren't put in situations where they compare they "should" behave as boys or girls.
 
 &#x20;       However, in today's society, there are some disadvantages to gender-separated schools. For one thing, an environment in which you only encounter people of your own gender doesn't mirror the real world, where people of all genders interact constantly. This could lead to students having a hard time adjusting after they graduate. For another, not every child fits nearly into a gender category. Transgender and non-binary students might find it very stressful if they're in an environment that's wrong for them. Besides these factors, studies haven't found conclusive proof of gender segregation being beneficial in schools. I personally think it's best if we just do away with the practice and make schools co-ed.
 
-## 81.
+### 81.
 
 {% hint style="info" %}
 身為台灣的一份子，台灣最讓你感到驕傲的是什麼?談台灣最讓你引以為榮的兩個面向或事物是什麼?\
@@ -1491,7 +1463,7 @@ John
 
 &#x20;       There are many things we can do to promote this feature to other countries. First, the government of Taiwan has already included Sustainable Development Goals (SDGs) in our 2030 agenda. Namely, we will be able to demonstrate to the world how we achieve the goal of gender equality. By complying with international norms and consensus, Taiwan will then draw attention worldwide, and it's a good opportunity for Taiwan to establish more partnership networks with other countries. Second, we have citizen journalists that are passionate about reporting in-depth stories. With a great number of people participating in issues concerning gender equality, the influence of the Internet and mass media will raise people's awareness not only in our society but also around the world. With these two methods, we will be the pioneers to break gender stereotypes and discrimination.
 
-## 82. TED Talks: Spreading Ideas
+### 82. TED Talks: Spreading Ideas
 
 &#x20;       Everyone has his or her own favorite way of spending free time. Some like to have fun playing video games or surfing social networking sites. Others choose to educate themselves by reading books and newspapers. Still others, however, seek fun as well as knowledge. For such people, the choice may be to watch a series of short online videos known as TED Talks.
 
@@ -1501,13 +1473,13 @@ John
 
 &#x20;       Listening to one of those TED Talks is like standing on the shoulders of a giant - you get to see farther and understand more. You won't realize just how much you can learn in eighteen minutes until you give it a try. In fact, there is a good chance that it will broaden your horizons and even inspire you to try to change the world.
 
-## 83.
+### 83.
 
 &#x20;       Everyone must have the experience of having his conscience haunted day and night by something terrible he did in the past, and I am no exception. Therefore, if I had a time machine, I would go back to the past to prevent such a miserable event from happening to ease my guilty conscience. About ten years ago, when I was a naive boy, I took delight in relishing my leisure time by hanging out and playing with my friends. One day, one of my friends proposed to have an exciting venture to the graveyard at midnight. Too young to know the potential dangers involved, we all agreed without the slightest hesitation. That night, with the moonlight shedding on the trees and the croaks of the frogs resounding around, we  marched toward the graveyard as scheduled. The chill in the wind made the atmosphere more spooky. Just as we were to reach our destination, the girl walking behind me pulled me by the sleeve, begging me in a whispering voice not to go further but go home instead. A vicious idea suddenly flashed into my mind. I turned back abruptly, acting like a ghost, shrieking out loud and narrowing my eyes, staring at her. Overwhelmed with fright, she stood rooted, face pale and speechless. A second or so, she burst out crying, and ran away as fast as her legs could carry her. Few days later, I was told that while she was racing home that day, she stumbled over a big rock and got seriously hurt. Besides, she seemed to have gotten quite a shock, for she couldn't sleep well from then on, often haunted by nightmares.
 
 &#x20;       If I had a time machine, how I could go back to that very moment. When she pulled me by the sleeve, asking me to go home with her, I would give her an understanding smile, a gentle pat on the shoulder, and a definite answer "yes." I would escort her home, making sure that she was safe. That way, I would not have the haunting nightmare in which she looked at me with eyes full of horror. That way, I could finally free myself from the regret of having harmed a girl so much. Oh, only if I had a time machine.
 
-## 84.
+### 84.
 
 &#x20;       Taking part in a student exchange program has really opened my eyes regarding the cultural differences between my country and Taiwan. One of the most memorable parts of my trip was when my host family invited me to a wedding banquet in Kaohsiung.
 
@@ -1519,7 +1491,7 @@ John
 
 &#x20;       I am truly lucky to have gotten a chance to experience this fascinating event. It is the first story that I will share with my friends and family when they ask me about my student exchange experience in Taiwan.
 
-## 85. The Lady or The Tiger (後續)
+### 85. The Lady or the Tiger (後續)
 
 &#x20;       They lady behind the door was hated by the princess. As Stockton wrote: "And not only did she know in which room stood the lady ready to emerge, all blushing and radiant, should her door be opened, but she knew who the lady was. It was one of the fairest and loveliest of the damsels of the court who had been selected as the reward of the accused youth, should he be proved innocent of the crime of aspiring to one so far above him; and the princess hated her." On top of that, the princess has also witnessed the lady flirt with the courtier; "Often had she seen, or imagined that she had seen, this fair creature throwing glances of admiration upon the person of her lover, and sometimes she thought these glances were perceived, and even returned." This causes her to be extremely jealous and hateful of the lady. Day and night, she dreams of her lover with the lady. "But how much oftener had she seen him at the other door! How in her grievous reveries had she gnashed her teeth, and torn her hair, when she saw his start of rapturous delight as he opened the door of the lady! How her soul had burned in agony when she had seen him rush to meet that woman, with her flushing cheek and sparkling eye of triumph; when she had seen him lead her forth, his whole frame kindled with the joy of recovered life; when she had heard the glad shouts from the married couple, and make them man and wife before her very eyes; and when she had seen them walk away together upon their path of flowers, followed by the tremendous shouts of the hilarious multitude, in which her one despairing shriek was lost and drowned!" wrote the author.
 
@@ -1527,7 +1499,7 @@ John
 
 &#x20;       In conclusion, it is logical that behind the door chosen by the man would be the lady. It must be known that the princess and the courtier loved each other very much - will the princess truly send him to a horrible death? Would the princess be able to live with the guilt of sending him to death? Choosing tiger would also indicate that their actions are wrong. The princess does not want this reputation with her. Finally, the princess's discovery of the secrets regarding the contents behind the doors was motivated by the want to save the man's life. Therefore, her decision was already made. She already knew that she was going to spare the man. Her nightmares and feelings that result from her worst feat - often when a person makes an important decision, he or she would think excessively about it. Choosing the lady would be the lesser of two evils, so that must be what the princess chose.
 
-## 86.
+### 86.
 
 &#x20;       Can you imagine taking a bite of steak that was grown from a petri dish instead of on a farm? It may sound like a scene in a sci-fi movie, but it's already a reality. Many start-ups have begun to develop a special new production process in which meat is created by taking animal stem cells, changing them into primitive fibers and combining the fibers to form muscle tissue. This eventual product is known as "lab-grown meat" and it's a thought-provoking recent trend that is backed by both Bill Gates and agricultural giant Cargill.
 
@@ -1537,7 +1509,7 @@ John
 
 &#x20;       Whether we like it or not, lab-grown meat is a rising trend that influences consistently on a global scale. It might, however, come at a price. To make sure that the future foods are both sustainable and healthy, it's vital for us to conduct more-inclusive research before jumping into any conclusion. For now, all we can do is keep a close eye on this rapidly growing trend as it takes us further and deeper into the unknown.
 
-## 87. Over 150 Die in Halloween Crowd Crush in South Korea
+### 87. Over 150 Die in Halloween Crowd Crush in South Korea
 
 &#x20;       On October 29, 2022, thousands of young people gathered for Halloween festivities in Itaewon, a popular district in Seoul. There were reportedly over 100,000 people flooding the streets of Itaewon at 10:00 p.m. that evening.
 
@@ -1545,18 +1517,16 @@ John
 
 &#x20;       More than 150 people died in the incident, most of whom were young women in their 20s. Just as many people suffered serious injuries in the accident. Authorities in South Korea noted that more should have been done to control the swelling crowd before the incident occurred.
 
-## 88. Elizabeth II, the United Kingdom's Seven-Decade Queen
+### 88. Elizabeth II, the United Kingdom's Seven-Decade Queen
 
 &#x20;       Early on the morning of February 6, 1952, King George VI of the United Kingdom peacefully died while sleeping. The heir to the throne, George's daughter Elizabeth, was thousands of miles away in Kenya. Therefore, the news that she had become queen did not reach her for several hours. Thus, it is clear that Queen Elizabeth II's reign did not get off to the most conventional of starts. However, what was to follow over the next seven decades was arguably the most high-profile reign of any monarch in world history.
 
 &#x20;       On the date of Elizabeth's death - September 8, 2022 - she was the second-longest-reigning monarch of any country of all time, with her rule having spanned more than 70 years. It is true that she was not universally loved. In the United Kingdom alone, there remains a clear dividing line between those who support the monarchy and those who oppose it. What nobody can deny is that her reign was characterized by great personal sacrifice and her popularity was strong until she passed away. Queen Elizabeth II was 96 years old when she died, and her legacy is secure.
 
-## 89. Taiwan Cracks Down on Plastic Use to Eliminate Unnecessary Waste
+### 89. Taiwan Cracks Down on Plastic Use to Eliminate Unnecessary Waste
 
 &#x20;       In 2022, Taiwan introduced several new regulations to reduce the country's use of plastic. On July 1, the Environmental Protection Administration (EPA) implemented a policy that businesses must offer a discount of at least NT$5 to customers who bring their own cups. Taipei City took a further step a month later. On August 6, the city announced that beverage shops would be banned from using disposable plastic cups starting from December 1. The ban includes cups made from polylactic acid bioplastic.
 
 &#x20;       The aim of these new measures was to vastly cut down on the amount of plastic waste. The Taiwanese government also plans to outlaw the provision of plastic bags in the near future. Taiwan uses approximately 20 billion plastic bags a year. The government's aim is to reduce this figure to zero by 2030. Although this is an ambitious goal, it is surely one that other countries could take inspiration from.
-
-## 90.
 
 &#x20;      &#x20;

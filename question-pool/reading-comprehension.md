@@ -1,10 +1,8 @@
 ---
-description: 閱讀測驗相關題目
+description: 閱讀測驗相關題目。
 ---
 
 # Reading Comprehension
-
-***
 
 ## 答案
 
