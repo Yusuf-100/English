@@ -37,7 +37,7 @@ Author: Yusuf 100
 * [Nouns](vocabulary/noun.md)
 * [Adjectives](vocabulary/adjective.md)
 * [Adverbs](vocabulary/adverb.md)
-* [Miscellaneous](vocabulary/miscellaneous.md) (介係詞、連接詞、助詞，以及我在隨機記錄的單字或片語)
+* [Miscellaneous](vocabulary/miscellaneous.md) (介係詞、連接詞、助詞，以及我隨機記錄的單字或片語)
 
 ***
 
