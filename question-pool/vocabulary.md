@@ -55,11 +55,20 @@ description: 單字相關題目。
 **841.** AADBC / DABCA / CBBAD / CBCAA\
 **861.** CDDDA / BBCAB / CAABC / BACDB\
 **881.** DBABD / AADCB / ABBBD / BCDAA\
-**901.** DACDB / CDABA / DDBCA / \
-**921.** \
-**941.** \
-**961.** \
-**981.**&#x20;
+**901.** DACDB / CDABA / DDBCA / ADDBA\
+**921.** CCAAC / CADDD / BBCCB / ABAAC\
+**941.** ACBBB / DCCAA / DBABC / DBCAA\
+**961.** ABDAC / AABAB / CBAAC / DCAAC\
+**981.** DDCBC / ACADA / DBACA / ADBCA\
+**1001.** CCCCB / CADAC / ACBCA / BBDCB\
+**1021.** CBDAD / CCACA / BBBBD / BABDA\
+**1041.** BBACD / AACDD / BDACC / CABDA\
+**1061.** DCBCB / AAAAB / ACBCC / ACAAB\
+**1081.** BBAAC / CCCCC / AACDA / CABDC\
+**1101.** BCBCB / DCACB / DADBD / ADDDB\
+**1121.** DDCBC / BCDBD / ADCAC / BDBCB\
+**1141.** ABBBB / DCDCC / CBCBB / CDAAA\
+**1161.** CCCAB
 
 </details>
 
@@ -2005,6 +2014,506 @@ description: 單字相關題目。
      (A) expense (B) entrance (C) concrete (D) territory
 915. Unfortunately, for the koalas, the eucalyptus trees that are their food source are also prized by Australia's \_\_\_\_\_\_\_\_ industry.\
      (A) timber (B) habitat (C) rainfall (D) wildfire
+916. You need to apply for a \_\_\_\_\_\_\_\_ if you want to stay in a foreign country for a long time.\
+     (A) visa (B) vine (C) vow (D) wharf
+917. The black \_\_\_\_\_\_\_\_ dress goes well with her black eyes and white skin.\
+     (A) vein (B) viewer (C) villain (D) velvet
+918. He fell over his bike and \_\_\_\_\_\_\_\_ his right hand.\
+     (A) gripped (B) groaned (C) gulped (D) grazed
+919. It was the first time I rode a horse, and I had great difficulty staying in the \_\_\_\_\_\_\_\_.\
+     (A) scoop (B) saddle (C) sandal (D) ridge
+920. The man is \_\_\_\_\_\_\_\_; he always looks at the dark side of life.\
+     (A) pessimistic (B) perilous (C) perishing (D) parallel
+921. The \_\_\_\_\_\_\_\_ keeps the room warm in winter.\
+     (A) framework (B) folklore (C) furnace (D) glacier
+922. I keep socks and underwear in my \_\_\_\_\_\_\_\_.\
+     (A) dressing (B) distress (C) dresser (D) dice
+923. These two countries came to a \_\_\_\_\_\_\_\_ agreement. It is only valid until the end of this year.\
+     (A) tentative (B) terminal (C) tilt (D) talented
+924. I like my hotdog with a lot of \_\_\_\_\_\_\_\_.\
+     (A) mustard (B) nickel (C) mutton (D) mockery
+925. The mother rushed into the burning house to save her child in \_\_\_\_\_\_\_\_ for danger.\
+     (A) consent (B) dash (C) contempt (D) dart
+926. Before transforming into a moth, the silkworm will first wrap itself in a \_\_\_\_\_\_\_\_.\
+     (A) colony (B) compass (C) cocoon (D) compact
+927. His ideal of establishing a new nation free from war and poverty is too \_\_\_\_\_\_\_\_ for human beings.\
+     (A) lofty (B) lingering (C) legislative (D) lame
+928. I am interested in \_\_\_\_\_\_\_\_ literature, produced in the present day, rather than the classical works.\
+     (A) crispy (B) constitutional (C) customary (D) contemporary
+929. It is a \_\_\_\_\_\_\_\_ to think that money can buy everything.\
+     (A) mode (B) molecule (C) nightingale (D) myth
+930. These books and clothes are \_\_\_\_\_\_\_\_ for children whose family can't afford to buy them.\
+     (A) downward (B) dwarf (C) distinctive (D) destined
+931. Most people expected these \_\_\_\_\_\_\_\_ to be brought to justice in the end.\
+     (A) violinists (B) villains (C) vets (D) woodpeckers
+932. The discovery of DNA is a \_\_\_\_\_\_\_\_ in the development of genetics.\
+     (A) mileage (B) milestone (C) mechanism (D) mammal
+933. The health-conscious person only eats vegetables that are high in \_\_\_\_\_\_\_\_ content.\
+     (A) flake (B) fabric (C) fiber (D) feeble
+934. The postman sorted the mail into \_\_\_\_\_\_\_\_ according to its zip code.\
+     (A) citations (B) circuits (C) categories (D) calories
+935. Wild horses used to roam the vast \_\_\_\_\_\_\_\_ in North American.\
+     (A) prey (B) prairie (C) province (D) porch
+936. At home, she tended to wear something \_\_\_\_\_\_\_\_ but comfortable.\
+     (A) sloppy (B) sentimental (C) shattering (D) sly
+937. The kind doctor examined his patients with \_\_\_\_\_\_\_\_ care.\
+     (A) indispensable (B) infinite (C) indignant (D) inherent
+938. England is separated from the continent of Europe by the English \_\_\_\_\_\_\_\_.\
+     (A) Strait (B) Statistics (C) Stout (D) Steward
+939. In summer, I cannot resist the \_\_\_\_\_\_\_\_ of swimming in the cool water.\
+     (A) temptation (B) terrace (C) threshold (D) throng
+940. The ship was \_\_\_\_\_\_\_\_ on the rocks by the high tides.\
+     (A) strapped (B) straightened (C) stranded (D) stooped
+941. When I was little, what I hated most was that most adults enjoyed pinching my cute \_\_\_\_\_\_\_\_ cheeks.\
+     (A) chubby (B) carefree (C) cautious (D) civic
+942. The family has engaged in deep-sea \_\_\_\_\_\_\_\_ for several generations.\
+     (A) flaps (B) flaws (C) fisheries (D) fins
+943. The gang lit several \_\_\_\_\_\_\_\_ and set the house on fire.\
+     (A) trifles (B) torches (C) treaties (D) trademarks
+944. The medicine mustn't be swallowed; it's for \_\_\_\_\_\_\_\_ use only.\
+     (A) eternal (B) external (C) extracurricular (D) eventual
+945. The \_\_\_\_\_\_\_\_ on cosmetics are raised so they will become more expensive.\
+     (A) tactics (B) tariffs (C) thorns (D) toads
+946. During the rainy season, the Nile River \_\_\_\_\_\_\_\_ its banks.\
+     (A) overdoes (B0 overhears (C) overwhelms (D) overflows
+947. The man tried to hide from his wife the fact that he had a \_\_\_\_\_\_\_\_.\
+     (A) monarch (B) miser (C) mistress (D) newscast
+948. All the villagers were shocked to learn that such a \_\_\_\_\_\_\_\_ murder should happen in the peaceful countryside.\
+     (A) sacred (B) robust (C) savage (D) reverse
+949. Anxiety began to \_\_\_\_\_\_\_\_ as the night got on and the girl failed to arrived home.\
+     (A) mount (B) mutter (C) muse (D) modify
+950. We hope to maintain a \_\_\_\_\_\_\_\_ relationship with our neighboring countries.\
+     (A) pacific (B) paradoxical (C) patent (D) perishable
+951. The teacher received a stream of \_\_\_\_\_\_\_\_ abuse from the parents when he was thought to punish students improperly.\
+     (A) weary (B) wholesome (C) widespread (D) verbal
+952. The rich man lives in a \_\_\_\_\_\_\_\_ guarded by a state-of-the-art security system.\
+     (A) lump (B) mansion (C) milestone (D) loom
+953. \_\_\_\_\_\_\_\_ can't be ignored in school education. Students should learn about good behavior and moral principals.\
+     (A) Ethics (B) Exclusion (C) Erection (D) Encyclopedia
+954. Dad is rolling \_\_\_\_\_\_\_\_ for dumplings.\
+     (A) dusk (B) dough (C) drape (D) destiny
+955. A mother tends to \_\_\_\_\_\_\_\_ because she may want to finish the leftover instead of throwing it away.\
+     (A) overwork (B) oversleep (C) overeat (D) overdo
+956. The \_\_\_\_\_\_\_\_, with its round size and bright red color, is often used to garnish a dish.\
+     (A) ratio (B) radius (C) ranch (D) radish
+957. How most adults envy young children who can livei n such a \_\_\_\_\_\_\_\_ life!\
+     (A) cautious (B) carefree (C) chubby (D) civic
+958. We are going to \_\_\_\_\_\_\_\_ the roses in the garden to make them grow better.\
+     (A) prick (B) poke (C) prune (D) piss
+959. You must ask for permission if you want to \_\_\_\_\_\_\_\_ this article in the school newspaper.\
+     (A) reproduce (B) refute (C) reckon (D) publicize
+960. \_\_\_\_\_\_\_\_ by her classmates, the overweight girl was upset.\
+     (A) Taunted (B) Tackled (C) Tangled (D) Tinned
+961. Let's \_\_\_\_\_\_\_\_ to catch the bus, otherwise we have to wait for half an hour.\
+     (A) sprint (B) squash (C) sprinkle (D) solo
+962. The cold wind \_\_\_\_\_\_\_\_ her shirt and made her shiver.\
+     (A) perceived (B) penetrated (C) persisted (D) patronized
+963. The thick fog made everything a \_\_\_\_\_\_\_\_, which added some poetic atmosphere to the town.\
+     (A) bound (B) broth (C) bun (D) blur
+964. The young man's \_\_\_\_\_\_\_\_ ambition is to discover a remedy for AIDS.\
+     (A) lifelong (B) legislative (C) limp (D) lime
+965. The earthquake caused \_\_\_\_\_\_\_\_ damage in teh city when buildings collapsed and fires were initiated.\
+     (A) martial (B) marginal (C) massive (D) mechanical
+966. The thought of possible failure \_\_\_\_\_\_\_\_ him to work harder.\
+     (A) spurred (B) sneaked (C) snorted (D) softened
+967. The girl has a habit of \_\_\_\_\_\_\_\_ her hair when she feels nervous.\
+     (A) plucking (B) pinching (C) plunging (D) preaching
+968. The \_\_\_\_\_\_\_\_ decoration of the house is fine and delicate, with silk wall paper and Persian carpets.\
+     (A) indispensable (B) interior (C) intent (D) initial
+969. The meeting was \_\_\_\_\_\_\_\_ until an agreement was finally reached among the members.\
+     (A) prolonged (B) prompted (C) pledged (D) preached
+970. The patient suffered from \_\_\_\_\_\_\_\_ disorders, so she could only eat light meals.\
+     (A) brace (B) bowel (C) bosom (D) braid
+971. Considering the profit you will gain in the future, the investment you are making is \_\_\_\_\_\_\_\_.\
+     (A) muscular (B) mythical (C) minimal (D) monstrous
+972. The lawyer lost his \_\_\_\_\_\_\_\_, which contained all the important documents he needed.\
+     (A) bodyguard (B) briefcase (C) blot (D) bound
+973. Not knowing what to say to the stranger, the nervous boy \_\_\_\_\_\_\_\_ the keys in his pocket.\
+     (A) jingled (B) kindles (C) jaywalked (D) limped
+974. You can \_\_\_\_\_\_\_\_ fish for pork if you prefer seafood.\
+     (A) substitute (B) submit (C) stumble (D) stutter
+975. I like to drink \_\_\_\_\_\_\_\_ tea more than green tea.\
+     (A) jade (B) janitor (C) jasmine (D) jack
+976. The singer's fans \_\_\_\_\_\_\_\_ him so much that they follow him everywhere.\
+     (A) abide B() alter (C) addict (D) adore
+977. In China, private \_\_\_\_\_\_\_\_ have taken the place of the state-run companies.\
+     (A) escorts (B) estates (C) enterprises (D) exclusions
+978. Your \_\_\_\_\_\_\_\_ personality is a plus if you want to land a job in the department of public relations.\
+     (A) outgoing (B) noticeable (C) notable (D) obstinate
+979. What he has said is a \_\_\_\_\_\_\_\_ lie. I will never believe it.\
+     (A) patent (B) pacific (C) paradoxical (D) parallel
+980. The tiny dust \_\_\_\_\_\_\_\_ in the air always make me sneeze.\
+     (A) perils (B) pimples (C) particles (D) patents
+981. Depression has \_\_\_\_\_\_\_\_ her for years; she always feels unhappy and hopeless.\
+     (A) propped (B) ploughed (C) pleaded (D) plagued
+982. Protesters fought against the police at an election \_\_\_\_\_\_\_\_ near the capital city.\
+     (A) quest (B) pulse (C) puppet (D) rally
+983. The hunter went into an inn, sat down, \_\_\_\_\_\_\_\_ his rifle against the wall and ordered a drink.\
+     (A) pinched (B) plucked (C) propped (D) pissed
+984. The soldiers were hiding in a \_\_\_\_\_\_\_\_ to protect themselves from the enemy's attack.\
+     (A) vacuum (B) trench (C) vanity (D) tuition
+985. Two employees in this office were \_\_\_\_\_\_\_\_ to attend the company's general meeting.\
+     (A) devoured (B) dispensed (C) delegated (D) darted
+986. The barks and \_\_\_\_\_\_\_\_ of dogs woke me up last night.\
+     (A) howls (B) hymns (C) hounds (D) honks
+987. Timmy drinks a \_\_\_\_\_\_\_\_ of milk for breakfast every day.\
+     (A) carnival (B) carbon (C) carton (D) canon
+988. The global warming issue is at the top of the \_\_\_\_\_\_\_\_ for today's meeting.\
+     (A) agenda (B) aptitude (C) altitude (D) algebra
+989. Mrs. Lee spent ten thousand dollars \_\_\_\_\_\_\_\_ her kitchen.\
+     (A) minimizing (B) mingling (C) navigating (D) modernizing
+990. Because it was quite dark, I could only give a \_\_\_\_\_\_\_\_ description of the car.\
+     (A) vague (B) upward (C) utter (D) upright
+991. The poor \_\_\_\_\_\_\_\_ worked very hard but had to depend on the weather for a good harvest.\
+     (A) peacock (B) patron (C) participant (D) peasant
+992. We heard thunder \_\_\_\_\_\_\_\_ across teh sky and knew there would soon be a heavy downpour.\
+     (A) rustling (B) rumbling (C) revolting (D) retorting
+993. In the \_\_\_\_\_\_\_\_ gardens are plants and trees from different parts of the world.\
+     (A) botanical (B) broad (C) blurry (D) bodily
+994. The pregnant woman with an acute pain in the \_\_\_\_\_\_\_\_ gave birth to a baby boy on the ambulance.\
+     (A) agony (B) acne (C) abdomen (D) aisle
+995. Henry immigrated to China because he has a great \_\_\_\_\_\_\_\_ for Chinese culture.\
+     (A) affection (B) alternation (C) abundance (D) acknowledgement
+996. A whale is not a fish but a \_\_\_\_\_\_\_\_ that lives in water.\
+     (A) mammal (B) marshal (C) mansion (D) maiden
+997. Due to the \_\_\_\_\_\_\_\_ of the office, most documents have become digital and, therefore, save a large quantity of paper.\
+     (A) compassion (B) conjunction (C) condemnation (D) computerization
+998. It's dangerous to \_\_\_\_\_\_\_\_. You might be knocked down by speedy cars.\
+     (A) issue (B) jaywalk (C) jack (D) jingle
+999. First, put some butter in a hot pan. It will \_\_\_\_\_\_\_\_ soon.\
+     (A) startle (B) stagger (C) soften (D) sow
+1000. Some people think Robin Hood was just a \_\_\_\_\_\_\_\_ in the Sherwood Forest.\
+      (A) bandit (B) beverage (C) bandage (D) batman
+1001. Then newlywed couple has quarreled over \_\_\_\_\_\_\_\_ since they got married.\
+      (A) tortures (B) trademarks (C) trifles (D) trout
+1002. It is impossible for you to drive the \_\_\_\_\_\_\_\_ old car across America.\
+      (A) beloved (B) beneficial (C) bettered (D) barbaric
+1003. To get rid of the stain, you should first soak the shirt in \_\_\_\_\_\_\_\_ for one hour.\
+      (A) bowel (B) brace (C) bleach (D) bog
+1004. What a \_\_\_\_\_\_\_\_ day! Let's go on a picnic.\
+      (A) gross (B) grim (C) gorgeous (D) gloomy
+1005. No crop can be grown on the \_\_\_\_\_\_\_\_ field.\
+      (A) awesome (B) barren (C) armored (D) barbaric
+1006. I go for a leisurely \_\_\_\_\_\_\_\_ in the woods every morning.\
+      (A) streak (B) stride (C) stroll (D) stripe
+1007. Due to Glacier Meltdown, \_\_\_\_\_\_\_\_ wildlife such as polar bears is endangered.\
+      (A) arctic (B) barren (C) astonished (D) beaming
+1008. Chinese people have the habit of burning \_\_\_\_\_\_\_\_ when worshiping gods.\
+      (A) impulse (B) index (C) idiot (D) incense
+1009. I always buy vegetables from that \_\_\_\_\_\_\_\_ in the market.\
+      (A) stall (B) stalk (C) stagger (D) stack
+1010. The sweet voice of the singer was compared to that of a \_\_\_\_\_\_\_\_.\
+      (A) miser (B) mistress (C) nightingale (D) mound
+1011. It is a pleasure to sit in the cafe listening to the \_\_\_\_\_\_\_\_ melody.\
+      (A) heavenly (B) hoarse (C) herbal (D) hissing
+1012. We cannot tell from its \_\_\_\_\_\_\_\_ appearance what this object is meant for.\
+      (A) overwhelming (B) outdone (C) outward (D) obstinate
+1013. At the age of seventy, the retired Admiral of the Fleet started to write his own \_\_\_\_\_\_\_\_.\
+      (A) ballot (B) autobiography (C) banner (D) asset
+1014. With the prevalence of the worldwide network, the Internet market is \_\_\_\_\_\_\_\_.\
+      (A) brooding (B) broadening (C) booming (D) bidding
+1015. The fruit has a \_\_\_\_\_\_\_\_ flavor. Being bitter is its special quality.\
+      (A) distinctive (B) devoured (C) descriptive (D) disposable
+1016. The sentence is composed of a main \_\_\_\_\_\_\_\_ and a subordinate one.\
+      (A) clutch (B) clause (C) comrade (D) compound
+1017. In the recipes of apple pies, you need apples, flours, butter, \_\_\_\_\_\_\_\_ and cinnamon.\
+      (A) wreathes (B) walnuts (C) veils (D) yarns
+1018. Charlie Chaplin was a distinguished \_\_\_\_\_\_\_\_, who brought happiness to the audience.\
+      (A) commuter (B) conductor (C) comrade (D) comedian
+1019. In the shop Dollar Tree, shoppers can find many kinds of household \_\_\_\_\_\_\_\_ for only one US dollar.\
+      (A) compounds (B) clans (C) commodities (D) conceptions
+1020. In Maokong, there are several tea houses where you can sit or gaze out as the gondola \_\_\_\_\_\_\_\_ to the top.\
+      (A) assaults (B) ascends (C) bans (D) batters
+1021. Isn't it strange that 80 percent of the townspeople \_\_\_\_\_\_\_\_ in one single building?\
+      (A) publicize (B) reap (C) reside (D) rattle
+1022. I could see the \_\_\_\_\_\_\_\_ of a woman through the frosted glass.\
+      (A) procession (B) profile (C) prophecy (D) pistol
+1023. The gambling machines only accept \_\_\_\_\_\_\_\_. You have to exchange your money for them.\
+      (A) trademarks (B) thrillers (C) tenants (D) tokens
+1024. We waited until the sun emerged from behind the mountain \_\_\_\_\_\_\_\_ before we set off on the trip.\
+      (A) ridge (B) rib (C) saddle (D) saint
+1025. Hard as he tried, there was only a \_\_\_\_\_\_\_\_ improvement in his schoolwork.\
+      (A) martial (B) memorable (C) majestic (D) marginal
+1026. The birthplace was considered a \_\_\_\_\_\_\_\_ to memorize the great poet.\
+      (A) slay (B) shrub (C) shrine (D) skull
+1027. The exact \_\_\_\_\_\_\_\_ of the hostages remained a mystery; no one knew where they were.\
+      (A) wharves (B) wards (C) whereabouts (D) whisks
+1028. To achieve \_\_\_\_\_\_\_\_ peace, she reads a lot of books on Buddhism.\
+      (A) inward (B) intuitive (C) impulsive (D) inland
+1029. We only have a small \_\_\_\_\_\_\_\_, so please don't buy too many souvenirs.\
+      (A) sulfur (B) stroll (C) suitcase (D) stump
+1030. The Department of the \_\_\_\_\_\_\_\_ deals with the country's finance.\
+      (A) Treasury (B) Tyranny (C) Transport (D) Traitor
+1031. The dogs are trained to \_\_\_\_\_\_\_\_ out cocaine.\
+      (A) sneak (B) sniff (C) specialize (D) stain
+1032. The tomato sauce \_\_\_\_\_\_\_\_ on my blouse is hard to remove.\
+      (A) stake (B) stain (C) stall (D) stack
+1033. The racial issue is quite a matter of \_\_\_\_\_\_\_\_ so you have to deal with it carefully.\
+      (A) segment (B) sensitivity (C) sensation (D) slaughter
+1034. The Jiang family \_\_\_\_\_\_\_\_ the death of their beloved husband and father.\
+      (A) moaned (B) mourned (C) mumbled (D) mowed
+1035. The newly released film is well-\_\_\_\_\_\_\_\_ and attracts a large audience.\
+      (A) qualified (B) publicized (C) pulsed (D) reckoned
+1036. John used \_\_\_\_\_\_\_\_-flavored mouthwash after he had eaten some garlic bread.\
+      (A) mold (B) mint (C) mint (D) myth
+1037. Her donation to the orphanage is a(n) \_\_\_\_\_\_\_\_ example of her generosity.\
+      (A) notable (B) nude (C) optimistic (D) overall
+1038. The mailman left a small parcel for me at the \_\_\_\_\_\_\_\_ rather than in my mail box.\
+      (A) disciple (B) doorstep (C) distinction (D) delegation
+1039. \_\_\_\_\_\_\_\_ people believe that black cats bring bad luck.\
+      (A) Substantial (B) Stylish (C) Straightforward (D) Superstitious
+1040. Several fishermen are working together to \_\_\_\_\_\_\_\_ a giant fish onto the ship.\
+      (A) haul (B) hedge (C) heed (D) hijack
+1041. The mathematician is particularly expert in \_\_\_\_\_\_\_\_.\
+      (A) furry (B) geometry (C) gasp (D) glacier
+1042. I hope these withering flowers can \_\_\_\_\_\_\_\_ in water.\
+      (A) retort (B) revive (C) restrain (D) salute
+1043. Right now the president is \_\_\_\_\_\_\_\_ an important ceremony. Thus, he cannot answer the phone call.\
+      (A) conducting (B) clutching (C) clasping (D) commuting
+1044. I go to a \_\_\_\_\_\_\_\_ class twice a week, to give control over my body as well as my mind.\
+      (A) zinc (B) yacht (C) yoga (D) woe
+1045. Mrs. Oliver felt \_\_\_\_\_\_\_\_ after all her children grew up, got married and left home.\
+      (A) majestic (B) masculine (C) malicious (D) lonesome
+1046. There are at least ten dishes served at a wedding \_\_\_\_\_\_\_\_ in Taiwan.\
+      (A) banquet (B) asset (C) bazaar (D) auditorium
+1047. They preserved the ruins of the village as a \_\_\_\_\_\_\_\_ of the cruel war.\
+      (A) reminder (B) recommendation (C) rally (D) residence
+1048. Regardless of the age gap, Ally shared an \_\_\_\_\_\_\_\_ friendship with Mrs. Lu, her seventy-year-old neighbor.\
+      (A) apt (B) airtight (C) abiding (D) addictive
+1049. I was surprised to find the skinny boy ten years before had turned into a tall and \_\_\_\_\_\_\_\_ young man.\
+      (A) reverse (B) savage (C) scornful (D) robust
+1050. Just follow the signs to the National Park. It is very \_\_\_\_\_\_\_\_.\
+      (A) sturdy (B) stout (C) stern (D) straightforward
+1051. He twisted his ankle in the game and had to \_\_\_\_\_\_\_\_ off the basketball court.\
+      (A) lessen (B) limp (C) linger (D) lodge
+1052. I need to rest \_\_\_\_\_\_\_\_ before I continue walking.\
+      (A) beforehand (B) beneficially (C) astray (D) awhile
+1053. On hearing the disappointing result of the game, the spectators \_\_\_\_\_\_\_\_ into loud shouting.\
+      (A) erupted (B) equated (C) entitled (D) exceeded
+1054. The minister resigned because he was suspected of being involved in a \_\_\_\_\_\_\_\_.\
+      (A) rifle (B) ripple (C) scandal (D) resort
+1055. The mayor criticized his political \_\_\_\_\_\_\_\_ severely.\
+      (A) foul (B) fowl (C) foe (D) foil
+1056. Is the manager responsible for \_\_\_\_\_\_\_\_ the project?\
+      (A) exceeding (B) exclaiming (C) executing (D) exiling
+1057. The \_\_\_\_\_\_\_\_ of the necklace is broken, so I can't wear it.\
+      (A) clasp (B) cluster (C) commodity (D) coil
+1058. Don't use more than two electric appliances at the same time. The \_\_\_\_\_\_\_\_ may blow.\
+      (A) fuss (B) fuse (C) gender (D) glare
+1059. A small bagel couldn't \_\_\_\_\_\_\_\_ you until lunchtime.\
+      (A) suppress (B) tick (C) thrust (D) sustain
+1060. We were deeply \_\_\_\_\_\_\_\_ at the news that the company wouldn't sponsor the project any more.\
+      (A) distressed (B) delegated (C) despised (D) decayed
+1061. You have to blow up the tree \_\_\_\_\_\_\_\_ before you plant the field.\
+      (A) streak (B) stutter (C) stroll (D) stump
+1062. The yearly \_\_\_\_\_\_\_\_ of this factory is worth two billion dollars.\
+      (A) ounce (B) occurrence (C) output (D) notion
+1063. Whether genetically \_\_\_\_\_\_\_\_ foods are helpful or harmful is widely discussed.\
+      (A) nominated (B) modified (C) navigated (D) mingled
+1064. The child dropped the spoon on the ground and his mother \_\_\_\_\_\_\_\_ to pick it up.\
+      (A) straightened (B) stalked (C) stooped (D) summoned
+1065. I am looking for a pair of spectacles with gold \_\_\_\_\_\_\_\_.\
+      (A) ribs (B) rims (C) robins (D) rods
+1066. We can get sugar from \_\_\_\_\_\_\_\_ trees.\
+      (A) maple (B) logo (C) maiden (D) menace
+1067. Janet \_\_\_\_\_\_\_\_ her from the strong sunlight with a parasol.\
+      (A) shielded (B) slumped (C) smashed (D) snatched
+1068. The assignment needs to be done immediately; \_\_\_\_\_\_\_\_, I will put other things aside and focus all my attention on the work.\
+      (A) hence (B) heroically (C) heavenly (D) however
+1069. Two small horses ran at a \_\_\_\_\_\_\_\_ to avoid being attacked by a fierce tiger.\
+      (A) gallop (B) glee (C) gleam (D) glitter
+1070. We are going to discuss the \_\_\_\_\_\_\_\_ imagery in Robert Frost's poems.\
+      (A) priceless (B) poetic (C) polar (D) potential
+1071. The old train is attached to a steam \_\_\_\_\_\_\_\_.\
+      (A) locomotive (B) legislation (C) likelihood (D) league
+1072. The \_\_\_\_\_\_\_\_ young man sped through the city streets in his sports car, regardless of all the traffic signs.\
+      (A) qualified (B) resentful (B) reckless (D) ragged
+1073. The government \_\_\_\_\_\_\_\_ led to the slowdown of economic growth and rising unemployment.\
+      (A) currency (B) corruption (C) customs (D) conservation
+1074. The students rebelled against the \_\_\_\_\_\_\_\_ rules of the school.\
+      (A) savage (B) sacred (C) rigid (D) robust
+1075. The teenager is quite self-conscious about the \_\_\_\_\_\_\_\_ on his face.\
+      (A) pecks (B) odors (C) pimples (D) nostrils
+1076. You can see the steamy \_\_\_\_\_\_\_\_ rising from the hot spring.\
+      (A) vapor (B) tuna (C) trot (D) tariff
+1077. The poor little boy looked at his \_\_\_\_\_\_\_\_ faced teacher with his body trembling with fear.\
+      (A) gross (B) greed (C) grim (D) gorgeous
+1078. The wall is covered with thousands of tiny lilac \_\_\_\_\_\_\_\_.\
+      (A) tiles (B) sways (C) tariffs (D) swamps
+1079. The residents employed a \_\_\_\_\_\_\_\_ to look after the building during the day.\
+      (A) caretaker (B) chairperson (C) chatter (D) civilian
+1080. The young man was \_\_\_\_\_\_\_\_ as the most potential singer due to his voice quality and charming personality.\
+      (A) gripped (B) hailed (C) gulped (D) hissed
+1081. Thousands of passengers were stranded in the airport because of the \_\_\_\_\_\_\_\_.\
+      (A) bruise (B) blizzard (C) blur (D) bronze
+1082. The poor suffered \_\_\_\_\_\_\_\_ of having her baby girl kidnapped.\
+      (A) torrent (B0 torment (C) trench (D) triplet
+1083. We believe only truth will stand up to the test of time and justice will \_\_\_\_\_\_\_\_ in the end.\
+      (A) prevail (B) pledge (C) prolong (D) preview
+1084. In order to lose weight, he did plenty of \_\_\_\_\_\_\_\_ exercise.\
+      (A) vigorous (B) verbal (C) vertical (D) weary
+1085. The trees with shady leaves and big trunks \_\_\_\_\_\_\_\_ in this tropical island.\
+      (A) foil (B) freight (C) flourish (D) fume
+1086. The \_\_\_\_\_\_\_\_ asked the soldiers to march 10 kilometers.\
+      (A) sermon (B) scroll (D) sergeant (D) snarl
+1087. She left an \_\_\_\_\_\_\_\_ note to him, pointing out all his unforgivable mistakes.\
+      (A) infinite (B) indispensable (C) indignant (D) interior
+1088. Profits are at the top priority of the organization; thus, it has been \_\_\_\_\_\_\_\_ from its original principle-serving and helping the needy.\
+      (A) accustomed (B) agonized (C) alienated (D) alternated
+1089. Because of droughts and flood, the \_\_\_\_\_\_\_\_ of water becomes more and more important.\
+      (A) corruption (B) conversion (C) conservation (D) conviction
+1090. The farmer had a good harvest due to the \_\_\_\_\_\_\_\_ of the soil.\
+      (A) fad (B) fiddle (C) fertility (D) finance
+1091. The fish escaped the attack of its enemy by moving its \_\_\_\_\_\_\_\_ and tail quickly.\
+      (A) fins (B) foe (C) fuss (D) format
+1092. People in the community form a team of security guards to \_\_\_\_\_\_\_\_ against crimes in the neighborhood.\
+      (A) combat (B) cling (C) conceal (D) conducted
+1093. How many students \_\_\_\_\_\_\_\_ in the course?\
+      (A) exclaimed (B) exceeded (C) enrolled (D) embraced
+1094. The boys tried hard to \_\_\_\_\_\_\_\_ each other in attracting the attention of the beautiful girl in the class.\
+      (A) overwork (B) notify (C) output (D) outdo
+1095. After a full-body \_\_\_\_\_\_\_\_, Helen felt relaxed and refreshed.\
+      (A) massage (B) mash (B) mainstream (D) mermaid
+1096. the sunlight is too strong so he stood up to close the \_\_\_\_\_\_\_\_.\
+      (A) shreds (B) silkworms (C) shutters (D) shrine
+1097. Practicing \_\_\_\_\_\_\_\_ is a good way to refine one's disposition and change one's viewpoint on life.\
+      (A) calligraphy (B) chord (C) cannon (D) choir
+1098. I can't bear a person who has a big \_\_\_\_\_\_\_\_.\
+      (A) eel (B) ego (C) enroll (D) elevator
+1099. To avoid damaging the lawn, no ballplaying is allowed on the \_\_\_\_\_\_\_\_.\
+      (A) creek (B) corridor (C) curb (D) courtyard
+1100. The Ministry of Justice is planning to \_\_\_\_\_\_\_\_ the death sentence.\
+      (A) adore (B) agonize (C) abolish (D) alienate
+1101. The \_\_\_\_\_\_\_\_ of the traffic made it extremely difficult to drive around in the big city.\
+      (A) democrat (B) density (C) decay (D) disbelief
+1102. If the music is played in public without authorization, it infringes the \_\_\_\_\_\_\_\_ law.\
+      (A) corruption (B) coupon (C) copyright (D) constitution
+1103. The man made a series of speeches \_\_\_\_\_\_\_\_ his ideas of a utopia.\
+      (A) paddling (B) peddling (C) peering (D) perishing
+1104. Since his \_\_\_\_\_\_\_\_ wife passed away, Paul has never dated any woman.\
+      (A) astonished (B) astray (C) beloved (D) beneficial
+1105. Is it an active volcano or an \_\_\_\_\_\_\_\_ one?\
+      (A) executive (B) extinct (C) extracurricular (D) evergreen
+1106. She cut some \_\_\_\_\_\_\_\_ daffodils short and put them into a vase.\
+      (A) spines (B) stalls (C) squats (D) stalks
+1107. Whatever \_\_\_\_\_\_\_\_ he has, you can't criticize him in public like that.\
+      (A) shrubs (B) shrines (C) shortcoming (D) shreds
+1108. Henry spent years mastering the \_\_\_\_\_\_\_\_ of cooking and eventually became a chef.\
+      (A) mechanics (B) migrants (C) manifestations (D) lotteries
+1109. Last week, every employee in the company received an extra \_\_\_\_\_\_\_\_ for Christmas.\
+      (A) cactus (B) bid (C) bonus (D) bosom
+1110. He is a \_\_\_\_\_\_\_\_, living apart from society.\
+      (A) haunt (B) hermit (C) heir (D) heterosexual
+1111. They sang and \_\_\_\_\_\_\_\_ to the music.\
+      (A) terminated (B) suspended (C) tackled (D) swayed
+1112. The office of the chairman of the civil engineering department is at the end of the \_\_\_\_\_\_\_\_.\
+      (A) corridor (B) crater (C) cracker (D) curb
+1113. It takes teamwork to complete such a challenging project; thus, all my \_\_\_\_\_\_\_\_ should take the credit.\
+      (A) comedians (B) commentators (C) communists (D) colleagues
+1114. The budgets for several research \_\_\_\_\_\_\_\_ have been cut.\
+      (A) indexes (B) institutes (C) interferences (D) indulgences
+1115. The world-renowned tenor used to sing in the church \_\_\_\_\_\_\_\_ in his boyhood.\
+      (A) chord (B) citation (C) carnival (D) choir
+1116. The player has to obey the judgment of \_\_\_\_\_\_\_\_.\
+      (A) umpire (B) tramp (C) traitor (D) trench
+1117. The government should \_\_\_\_\_\_\_\_ the problem of high unemployment rate.\
+      (A) tempt (B) swarm (C) suppress (D) tackle
+1118. The mechanic is dressed in \_\_\_\_\_\_\_\_ when he is working.\
+      (A) oaths (B) outskirts (C) odors (D) overalls
+1119. The museum is too \_\_\_\_\_\_\_\_ for us to visit in five hours.\
+      (A) indifferent (B) impulsive (C) imperial (D) immense
+1120. Millions of \_\_\_\_\_\_\_\_ watched the game live on TV.\
+      (A) videotapes (B) viewers (C) viewpoints (D)&#x20;
+1121. Parents often question if their teenage children have \_\_\_\_\_\_\_\_ problems.\
+      (A) abrupt (B) adorable (C) alternate (D) adolescent
+1122. "What an arrogant hypocrite you are!" Janet \_\_\_\_\_\_\_\_.\
+      (A) scanned (B) rustled (C) revolved (D) retorted
+1123. It is necessary to pay the handling charge when exchanging NT dollars into any foreign \_\_\_\_\_\_\_\_.\
+      (A) curriculum (B) consonant (C) currency (D) conversion
+1124. Because of the typhoon, many flight schedules have been \_\_\_\_\_\_\_\_.\
+      (A) abided (B) altered (C) alienated (D) adored
+1125. Never \_\_\_\_\_\_\_\_ the speed limit for the sake of safety.\
+      (A) exclude (B) exile (C) exceed (D) exclaim
+1126. The young model has the fanciest \_\_\_\_\_\_\_\_ in the party.\
+      (A) bail (B) hairdo (C) gathering (D) fowl
+1127. He flavored the soup by adding several kinds of \_\_\_\_\_\_\_\_ to it.\
+      (A) hijacks (B) hypocrites (C) herbs (D) hockey
+1128. Mary \_\_\_\_\_\_\_\_ her mother being partial to her sister.\
+      (A) qualify (B) recommended (C) reckoned (D) resented
+1129. I can't believe your sister has \_\_\_\_\_\_\_\_ on the telephone for five hours.\
+      (A) cautioned (B) chattered (C) chanted (D) categorized
+1130. I cheered with the other \_\_\_\_\_\_\_\_ of the football match.\
+      (A) sponges (B) sprints (C) specimens (D) spectators
+1131. From the top of Taipei 101, we had a \_\_\_\_\_\_\_\_ view.\
+      (A) spectacular (B) solitary (C) spinal (D) stationary
+1132. Martin wore a \_\_\_\_\_\_\_\_ on his teeth so as to straighten them.\
+      (A) bronze (B) bun (C) blade (D) brace
+1133. When the boy walked his girlfriend home, they kissed good-bye on the \_\_\_\_\_\_\_\_.\
+      (A) prune (B) prairie (C) porch (D) pronoun
+1134. With 30,000 adoring crowds \_\_\_\_\_\_\_\_ his name loudly, the rock singer walked onto the stage.\
+      (A) chanting (B) categorizing (C) chattering (D) citing
+1135. Carol is so \_\_\_\_\_\_\_\_ that she believes she is always right and never accepts a second opinion.\
+      (A) commentary (B) concerning (C) conceited (D) comprehensible
+1136. You can find many \_\_\_\_\_\_\_\_ clothes in the boutique.\
+      (A) sturdy (B) stylish (C) superstitious (D) substantial
+1137. The program will have a different \_\_\_\_\_\_\_\_. The drama will be presented before the talk show rather than after it.\
+      (A) frontier (B) fraction (C) folklore (D) format
+1138. The boys were singing happily while \_\_\_\_\_\_\_\_ the small boat down the river.\
+      (A) peddling (B) paddling (C) patrolling (D) patching
+1139. When he leafed through the \_\_\_\_\_\_\_\_ pages of the old book, a yellow, torn sheet fell out.\
+      (A) puffed (B) reeled (C) ragged (D) repaid
+1140. To ensure fairness, we have invited \_\_\_\_\_\_\_\_ to be the judges in the contest.\
+      (A) orchards (B) outsiders (C) novices (D) ostriches
+1141. An \_\_\_\_\_\_\_\_ of the Navy is a military naval officer of the highest rank.\
+      (A) Admiral (B) Anchor (C) Aircraft (D) Ace
+1142. Seeing its owner home, my dog \_\_\_\_\_\_\_\_ its tail in delight.\
+      (A) whirled (B) wagged (C) whined (D) waded
+1143. We should make the instructions in the handbook \_\_\_\_\_\_\_\_.\
+      (A) toxic (B) transparent (C) triple (D) vague
+1144. Do you see the label with the picture of \_\_\_\_\_\_\_\_ and crossbones on the bottle? It may be poison.\
+      (A) snarl (B) skull (C) shrub (D) sergeant
+1145. The farmer lets his \_\_\_\_\_\_\_\_ out of the barn every morning, and lets them eat grass in the meadow nearby.\
+      (A) lodging (B) livestock (C) locomotive (D) legislation
+1146. Other than drinking, people also throw \_\_\_\_\_\_\_\_ or play pool at the bar.\
+      (A) dashes (B) crackers (C) cribs (D) darts
+1147. I did not book the ticket to the concert \_\_\_\_\_\_\_\_. Now I can only try my luck at the ticket booth.\
+      (A) ban (B) awhile (C) beforehand (D) behalf
+1148. The bride was carried by the groom over the \_\_\_\_\_\_\_\_ of their new house.\
+      (A) swamp (B) sway (C) thorn (D) threshold
+1149. The girl who is interested in the mass media wants to go into \_\_\_\_\_\_\_\_ after she graduates from the college.\
+      (A) kin (B) interpretation (C) journalism (D) lawmaker
+1150. There is an exhibition of \_\_\_\_\_\_\_\_ art in the museum, Many Chinese paintings are on display.\
+      (A) overall (B) outgoing (C) oriental (D) noticeable
+1151. \_\_\_\_\_\_\_\_ cars in traffic jam cause much more air pollution in the city.\
+      (A) Sociable (B) Sober (C) Stationary (D) Splendid
+1152. Many people like to travel to high \_\_\_\_\_\_\_\_ in summer to enjoy cool weather.\
+      (A) layers (B) latitudes (C) locusts (D) lizard
+1153. Joan turned down the fire so the soup could \_\_\_\_\_\_\_\_.\
+      (A) slaughter (B) shred (C) simmer (D) shatter
+1154. The villagers communicate with each other in a local \_\_\_\_\_\_\_\_.\
+      (A) democrat (B) dialect (C) doorway (D) dough
+1155. At night, I often heard the \_\_\_\_\_\_\_\_ from the upstairs, but there was no one.\
+      (A) torture (B) tramp (C) trio (D) tuition
+1156. This splendid \_\_\_\_\_\_\_\_ palace was built two hundred years ago.\
+      (A) horizontal (B) hostile (C) imperial (D) interior
+1157. During the dry season, the river is only three meters in \_\_\_\_\_\_\_\_.\
+      (A) boundary (B) botany (C) bribery (D) breadth
+1158. Since he got no response after knocking on the door, he looked through the window \_\_\_\_\_\_\_\_ to see if there was anybody inside.\
+      (A) pane (B) patrol (C) pamphlet (D) parlor
+1159. One of the features of the \_\_\_\_\_\_\_\_ is that their bodily temperature will change with the temperature around them.\
+      (A) reptiles (B) realms (C) reminders (D) republicans
+1160. The explosion \_\_\_\_\_\_\_\_ the windows and injured many people.\
+      (A) shattered (B) scrolled (C) shielded (D) shrieked
+1161. The brave \_\_\_\_\_\_\_\_ rushed into the house engulfed in flames to save a baby's life.\
+      (A) foe (B) folklore (C) fireman (D) fishery
+1162. To take exclusive photos, paparazzi often violate the privacy of \_\_\_\_\_\_\_\_.\
+      (A) cellists (B) chemists (C) celebrities (D) chefs
+1163. the church service begins with a choir singing some \_\_\_\_\_\_\_\_.\
+      (A) hoods (B) hoofs (C) hymns (D) howls
+1164. Turn \_\_\_\_\_\_\_\_ and you can turn on the faucet.\
+      (A) counterclockwise (B) crispy (C) crossing (D) countless
+1165. Mary was carrying a shopping bad with the \_\_\_\_\_\_\_\_ of the famous department store.\
+      (A) lump (B) logo (C) loop (D) mash
 
 ***
 
