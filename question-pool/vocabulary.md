@@ -1,5 +1,5 @@
 ---
-description: 單字相關題目。
+description: 單字相關題目，範圍約為7000單以內。
 ---
 
 # Vocabulary

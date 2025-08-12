@@ -74,8 +74,9 @@ Author: Yusuf 100
 
 一堆不同大題的練習題目。
 
-* [Vocabulary](question-pool/vocabulary.md)
-* [Cloze](question-pool/cloze.md)
-* [Fill in the Blanks](question-pool/fill-in-the-blanks.md)
-* [Discourse Structure](question-pool/discourse-structure.md)
-* [Reading Comprehension](question-pool/reading-comprehension.md)
+* 單字：[Vocabulary](question-pool/vocabulary.md)
+* 克漏字：[Cloze](question-pool/cloze.md)
+* 文意選填：[Fill in the Blanks](question-pool/fill-in-the-blanks.md)
+* 篇章結構：[Discourse Structure](question-pool/discourse-structure.md)
+* 閱讀測驗：[Reading Comprehension](question-pool/reading-comprehension.md)
+* 字彙選擇與片語：[Word Choices & Phrases](question-pool/word-choices-and-phrases.md)
