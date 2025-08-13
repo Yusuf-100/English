@@ -2,9 +2,72 @@
 description: 文意選填相關題目。
 ---
 
-# Fill in the Blanks
+# Copy of Fill in the Blanks
+
+## 答案
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+**A**：(BD)(AD)(AC)(BC)A / (AB)EC(BE)D\
+**B**：(BC)(CE)(AC)C(BD) / E(BE)(DE)AD\
+**C**：C(AE)(AC)(AB)B / (BC)D(BE)(AD)A\
+**D**：CE(CD)(AE)(BE) / (AB)(BC)(DE)(BD)A\
+**E**：(AB)(BC)(AD)A(AE) / (AC)DB(BE)E\
+**F**：(AD)AC(AE)(BE) / (BD)(AB)EB(AC)\
+**G**：E(AC)DA(AD) / (BC)(AB)(BD)(BE)(AE)\
+**H**：C(AB)(BC)(BE)(BD) / A(AC)D(AE)E\
+**I**：C(BC)(AB)(BE)D / (BD)(AD)E(AE)B\
+**J**：(BE)D(AB)(AD)A / (BD)(AC)(BC)EC\
+**K**：JAHDB / GCFIE\
+**L**：CBHDE / IAFJG\
+**M**：JGAFE / BHIDC\
+**N**：FBHDE / JICGA\
+**O**：(BD)D(BC)(AC)(AE) / A(BE)(AB)BE\
+**P**：(BC)(AE)(AB)CB / (BD)E(BE)D(AD)\
+**Q**：(BE)(AB)(AE)A(BC) / (BD)(AC)DEB\
+**R**：HBFIA / DEGCJ\
+**S**：GDFIH / CJBAE\
+**T**：HFDAE / IGBJC\
+**U**：EJCDH / GAFBI\
+**V**：EFJGD / CAIHB\
+**W**：EFIHB / JGDCA\
+**X**：(BD)C(AD)(AB)(AE) / AD(BC)B(AC)\
+**Y**：BJFDC / EHGIA\
+**Z**：(BC)D(AE)(AC)(BD) / (BE)B(AD)EA\
+**AA**：(AE)(BD)CD(BC) / (AB)(AD)E(BE)B\
+**AB**：(AE)(AB)(BD)(BE)E / (BC)DC(AD)A\
+**AC**：D(AB)(AC)EA / BC(BC)(AE)(AD)\
+**AD**：E(AD)(AC)(BC)C / (AB)BA(AE)D\
+**AE**：(AC)D(AD)A(AB) / C(BC)EB(AE)\
+**AF**：(AD)C(AC)EA / (BD)B(BC)D(AE)\
+**AG**：(AD)(BD)E(BC)(AB) / A(AC)DC(BE)\
+**AH**：(AB)(AE)D(AC)(BD) / C(BC)(BE)(AD)E\
+**AI**：GAFJI / DBHEC\
+**AJ**：EDHJG / IFBAC\
+**AK**：FJEAH / BDCIG\
+**AL**：KLDGJ / CEHAB\
+**AM**：CGAJB / IDFEH\
+**AN**：IKBCD / EJAFH\
+**AO**：GDABF / CHIEJ\
+**AP**：\
+**AQ**：\
+**AR**：\
+**AS**：\
+**AT**：\
+**AU**：\
+**AV**：\
+**AW**：\
+**AX**：\
+**AY**：\
+**AZ**：
+
+</details>
 
 ***
+
+## 題目
 
 ### A.
 
@@ -12,14 +75,14 @@ description: 文意選填相關題目。
 
 <summary>點一下顯示答案</summary>
 
-KHGJA / FECLD
+
 
 </details>
 
-| A. complex   | B. when    | C. spice up | D. contented  |
-| ------------ | ---------- | ----------- | ------------- |
-| E. urban     | F. feasted | G. erupting | H. unloaded   |
-| I. overtakes | J. took in | K. which    | L. preferably |
+| A. complex    | B. when     | C. spice up  | D. contented   |
+| ------------- | ----------- | ------------ | -------------- |
+| E. urban      | AB. feasted | AC. erupting | AD. unloaded   |
+| AE. overtakes | BC. took in | BD. which    | BE. preferably |
 
 &#x20;       Naples is Italy's third-largest municipality. Its history stretches all the way back to the second millennium BC, \_\_\_1\_\_\_ makes it one of the world's oldest cities. When I traveled there, I wanted to explore an area where I could have all my accumulated burdens \_\_\_2\_\_\_. Despite that Naples lives under the constant threat of Mount Vesuvius \_\_\_3\_\_\_ at any time, fortunately for me, the volcano was quiet, as was the beginning of my tour when I paid a visit to Santa Chiara. I wandered through the cloisters and \_\_\_4\_\_\_ the beautiful majolica tiles and frescoes, contemplating how much history this old \_\_\_5\_\_\_ had been since it was built in the 1300s. I then traveled on to the Sansevro Chapel, where I \_\_\_6\_\_\_ my eyes on many awe-inspiring religious artworks and enjoyed a quiet atmosphere. On another day, I ended up strolling through La Pignaescca, the \_\_\_7\_\_\_ street market in Naples. The streets were filled with bustling crowds buying fresh produce for their meals. There was activity around every corner, and the wide variety of fresh seafood for sale was the very ingredient to \_\_\_8\_\_\_ a traveler's trip. Of course, I never visit Naples without eating its most famous dish: pizza, \_\_\_9\_\_\_ one with tomato sauce, basil, and fresh mozzarella cheese placed on top of raw dough that has been stretched to an even thickness baked in a wood-burning oven. Piazza Bellini is an ideal place to kick back at night, and it gave me a wonderful ending to each of my days. I would grab a gelato and find a place to sit, perfectly \_\_\_10\_\_\_ to be in such a splendid Italian city.
 
@@ -29,15 +92,15 @@ KHGJA / FECLD
 
 <summary>點一下顯示答案</summary>
 
-JNGCK / ELOAD
+
 
 </details>
 
-| A. assembled   | B. close to  | C. commissioned | D. during which |
-| -------------- | ------------ | --------------- | --------------- |
-| E. even though | F. gathering | G. give         | H. granted      |
-| I. landmark    | J. monuments | K. spiky        | L. to collect   |
-| M. where       | N. which     | O. that         |                 |
+| A. assembled   | B. close to   | C. commissioned | D. during which |
+| -------------- | ------------- | --------------- | --------------- |
+| E. even though | AB. gathering | AC. give        | AD. granted     |
+| AE. landmark   | BC. monuments | BD. spiky       | BE. to collect  |
+| CD. where      | CE. which     | DE. that        |                 |
 
 &#x20;       Few man-made structures are more famous than the Statue of Liberty, one of the most well-known and beloved \_\_\_1\_\_\_ in America. It was given as a gift to the United States from France as a symbol of their friendship. France aided the United States during the Revolutionary War. The two countries shared similar political views and situations in 1865, \_\_\_2\_\_\_ is what led to Edouard Rene Laboulaye suggesting that France \_\_\_3\_\_\_ the United States a symbol of their friendship. Once the basic idea for the statue was \_\_\_4\_\_\_, Bartholdi traveled to the United States in 1965 to determine the best location for the statue. He finally chose Bedloe's island because this location would put the statue at the gateway to America. The noble, goddess-like face, the long, flowing Roman robe, the \_\_\_5\_\_\_ crown, and the large tablet are all features that people on every continent of the world could easily identify.
 
@@ -51,16 +114,16 @@ JNGCK / ELOAD
 
 <summary>點一下顯示答案</summary>
 
-CIGFB / JDLHA
+
 
 </details>
 
-| A. rage         | B. consisted of | C. evolved      | D. contributed to |
-| --------------- | --------------- | --------------- | ----------------- |
-| E. innovative   | F. launch       | G. considerably | H. came           |
-| I. cutting-edge | J. monopolizing | K. comprising   | L. piracy         |
+| A. rage          | B. consisted of  | C. evolved       | D. contributed to |
+| ---------------- | ---------------- | ---------------- | ----------------- |
+| E. innovative    | AB. launch       | AC. considerably | AD. came          |
+| AE. cutting-edge | BC. monopolizing | BD. comprising   | BE. piracy        |
 
-&#x20;       Here's a look at how music listening has \_\_\_1\_\_\_ through the ages. In the beginning there was the phonograph invented by Thomas Edison. Not perfect though it was, it was a \_\_\_2\_\_\_ invention for its time. Around a decade later, German America inventor Emile Berliner camp up with an invention, gramophone, that \_\_\_3\_\_\_ bettered the phonograph and made possible the \_\_\_4\_\_\_ of the record player \_\_\_5\_\_\_ a turntable and speaker. It was not until Philips released the cassette tape in the mid-1960s that records ceased \_\_\_6\_\_\_ the music-listening scene. However, the inexpensive and portable nature of the cassette tape \_\_\_7\_\_\_ the rampant behavior of \_\_\_8\_\_\_. Then, in 2007, after the CDs, MP3 players and iPod \_\_\_9\_\_\_ music streaming, which soon became all the \_\_\_10\_\_\_.
+&#x20;       Here's a look at how music listening has \_\_\_1\_\_\_ through the ages. In the beginning there was the phonograph invented by Thomas Edison. Not perfect though it was, it was a \_\_\_2\_\_\_ invention for its time. Around a decade later, German America inventor Emile Berline camp up with an invention, gramophere, that \_\_\_3\_\_\_ bettered the phonograph and made possible the \_\_\_4\_\_\_ of the record player \_\_\_5\_\_\_ a turntable and speaker. It was not until Philips released the cassette tape in the mid-1960s that records ceased \_\_\_6\_\_\_ the music-listening scene. However, the inexpensive and portable nature of the cassette tape \_\_\_7\_\_\_ the rampant behavior of \_\_\_8\_\_\_. Then, in 2007, after the CDs, MP3 players and iPod \_\_\_9\_\_\_ music streaming, which soon became all the \_\_\_10\_\_\_.
 
 ### D.
 
@@ -68,15 +131,15 @@ CIGFB / JDLHA
 
 <summary>點一下顯示答案</summary>
 
-CEMIL / FJOKA
+
 
 </details>
 
-| A. alike   | B. analyzes    | C. drastically | D. durable     |
-| ---------- | -------------- | -------------- | -------------- |
-| E. embrace | F. extended    | G. immense     | H. literally   |
-| I. loyalty | J. merchandise | K. option      | L. projections |
-| M. revenue | N. temporarily | O. wanes       |                |
+| A. alike    | B. analyzes     | C. drastically | D. durable      |
+| ----------- | --------------- | -------------- | --------------- |
+| E. embrace  | AB. extended    | AC. immense    | AD. literally   |
+| AE. loyalty | BC. merchandise | BD. option     | BE. projections |
+| CD. revenue | CE. temporarily | DE. wanes      |                 |
 
 &#x20;       Over the past few years, c-store customers' expectations have changed \_\_\_1\_\_\_ because customers are now more comfortable with using mobile apps and other technology. When you \_\_\_2\_\_\_ technology to run your c-store, you can easily and quickly interact with your customers, have the opportunity to meet customers' demands, increase \_\_\_3\_\_\_, and improve convenience store profitability. Here are 4 top tips to boost your c-store profits and improve customer service and \_\_\_4\_\_\_:
 
@@ -98,14 +161,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 <summary>點一下顯示答案</summary>
 
-FJHAI / GDBLE
+
 
 </details>
 
-| A. given   | B. outreach     | C. responsible for | D. accessed   |
-| ---------- | --------------- | ------------------ | ------------- |
-| E. caution | F. vigorous     | G. as              | H. deploy     |
-| I. alert   | J. accounts for | K. despite         | L. amounts to |
+| A. given   | B. outreach      | C. responsible for | D. accessed    |
+| ---------- | ---------------- | ------------------ | -------------- |
+| E. caution | AB. vigorous     | AC. as             | AD. deploy     |
+| AE. alert  | BC. accounts for | BD. despite        | BE. amounts to |
 
 &#x20;       Lately there's been a \_\_\_1\_\_\_ discussion in the media and across all corners of the Internet about the speedy development of a vaccine for COVID-19, which \_\_\_2\_\_\_ millions of deaths worldwide. Indeed, the sooner we can create and \_\_\_3\_\_\_ a safe and effective vaccine, the sooner this pandemic can be brought under control. But \_\_\_4\_\_\_ the unprecedented pace at which the various vaccines being developed are moving forward, some concerns about whether the resulting product will be safe are being raised. As with any treatment or medical intervention, every vaccine has potential side effects, and it's unknown currently to what we should stay \_\_\_5\_\_\_. It'll take some time to find out for sure, \_\_\_6\_\_\_ there's just no way to speed up how the human body will respond to a vaccine. This is why vaccines - including the numerous coronavirus vaccines under development - must go through multiple stages of testing before they can be \_\_\_7\_\_\_. While most vaccines take between five to ten years to develop, the coronavirus vaccines have been estimated to be available within 12 to 18 months of the \_\_\_8\_\_\_ of the pandemic. This \_\_\_9\_\_\_ "warp speed" results. Because of the speed, some people think they should proceed with \_\_\_10\_\_\_ when it comes to whether or not they should become an early adopter of the vaccine.
 
@@ -115,14 +178,14 @@ FJHAI / GDBLE
 
 <summary>點一下顯示答案</summary>
 
-HACIL / KFEBG
+
 
 </details>
 
-| A. access    | B. adjust          | C. current | D. infant mortality |
-| ------------ | ------------------ | ---------- | ------------------- |
-| E. lead to   | F. life expectancy | G. offset  | H. peak             |
-| I. projected | J. raise           | K. shrink  | L. some             |
+| A. access     | B. adjust           | C. current | D. infant mortality |
+| ------------- | ------------------- | ---------- | ------------------- |
+| E. lead to    | AB. life expectancy | AC. offset | AD. peak            |
+| AE. projected | BC. raise           | BD. shrink | BE. some            |
 
 &#x20;       The world's population is likely to \_\_\_1\_\_\_ at 9.7 billion in 2064, and then decline to about 8.8 billion by the end of the century, as women get better \_\_\_2\_\_\_ to education and birth control, a new study has found. By 2100, 183 of 195 countries will not have fertility rates required to maintain the \_\_\_3\_\_\_ population, with a \_\_\_4\_\_\_ 2.1 births per woman. \_\_\_5\_\_\_ 23 countries - including Japan, Thailand, Italy, and Spain - will see populations \_\_\_6\_\_\_ by more than 50%, researchers said. The study also predicts major changes in the global age structure as fertility falls and \_\_\_7\_\_\_ increases, with an estimated 2.37 billion people over 65 years globally in 2100, compared with 1.7 billion under the age of 20. Researchers said that these "dramatic declines" in working-age populations in countries such as India and China, will both obstruct economic growth and \_\_\_8\_\_\_ shifts in global powers. Countries will have to rethink their immigration policies, and economies will have to \_\_\_9\_\_\_. Some experts suggest that populations decline could be \_\_\_10\_\_\_ by immigration, and that countries with liberal immigration policies will be better able to both maintain population size and support economic growth - even as fertility falls.
 
@@ -132,14 +195,14 @@ HACIL / KFEBG
 
 <summary>點一下顯示答案</summary>
 
-EGDAH / JFKLI
+
 
 </details>
 
-| A. crust          | B. in addition to | C. hardly  | D. alone      |
-| ----------------- | ----------------- | ---------- | ------------- |
-| E. lies           | F. witness        | G. spans   | H. still      |
-| I. insignificance | J. sparse         | K. for all | L. invariably |
+| A. crust           | B. in addition to | C. hardly   | D. alone       |
+| ------------------ | ----------------- | ----------- | -------------- |
+| E. lies            | AB. witness       | AC. spans   | AD. still      |
+| AE. insignificance | BC. sparse        | BD. for all | BE. invariably |
 
 &#x20;       In the remotest corner of the earth \_\_\_1\_\_\_ Antarctica, the world's last great wilderness. Almost all of its land surface is covered with a vast ice sheet. This giant continent \_\_\_2\_\_\_ an area of about 14,000,000 square kilometers, and the ice sheet holds 70 percent of the world's fresh water.
 
@@ -155,14 +218,14 @@ EGDAH / JFKLI
 
 <summary>點一下顯示答案</summary>
 
-CFJLK / AGDIE
+
 
 </details>
 
-| A. checked        | B. suffers from | C. wipe out     | D. approval   |
-| ----------------- | --------------- | --------------- | ------------- |
-| E. favorable      | F. engineer     | G. exclusively  | H. spanned    |
-| I. with regard to | J. transmitted  | K. accounts for | L. reproduces |
+| A. checked         | B. suffers from | C. wipe out      | D. approval    |
+| ------------------ | --------------- | ---------------- | -------------- |
+| E. favorable       | AB. engineer    | AC. exclusively  | AD. spanned    |
+| AE. with regard to | BC. transmitted | BD. accounts for | BE. reproduces |
 
 &#x20;       Scientists are trying to genetically modify the world in which we live. They are even trying to \_\_\_1\_\_\_ diseases via genetic modification. For example, researchers have tried to \_\_\_2\_\_\_ mosquitoes to kill malaria parasites. The malaria parasite is carried by the female _Anopheles_ mosquito. When \_\_\_3\_\_\_ to a human, the parasite travels first to the liver and then on to the bloodstream, where it \_\_\_4\_\_\_ and destroys red blood cells. Each year, malaria \_\_\_5\_\_\_ an estimated 250 million people's death. Sadly, there are currently no effective or approved malaria vaccines to have the number of infected people \_\_\_6\_\_\_. To "kill" malaria, scientists are genetically modifying a bacterium in mosquito so that it releases toxic compounds, which are ensured to do no harm to humans but to the mosquito \_\_\_7\_\_\_. They do kill of the malaria parasite, however, making the mosquito incapable of infecting humans with malaria. Despite this achievement, scientists are faced with the challenge of gaining public \_\_\_8\_\_\_ for this genetic modification \_\_\_9\_\_\_ mosquitoes and malaria control. Instead of giving \_\_\_10\_\_\_ response, environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health.
 
@@ -172,14 +235,14 @@ CFJLK / AGDIE
 
 <summary>點一下顯示答案</summary>
 
-CJFLD / KHEIB
+
 
 </details>
 
-| A. develop  | B. sarcastically | C. humble     | D. proceeded |
-| ----------- | ---------------- | ------------- | ------------ |
-| E. yields   | F. met with      | G. ironical   | H. heralding |
-| I. dwindled | J. pursuing      | K. along with | L. ounce     |
+| A. develop   | B. sarcastically | C. humble      | D. proceeded  |
+| ------------ | ---------------- | -------------- | ------------- |
+| E. yields    | AB. met with     | AC. ironical   | AD. heralding |
+| AE. dwindled | BC. pursuing     | BD. along with | BE. ounce     |
 
 &#x20;       Walt Disney was born on December 5, 1901, in Chicago. As a child, he had a \_\_\_1\_\_\_ beginning, making money by selling pictures he had drawn to his neighbors. In high school, he took classes with a view to \_\_\_2\_\_\_ his interest in art and photography. Later on, he got a job making commercials and cartoons. He started his own company but \_\_\_3\_\_\_ many obstacles and ran out of money. However, there wasn't a(n) \_\_\_4\_\_\_ of the thought of giving up in his mind. Instead, he \_\_\_5\_\_\_ with his brother and a friend to Hollywood in 1923 and established the Disney Brothers Cartoon Studio. \_\_\_6\_\_\_ Mickey Mouse, Disney's studio also created Minnie Mouse, Donald Duck, Goofy, and Pluto. These characters became very famous, \_\_\_7\_\_\_ the arrival of a Disney family to come. With good \_\_\_8\_\_\_, the company expanded and hired several employees, but again faced hardship in the 1940s, and many of the employees quit. Still, Disney's passion never \_\_\_9\_\_\_. He created many more movies and TV shows, and in 1955, he opened Disneyland, but died \_\_\_10\_\_\_ in 1966, before the second Disney resort was opened.
 
@@ -189,20 +252,20 @@ CJFLD / KHEIB
 
 <summary>點一下顯示答案</summary>
 
-LDFHA / KGJEC
+
 
 </details>
 
-| A. assert  | B. aware         | C. due       | D. undergoing    |
-| ---------- | ---------------- | ------------ | ---------------- |
-| E. found   | F. characterizes | G. knowing   | H. alternating   |
-| J. founded | K. intensely     | L. advocates | M. unprecedented |
+| A. assert   | B. aware          | C. due        | D. undergoing     |
+| ----------- | ----------------- | ------------- | ----------------- |
+| E. found    | AB. characterizes | AC. knowing   | AD. alternating   |
+| AE. founded | BC. intensely     | BD. advocates | BE. unprecedented |
 
 &#x20;       In 2020, _The Queen's Gambit_, a Netflix show about chess, took the world by storm and sparked a(n) \_\_\_1\_\_\_ interest in the cerebral game. What many of chess's new proponents may not have realized, though, is that there is another closely connected activity \_\_\_2\_\_\_ a revival in popularity: chessboxing.
 
 &#x20;       This hybrid sport \_\_\_3\_\_\_ the ultimate thinking game along with the ultimate fighting sport. The ideas is relatively straightforward: Competitors play \_\_\_4\_\_\_ rounds of four-minute speed chess and three-minute boxing. At first glance, the two sports - and, yes, we \_\_\_5\_\_\_ chess is a sport - have little in common. It would be weird to see an average chess player present at the boxing ring, fighting, and vice versa. But \_\_\_6\_\_\_ of chessboxing point out that both individual sports actually involve a lot of strategy and hinge on your opponent not \_\_\_7\_\_\_ what you will do next. The real challenge for chessboxers is to deal with the transition from an adrenaline-fueled boxing ring to an \_\_\_8\_\_\_ focused chessboard and back again.
 
-&#x20;       Chessboxing traces its origins to an appearance in a 1992 graphic novel Froid Équateur, by French director Enki Bilal. In 2013, a Dutch artist called Iepe Rubingh helped \_\_\_9\_\_\_ the World Chess Boxing Organization and took part in the first five chessboxing. Over the next few years, the sport spread like wildfire across Europe.
+&#x20;       Chessboxing traces its origins to an appearance in a 1992 graphic novel Froid Equateur, by French director Enki Bilal. In 2013, a Dutch artist called Ispe Rubingh helped \_\_\_9\_\_\_ the World Chess Boxing Organization and took part in the first five chessboxing. Over the next few years, the sport spread like wildfire across Europe.
 
 &#x20;       Nowadays, matches are played all over the world, from Russia and China to India and Iran. Many involved in the sport hope that it will be included in the 2024 Olympic Games, \_\_\_10\_\_\_ to be held in Paris. At the same time, if Netflix is looking for another idea for a show, chessboxing could be a winner.
 
@@ -212,7 +275,7 @@ LDFHA / KGJEC
 
 <summary>點一下顯示答案</summary>
 
-JAHDB / GCFIE
+
 
 </details>
 
@@ -231,7 +294,7 @@ JAHDB / GCFIE
 
 <summary>點一下顯示答案</summary>
 
-CBHDE / IAFJG
+
 
 </details>
 
@@ -250,7 +313,7 @@ CBHDE / IAFJG
 
 <summary>點一下顯示答案</summary>
 
-JGAFE / BHIDC
+
 
 </details>
 
@@ -271,14 +334,14 @@ JGAFE / BHIDC
 
 <summary>點一下顯示答案</summary>
 
-FBHDE / JICGA
+
 
 </details>
 
 | A. available    | B. characterized | C. home    | D. mix     |
 | --------------- | ---------------- | ---------- | ---------- |
 | E. intensifying | F. justice       | G. species | H. springs |
-| I. thrives      | J. venturing     |            |            |
+| I. thrives      | J. vanturing     |            |            |
 
 &#x20;       Not for faint of heart, Death Valley National Park is the hottest and driest desert set between high, snowcapped mountains in southwestern U.S. The name doesn't do \_\_\_1\_\_\_ to the vibrancy of Death Valley, though. Its colorful and complex geology has long attracted the attention of adventurers.
 
@@ -294,14 +357,14 @@ FBHDE / JICGA
 
 <summary>點一下顯示答案</summary>
 
-KDJGI / ALFBE
+
 
 </details>
 
-| A. ordeal         | B. pleaded with | C. catered to    | D. characteristic of |
-| ----------------- | --------------- | ---------------- | -------------------- |
-| E. fled           | F. resolutely   | G. distributed   | H. despite           |
-| I. compensate for | J. in           | K. captivated by | L. for all           |
+| A. ordeal          | B. pleaded with | C. catered to     | D. characteristic of |
+| ------------------ | --------------- | ----------------- | -------------------- |
+| E. fled            | AB. resolutely  | AC. distributed   | AD. despite          |
+| AE. compensate for | BC. in          | BD. captivated by | BE. for all          |
 
 &#x20;       Percy Bysshe Shelly was one of the great English Romantic poets. Imaginative and emotional, people are still \_\_\_1\_\_\_ his poems today. Born in 1792, Shelley was also a wonderful writer of lyric poetry, a form of poetry usually written in the first person and thus \_\_\_2\_\_\_ personal feelings. His famous work _Prometheus Unbound_, for instance, is a fine example of what's known as a lyrical drama, a play written \_\_\_3\_\_\_ lyrical verse.
 
@@ -313,14 +376,14 @@ KDJGI / ALFBE
 
 <summary>點一下顯示答案</summary>
 
-JIFCB / KELDH
+
 
 </details>
 
-| A. derive from | B. threatened | C. allegedly | D. colonies |
-| -------------- | ------------- | ------------ | ----------- |
-| E. where       | F. owing to   | G. ideally   | H. coined   |
-| I. at bay      | J. come in    | K. dead      | L. secluded |
+| A. derive from | B. threatened | C. allegedly | D. colonies  |
+| -------------- | ------------- | ------------ | ------------ |
+| E. where       | AB. owing to  | AC. ideally  | AD. coined   |
+| AE. at bay     | BC. come in   | BD. dead     | BE. secluded |
 
 &#x20;       There are about 5,000 different species of ladybugs in the world. They \_\_\_1\_\_\_ many different colors and patterns, but the most familiar in North America is the seven-spotted ladybug, with its shiny, red-and-black body. In many cultures, ladybugs are considered good luck, able to keep danger \_\_\_2\_\_\_. Most people like ladybugs because they are pretty, graceful, and harmless to humans. But farmers love them \_\_\_3\_\_\_ their huge appetite for aphids and other plant-eating pests. One ladybug \_\_\_4\_\_\_ eats up to 5,000 insects its lifetime! Avid eaters aside, ladybugs are colorful and they are colorful for a reason. Their markings tell predators: "Eat something else! I taste terrible." When \_\_\_5\_\_\_, the bugs will secrete an oily, foul-tasting fluid from joints in their legs. They may also play \_\_\_6\_\_\_. Ladybugs lay their eggs in clusters or rows on the underside of a leaf, usually \_\_\_7\_\_\_ aphids have gathered. Ladybugs are most active from spring until fall. When the weather turns cold, they look for a warm, \_\_\_8\_\_\_ place to hibernate, such as in rotting logs, under rocks, or even inside houses. These hibernating \_\_\_9\_\_\_ can contain thousands of ladybugs. The name "ladybug" was \_\_\_10\_\_\_ by European farmers who prayed to the Virgin Mary when pests began eating their crops. After ladybugs came and wiped out the invading insects, the farmers named them "beetle of Our Lady." This eventually was shortened to "lady beetle" and "ladybug." NASA even sent a few ladybugs into space with aphids to see how aphids would escape in zero gravity.
 
@@ -330,14 +393,14 @@ JIFCB / KELDH
 
 <summary>點一下顯示答案</summary>
 
-LFIAJ / KGDEB
+
 
 </details>
 
-| A. vaccines | B. predators  | C. reproducing | D. as such    |
-| ----------- | ------------- | -------------- | ------------- |
-| E. thereby  | F. clotting   | G. perpetuate  | H. as much as |
-| I. diminish | J. retrieving | K. ones        | L. potential  |
+| A. vaccines  | B. predators   | C. reproducing | D. as such     |
+| ------------ | -------------- | -------------- | -------------- |
+| E. thereby   | AB. clotting   | AC. perpetuate | AD. as much as |
+| AE. diminish | BC. retrieving | BD. ones       | BE. potential  |
 
 &#x20;       Although mosquitoes spread disease all over the world, there is some hope that mosquito saliva may have some \_\_\_1\_\_\_ use for the treatment of the worldwide killer of humans: cardiovascular disease. Chemicals in mosquito saliva stop human blood from \_\_\_2\_\_\_. Thanks to mosquitoes, new anti-\_\_\_2\_\_\_ drugs that \_\_\_3\_\_\_ the risk of heart attacks and strokes may soon be developed. There's even research going on into the possibility of turning mosquitoes into living \_\_\_4\_\_\_. Secondly, mosquitoes help pollinate. Only those females of some mosquito species need a meal of blood to get the proteins necessary to lay eggs. For the most part, male and female adult mosquitoes depend on nectar for energy. While \_\_\_5\_\_\_ nectar, mosquitoes pollinate plants, especially the aquatic \_\_\_6\_\_\_ while they spend much of their lives. They help make these plants thrive and \_\_\_7\_\_\_ them. Lastly, mosquito larva are aquatic insects, and \_\_\_8\_\_\_, play an important role in the aquatic food chain. Mosquito of other larvae eat algae, fungi, and dead bodies of other insects, and they eat all the time! And so efficient they are in consuming the biological waste in nature that they absorb plenty of nutrients, \_\_\_9\_\_\_ making themselves nutritious snacks bars for their \_\_\_10\_\_\_.
 
@@ -347,7 +410,7 @@ LFIAJ / KGDEB
 
 <summary>點一下顯示答案</summary>
 
-HBFIA / DEGCJ
+
 
 </details>
 
@@ -368,7 +431,7 @@ HBFIA / DEGCJ
 
 <summary>點一下顯示答案</summary>
 
-GDFIH / CJBAE
+
 
 </details>
 
@@ -391,7 +454,7 @@ GDFIH / CJBAE
 
 <summary>點一下顯示答案</summary>
 
-HFDAE / IGBJC
+
 
 </details>
 
@@ -414,7 +477,7 @@ HFDAE / IGBJC
 
 <summary>點一下顯示答案</summary>
 
-EJCDH / GAFBI
+
 
 </details>
 
@@ -433,7 +496,7 @@ EJCDH / GAFBI
 
 <summary>點一下顯示答案</summary>
 
-EFJGD / CAIHB
+
 
 </details>
 
@@ -456,7 +519,7 @@ EFJGD / CAIHB
 
 <summary>點一下顯示答案</summary>
 
-EFIHB / JGDCA
+
 
 </details>
 
@@ -477,14 +540,14 @@ EFIHB / JGDCA
 
 <summary>點一下顯示答案</summary>
 
-KCHFI / ADJBG
+
 
 </details>
 
-| A. outcasts  | B. cash in on  | C. genre    | D. relatively  |
-| ------------ | -------------- | ----------- | -------------- |
-| E. dominates | F. invaded     | G. real     | H. occupying   |
-| I. strikes   | J. constructed | K. template | L. potentially |
+| A. outcasts  | B. cash in on   | C. genre     | D. relatively   |
+| ------------ | --------------- | ------------ | --------------- |
+| E. dominates | AB. invaded     | AC. real     | AD. occupying   |
+| AE. strikes  | BC. constructed | BD. template | BE. potentially |
 
 &#x20;       Using Karl Albrech Ph.D's Fear Hierarchy as a \_\_\_1\_\_\_, we can see that the \_\_\_2\_\_\_ of zombies covers all the basics:\
 Extinction: This could be simplified as a fear of death, and also expanded to cover the notion of humans no longer \_\_\_3\_\_\_ a major position in the world.\
@@ -501,7 +564,7 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 <summary>點一下顯示答案</summary>
 
-BJFDC / EHGIA
+
 
 </details>
 
@@ -524,14 +587,14 @@ BJFDC / EHGIA
 
 <summary>點一下顯示答案</summary>
 
-JDIGK / LBHEA
+
 
 </details>
 
-| A. initiatives | B. accounts for        | C. suffering | D. thereby  |
-| -------------- | ---------------------- | ------------ | ----------- |
-| E. civic       | F. accounts for        | G. acute     | H. dogmatic |
-| I. additive    | J. having been plagued | K. alike     | L. suffer   |
+| A. initiatives | B. accounts for         | C. suffering | D. thereby   |
+| -------------- | ----------------------- | ------------ | ------------ |
+| E. civic       | AB. accounts for        | AC. acute    | AD. dogmatic |
+| AE. additive   | BC. having been plagued | BD. alike    | BE. suffer   |
 
 &#x20;       After \_\_\_1\_\_\_ for nearly 20 years, the United Nations Environment Programme proudly announced in August 2021 that no country now uses leaded gasoline for vehicles, \_\_\_2\_\_\_ heralding a new era for health and the environment. In 1922, a certain kind of lead was used as a fuel \_\_\_3\_\_\_. It improved engine performance, and by the 1970s, almost all gasoline in the world included lead. However, the consequences for humans and the environment were quite \_\_\_4\_\_\_. As leaded fuel burns, it contaminates air, water, and soil \_\_\_5\_\_\_. Humans exposed to lead \_\_\_6\_\_\_ heart disease, cancer, and strokes. Lead also \_\_\_7\_\_\_ a variety of developmental issues in children. By the 1980s, most countries had stopped using leaded fuel, but there were still a \_\_\_8\_\_\_ few in the early 2000s. UNEP coordinated with governments and private companies as well as \_\_\_9\_\_\_ groups to find ways to end the use of leaded fuel in those countries. Their success shows that humanity can fix mistakes it has made, which gives hope to those working on other \_\_\_10\_\_\_ related to transportation changes.
 
@@ -541,14 +604,14 @@ JDIGK / LBHEA
 
 <summary>點一下顯示答案</summary>
 
-IKCDJ / FHELB
+
 
 </details>
 
-| A. hence      | B. hypothesis | C. carcasses | D. imagining  |
-| ------------- | ------------- | ------------ | ------------- |
-| E. revitalize | F. grazing    | G. envision  | H. underneath |
-| I. prospect   | J. altered    | K. sequence  | L. however    |
+| A. hence      | B. hypothesis | C. carcasses | D. imagining   |
+| ------------- | ------------- | ------------ | -------------- |
+| E. revitalize | AB. grazing   | AC. envision | AD. underneath |
+| AE. prospect  | BC. altered   | BD. sequence | BE. however    |
 
 &#x20;       Advances in genetics, however, are making resurrecting lost animals a tangible \_\_\_1\_\_\_. Scientists have already cloned endangered animals and can \_\_\_2\_\_\_ DNA extracted from the bones and \_\_\_3\_\_\_ of long-dead, extinct animals. Geneticists, led by Harvard Medical School's George Church, aim to bring the woolly mammoth, which disappeared 4,000 years ago, back to life, \_\_\_4\_\_\_ a future where the tusked ice age giant is restored to its natural habitat. Proponents say bringing back the mammoth in an \_\_\_5\_\_\_ form could help restore the fragile Arctic tundra ecosystem. They believe that before their extinction, \_\_\_6\_\_\_ animals like mammoths, horses and bison maintained the grasslands in our planet's northern reaches and kept the earth frozen \_\_\_7\_\_\_ by tramping down the grass, knocking down trees and compacting snow. Reintroducing mammoths and other large mammals to these places will help \_\_\_8\_\_\_ these environments and slow down permafrost thaw and the release of carbon. \_\_\_9\_\_\_, others argue that there's no evidence to back up this \_\_\_10\_\_\_, and it's was hard to imagine herds of cold-adapted elephants making any impact on an environment that's grappling with wild fires, riddled with mires and warming faster than anywhere else in the world.
 
@@ -558,14 +621,14 @@ IKCDJ / FHELB
 
 <summary>點一下顯示答案</summary>
 
-IFKLE / JDCHA
+
 
 </details>
 
-| A. at the cost of | B. replace    | C. intertwined | D. complex  |
-| ----------------- | ------------- | -------------- | ----------- |
-| E. somehow        | F. precedence | G. form        | H. as       |
-| I. in favor of    | J. substitute | K. laid        | L. may well |
+| A. at the cost of | B. replace     | C. intertwined | D. complex   |
+| ----------------- | -------------- | -------------- | ------------ |
+| E. somehow        | AB. precedence | AC. form       | AD. as       |
+| AE. in favor of   | BC. substitute | BD. laid       | BE. may well |
 
 &#x20;       When it comes to urban planning, the old is regularly sacrificed \_\_\_1\_\_\_ the new. Modern, forward-thinking progress thus frequently takes \_\_\_2\_\_\_ over the safeguarding of historic structures. The latter, however, are often closely \_\_\_3\_\_\_ with the cultural treasure of a city and its people. Many aging buildings are thus social treasures that \_\_\_4\_\_\_ be preserved. Locals, therefore, need to figure out a way to \_\_\_5\_\_\_ find room for both the old and the new. This is exactly what was achieved when property developers in New York wanted to \_\_\_6\_\_\_ a 25-screen movie house for an old theater on 42nd street. Such a large cinema \_\_\_7\_\_\_ obviously made a lot of financial sense. But, on the other hand, the old Empire Theater was famous for its historical significance and beautiful decorations. In the end, a compromise was reached by having the old building \_\_\_8\_\_\_ the entrance to the new mega movie house. This required some moving of the old structure and the Empire was thus raised a whole, and wheeled along a 170-foot track to a new location. Short \_\_\_9\_\_\_ the distance was, it took a whole week to complete this part of the project. It nevertheless proved that the new does not always need to be introduced \_\_\_10\_\_\_ the old. With just a little sweat, both can have a happy ending.
 
@@ -575,16 +638,16 @@ IFKLE / JDCHA
 
 <summary>點一下顯示答案</summary>
 
-DFGEA / BCJIH
+
 
 </details>
 
-| A. treats    | B. oppression  | C. decisive      | D. rhetorical     |
-| ------------ | -------------- | ---------------- | ----------------- |
-| E. racial    | F. a series of | G. is heavy with | H. as a result of |
-| I. eloquence | J. has yet to  |                  |                   |
+| A. treats     | B. oppression   | C. decisive       | D. rhetorical      |
+| ------------- | --------------- | ----------------- | ------------------ |
+| E. racial     | AB. a series of | AC. is heavy with | AD. as a result of |
+| AE. eloquence | BC. has yet to  |                   |                    |
 
-&#x20;       Martin Luther King, Jr.'s "I Have a Dream" speech is one of the most famous speeches of all time. What makes this speech so powerful is the heavy use of \_\_\_1\_\_\_ devices throughout. Let's look at some examples.
+&#x20;       Martin Luther King, Jr.'S "I Have a Dream" speech is one of the most famous speeches of all time. What makes this speech so powerful is the heavy use of \_\_\_1\_\_\_ devices throughout. Let's look at some examples.
 
 1. Anaphora: Anaphora refers to \_\_\_2\_\_\_ repetitions of a phrase. Most notably, the speech \_\_\_3\_\_\_ the repetition of "I have a dream." King also repeats "one hundred years later" to point out America's lack of progress toward \_\_\_4\_\_\_ justice.
 2. Metaphor: A metaphor \_\_\_5\_\_\_ one thing as something else. King uses the metaphor of describing freedom from \_\_\_6\_\_\_ as light. He also refers to Abraham Lincoln's \_\_\_7\_\_\_ action to free Black slaves 100 years earlier as a "beacon light of hope."
@@ -598,14 +661,14 @@ DFGEA / BCJIH
 
 <summary>點一下顯示答案</summary>
 
-EHGJC / FBAID
+
 
 </details>
 
-| A. incidence | B. therefore   | C. result in | D. shift   |
-| ------------ | -------------- | ------------ | ---------- |
-| E. literally | F. for example | G. grim      | H. sustain |
-| I. depended  | J. excessive   |              |            |
+| A. incidence | B. therefore    | C. result in | D. shift    |
+| ------------ | --------------- | ------------ | ----------- |
+| E. literally | AB. for example | AC. grim     | AD. sustain |
+| AE. depended | BC. excessive   |              |             |
 
 &#x20;       Groundwater is the world's primary source of freshwater. \_\_\_1\_\_\_ referring to water stored underground, groundwater is vital in many parts of the world. Specifically, in places where supplies of water from sources like rivers and lakes are scarce, groundwater is required to \_\_\_2\_\_\_ agriculture and for domestic needs, among other things.
 
@@ -617,14 +680,14 @@ EHGJC / FBAID
 
 <summary>點一下顯示答案</summary>
 
-GDHAF / CJEBI
+
 
 </details>
 
-| A. in short | B. concerns    | C. suit        | D. recent  |
-| ----------- | -------------- | -------------- | ---------- |
-| E. for      | F. composition | G. substantial | H. ethical |
-| I. at heart | J. for example |                |            |
+| A. in short  | B. concerns     | C. suit         | D. recent   |
+| ------------ | --------------- | --------------- | ----------- |
+| E. for       | AB. composition | AC. substantial | AD. ethical |
+| AE. at heart | BC. for example |                 |             |
 
 &#x20;       As the global population rises, so does the global demand for food. Currently, the meat industry is a \_\_\_1\_\_\_ contributor to greenhouse gas emissions. Therefore, in \_\_\_2\_\_\_ years, scientists and food workers have been developing substitutes for traditional meat. Meat analogues are one example of such \_\_\_3\_\_\_ substitutes. \_\_\_4\_\_\_, a meat analogue is a food made from plants but made to look and taste like meat. meat analogues are better known by such terms as "plant-based meat" and "vegetarian meat." Vegetarian meat is often soy-based, and its \_\_\_5\_\_\_ sometimes includes dairy products. Some containing no dairy products also exist to \_\_\_6\_\_\_ a vegan diet.
 
@@ -636,14 +699,14 @@ GDHAF / CJEBI
 
 <summary>點一下顯示答案</summary>
 
-HCGEA / KBJDI
+
 
 </details>
 
-| A. perceived   | B. contributed to | C. target    | D. boost               |
-| -------------- | ----------------- | ------------ | ---------------------- |
-| E. proportions | F. alternatively  | G. defying   | H. rigorous            |
-| I. cause       | J. true           | K. allegedly | L. took the credit for |
+| A. perceived   | B. contributed to | C. target     | D. boost                |
+| -------------- | ----------------- | ------------- | ----------------------- |
+| E. proportions | AB. alternatively | AC. defying   | AD. rigorous            |
+| AE. cause      | BC. true          | BD. allegedly | BE. took the credit for |
 
 &#x20;       This summer, Norway became the latest country to pass regulations that put \_\_\_1\_\_\_ restrictions on doctored images in advertising and media. Norway's new regulations \_\_\_2\_\_\_ these types of images by requiring social media influencers and advertisers to attach tags to retouched photos. Those \_\_\_3\_\_\_ the new laws could face heavy fines. Images in media often show seemingly perfect people, from supermodels with extraordinary \_\_\_4\_\_\_ to social media influencers with flawless faces. Yet most are not honest depictions, images are edited to erase or minimize any \_\_\_5\_\_\_ defects. The negative effects that image manipulation have on young people's self-esteem are \_\_\_6\_\_\_ documented in a 2016 study, which concluded that exposure to doctored Instagram selfies directly \_\_\_7\_\_\_ lower body image among teenagers. Norwegian lawmakers who passed the regulations have said they want children to grow up with a healthier self-image and a better sense of what realistic bodies look like, which, however, doesn't ring \_\_\_8\_\_\_ to the majority of the people. In fact, research studies on image disclaimers like the ones Norway is requiring have shown they don't do much at all to \_\_\_9\_\_\_ women's self-esteem, and may even increase comparisons by drawing more attention to the edited photos. Such labels also fail to address the root \_\_\_10\_\_\_: "There's an entire system set up to support certain body ideals," says Jacqueline Nessi, an assistant professor in psychiatry at Brown University.
 
@@ -653,14 +716,14 @@ HCGEA / KBJDI
 
 <summary>點一下顯示答案</summary>
 
-HKEJF / AGDCL
+
 
 </details>
 
-| A. taking place | B. practices   | C. proposed | D. mechanisms    |
-| --------------- | -------------- | ----------- | ---------------- |
-| E. where        | F. despite     | G. address  | H. pangs         |
-| I. concerning   | J. influential | K. ward off | L. complications |
+| A. taking place | B. practices    | C. proposed  | D. mechanisms     |
+| --------------- | --------------- | ------------ | ----------------- |
+| E. where        | AB. despite     | AC. address  | AD. pangs         |
+| AE. concerning  | BC. influential | BD. ward off | BE. complications |
 
 &#x20;       We've all felt hunger \_\_\_1\_\_\_, when our bodies tell us to give them the vital nutrients they require. Fortunately, most of us have the resources necessary to \_\_\_2\_\_\_ the discomfort. But what about those who don't? That's \_\_\_3\_\_\_ the United Nations Food and Agriculture Organization (FAO) comes in. Established on October 16, 1945, the FAO plays a(n) \_\_\_4\_\_\_ role in raising awareness of global poverty and hunger issues. As part of its awareness campaign, the FAO has hosted World Food Day annually since 1979. \_\_\_5\_\_\_ what his name might suggest, World Food Day isn't about highlighting the world's most interesting or tasty cuisines. Its purpose is to draw attention to the collective action \_\_\_6\_\_\_ across the globe to stop hunger. For instance, Mongolia organizes its Food Security Conference on World Food Day. The conference highlights the country's biggest food security issues and the research being done to \_\_\_7\_\_\_ them. It also recognizes the contributions of Mongolia's top researchers for their valuable work in developing sustainable food \_\_\_8\_\_\_. Every year, World Food Day organizers declare a theme, like 2016's "Climate is changing. Food and agriculture must too." Events that year focused on how the changing climate and the ensuing natural disasters had ruined crops, while also looking at \_\_\_9\_\_\_ solutions for more sustainable agricultural systems. Another theme, 2019's "Healthy diets for a zero hunger world," engaged in conversations about poverty. Not only are millions of people going hungry, but millions more are facing growing health \_\_\_10\_\_\_ because they can only afford unhealthy foods.
 
@@ -670,14 +733,14 @@ HKEJF / AGDCL
 
 <summary>點一下顯示答案</summary>
 
-FIDGK / CJLHE
+
 
 </details>
 
-| A. which    | B. reserved | C. be       | D. inclusive |
-| ----------- | ----------- | ----------- | ------------ |
-| E. vigilant | F. friction | G. stance   | H. gauge     |
-| I. them     | J. as       | K. reversed | L. inciting  |
+| A. which    | B. reserved  | C. be        | D. inclusive |
+| ----------- | ------------ | ------------ | ------------ |
+| E. vigilant | AB. friction | AC. stance   | AD. gauge    |
+| AE. them    | BC. as       | BD. reversed | BE. inciting |
 
 &#x20;       Social media platform Twitter accepted a purchase offer of US$44 billion from the world's richest person, Elon Musk, in April 2022. However, the deal has created \_\_\_1\_\_\_ and sparked heated debate. Musk is known to be a vocal user of Twitter with nearly 18,000 tweets, many of \_\_\_2\_\_\_ being controversial. Twitter has worked hard in recent years at being \_\_\_3\_\_\_ and promoting what confounder Jack Dorsey has described as "healthy conversation." Twitter has taken a tough \_\_\_4\_\_\_ against hate speech and extremist views, and has removed posts and banned users who promote such things. However, with Musk's purchase of the platform, it's feared that this might soon be \_\_\_5\_\_\_ under the pretext of promoting "freedom of speech." Musk says he believes social media should allow people to say what they feel without censorship. However, all communities, \_\_\_6\_\_\_ it online or real-world, have rules about good conduct. When people violate these rules in real life by using their freedom of speech as a way to harm others, they are often shunned. Online spaces are beginning to reflect this more and more, \_\_\_7\_\_\_ demonstrated by Twitter's 2021 decision to ban then-US President Donald Trump for \_\_\_8\_\_\_ the Capitol Hill riot. Freedom of speech is a right many people agree should be preserved, but it can be hard to \_\_\_9\_\_\_ the right balance. Musk's takeover is unlikely to have much real-world effect on Twitter, but it might mean that its millions of users must become more \_\_\_10\_\_\_ about fact-checking the things they read.
 
@@ -687,7 +750,7 @@ FIDGK / CJLHE
 
 <summary>點一下顯示答案</summary>
 
-GAFJI / DBHEC
+
 
 </details>
 
@@ -701,7 +764,7 @@ GAFJI / DBHEC
 
 <summary>點一下顯示答案</summary>
 
-EDHJG / IFBAC
+
 
 </details>
 
@@ -722,7 +785,7 @@ EDHJG / IFBAC
 
 <summary>點一下顯示答案</summary>
 
-FJEAH / BDCIG
+
 
 </details>
 
@@ -747,7 +810,7 @@ FJEAH / BDCIG
 
 <summary>點一下顯示答案</summary>
 
-KLDGJ / CEHAB
+
 
 </details>
 
@@ -772,7 +835,7 @@ KLDGJ / CEHAB
 
 <summary>點一下顯示答案</summary>
 
-CGAJB / IDFEH
+
 
 </details>
 
@@ -793,7 +856,7 @@ CGAJB / IDFEH
 
 <summary>點一下顯示答案</summary>
 
-IKBCD / EJAFH
+
 
 </details>
 
@@ -816,7 +879,7 @@ IKBCD / EJAFH
 
 <summary>點一下顯示答案</summary>
 
-GDABF / CHIEJ
+
 
 </details>
 
@@ -834,6 +897,195 @@ GDABF / CHIEJ
 &#x20;       Though South Korea's Samsung Electronics Corporation is in second place in this industry, it is another Taiwanese company - United Microelectronics Corporation (UMC) - that holds third place, with 7.2 percent of the market.
 
 &#x20;       With no end in sight to the \_\_\_10\_\_\_ global chip shortage, it is clear that Taiwan - and especially TSMC and UMC - will continue to play a vital role in the world economy.
+
+### AP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AQ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AR.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AS.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AT.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AU.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AV.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AW.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AX.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AY.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+### AZ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
+| A.   | B.   | C.   | D.   |
+| ---- | ---- | ---- | ---- |
+| E.   | AB.  | AC.  | AD.  |
+| AE.  | BC.  | BD.  | BE.  |
+
+&#x20;      &#x20;
+
+
 
 ***
 
