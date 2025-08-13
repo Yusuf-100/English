@@ -41,7 +41,9 @@ Author: Yusuf 100
 
 ***
 
-文法與片語是文章的靈魂，它讓一篇文章更加生動。我參考晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，依`詞類`及`功用`將他們分類，藉此加強文章語言架構的豐富度。
+## 文法
+
+文法與片語是文章的靈魂，它讓一篇文章更加生動。我將`詞類`或`功用`相似的文法放在一起，希望能更容易理解其應用的方式。
 
 * [Grammar](grammar/other-stuff.md)
 * [Phrases](vocabulary/some-phrases.md)
@@ -62,7 +64,7 @@ Author: Yusuf 100
 
 ## 翻譯
 
-除了單字、文法外，翻譯也是學測手寫的一大重點。因此，我也整理了相關內容，並將它們匯集起來。
+除了單字、文法外，翻譯也是學測手寫的一大重點。我參考了老師的講義和晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，整理了相關內容，並將它們匯集起來。
 
 * [Vocab & Examples](translation/vocab-and-examples.md)
 
