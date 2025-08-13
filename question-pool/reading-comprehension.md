@@ -4,47 +4,13 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 # Reading Comprehension
 
-答案
+## A.
 
 <details>
 
 <summary>點一下顯示答案</summary>
 
-**A \~ D**：BDBAC / CCBD / DDBC / ABDB\
-**E \~ H**：DDCBB / DAAC / AABC / DBDC\
-**I \~ L**：CBDC / BBAC / AADD / BDCD\
-**M \~ P**：ACDB / CAAD / CADD / DCBA\
-**Q \~ T**：DBD / DADB / AADD / ACB\
-**U \~ W**：DCBA / BCBD / CACB\
-**X**：AB / It features visits to places associated with human suffering and misery.; For some, dark tourism profits from death, and seldom benefits the victims of a disaster or tragedy or their family.; It helps visitors stay grounded, put the history into perspective, and avoid foolish mistakes. / 小林村\
-**Y \~ AB**：DCBD / DBDC / ACBDC / BCDA\
-**AC \~ AF**：CBBD / BDAC / CADB / CBD\
-**AG \~ AJ**：ACB / DC; increment; comply with; 50 dollars; full pay of one day be deducted from the salary; 40 dollars; 80 dollars / ADBC / BADC\
-**AK \~ AN**：CDCB / CA; (some) sand; (three) large rocks; Choose to Say "NO"; Write It Down / DCDB / CBAD\
-**AO \~ AR**：BBAD / C; They are related to attention and memory.; increased; got smaller; Ask; classify / ABAD / BBCC\
-**AS \~ AV**：CDB; passenger needs (future passenger needs)(future needs); noise; Not given; engines (the rear end (of the plane))(the back (of the plane))(tail) / CACD / AABC / insulted; the Duke of Austria, Leopold V; mint; BE\
-**AW \~AZ**：DCAB / BABB / BCDC / DD; (1)(2)(3); (4)(5); symptoms; protein; gamma; immune cells\
-**BA \~ BD**：DDBC / DCDB / ACBB / wind patterns; heat extremes; B; C; D; E; (5)\
-**BE \~ BH**：ABCD / BDCA / DCCB / CCAD\
-**BI \~ BL**：A bright red cottage with a white trim on the windows; Exhausted; Given the centuries of copper production at the Falun mine, there were enough waste products to create a new industry to last for generations; It was cheap and plentiful, and it was also discovered to protect structures from water damage and fungus growth due to its iron content / DADB / CCAA / ACDC\
-**BM \~ BP**：DBCA / D(CE); merit; I Bacari; I bet it's the best foodservice app you can find for Venice / BDBC / BDAB\
-**BQ \~ BT**：DACD / D; radiation; bleach-like substances; perchlorates; (4); (7); organic molecule; serpentinization; 2009 / CCBD / BBAA\
-**BU \~ BX**：BC; At the end of 2021; 80; 70 / \
-**BY \~ CB**：
-
-</details>
-
-***
-
-## 題目
-
-### A.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
+BDBAC
 
 </details>
 
@@ -87,17 +53,17 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CCBD
 
 </details>
 
-&#x20;       Not all engineering projects are feasible. For many years, starting in the 1920s, a German architect named Herman Sorgel attempted to carry out the world's largest and most difficult project, the Atlantropa project, by damming the Strait of Gibraltar and draining the Mediterranean Sea.
+&#x20;       Not all engineering projects are feasible. For many years, starting in the 1920s, a German architect named Herman Sörgel attempted to carry out the world's largest and most difficult project, the Atlantropa project, by damming the Strait of Gibraltar and draining the Mediterranean Sea.
 
 &#x20;       The Strait of Gibraltar, known to the ancient Greeks and Romans as the Pillars of Hercules, is the boundary between the Atlantic Ocean and the Mediterranean Seal. It's 14.3 kilometers across at its narrowest point, and it's one of the busiest sea routes in the world. Not only is it the entrance to the Mediterranean Sea, but it's on the quickest shipping route between northern Europe and China, as it takes advantage of the Suez Canal at the other end of the Mediterranean Sea.
 
-&#x20;       Sorgel's plan included building an enormous hydroelectric dam across the Strait of Gibraltar, complete with a set of locks - machines that raise and lower ships to help them get between two bodies of water with different water levels. The dam, in addition to generating a huge amount of electric power for Europe, would be used to lower the level of Mediterranean Sea by up to 200 meters. This would have created huge pieces of new farmland when the sea receded from the coast. A second dam would have bridged the now-narrower gap between North Africa and Sicily, allowing a road connection directly from northern Europe to Asia.
+&#x20;       Sörgel's plan included building an enormous hydroelectric dam across the Strait of Gibraltar, complete with a set of locks - machines that raise and lower ships to help them get between two bodies of water with different water levels. The dam, in addition to generating a huge amount of electric power for Europe, would be used to lower the level of Mediterranean Sea by up to 200 meters. This would have created huge pieces of new farmland when the sea receded from the coast. A second dam would have bridged the now-narrower gap between North Africa and Sicily, allowing a road connection directly from northern Europe to Asia.
 
-&#x20;       Sorgel's promises about the benefits of the Atlantropa project were numerous. He suggested it would solve unemployment for 100 years, provide nearly limitless natural energy, and make sure Europe remained sell-sufficient when it came to food. While the benefits seemed attractive, the costs of the project were decided to be too high, and Europe in the 20th century wasn't ready for the high levels of cooperation among countries that would be required.
+&#x20;       Sörgel's promises about the benefits of the Atlantropa project were numerous. He suggested it would solve unemployment for 100 years, provide nearly limitless natural energy, and make sure Europe remained sell-sufficient when it came to food. While the benefits seemed attractive, the costs of the project were decided to be too high, and Europe in the 20th century wasn't ready for the high levels of cooperation among countries that would be required.
 
 1. What is said about the Strait of Gibraltar?\
    (A) It separates Greece from North Africa.\
@@ -109,7 +75,7 @@ description: 閱讀測驗相關題目，含部分混合題。
    (B) Constructing a gigantic solar power plant.\
    (C) Damming the Mediterranean Sea to create power.\
    (D) Building a bridge across the Strait of Gibraltar.
-3. According to Herman Sorgel, what would be done by one of the many advantages of the project?\
+3. According to Herman Sörgel, what would be done by one of the many advantages of the project?\
    (A) It would solve the problem of global food shortage.\
    (B) It would provide numerous job opportunities.\
    (C) There would be sufficient power supply of Africa.\
@@ -123,7 +89,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DDBC
 
 </details>
 
@@ -132,13 +98,25 @@ description: 閱讀測驗相關題目，含部分混合題。
 &#x20;       Next time when someone has hurt you, calm yourself first. Take a deep breath and let the thoughts of whatever gives you pleasure naturally come into your mind. Mentally going over your hurt only gives power to the person who brought you pain. Instead, learn to look for love, beauty and kindness around you. Keep in mind that forgiveness does not necessarily mean accepting the action of the person who upset you. What you intend for is untying yourself from the offense committed against you. Finally, don't wait for an apology. "Many times the person who hurt you may never think of apologizing," says Dr. Luskin. "They may just not see things the same way." Try to see things from the other person's perspective. You may realize that he or she was acting out of ignorance, fear, or even love.
 
 1. The main purpose of this passage is to explain \_\_\_\_\_\_\_\_.\
-   (A) how to protect yourself from being hurt (B) how to stay physically healthy (C) how to remain calm and peaceful (D) why and how to pardon others
+   (A) how to protect yourself from being hurt\
+   (B) how to stay physically healthy\
+   (C) how to remain calm and peaceful\
+   (D) why and how to pardon others
 2. According to the article, which of the following is suggested after you are hurt?\
-   (A) Try to figure out why you get hurt. (B) Hold on to grudges and bitterness. (C) Accept what others have done to you. (D) Think about the pleasant things and forget about the hurt.
+   (A) Try to figure out why you get hurt.\
+   (B) Hold on to grudges and bitterness.\
+   (C) Accept what others have done to you.\
+   (D) Think about the pleasant things and forget about the hurt.
 3. You are suggested not to wait for an apology after being hurt because \_\_\_\_\_\_\_\_.\
-   (A) we should apologize to others first (B) people seldom want to apologize (C) people seldom sincere when they apologize (D) we might feel even worse after people apologize
+   (A) we should apologize to others first\
+   (B) people seldom want to apologize\
+   (C) people seldom sincere when they apologize\
+   (D) we might feel even worse after people apologize
 4. According to the article, which of the following is **NOT** the effects of forgiveness?\
-   (A) Lower blood pressure. (B) Better eating and sleep patterns. (C) Less anxious and fee from mental disorders. (D) Lower heart rate.
+   (A) Lower blood pressure.\
+   (B) Better eating and sleep patterns.\
+   (C) Less anxious and fee from mental disorders.\
+   (D) Lower heart rate.
 
 ### D.
 
@@ -146,7 +124,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+ABDB
 
 </details>
 
@@ -185,7 +163,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DDCBB
 
 </details>
 
@@ -200,13 +178,22 @@ description: 閱讀測驗相關題目，含部分混合題。
 &#x20;       Despite these criticisms. the popularity of aromatherapy continues to grow. But the debate over its usefulness continues as well. Many people wonder if aromatherapy is an effective therapy or just a way to make money. Only time will tell.
 
 1. The word "aromatherapy" means \_\_\_\_\_\_\_\_.\
-   (A) A special hot bath in hospitals (B) a way to breathe in steam (C) traditional massage using oils (D) treatment with essential oils
+   (A) A special hot bath in hospitals\
+   (B) a way to breathe in steam\
+   (C) traditional massage using oils\
+   (D) treatment with essential oils
 2. What kind of material is used in aromatherapy?\
    (A) Drugs. (B) Compounds extracted from the sea. (C) Water. (D) Essential oils.
 3. Which of the following is **NOT** the right way of using essential oils?\
-   (A) To breathe them in. (B) To massage them into one's skin. (C) To add them to drinking water. (D) To put them into a hot bath.
+   (A) To breathe them in.\
+   (B) To massage them into one's skin.\
+   (C) To add them to drinking water.\
+   (D) To put them into a hot bath.
 4. According to the article, who especially needs aromatherapy?\
-   (A) A boy who keeps crying. (B) A woman who is giving birth. (C) A worker who hurts his fingers. (D) A teenager who is overweight.
+   (A) A boy who keeps crying.\
+   (B) A woman who is giving birth.\
+   (C) A worker who hurts his fingers.\
+   (D) A teenager who is overweight.
 5. Which of the following statements is **NOT** true?\
    (A) People's feelings may be influenced by what they smell.\
    (B) Aromatherapy has been proved to be very effective.\
@@ -219,7 +206,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DAAC
 
 </details>
 
@@ -235,9 +222,15 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) Because they have never thought much about money.\
    (D) Because they think that money can provide what they are seeking in life.
 2. What is the primary purpose in life for compulsive gamblers?\
-   (A) To bet money. (B) To save money. (C) To earn a living. (D) To bring a smile to the lips of million readers.
+   (A) To bet money.\
+   (B) To save money.\
+   (C) To earn a living.\
+   (D) To bring a smile to the lips of million readers.
 3. What is the motivation for compulsive bargain hunters to buy things?\
-   (A) To save money. (B) To buy useless things. (C) To compete with gamblers. (D) To spend as much as they can.
+   (A) To save money.\
+   (B) To buy useless things.\
+   (C) To compete with gamblers.\
+   (D) To spend as much as they can.
 4. Why do compulsive bargain hunters buy potato peelers by the dozen?\
    (A) Because they need them.\
    (B) Because potato peelers are useful.\
@@ -250,7 +243,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+AABC
 
 </details>
 
@@ -264,7 +257,10 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) We had better eat more vegetables than meat in order to reduce the risk of dioxin pollution.\
    (D) We had better not breastfeed out babies, since babies are most likely to be poisoned by dioxin.
 2. When will dioxin be produced?\
-   (A) When plastics are burned. (B) During the making of hospital blood bags. (C) When reusables are disposed of. (D) During the handling of all kinds of medical waste.
+   (A) When plastics are burned.\
+   (B) During the making of hospital blood bags.\
+   (C) When reusables are disposed of.\
+   (D) During the handling of all kinds of medical waste.
 3. What does "**it**" in the least line refer to?\
    (A) Dioxin. (B) Cancer. (C) Medical waste. (D) Use of plastics.
 4. Which of the following statements can be inferred from the article?\
@@ -279,7 +275,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DBDC
 
 </details>
 
@@ -292,9 +288,15 @@ description: 閱讀測驗相關題目，含部分混合題。
 &#x20;       Nature's forms appear as a recurrent source of inspiration for Hadid's architecture. her designs are daring and visionary experiments with space and with the relationships of buildings to their urban surroundings. She consistently pushes the boundaries of architecture and urban design in the pursuit of a visionary aesthetic that expresses her ideals.
 
 1. According to the passage, what is a major factor in Hadid's success?\
-   (A) Her family support (B) Her ethnic origin (C) Her gender and education (D) Her vision and talent
+   (A) Her family support.\
+   (B) Her ethnic origin.\
+   (C) Her gender and education.\
+   (D) Her vision and talent.
 2. What does the author mean by "...**her star began to rise**..." in the second paragraph?\
-   (A) She started to make a fortune. (B) She became more recognized (C) Her designs became classical (D) Her ideas started to take shape.
+   (A) She started to make a fortune.\
+   (B) She became more recognized.\
+   (C) Her designs became classical.\
+   (D) Her ideas started to take shape.
 3. What is the third paragraph mainly about?\
    (A) The cultural background of Hadid's family.\
    (B) The beautiful landscape of Hadid's hometown.\
@@ -312,7 +314,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CBDC
 
 </details>
 
@@ -346,7 +348,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+BBAC
 
 </details>
 
@@ -383,7 +385,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+AADD
 
 </details>
 
@@ -415,7 +417,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+BDCD
 
 </details>
 
@@ -452,7 +454,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+ACDB
 
 </details>
 
@@ -487,7 +489,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CAAD
 
 </details>
 
@@ -530,7 +532,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CADD
 
 </details>
 
@@ -553,10 +555,10 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) Our ancestors might probably have faced threats from animals like leopards.\
    (D) Theories of its causes have failed to justify trypophobia as a mental disease.
 3. Which of the following sequences best describes the organization of this article?\
-   (A) Personal Opinion -> Reason -> Example -> Opinion\
-   (B) Description -> Evidence -> Further Explanation -> Proposal\
-   (C) Problem -> Solution -> Example -> Potential Difficulties\
-   (D) Definition -> Example -> Argument -> Possible Solution
+   (A) Personal Opinion -> Reason -> Example -> Opinion.\
+   (B) Description -> Evidence -> Further Explanation -> Proposal.\
+   (C) Problem -> Solution -> Example -> Potential Difficulties.\
+   (D) Definition -> Example -> Argument -> Possible Solution.
 4. According to this passage, which of the following is **NOT** a possible treatment for trypophobia?\
    (A) Sufferers might be advised to imagine beautiful things or scenery in his or her mind.\
    (B) Medication used to cure depression might be prescribed for the sufferers.\
@@ -569,7 +571,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DCBA
 
 </details>
 
@@ -608,7 +610,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DBD
 
 </details>
 
@@ -640,7 +642,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DADB
 
 </details>
 
@@ -651,7 +653,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 &#x20;       The symptoms that we are about to experience in enormous numbers, such as panic attacks, are not so much a physical illness as the result of severe mental impacts. While psychotherapy may be useful in controlling some obvious symptoms, a clear focus on meaning, or "mattering," is a deeper and long-lasting solution. Studies have demonstrated that those who have survived severe illness or injuries are able to make meanings for their lives. They begin to live on a "mattering map," deciding by themselves what really matters to them, and that is where they find safety and satisfaction. "Mattering" is a force stronger than and prior to matter. It gives us strength to focus on and bravely protect what we love and value most; with such a sense of purpose, we can conquer the ultimate fear of death in such hard times.
 
 1. What is this passage mainly about?\
-   (A) The possible treatment of COVID-19\
+   (A) The possible treatment of COVID-19.\
    (B) Useful advice for medical professionals.\
    (C) The role of psychotherapy in curing COVID-19 patients.\
    (D) Cause of and solution to post-pandemic mental problems.
@@ -666,10 +668,7 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) People who are poor and involved with some COVID-19 patients.\
    (D) People who are wealthy and aware of the COVID-19 consequences.
 4. What is the tone of the author in the final paragraph?\
-   (A) Questioning.\
-   (B) Optimistic.\
-   (C) Confused.\
-   (D) Indifferent.
+   (A) Questioning. (B) Optimistic. (C) Confused. (D) Indifferent.
 
 ### S.
 
@@ -677,7 +676,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+AADD
 
 </details>
 
@@ -716,7 +715,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+ACB
 
 </details>
 
@@ -727,7 +726,10 @@ description: 閱讀測驗相關題目，含部分混合題。
 &#x20;       Generally speaking, blasters will explode the major support columns on the lower floors first and then on a few upper stories. In a 20-story building, the blasters might blow the columns on the first and second floor, as well as the 12th and 15th floors. In most cases, blowing the support structures on the lower floors is sufficient for collapsing the building, but loading explosives on upper floors helps break the building material into smaller pieces as it falls. This makes for easier cleanup following the blast. The main challenge in bringing a building down is controlling the direction in which it falls. By controlling the way it collapses, a blasting crew will be able to tumble the building over on one side, into a parking lot or other open area. This sort of blast is the easiest to execute, and it is generally the safest way to go.
 
 1. What do the blasters need to do in preparing for the demolition of a building, according to the passage?\
-   (A) Study the structure of the building. (B) Hire an experienced tour guide. (C) Make a miniature of the building. (D) Consult the original architect.
+   (A) Study the structure of the building.\
+   (B) Hire an experienced tour guide.\
+   (C) Make a miniature of the building.\
+   (D) Consult the original architect.
 2. In most cases, where does the explosion start in the building during its destruction?\
    (A) The topmost layer. (B) The upper floors. (C) The lower levels. (D) The basement.
 3. What is the passage mainly about?\
@@ -742,7 +744,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DCBA
 
 </details>
 
@@ -765,7 +767,10 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) To give an example of why schools are not usable for children's learning.\
    (D) To show how structural damages of school can affect the quality of education.
 3. What does the phrase "**in the balance**" in the last paragraph most likely mean?\
-   (A) Being well taken care of. (B) In an uncertain situation. (C) Under control by the authority. (D) Moving in the wrong direction.
+   (A) Being well taken care of.\
+   (B) In an uncertain situation.\
+   (C) Under control by the authority.\
+   (D) Moving in the wrong direction.
 4. According to the passage, which of the following statements is true?\
    (A) The war in Syria has been going on since 2011.\
    (B) More than nine thousand schools have been destroyed by wars.\
@@ -778,13 +783,13 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+BCBD
 
 </details>
 
 &#x20;       Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.
 
-&#x20;       The first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria’s eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.
+&#x20;       The first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Feodorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria’s eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.
 
 &#x20;       Empress Maria was so delighted by this gift that Alexander appointed Fabergé a “goldsmith by special appointment to the Imperial Crown.” The Tsar also asked Fabergé to make an Easter egg every year. The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise. With excellent craftsmanship and an inventive spirit, **Peter Fabergé and his successors repeatedly met the challenge**. The House of Fabergé made approximately 50 Imperial Easter Eggs for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out.
 
@@ -796,13 +801,17 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) Tsar Alexander III received an order from Empress Maria.\
    (D) Peter Fabergé owned the most famous Russian jewelry house.
 2. What went missing from the first Fabergé egg?\
-   (A) A golden hen and a ruby egg. (B) A golden hen and a golden yolk. (C) A ruby egg and a diamond crown. (D) A golden yolk and a diamond crown.
+   (A) A golden hen and a ruby egg.\
+   (B) A golden hen and a golden yolk.\
+   (C) A ruby egg and a diamond crown.\
+   (D) A golden yolk and a diamond crown.
 3. What does it mean by “**Peter Fabergé and his successors repeatedly met the challenge**” in the third paragraph?\
    (A) They repeated their designs over and over.\
    (B) They fulfilled the Tsar’s requirements each time.\
    (C) They challenged the Tsar’s expectations every year.\
    (D)They were faced with unexpected difficulties time and again.
-4. Which of the following statements about the Fabergé eggs is true, according to the passage? (A) They were all genuine creations of the jeweler, Peter Fabergé.\
+4. Which of the following statements about the Fabergé eggs is true, according to the passage?\
+   (A) They were all genuine creations of the jeweler, Peter Fabergé.\
    (B) They were created to represent Russian emperors and their dynasty.\
    (C) They were made for annual Easter parties in the Russian imperial court.\
    (D)They were connected to the last two Russian emperors and their families.
@@ -813,7 +822,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CACB
 
 </details>
 
@@ -848,7 +857,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+A / B / It features visits to places associated with human suffering and misery.; For some, dark tourism profits from death, and seldom benefits the victims of a disaster or tragedy or their family.; It helps visitors stay grounded, put the history into perspective, and avoid foolish mistakes. / 小林村
 
 </details>
 
@@ -870,7 +879,7 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) "Photo-taking in any form is allowed at those sites of dark tourism for memory's sake."
 3. The passage is organized in the flow of "A definition -> Opposing opinions -> Author's perspective". Find the supporting sentence from the article and state them below.\
    A definition: \_\_\_\_\_\_\_\_ / Opposing opinions: \_\_\_\_\_\_\_\_ / Author's perspective: \_\_\_\_\_\_\_\_
-4. Recommend a place in Taiwan for dark tourism. (The place name can be written in Chinese.)
+4. Recommend a place in Taiwan for dark tourism. (The name can be written in Chinese.)
 
 ### Y.
 
@@ -878,7 +887,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DCBD
 
 </details>
 
@@ -893,7 +902,10 @@ description: 閱讀測驗相關題目，含部分混合題。
 1. Which of the following best describes the tone of this article?\
    (A) Cynical. (B) Humorous. (C) Pessimistic. (D) Respectful.
 2. According to the passage, for what purpose do the All Blacks perform the haka?\
-   (A) To anger their opponents. (B) To gain public attention and fame. (C) To boost their own spirits. (D) To show respect to their ancestors.
+   (A) To anger their opponents.\
+   (B) To gain public attention and fame.\
+   (C) To boost their own spirits.\
+   (D) To show respect to their ancestors.
 3. Which of the following is closest in meaning to the word “**practice**” in the last paragraph?\
    (A) Sport. (B) Performance. (C) Competition. (D) Occupation.
 4. According to the passage, which of the following statements is true?\
@@ -908,7 +920,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+DBDC
 
 </details>
 
@@ -926,7 +938,10 @@ description: 閱讀測驗相關題目，含部分混合題。
 2. The word "**ulcer"** in the second paragraph refers to a particular kind of?\
    (A) mental illness. (B) physical problem. (C) spiritual healing. (D) physiological treatment.
 3. According to the passage, which of following is a positive effect of stress?\
-   (A) Watching funny movies. (B) Doing relaxing exercise. (C) Avoiding difficult things successfully. (D) Reacting quickly in risky situations.
+   (A) Watching funny movies.\
+   (B) Doing relaxing exercise.\
+   (C) Avoiding difficult things successfully.\
+   (D) Reacting quickly in risky situations.
 4. Which of the following is true according to the passage?\
    (A) Taiwanese teens experience more stress than American teens.\
    (B) Stress is a state too complicated to be kept under full control.\
@@ -939,7 +954,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+ACBDC
 
 </details>
 
@@ -991,7 +1006,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+BCDA
 
 </details>
 
@@ -1014,7 +1029,10 @@ description: 閱讀測驗相關題目，含部分混合題。
    (C) It relies on negative force to pull out specific kinds of particles.\
    (D) It is currently being used for separating blood cells in medical research.
 3. What does "**that**" in the last paragraph refer to?\
-   (A) Transferring a massive amount of energy. (B) Making science fiction programs and movies. (C) Burning a large object into ashes. (D) Capturing spaceships in a beam of light.
+   (A) Transferring a massive amount of energy.\
+   (B) Making science fiction programs and movies.\
+   (C) Burning a large object into ashes.\
+   (D) Capturing spaceships in a beam of light.
 4. What is the tone of this passage?\
    (A) Objective. (B) Suspicious. (C) Admiring. (D) Pessimistic.
 
@@ -1024,7 +1042,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CBBD
 
 </details>
 
@@ -1041,7 +1059,10 @@ description: 閱讀測驗相關題目，含部分混合題。
 2. According to the examples mentioned in the passage, which blood type can we infer is the **LEAST** favored in Japan?\
    (A) Type A. (B) Type B. (C) Type O. (D) Type AB.
 3. Why did Prime Minister Ryu Matsumoto resign from office?\
-   (A) He revealed his rival’s blood type. (B) He was seen behaving rudely on TV. (C) He blamed his failings on local officials. (D) He was discriminated against because of blood type.
+   (A) He revealed his rival’s blood type.\
+   (B) He was seen behaving rudely on TV.\
+   (C) He blamed his failings on local officials.\
+   (D) He was discriminated against because of blood type.
 4. Which field is **NOT** mentioned in the passage as being affected by blood-type beliefs?\
    (A) Education. (B) Sports. (C) Business. (D) Medicine.
 
@@ -1051,7 +1072,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+BDAC
 
 </details>
 
@@ -1069,7 +1090,10 @@ description: 閱讀測驗相關題目，含部分混合題。
 2. Which of the following is closest in meaning to the word “**undertones**” in the first paragraph?\
    (A) Consequences. (B) Vocals. (C) Whispers. (D) Messages.
 3. What does the author use to support the idea that lullabies can have a soothing effect?\
-   (A) Research reports. (B) Examples found in history. (C) Stories of caretakers. (D) The author’s personal experiences.
+   (A) Research reports.\
+   (B) Examples found in history.\
+   (C) Stories of caretakers.\
+   (D) The author’s personal experiences.
 4. According to this passage, which of the following statements is true?\
    (A) Scary lullabies better help babies fall asleep.\
    (B) Mothers prefer to sing lullabies with a joyful melody.\
@@ -1082,7 +1106,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CADB
 
 </details>
 
@@ -1119,7 +1143,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+CBD
 
 </details>
 
@@ -1153,7 +1177,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+ACB
 
 </details>
 
@@ -1184,7 +1208,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 <summary>點一下顯示答案</summary>
 
-
+D / C / increment; comply with; 50 dollars; full pay of one day be deducted from the salary; 40 dollars; 80 dollars
 
 </details>
 
@@ -1249,7 +1273,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+ADBC
 
 </details>
 
@@ -1302,7 +1326,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BADC
 
 </details>
 
@@ -1319,7 +1343,10 @@ Fill in the penalties according to the passage.
 &#x20;       After World War II, laundry appliances became part of the notion of the ideal suburban home. **You weren’t keeping up with the Joneses** if you didn’t have a washing machine in your home pretty soon.
 
 1. How is the information in the passage organized?\
-   (A) By cause and effect. (B) In order of time. (C) In order of importance. (D) By definition and illustration.
+   (A) By cause and effect.\
+   (B) In order of time.\
+   (C) In order of importance.\
+   (D) By definition and illustration.
 2. When Sarah Bland, a woman living in the 1820s in America, wanted to clean her clothes, what was she most likely to say?\
    (A) “Making my own cleaner at home and scrubbing the clothes are killing me.”\
    (B) “All I need to do is put the dirty clothes into my electric washing machine.”\
@@ -1341,7 +1368,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CDCB
 
 </details>
 
@@ -1375,7 +1402,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+C / A / (some) sand; (three) large rocks / Choose to Say "NO"; Write It Down
 
 </details>
 
@@ -1407,10 +1434,7 @@ Fill in the penalties according to the passage.
    (C) To give readers some tips for time management that the blogger finds practical.\
    (D) To demonstrate how to relieve stress when facing time management problems.
 2. If the blogger uses a hashtag (#) when sharing this blog post, which of the following is most likely to be used?\
-   (A) #SelfRegulation\
-   (B) #SharingRecipes\
-   (C) #SportsTime\
-   (D) #NotificationOn
+   (A) #SelfRegulation (B) #SharingRecipes (C) #SportsTime (D) #NotificationOn
 3. The metaphor used by the blogger for prioritization is if you put in \_\_\_3\_\_\_ first, and then the small rocks, you won’t have room for \_\_\_4\_\_\_.
 4. Based on the tips offered by the blogger, write down the tips Elisa and Jun can follow.\
    Megan always overworks and she can’t focus. Tip: **Don’t’ Skip the Breaks**.\
@@ -1423,7 +1447,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DCDB
 
 </details>
 
@@ -1441,7 +1465,10 @@ Fill in the penalties according to the passage.
    (C) By explaining how to book accommodation and a taxi.\
    (D) By offering examples about the sharing economy.
 2. What does the word “**them**” in the second paragraph refer to?\
-   (A) The job opportunities. (B) The sharing platforms. (C) The millennials. (D) The Internet and mobile technology.
+   (A) The job opportunities.\
+   (B) The sharing platforms.\
+   (C) The millennials.\
+   (D) The Internet and mobile technology.
 3. Why does the writer conclude with the expression, “**Nevertheless, everything is a double-edged sword**”?\
    (A) The higher Airbnb stock gets, the lower prices consumers can enjoy.\
    (B) Trust and scams play a significant role in promoting the sharing economy.\
@@ -1457,7 +1484,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CBAD
 
 </details>
 
@@ -1501,7 +1528,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BBAD
 
 </details>
 
@@ -1537,7 +1564,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+C / They are related to attention and memory. / increased; got smaller / Ask; classify
 
 </details>
 
@@ -1570,7 +1597,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+ABAD
 
 </details>
 
@@ -1609,7 +1636,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BBCC
 
 </details>
 
@@ -1646,7 +1673,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+C / D / B / passenger needs (future passenger needs)(future needs); noise; Not given; engines (the rear end (of the plane))(the back (of the plane))(tail)
 
 </details>
 
@@ -1685,7 +1712,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CACD
 
 </details>
 
@@ -1708,15 +1735,9 @@ Fill in the penalties according to the passage.
    (C) It may be difficult to move around on small islands.\
    (D) They become less competitive due to lack of natural enemies.
 3. What does “**this group**” in the fourth paragraph refer to?\
-   (A) Fossil species.\
-   (B) Natural predators.\
-   (C) Big mammals.\
-   (D) Limited competitors.
+   (A) Fossil species. (B) Natural predators. (C) Big mammals. (D) Limited competitors.
 4. How does the author conclude the last paragraph?\
-   (A) With a prediction.\
-   (B) With a summary.\
-   (C) With a suggestion.\
-   (D) With an illustration.
+   (A) With a prediction. (B) With a summary. (C) With a suggestion. (D) With an illustration.
 
 ### AU.
 
@@ -1724,7 +1745,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+AABC
 
 </details>
 
@@ -1756,7 +1777,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+insulted / the Duke of Austria, Leopold V / mint / BE
 
 </details>
 
@@ -1786,7 +1807,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DCAB
 
 </details>
 
@@ -1823,7 +1844,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BABB
 
 </details>
 
@@ -1851,10 +1872,7 @@ Fill in the penalties according to the passage.
    (C) In other words, the more isolated a given species is, the more funding and attention it will receive."\
    (D) "After all, focusing on the environment will also be helpful for other species sharing the same habitat."
 4. What is the author's attitude toward flagship species in animal conservation?\
-   (A) Fully supportive.\
-   (B) Slightly concerned.\
-   (C) Certainly opposing.\
-   (D) Quite optimistic.
+   (A) Fully supportive. (B) Slightly concerned. (C) Certainly opposing. (D) Quite optimistic.
 
 ### AY.
 
@@ -1862,7 +1880,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BCDC
 
 </details>
 
@@ -1899,7 +1917,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+D / D / (1)(2)(3); (4)(5) / symptoms; protein; gamma; immune cells
 
 </details>
 
@@ -1913,10 +1931,7 @@ Fill in the penalties according to the passage.
 
     <div align="left"><figure><img src="../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure></div>
 2. Where are you most likely to read this passage?\
-   (A) Classified ad.\
-   (B) Advice column.\
-   (C) Promotional flyer.\
-   (D) Scientific journal.
+   (A) Classified ad. (B) Advice column. (C) Promotional flyer. (D) Scientific journal.
 3. A fact is a statement that is true, while an opinion is someone's feeling or belief about a topic. Which of the sentences numbered from (1) to (5) are facts or opinions? (各小題全對才給分)\
    Facts: \_\_\_3\_\_\_\
    Opinions: \_\_\_4\_\_\_
@@ -1929,7 +1944,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DDBC
 
 </details>
 
@@ -1966,7 +1981,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DCDB
 
 </details>
 
@@ -1989,7 +2004,7 @@ Fill in the penalties according to the passage.
    (C) There were no deaths or serious injuries during the years of carving work with heavy equipment and dynamite.\
    (D) Getting funding was a challenge during the construction, but there were few modifications to the design.
 3. What does the word "**concocted**" in the third paragraph most likely mean?\
-   (A) observed (B) displayed (C) proposed (D) invented
+   (A) observed. (B) displayed. (C) proposed. (D) invented.
 4. Which of the following aspects is **NOT** mentioned in the passage?\
    (A) When repairs to this national monument are made.\
    (B) Why Borglum carved the heads of four U.S. presidents.\
@@ -2002,7 +2017,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+ACBB
 
 </details>
 
@@ -2025,10 +2040,10 @@ Fill in the penalties according to the passage.
    (C) Cynthia Carroll improved safety and public relations in the mining industry.\
    (D) Rustenburg was full of uneducated workers who had language barriers with the managers.
 3. What does a **"bold stoke"** refer to in the fourth paragraph?\
-   (A) A unique, promising breakthrough\
-   (B) A daring, quick, forceful action\
-   (C) A noticeable, intriguing measure\
-   (D) A sudden change in the blood supply
+   (A) A unique, promising breakthrough.\
+   (B) A daring, quick, forceful action.\
+   (C) A noticeable, intriguing measure.\
+   (D) A sudden change in the blood supply.
 4. What can be inferred from this passage?\
    (A) Anglo American made a profit after they had a business partnership with the government.\
    (B) Some other mining companies followed Carroll and changed the unreasonable conditions.\
@@ -2041,7 +2056,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+wind patterns; heat extremes / B / C / D; E / (5)
 
 </details>
 
@@ -2077,7 +2092,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+ABCD
 
 </details>
 
@@ -2112,7 +2127,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BDCA
 
 </details>
 
@@ -2133,7 +2148,10 @@ Fill in the penalties according to the passage.
 3. Which of the following can be removed in the primary tanks?\
    (A) Wood. (B) Heavy material. (C) Grease. (D) Organic matter.
 4. What is the main reason that liquid sewage needs to go through sand?\
-   (A) To eliminate bacteria. (B) To drain water. (C) To dissolve solid particles. (D) To remove oil.
+   (A) To eliminate bacteria.\
+   (B) To drain water.\
+   (C) To dissolve solid particles.\
+   (D) To remove oil.
 
 ### BG.
 
@@ -2141,7 +2159,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DCCB
 
 </details>
 
@@ -2177,7 +2195,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CCAD
 
 </details>
 
@@ -2213,7 +2231,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+A bright red cottage with a white trim on the windows. / Exhausted / Given the centuries of copper production at the Falun mine, there were enough waste products to create a new industry to last for generations. / It was cheap and plentiful, and it was also discovered to protect structures from water damage and fungus growth due to its iron content.
 
 </details>
 
@@ -2236,7 +2254,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DADB
 
 </details>
 
@@ -2272,7 +2290,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CCAA
 
 </details>
 
@@ -2306,7 +2324,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+ACDC
 
 </details>
 
@@ -2341,7 +2359,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DBCA
 
 </details>
 
@@ -2375,7 +2393,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+D / CE / merit / I Bacari; I bet it's the best foodservice app you can find for Venice.
 
 </details>
 
@@ -2414,7 +2432,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BDBC
 
 </details>
 
@@ -2463,7 +2481,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BDAB
 
 </details>
 
@@ -2508,7 +2526,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+DACD
 
 </details>
 
@@ -2554,7 +2572,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+D / radiation; bleach-like substances; perchlorates / (4); (7) / organic molecule; serpentinization; 2009
 
 </details>
 
@@ -2585,7 +2603,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+CCBD
 
 </details>
 
@@ -2595,7 +2613,7 @@ Fill in the penalties according to the passage.
 
 &#x20;       For her invention, Aliana won the top prize of US$25,000 at a major science competition. She will use the money to improve her invention with LCD technology, which will put a TV-like image on the A-pillar instead of a projected image. Her next step will be getting a major car manufacturer to use the system.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 1. What is the purpose of the first paragraph?\
    (A) To resolve a disputable issue.\
@@ -2624,7 +2642,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+BBAA
 
 </details>
 
@@ -2660,7 +2678,7 @@ Fill in the penalties according to the passage.
 
 <summary>點一下顯示答案</summary>
 
-
+B / C / At the end of 2021 / 80; 70
 
 </details>
 
