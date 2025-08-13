@@ -2,7 +2,7 @@
 description: 字彙選擇與片語。每個大題的選項由名詞、形容詞、動詞或片語組成，各小題答案皆不重複。
 ---
 
-# Word Choice & Phrases
+# Word Choices & Phrases
 
 ## A.
 
@@ -244,7 +244,7 @@ CHEFI / GJBDA
 
 <summary>點一下顯示答案</summary>
 
-BACEDF
+BACED / F
 
 </details>
 

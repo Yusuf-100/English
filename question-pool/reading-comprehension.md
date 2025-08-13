@@ -4,7 +4,7 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 # Reading Comprehension
 
-## 答案
+答案
 
 <details>
 
@@ -39,6 +39,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 ## 題目
 
 ### A.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Why is it that the world loves Garfield? It's because this contemptible cat is everything we secretly want to be. Garfield is a cat whose life is devoted to two things: food and sleep. He does have a few other interests. He loves to fight with the mailman and he also enjoys playing jokes on his owner, Jon, and the brainless dog of the house, Odie. However, eating food - especially lasagna - and getting lots of sleep are his main drives, and he doesn't feel at all guilty about this. When one day he suddenly wonders if maybe there's more to life, he quickly decides, "Nah."
 
@@ -75,6 +83,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### B.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Not all engineering projects are feasible. For many years, starting in the 1920s, a German architect named Herman Sorgel attempted to carry out the world's largest and most difficult project, the Atlantropa project, by damming the Strait of Gibraltar and draining the Mediterranean Sea.
 
 &#x20;       The Strait of Gibraltar, known to the ancient Greeks and Romans as the Pillars of Hercules, is the boundary between the Atlantic Ocean and the Mediterranean Seal. It's 14.3 kilometers across at its narrowest point, and it's one of the busiest sea routes in the world. Not only is it the entrance to the Mediterranean Sea, but it's on the quickest shipping route between northern Europe and China, as it takes advantage of the Suez Canal at the other end of the Mediterranean Sea.
@@ -103,6 +119,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### C.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       When someone has deeply hurt you, it can be extremely difficult to let go of your anger. But when you don't practice forgiveness, you may be the one who pays most dearly. Feelings of hatred and ill will leave a lasting effect on our mind. Researchers studying the effects of forgiveness have made similar conclusions that holding on to grudges and bitterness results in long-term health problems. "People who forgive show less anger and more hopefulness," says Dr. Luskin, the author of _Forgive for Good_. Indeed, other studies have shown physical and mental benefits of forgiveness such as more energy, better appetite, and sleep patterns, as well as lower blood pressure, lower heart rate, fewer anxiety and depression symptoms, and even more friendship. By letting go of resentment and thoughts of revenge, you are actually the greatest winner.
 
 &#x20;       Next time when someone has hurt you, calm yourself first. Take a deep breath and let the thoughts of whatever gives you pleasure naturally come into your mind. Mentally going over your hurt only gives power to the person who brought you pain. Instead, learn to look for love, beauty and kindness around you. Keep in mind that forgiveness does not necessarily mean accepting the action of the person who upset you. What you intend for is untying yourself from the offense committed against you. Finally, don't wait for an apology. "Many times the person who hurt you may never think of apologizing," says Dr. Luskin. "They may just not see things the same way." Try to see things from the other person's perspective. You may realize that he or she was acting out of ignorance, fear, or even love.
@@ -117,6 +141,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (A) Lower blood pressure. (B) Better eating and sleep patterns. (C) Less anxious and fee from mental disorders. (D) Lower heart rate.
 
 ### D.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       You're excited about your upcoming vacation, but you want to make sure your flight booking is in order. After dialing, you hear a soothing voice say something like, "We're sorry, but all our customer service representatives are busy. Your business is very important to us. Please hold on until the next available representative is available. Thank you." Then you hear some music, which is often interrupted by commercials telling you how great the airline is or reminding you to stay on hold. This can easily go on for 10 minutes.
 
@@ -149,6 +181,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### E.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Have you ever thought that what you smell can influence the way you feel? A new therapy called "aromatherapy" claims that smells can influence our feelings and even our health.
 
 &#x20;       The word "aromatherapy" was first used by a French scientist in the 1920s. It combines the word "aroma," or smell, with "therapy," or treatment. Basically, aromatherapy uses essential oils and compounds extracted from plants. In aromatherapy, the smells of essential oils are inhaled. In other words, a person should breathe deeply while holding a bottle of essential oil close to his or her nose. Besides, essential oils can also be massaged directly into the skin or put into a hot bath.
@@ -175,6 +215,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### F.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Money destroys friendships, marriages, and family unity. Money, which in itself has no value, exerts more power over human lives than any other single commodity. It brings out the best and the worst in people. An elderly woman is mugged and beaten by two youths for less than a dollar, while across town an unemployed couple take in a runaway teenager and feed him just because he has even less than they do.
 
 &#x20;       The strange and illogical things that people do with and for money fill newspapers and bring a smile to the lips of millions of readers, whose own money behavior is almost as strange. In the United States, for example, it is estimated that there are approximately eight million compulsive gamblers, men and women whose primary purpose in life is to bet money. On the other side are millions of compulsive savers, who are compelled to save money with the same vengeance that drives compulsive gamblers to bet it. In the same class are millions of compulsive bargain hunters, who drive miles out of their way merely to save two cents on a gallon of gasoline, who buy potato peelers by the dozen because they are on sale at half the price, or who haunt swap meets and garage sales to buy anything that is cheap even if they have no use for it.
@@ -198,6 +246,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### G.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       According to the U.S. Environmental Protection Agency (EPA), medical waste is a major source of dioxin pollution in the country. Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics. Dioxin is an unwanted byproduct that is created when PVC is burned. Dioxin travels by air currents and settles onto grass, which is then eaten by cows and chickens in their feed. We eat polluted dairy products and meat and take the dioxin into our bodies, where it is stored in our fat for years and builds up over time. In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance. This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby. In fact, the infant is the most vulnerable member of society to this chemical.
 
 &#x20;       Plastics used to account for as little as 10% of medical waste in the late 1970s, before disposables began rapidly replacing reusables. They now make up as much as 30%. The EPA estimates that the average levels of dioxin in all Americans are so high that we can expect to see a variety of health effects, including cancer. Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals. After all, they can't be treating cancer on the inside of hospitals and contributing to **it** on the outside.
@@ -218,6 +274,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) You have to lose weight, or the amount of dioxin in your body fat will kill you.
 
 ### H.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Often named as the most prominent contemporary female architect, Zaha Hadid, an Iraqi-born British woman, is significant for her intellectual toughness and her refusal to compromise on her artistic ideas. For many years, her designs filled the pages of architecture journals but were dismissed as impractical or too radical. Also, being female in a male-dominated field didn't help her succeed.
 
@@ -244,6 +308,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### I.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The proverb “When in Rome, do as the Romans do” may be familiar to you, but the new rules may not. Rome introduced a host of new laws in 2019 to protect and preserve the heritage of the city. Visitors and residents can now get into trouble if they violate the new regulations by doing idiotic behaviors like jumping into the city’s famous Trevi Fountain or messy eating on the steps of historical monuments.
 
 &#x20;       Among these new rules, there’s one that has got people talking: no sitting on the Spanish Steps. Made famous by the movie _Roman Holiday_, these steps draw large crowds of people every day. Tourists can still take photos, but anyone caught sitting down can face a fine of up to €400. Strange as it may seem, the law was made with intentions to keep the ancient city of Rome beautiful for generations to come.
@@ -269,6 +341,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (A) A scientific journal. (B) An encyclopedia. (C) A travel brochure. (D) A dictionary.
 
 ### J.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       The Orange Alternative was an underground protest movement in Poland in the 1980s. Led by Waldemar Fydrych, the campaign achieved a considerable artistic victory over the Communism. Members resorted to graffiti or events to make fun of the social and political absurdity at that time. In the beginning the group started painting dwarves on walls that had been freshly painted to cover up anti-government slogans. The first dwarf was painted in 1982, on one of the residential buildings in Wroclaw. The action soon caught on and resulted in more than 1,000 dwarf graffiti throughout major Polish cities.
 
@@ -299,6 +379,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### K.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       When it comes to bears, we usually think about winter hibernation. We have heard about bears needing to eat and store fat for winter hibernation. But in fact, no large mammals actually hibernate. The process in which bears reduce activity is called torpor. In response to a shortage of food, decreasing temperatures and snow on the ground, hibernating bears enter a shallow torpor with a decrease in body temperature of only 10 degrees. Their metabolism and heart rate slow down. Unlike true hibernators such as squirrels, hibernating bears don’t need to eat, drink or pass waste. In order to survive, fat in their body breaks down into water and calories. What’s more, muscle and organ tissues break down to supply the body with protein.
 
 &#x20;       While true hibernators awake slowly because of the need to increase body temperature and metabolism, bears can awake from torpor suddenly if they sense danger. This is beneficial to female bears that usually bear cubs in winter. Mother bears can wake up once in a while to care for their cubs, which would not be possible if they were truly hibernating. Hibernation can last a few weeks in warmer parts of North America to 6 months in Alaska. In the mountains in Utah, female bears hibernate from October to May and males from November to April. When they wake up, they are hungry. It is a time when there are many bear encounters within the suburban areas because bears will venture into these parts to find food. Therefore, \_\_\_\_\_\_\_\_.
@@ -322,6 +410,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) hikers and campers need to take precautions during this time.
 
 ### L.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       As we move into the 21st century, conventional schooling doesn't seem to be intriguing for most students. Many researchers in the US and Canada have recently examined the percentage of students engaged in their classrooms from kindergarten to Grade 12. Based on a study of Lee Jenkins in 2013, in the early grades about 95% of students are engaged followed by an ever-increasing decline to about 39% by the time students reach Grade 11. Gallup Poll in 2016 also reported that at least a third of students are actively disengaged. All this is not so much a criticism as it is implied that schooling set up 150 years ago may not suited for the present times. Furthermore, the future job market is not only unpredictable but also on the decrease as the rise of robots takes its toll on the number of jobs that will be available.
 
@@ -352,6 +448,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### M.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       To David Sklansky, the author of "_The Theory of Poker_," poker is a seemingly simple but actually profound and subtle game. Its rules can easily be picked up by kids in just a few open hands where all cards are visible and all moves fully explained. However, the lessons behind can last a lifetime.
 
 &#x20;       Compared with the skill-driven game like chess, luck plays a larger role in poker, which is why this card game is so irresistible for parents: you may play better than your children, but they will still win often enough to stay interested. As Mr. Sklansky puts it, "The 500th best player could easily win a poker tournament. By contrast, the 500th best golfer is not going to win a golf tournament."
@@ -378,6 +482,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (A) Children. (B) Lessons. (C) Rounds. (D) Stakes.
 
 ### N.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Typical "intelligent" machines, namely Artificial Intelligence (AI), are designed to perform a specific task, like diagnosing diseases, driving a car, or playing Go! But intelligence in one arena isn't the same as the more general humanlike intelligence that can be deployed to cope with all sorts of situations, even those never before encountered. Researchers have long sought the secret recipe for making robots smart in a more general way.
 
@@ -414,6 +526,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### O.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The fear of holes, or clustered, intensive bumps is called trypophobia. Seeing trigger objects, to some, might cause symptoms such as severe fear, nausea, shaking, and even panic while many sufferers report that disgust is the most overwhelming reaction. Things with regular or irregular patterns, whether natural or manmade, such as honeycombs, bubble wraps or coral might all bring about similar discomfort. Trypophobia tends to be highly visual, which means seeing images of those traits alone is enough to trigger feelings of revulsion or anxiety.
 
 &#x20;       An interview was conducted to see how it felt when a patient encountered objects covered with holes or dots. Asked to draw a picture of her fear, the patient filled a paper with a repetitive pattern of clustered, round dots. While its prevalence is unknown, quite a few people claim an extreme aversion upon seeing an image of clustered patterns of irregular bumps.
@@ -444,6 +564,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) Patients might be asked to draw pictures with a repetitive pattern of clustered dots.
 
 ### P.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       To visit others in a distant city, people usually spend hours driving, or taking public transportation. However, as new technology progresses, it is possible to drive and fly between cities, saving people from getting stuck in the crowd or heavy traffic.
 
@@ -476,6 +604,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### Q.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In a career that spanned decades and entire continents, Ieoh Ming (or I.M.) Pei was one of the most distinguished, prolific architects of his time. His projects were varied in style but not on the cutting edge. He liked to compare his architecture approach to the music of Bach - "constant variations of a simple theme." Pei further added in a 1997 documentary that he was not an architect with a body of theories. He believed if an architect was true to himself, his signature would come out. His strategic use of plain surfaces, natural light, and pure geometric shapes throughout the years makes his works visually impressive.
 
 &#x20;       As the descendant of a prominent banking family in China, Pei was endowed with the elegant bearing and cultural refinement that enabled him to move comfortably among those who could afford his projects. Pei was born in Guangzhou, China, in 1917, to a family with deep roots in Suzhou, a city known for its craftsmen, artists, and scholars. In his adolescence, Pei was fascinated by the construction of a multistory hotel in Shanghai and told his father he aspired to study architecture. He left China in 1935, earning his bachelor's degree at M.I.T. five years later. Pei took a job in a Boston engineering firm, earned his master's degree, and also taught at Harvard. In 1948, Pei was lured away from Harvard to work for William Zeckendorf, a real estate tycoon in New York City, and established his own firm I. M. Pei & Associates in 1955. Pei eventually got a chance in 1979 to design a project in his home country, Fragrant Hill Hotel, which featured a harmonious combination of modernist styles and classical Chinese courtyard house.
@@ -499,6 +635,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) His efforts in charity.
 
 ### R.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;    When the unprecedented COVID-19 disaster is finally over, when we can safely emerge from our individual cells, there is another pandemic waiting for us. The new epidemic will threaten our mental health and should be managed in part by psychiatrists. **Those who can** are beginning to access psychotherapeutic services offered online. However, these services are provided mainly in cultures that have already recognized the mental impact of COVID-19 and have reached only a small number of people who can afford them. Of course, not everyone is among this group.
 
@@ -528,6 +672,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) Indifferent.
 
 ### S.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Looking like large handkerchiefs with various images and patterns printed on them, the bandanas are one of the most versatile pieces of clothing in modern civilization. You can see them in back pockets, around foreheads, or on necks. They have been worn by sailors, cowboys, bikers and miners, and their use even extends to the LGBT communities and gang members.
 
@@ -560,6 +712,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### T.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Demolition is the tearing-down of buildings and other structures. You can level a five-story building easily with excavators and wrecking balls, but when you need to bring down a 20-story skyscraper, explosive demolition is the preferred method for safely demolishing the huge structure.
 
 &#x20;       In order to demolish a building safely, blasters must map out a careful plan ahead of time. The first step is to examine architectural blueprints of the building to determine how the building is put together. Next, the blaster crew tours the building, jotting down notes about the support structure on each floor. Once they have gathered all the data they need, the blasters devise a plan of attack. They decide what explosives to use, where to position them in the building, and how to time their explosions.
@@ -577,6 +737,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) How to destroy a building with minimum manpower.
 
 ### U.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.
 
@@ -606,6 +774,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### V.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.
 
 &#x20;       The first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria’s eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.
@@ -632,6 +808,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D)They were connected to the last two Russian emperors and their families.
 
 ### W.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Today the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-**Infrastructure** communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.
 
@@ -660,6 +844,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### X.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       While sites of tragedy may not be our preferred tourist attractions, dark tourism does appeal to an increasing number of travelers with a different agenda in mind. Featuring visits to places associated with human suffering and misery, dark tourism answers travelers' desire to feel a similar thrill to going skydiving or bungee jumping. Well-established locations such as Auschwitz, Ground Zero and Chernobyl have registered record number visitors, and so have sites of regular pain and death, such as the Ganges River in India and Nepal, where tourists pay to snap photos of local funerals with all the gruesome details.
 
 &#x20;       Despite its popularity, dark tourism does be the question of whether it is education or exploitation. Ethical issues arise when such sites are reduced to nothing more than tourist attractions. For some, dark tourism profits from death, and seldom benefits the victims of a disaster or tragedy or their family. Some tourists probably don't have the faintest idea of the political, historical, or religious context and hence fail to act maturely or responsibly.
@@ -681,6 +873,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 4. Recommend a place in Taiwan for dark tourism. (The place name can be written in Chinese.)
 
 ### Y.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       The All Blacks, New Zealand’s national rugby team, is widely credited for bringing the “haka” to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.
 
@@ -704,6 +904,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### Z.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Who is more stressed out—the Asian teenager or the American teenager? Surprise. The American teen wins this contest. According to a recent study, almost three-quarters of American high school juniors said they felt stress at least once a week, some almost daily. Fewer than half of Japanese and Taiwanese eleventh graders reported feeling stress that often.
 
 &#x20;       The phenomenon of stress is the constant interaction between mind and body. And the influence of one upon the other can be either positive or negative. What can the mind do to the body? Studies have proved that watching funny movies can reduce pain and promote healing. Conversely, worry can give a person an **ulcer**, high blood pressure, or even a heart attack.
@@ -726,6 +934,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) Stress is always more positive than harmful to the body.
 
 ### AA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Monopoly is a very popular board game around the world today, but little is known about its American inventor, Elizabeth Magie, and the philosophy behind her invention.
 
@@ -771,6 +987,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### AB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In science fiction TV programs such as Star Trek, tractor beams are used to tow spaceships and move objects. For years, scientists have labored to replicate this feat. In 2013, they succeeded. A team of British and Czech scientists, led by Dr. Tomas Cizmar, say they have created a real-life “tractor beam,” like the kind from Star Trek, which uses a beam of light to attract objects, at least at a microscopic level.
 
 &#x20;       Light manipulation techniques have existed since the 1970s, but this is thought to be the first time a light beam has been used to draw objects towards a light source. Usually when microscopic objects are hit by a beam of light, they are forced along the direction of the beam. After many years’ research, Dr. Cizmar’s team discovered a technique that allows for the radiant force of light to be reversed and to use the negative force to draw out certain particles.
@@ -796,6 +1020,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### AC.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In Japan, a person’s blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.
 
 &#x20;       The blood-type belief has been used in unusual ways. The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”
@@ -814,6 +1046,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (A) Education. (B) Sports. (C) Business. (D) Medicine.
 
 ### AD.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep-inducing, yet it is true that many lullabies—including those sung today—have dark **undertones**.
 
@@ -837,6 +1077,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (D) Babies react to both the music and the lyrics of lullabies.
 
 ### AE.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Earlier this year, China successfully sent its Long March 5B rocket into an orbit above the Earth. However, it started to lose height from then on. The debris from the rocket made an uncontrollable entry into the Earth's atmosphere at 29,000 kph. Finally, it landed some 45 km from the Maldives in the Indian Ocean. Fortunately, no injuries were recorded. Yet, this incident not only raised eyebrows in the international community but also called the world's attention to the issue of space debris again.
 
@@ -867,6 +1115,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### AF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The Rafflesia is a genus of flowers with 28 known species, all of which produce huge blooms. It can exceed 3 feet in diameter and weigh over 20 pounds. Among all the species, the Rafflesia arnoldii is ranked the largest flower in the world. With no roots, no stems, or leaves. the Rafflesia is off most people's radar for what a flower should look like. In full bloom, this reddish-brown flower has five one-inch-thick speckled rubbery petals and an orb-shaped central chamber with a circular opening at the top. Within lies a disk covered with spiked structures, which botanists name "processes", but are unsure of their functions.
 
 &#x20;       In addition to its enormous size and extraordinary look, the Rafflesia is a parasitic plant. The bud rises directly from the stem of its host plant, from which it derives water and nutrients. The Rafflesia is so dependent on the host plant that it no longer engages in photosynthesis, the process by which plants convert sunlight into chemical energy. Like some prank of nature, the Rafflesia is also one of the world's smelliest plants. It stinks like rotting meat. The repulsive smell is the strongest around noon on the third or fourth day of the bloom, which lasts little more than a week. Unpleasant as it is, the odor is vital to the plant's survival in attracting its pollinators.
@@ -893,6 +1149,14 @@ description: 閱讀測驗相關題目，含部分混合題。
 
 ### AG.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       No tale in the Bible is as seductive as the love affair of Samson and Delilah. Samson was like a biblical Hercules or a Marvel superhero. Before his birth, his mother couldn't have a child. Then an angel appeared to her, foretelling that she would give birth to a son even though she was **barren**. The angel also warned her not to allow the child to shave his hair. As Samson grew up, he became a man of immense strength gifted by God.
 
 &#x20;       One day, on his way to ask for a Philistine woman's hand in marriage, Samson was attacked by a lion. He miraculously ripped it apart barehanded. It was then that he first discovered his enormous strength. On his wedding day, he had a violent fight with the Philistines, and the bride ended up marrying someone else. Samson's weakness for beautiful Philistine women soon drove him into the arms of Delilah. However, the Philistines bought Delilah off with 1,000 silver coins to fight the secret of Samson's strength in order to capture him. She implored him to confide his secret, but he lied to her three times. Delilah nagged persistently until Samson finally revealed the secret: his long hair. As he slept, Delilah betrayed him and had his hair cut. He was enslaved by the Philistines.
@@ -915,6 +1179,14 @@ description: 閱讀測驗相關題目，含部分混合題。
    (A) mortal (B) infertile (C) underage (D) reluctant
 
 ### AH.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 Date: June 27, 2021\
 From: Management, ABC Business Bank\
@@ -973,6 +1245,14 @@ Fill in the penalties according to the passage.
 
 ### AI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Welcome to Puss' Pet Hotel, world-class cat accommodation in the Dreamvalley metropolitan area. Our guests benefit from trusted and professional care. Our qualified staff have exceptional skills, knowledge and a genuine love of cats. Your pet's safety, comfort and wellbeing are our highest priority.
 
 &#x20;       **Cat Boarding**\
@@ -1018,6 +1298,14 @@ Fill in the penalties according to the passage.
 
 ### AJ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In America, laundry didn’t become a weekly chore until the 19th century. Before then, clothes were hard to wash because they were made of wool, leather or felt. Dirty shirt? Shake it off!
 
 &#x20;       After cotton cloth could be produced more cheaply, people started owning more clothing, and there was a movement toward keeping ourselves clean as a way to prevent disease. This meant more laundry. In the early 19th century, “wash day” was laborious for a housewife. You had to make detergent from lye and animal fat. You had to get your son to chop wood for the fire. And you needed a lot of elbow grease to scrub the clothes. And that didn’t even include the ironing. So, if you had extra cash, you would hire the help of a washerwoman. A washerwoman in those days could make between $90 and $180 per month.
@@ -1049,6 +1337,14 @@ Fill in the penalties according to the passage.
 
 ### AK.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Jonathan Swift’s _Gulliver's Travels_, though written centuries ago, is chosen as one of the best novels in English. The novel follows the story of Lemuel Gulliver, a surgeon and also a sea-lover. He completes many voyages without incident, but his final four journeys take him to some of the strangest lands on the planet. The novel is a masterpiece of satire, which combines criticism with humor to drive social change. The satirical fury is directed against almost every aspect of early 18th-century life in Europe.
 
 &#x20;       Gulliver's Travels is divided into four parts. It opens with Gulliver’s shipwreck on the island of Lilliput, whose inhabitants are just six inches tall. In this part, the quarrel over whether boiled eggs should be broken at the larger or smaller end is an example of political satire. In Lilliput, people are required to break the eggs on the small end, and some of the people who resist find refuge in Blefuscu. In Part II, Gulliver’s ship gets blown off course and he is abandoned in Brobdingnag. Its inhabitants are giants and Gulliver is characterized as a curious dwarf here. Brobdingnag is actually a symbol of moral land, opposite to the mad European politics and society.
@@ -1074,6 +1370,14 @@ Fill in the penalties according to the passage.
     <div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### AL.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Hi everyone! Last week was really stressful for me. I’m usually pretty punctual but was late to several of my classes. I failed to meet certain deadlines of my papers and I even forgot to update my weekly blog post — sorry! I realized I had a problem with time, so I decided to do something about it. I did some research and got some advice from friends and teachers. Now I want to share simple, straightforward tips for better time management.
 
@@ -1115,6 +1419,14 @@ Fill in the penalties according to the passage.
 
 ### AM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Dora, a 22-year-old administrative assistant, plans to stay in Paris but wants to save money; therefore, she logs in Airbnb to book a homestay with a discount. Jack, a 25-year-old semiconductor engineer, cycles to work on a Moovo, but requests a ride with Uber while getting off work on a daily basis. The above are common lifestyles in modern times. Sharing economy and digital platforms have undeniably changed the lifestyle of modern people.
 
 &#x20;       The first true sharing platforms began to appear around the time of the Great Recession of 2007-2009, facilitated by increased access to the Internet and mobile technology. At that time, a global economic downturn happened, hitting the millennials hard. Few jobs were available. Most of **them** had no choice but to cut back on spending to make ends meet due to the ongoing recession. In spite of the financial crisis the millennials faced, interestingly, more than nine-in-ten millennials owned smartphones and 86% of them used social media, according to a survey. Therefore, it may come as no surprise to many that millennials obsessed with minimalism have been identified as the generation to drive the growth of the sharing economy.
@@ -1140,6 +1452,14 @@ Fill in the penalties according to the passage.
     <div align="left"><figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### AN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Recently, scientists have found a new super-Earth, relatively nearby — and it is the kind of planet they have been dreaming of for years. The new planet could help scientists better understand how atmospheres exist on rocky planets like our own. It is called Gliese 486b and is referred to as a super-Earth because the heavenly body is solid and rocky like our own world.
 
@@ -1177,6 +1497,14 @@ Fill in the penalties according to the passage.
 
 ### AO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       French painter Jean-François Millet was born in a large extended family in the rural community of Gruchy. Millet’s family encouraged him to read a lot and pursue spirituality in himself. He attended a local school, where he studied Latin as well as classic French authors. After he was challenged to fight by older boys at school, he dropped out of school. Then, he worked long days on his family’s farm and learned other aspects of country life. His ideas about painting, therefore, were basically shaped by rural work. As he said, **“I have never seen anything but fields since I was born; I try to say as best I can what I saw and felt when I was at work.”**
 
 &#x20;       Millet, whose humble manner of living made a great impact on many artists who succeeded him, was best known for his value of Godliness and virtue in physical labor. Unlike most artists of his time, Millet preferred to depict the life of endless work required of the farmer class, a social class for which he had great respect. He saw himself as being thoroughly of the farmer-class, stating his discomfort in the drawing rooms of the upper classes, and thus resolved to paint only what he knew best. Lives in rural landscapes, hence, became the most important and outstanding themes in his paintings.
@@ -1205,6 +1533,14 @@ Fill in the penalties according to the passage.
 
 ### AP.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Adolescents are using technology more than ever. On average, they spend 7 hours and 38 minutes on screens each day. Many of them, nevertheless, also play a game on the phone while watching YouTube, or check social media while texting for over three more hours. That brings their total screen time up to 10 hours and 45 minutes a day!
 
 &#x20;       Suspecting that using multiple forms of media at once could lead to problems with attention and memory, Kevin Madore and Anthony Wagner, psychologists at Stanford University, conducted a study. They were especially interested in activity in the frontal and parietal lobes, two brain areas related to attention and memory. When people get distracted, their brain alpha waves increase and pupils get smaller. On the contrary, alpha waves decrease and pupils get bigger and smaller over and over.
@@ -1229,6 +1565,14 @@ Fill in the penalties according to the passage.
 | \_\_\_5\_\_\_ about everyday attention, mind-wandering experiences and media multitasking. | <p>(1) Give each participant a set of images.<br>(2) Instruct him or her to ___6___ as pleasant and unpleasant (or as big and small).</p> | <p>(1) Ask each participant to point out the images and / or the classification of each one in the first set.<br>(2) Record the alpha waves and changes of pupil-dilation of the participant.</p> |
 
 ### AQ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       To lower stress levels, enhance cognitive function, or to improve general health, forgiving can be just as effective or essential as following a balanced diet and sticking to regular workout. The act itself is quite impactful, helping both forgivers and **transgressors** come to terms with what has happened. Forgiving is not a cultural-specific notion, as there is no religion but encourages reconciliation with others over their wrongdoings.
 
@@ -1261,6 +1605,14 @@ Fill in the penalties according to the passage.
 
 ### AR.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Every year, Taiwanese consume over a hundred thousand tons of mushrooms, which makes growing mushrooms a multi-billion dollar industry in Taiwan. In fact, mushrooms owe a great deal of their popularity to the health benefits and affordable price. Scientifically-proven to be effective in preventing different cancers, mushrooms are also rich in dietary fiber that is favored by people with digestion issues.
 
 &#x20;       Truth be told, most people are unaware that behind the huge success of mushroom farmers lie a potential food safety concern and an environmental cost. In Taiwan, mushrooms are grown on recycled sawdust, namely, the chopped or sliced pieces of wood which are then compressed together. However, in Taiwan, only 500 to 700 hectares of forests are permitted for legal felling annually, while the sawdust needed to cultivate a year’s worth of mushrooms requires at least 2,000 hectares of woods. Drift wood in the wake of typhoons may make up for the gap. Other sources range from discarded furniture and scraps from wood factories to trimmed branches from street trees. Alarmingly, not every packet of mushroom is checked for heavy metals or harmful chemicals, which are by-products of low-quality sawdust. How to ensure a safe, sustainable, and environmentally-friendly supply of sawdust hence becomes a pressing issue worth considering.
@@ -1289,6 +1641,14 @@ Fill in the penalties according to the passage.
    (D) By comparison and contrast.
 
 ### AS.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Despite the current slump in the aviation industry brought by COVID-19, innovation efforts to come up with more advanced aircraft have never been stronger. In light of the environmental impact of a single commercial flight and future passenger needs, the aim of aircraft innovation has been focused on manufacturing airplanes that produce less noise, discharge less greenhouse gases, bring down the cost of operation, and hopefully, make the most of runway spaces to reduce congestion and delays.
 
@@ -1321,6 +1681,14 @@ Fill in the penalties according to the passage.
 
 ### AT.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Islands are different from a continent or mainland. The size and isolation of islands have a profound effect on island ecosystems and their inhabitants.
 
 &#x20;       Scientists who specialize in species evolution have found that, among mammal species that settle on islands, big species tend to shrink while small ones are apt to enlarge. This phenomenon, discovered by J. Bristol Foster in 1964, has been called Foster’s rule, or the island effect. For instance, rodents (such as rats and squirrels) living on islands tend toward gigantism, while big mammals (like deer and elephants) are more likely to become dwarfed. Although there are a number of exceptions to this pattern, the trend generally holds true for both fossil species and living island mammals.
@@ -1352,6 +1720,14 @@ Fill in the penalties according to the passage.
 
 ### AU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       For decades, India’s time zone has been a hotly debated issue. Back in 1884 when time zones were officially established, two time zones were used—Bombay Time and Calcutta Time. Indian Standard Time (IST) was introduced in 1906, but Calcutta Time and Bombay Time continued to be maintained after India’s independence in 1947, until 1948 and 1955 respectively. The current single time zone, though a legacy of British rule, is often viewed as a symbol of unity. Yet, not everyone thinks it is a good idea.
 
 &#x20;       India stretches 3,000 km from east to west, spanning roughly 30 degrees longitude. This corresponds to a two-hour difference in mean solar time, based on the position of the sun in the sky. Thus, the sun rises nearly two hours earlier in the east than in India’s far west. In Northeastern states, sunrise can be as early as 4 a.m. in summer and sunset by 4 p.m. in winter, much earlier than the official working hours. This results in great loss of daylight hours and more consumption of electricity, and often reduced productivity.
@@ -1376,6 +1752,14 @@ Fill in the penalties according to the passage.
 
 ### AV.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Richard I was the king of England from 1189 to 1199. He was known as “Richard the Lionheart” because he was a brave warrior and was said to be afraid of nothing. After ascending the throne, Richard led an army to join the Third Crusade to recover Christian holy sites from the Muslims. He fought side by side with the Duke of Austria, Leopold V, and together they conquered the powerful fortress of Acre in 1191. However, when Richard reached the top of the castle to claim victory, he displayed only his own banner and not that of Duke Leopold, who was absent at the time. This was an insult too much for the duke to bear, so he placed a price on Richard’s head.
 
 &#x20;       Richard was aware of the danger awaiting him on his way back to England after the war. However, he had no other choice but to cross through Austria, a land controlled by **his unfriendly former ally**. Richard traveled in disguise but was recognized and caught before reaching Vienna. Duke Leopold held Richard at Dürnstein, a castle on the bank of the Danube River. After a few months, Richard was handed over to the German Emperor Heinrich VI. A ransom of 35 tons of silver was demanded by the duke and the emperor to release Richard. That was a huge amount for England to pay.
@@ -1397,6 +1781,14 @@ Fill in the penalties according to the passage.
    (F) Heinrich VI captured Richard I and handed him over to Leopold V.
 
 ### AW.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       For enthusiasts of the Olympics, the opening parades of athletes marching on behalf of their country, with their heads held high and their chests puffing out in pride behind their national flag, are no less a highlight than the games. What might strike one as curious, however, is that athletes in the closing ceremony don't seem to march in the same manner as they do when the games begin. That is, they casually saunter into the arena in no particular order, mingling amongst themselves and even pausing for random photoshoots for spectators in the stands. In fact, Olympians used to march in a scripted and disciplined fashion in the closing ceremony. The change came in the 1956 Olympics in Melbourne.
 
@@ -1426,6 +1818,14 @@ Fill in the penalties according to the passage.
    (D) Something is challenging people's beliefs.
 
 ### AX.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Animal conservation is important but it can actually be a tricky matter, especially when it comes to the allocation of funding and resources. To arouse public awareness and interest, some endangered animals are chosen to be "flagship species," modeling for NGOs, government agencies, or other organizations working on animal conservation. They are species well-adored and extensively featured in the mass media, thereby receiving the great majority of resources. A great percentage of these charismatic creatures share human-like traits, such as front-facing eyes, a large-bodied physique, or upright posture, making human beings relate to them easily.
 
@@ -1458,6 +1858,14 @@ Fill in the penalties according to the passage.
 
 ### AY.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       It might be hard for us to imagine having Coca-Cola as the only drink instead of fresh water. Yet, it has been the case in San Cristóbal for the past few decades.
 
 &#x20;       Located in southeastern Mexico, San Cristóbal, once a rainy place, can only enjoy potable water every other day. Water does trickle down from public pipes, but it's all but undrinkable, with too much chlorine. The locals find water purifiers unaffordable or even unimaginable. Hence, they end up drinking Coca-Cola, which is produced locally and far more readily available than tap water. With residents there drinking on average more than two liters of Coca-Cola on a daily basis, the real price to pay for such an alternative to plain water, however, is the sacrifice of people's physical health. Diabetes has been one of the leading causes of death, second only to heart disease, though the latter also has a log to do with one's sugar consumption. Struggling with obesity and the many chronic diseases is now defining many local people's adolescence and adulthood. Annually, more than 3,000 lives of San Cristóbal are claimed due to their unhealthy drinking habit.
@@ -1487,6 +1895,14 @@ Fill in the penalties according to the passage.
 
 ### AZ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       **(1) These days, Alzheimer's disease (AD) troubles more than 7% of the elderly population in Taiwan.** While there hasn't been any known cure for the ailment, doctors have been targeting the accumulation of amyloid plaques, a type of protein, in the brain of patients suffering from the disease. Yet, they are now convinced that amyloid is only one of the factors in the progression of AD and that treating amyloid alone is not as effective in slowing down the course of AD as previously believed. Since the promise of the medication is limited, which is proven to only alleviate the symptoms, the medical and pharmaceutical industry have increasingly shifted their attention to another protein called tau. **(2) Tau is responsible for memory and navigation, and is linked to cognitive decline especially when it is found moving to other brain regions.**
 
 &#x20;       **(3) Besides the two proteins mentioned above, scientists studying brain waves involved in learning and memory have found the role of gamma waves.** Gamma waves are found weaker in patients with AD. If this type of brain waves can be boosted, patients' ability to learn and remember shall theoretically improve to a great extent. Scientists plan on achieving this by stimulating brain cells with varying frequencies of light and sound in a portable device. **(4) So far, the results on human tests have been promising.** What's more, immune cells may play a part in dealing with AD. Not only do they serve as our first defense against germs and viruses, but they are indispensable in clearing out amyloid build-up. People's immune system weakens as they advance into old ages, when AD is more likely to strike. Boosting our immune defense is supposed to halt or prevent AD, yet this is only a tentative assumption at best for the time being since it hasn't been tested on human subjects so far.
@@ -1508,6 +1924,14 @@ Fill in the penalties according to the passage.
    It is believed that our past medication for Alzheimer's disease deals with \_\_\_5\_\_\_ only, instead of the root cause, so scientists now focus on three other targets. Tau, for instance, is a type of \_\_\_6\_\_\_ just like amyloid, and it will spread to other brain regions as the disease worsens. Human brain waves, or \_\_\_7\_\_\_ waves in particular, are also the focus of attention, and early results prove that boosting brain waves improves our memory. Our \_\_\_8\_\_\_ may also be indispensable, because they help clean out amyloid and other germs and viruses.
 
 ### BA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Many great inventions are at first greeted with teasing and disbelief. The invention of the airplane was no exception. Although many people who heard about the first powered flight were excited and impressed, others reacted with lots of laughter. The idea of flying an aircraft was also disgusting to some people. Such people called Wilbur and Orville Wright, the inventors of the first flying machine, "reckless fools." Negative reactions, however, did not stop the Wrights. Driven by their desire to succeed, they continued their experiments in aviation.
 
@@ -1538,6 +1962,14 @@ Fill in the penalties according to the passage.
 
 ### BB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Nestled in the Black Hills of Keystone, South Dakota, Mount Rushmore is one the most fascinating monuments in the world. Every year millions of people visit Mount Rushmore, where the faces of four U.S. presidents were carved in granite by the sculptor Gutzon Borglum and his son. The creation of the Mount Rushmore monument took 14 years, from 1927 to 1941, and cost nearly a million dollars. These were times when money was difficult to come by, and many people were jobless. To help him with the sculpture, Borglum hired laid-off workers from the closed-down mines in a Black Hills. He taught these men to dynamite, drill, carve, and finish the granite as they were hanging in midair in his specially devised steel chairs, which had many safety features.
 
 &#x20;       With 450,000 tons of granite that needed to be removed, Borglum inserted dynamite into drilled holes and blasted 90 percent of the rock off the mountain quickly and relatively inexpensively. His workmen became so skilled that without causing damage, they could blast to within four inches of the finished surface and grade the contours of the facial features. Borglum was so proud that no workers were killed or seriously injured during the years of blasting and carving the granite. Considering the workers regularly used dynamite and heavy equipment, this was a remarkable feat.
@@ -1565,6 +1997,14 @@ Fill in the penalties according to the passage.
    (D) Where people who worked on Mount Rushmore came from.
 
 ### BC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       When Cynthia Carroll became the first woman and the first non-South African to lead one of the world's largest mining companies, Anglo American, in 2007, she encountered many challenges. At that time, the company had 162,000 employees but suffered nearly 200 fatalities. Many veterans believed that deaths were inevitable in the mining industry. Working conditions were inhumane, and various cultural groups worked closely together with no common language, not to mention that many of them were illiterate. Seeing these difficulties, Carroll was outraged and decided to make changes.
 
@@ -1597,6 +2037,14 @@ Fill in the penalties according to the passage.
 
 ### BD.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In early 2020, a plague of locusts descended on East Africa, devouring crops, trees, and practically everything in sight. It was extremely alarming not only because they can bring devastation to agricultural production, but also because the swarms of locusts were the largest seen in decades. According to the UN Food and Agriculture Organization (FAO), they first emerged at the end of 2019, numbered in the hundreds of billions, and kept multiplying by twentyfold every three months. **(1) In the outbreak, the locusts form swarms and migrate over large distances up to 95 miles a day.** They swept through East Africa, ravaging agriculture and causing severe food shortages.
 
 &#x20;       Why was this happening? Dino Martins, an evolutionary biologist in northern Kenya, explained that the first factor was wind patterns. The southeast monsoons blew winds from the Indian Ocean through Kenya, giving locust swarms a means to move from central Kenya further north into countries like Somalia, Ethiopia, and South Sudan. The second factor was rainfall. Locusts thrive in wet, sandy soil. December 2019, a historically dry season, saw an extraordinary amount of rainfall. **(2) Therefore, they laid eggs and were soon breeding and increasing exponentially.** Last but not least, climate change was the main driver of the outbreak. Severe weather conditions including heat extremes, strong cyclones in Indian Ocean, and unusually heavy rains in Arabian Peninsula created ideal conditions for locust populations to explode.
@@ -1625,6 +2073,14 @@ Fill in the penalties according to the passage.
 
 ### BE.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Gunter Grass was the winner of the 1999 Nobel Prize in Literature. His talents are revealed in a variety of disciplines: He is not only a novelist, poet and playwright, but also a renowned painter and sculptor. As he himself stresses, his creations are closely related to his unique personal history. His father was a German who joined the Nazi party in World War II, while his mother was Polish. As a result, he constantly suffered contradictory feelings: as a Pole who had been victimized, and as someone guilty of harming the Poles. The torment in his heart led him to denounce the Nazis and his political activism has continued throughout his career. His commitment to the peace movement and the environmental movement as well as his unfailing quest for justice has won him praise as “the conscience of the nation.”
 
 &#x20;       In the spring of 1996, he was inspired during a trip to Italy to write a poem with his watercolor brush directly on one of his paintings. Before long, a collection of his “water poems” was born. Painting and literature have become his major forms of creativity. For him, painting is a form of creation with concrete, sensual elements, while writing is a hard and abstract process. When he cannot find words to convey his thoughts, painting helps him find the words to express himself. In this way, Grass not only creates simple depictions of the objects he is fond of in life, such as melons, vegetables, fish, and mushrooms, but also uses them as symbols for mental associations of various kinds. For example, to express the complexity of reality, he sometimes places unrelated objects in the same painting, such as a bird and a housefly, or a mushroom and a nail. Grass has depicted a wide variety of natural scenes, animals and plants, and even human artifacts of the German countryside, portraying them in poems, and allowing words to make the paintings rich in literary value.
@@ -1652,6 +2108,14 @@ Fill in the penalties according to the passage.
 
 ### BF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.
 
 &#x20;       Sewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.
@@ -1672,6 +2136,14 @@ Fill in the penalties according to the passage.
    (A) To eliminate bacteria. (B) To drain water. (C) To dissolve solid particles. (D) To remove oil.
 
 ### BG.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       You’ve most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”
 
@@ -1701,6 +2173,14 @@ Fill in the penalties according to the passage.
 
 ### BH.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The term “forensic linguistics,” in its broadest sense, covers all areas of study where language and law intersect. A famous example of its application is the case of Chris Coleman, who was suspected of killing his family in 2009. Robert Leonard, the head of the forensic linguistics program at Hofstra University, presented some important linguistic evidence in the trial against Coleman. Relying heavily on word choice and spelling, Leonard suggested that the same person had written the threatening e-mails and sprayed the graffiti, and that those samples bore similarities to Coleman’s writing style. Coleman was later found guilty of the murder.
 
 &#x20;       Robert Leonard was not the first one who resorted to linguistic evidence in criminal investigation. The field of forensic linguistics was brought to prominence by his colleague James Fitzgerald in 1996 with his work in the case of the Unabomber, who had sent a series of letter bombs to college professors over several years, causing serious casualties. Working for the FBI, Fitzgerald urged the publication of the Unabomber’s letter—a lengthy declaration of the criminal’s philosophy.
@@ -1729,6 +2209,14 @@ Fill in the penalties according to the passage.
 
 ### BI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       If you spend much time in the Swedish countryside, a certain sight will become familiar - a bright red cottage with a white trim on the windows. And beside it, another red cottage. And down the road, another. While homeowners in most other countries prefer to apply a color that suits their individual tastes, a shade called "falu red" has been a consistent symbol of country life in Sweden for the past century. The color spread to neighboring countries like Norway and Finland, and has even had some influence on the red barns often seen in the US.
 
 &#x20;       Falu red's popularity can be traced back to the Falun copper mine in central Sweden ("Falu" comes from the company's name). In the ninth century, it was the largest copper mine in Europe, and economic center of the Swedish kingdom. By the 1600s, two-thirds of the Western world's copper came from the Falun mine. However, by the end of the century, the copper had been **depleted** and the mine was empty.
@@ -1743,6 +2231,14 @@ Fill in the penalties according to the passage.
 4. What made the red paint a favored item for export then? \_\_\_4\_\_\_
 
 ### BJ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       In many languages, such as English, there is no straightforward way to talk about smell. For **want** of dedicated odor terminology, English speakers are often forced to use odor-sources such as “flowery” and “vanilla” and metaphors like “sweet” and “oriental” in their descriptions of smell.
 
@@ -1772,6 +2268,14 @@ Fill in the penalties according to the passage.
 
 ### BK.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       When it comes to medical care, many patients and doctors believe “more is better.” But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.
 
 &#x20;       Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about $30,000 a year for her care.
@@ -1797,6 +2301,14 @@ Fill in the penalties according to the passage.
    (D) Doctors’ interpretations of test results are seldom wrong.
 
 ### BL.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       If you look closely at a map of the United States, you might notice that one name keeps popping up over and over again. That name is Lebanon, which, to most people in the rest of the world, refers to a country in the Middle East. The latter sits on the shores of the Mediterranean, with Syria to the northeast and Israel to the south. People first settled there around 7,000 years ago, and the country eventually became one of the most important sites in the Christian world. However, in recent history, Lebanon had to endure a terrible civil war between various political and religious groups.
 
@@ -1825,6 +2337,14 @@ Fill in the penalties according to the passage.
 
 ### BM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Many people like to turn to bloggers, YouTubers, and experts on Instagram for advice about consumer products. Such online influencers are trusted by their followers because they seem like regular people expressing their genuine opinions, unlike actors or models who are paid to promote those products. For example, if a healthy-lifestyle influencer says that a particular brand of vitamins has made him feel healthier and stronger, then his followers will likely go out and buy that brand of vitamins. Companies quickly **caught on to** the power of "influencer marketing" and began paying influencers to promote their products. For a while, this kind of partnership benefited everyone, since it was assumed that influencers promoted only products they believed in.
 
 &#x20;       However, the rise of fake influencers has cast a dark shadow on such partnerships. On the surface, fake influencers seem just like the real ones: they post high-quality images and have hundreds or even thousands of followers. But, upon closer inspection, some problems become evident. The first of these is that followers of fake influencers often aren't real people. Instead, their fan base could be made up of fake accounts or bots. Even the influencers themselves might not be real, since stock photos or models may have been used to merely pose as popular experts or bloggers.
@@ -1850,6 +2370,14 @@ Fill in the penalties according to the passage.
    (D) It is difficult for people to tell fake online influencers from real ones.
 
 ### BN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 #### **Venice: Tap and Tour!**
 
@@ -1882,6 +2410,14 @@ Fill in the penalties according to the passage.
 
 ### BO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Thousands of years ago, a remarkable transition took place on the banks of the Indus River. Beginning with humble farming communities, the people of the river valley began to adopt more complex ways of life. The region, in what is now Pakistan, India, and Nepal, became home to some of the first major cities and features some of the world's oldest and most valuable archaeological sites. Today, the Indus River valley is recognized as one of the original "cradles of civilization" from which other civilizations descended.
 
 &#x20;       Many things about the early Indus Valley civilization are still unknown or inconclusive because while that civilization did develop a written language, it later died out, and modern scholars have not yet been able to interpret it. Despite this, historians have been able to study aspects of the civilization through its buildings, crafts, and historical references in later texts. The ancient cities of Mohenjo-Daro and Harappa, for instance, have contributed greatly to our understanding of daily life in the region 5,000 years ago.
@@ -1913,7 +2449,7 @@ Fill in the penalties according to the passage.
     (C) Citizens in Mesopotamia used it as a trading center.&#x20;
 
     (D) Archaeologists found it didn't have any water supply systems.&#x20;
-4.  According to the passage,what might have led to the fall of the Indus Valley civilization?&#x20;
+4.  According to the passage, what might have led to the fall of the Indus Valley civilization?&#x20;
 
     (A) A destructive earthquake.\
     (B) Constant crop failures.&#x20;
@@ -1922,6 +2458,14 @@ Fill in the penalties according to the passage.
     (D) Invasion of southern tribes.&#x20;
 
 ### BP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Aaron Portnoy started his hacking career when he was still in high school, and now he is the co-founder of a company called Exodus Intelligence. His company finds and sells "zero-day vulnerabilities," meaning undetected bugs, or flaws, in applications or software. The term "zero-day" indicates that the bug is new and fresh, having existed for exactly zero days, so no one has tried to fix it yet.
 
@@ -1959,6 +2503,14 @@ Fill in the penalties according to the passage.
     (A) Skeptical. (B) Approving. (C) Objective. (D) Concerned.&#x20;
 
 ### BQ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       The Namib is a dry and deadly environment of sand, storms, and sun. A coastal desert situated along the west coast of southern Africa, this region receives a miserable average of less than 50 mm of rain a year. Daytime temperatures can soar in excess of 45℃, and the long, windy nights are reported to be freezing. People are thus often surprised to learn that such an uninviting stretch of land, which is almost entirely bare of plant life, might well be home to the oldest living things on Earth.
 
@@ -1998,6 +2550,14 @@ Fill in the penalties according to the passage.
 
 ### BR.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       (1) An engineering marvel, NASA's Mars rover Curiosity, is a nuclear-powered science-mobile which has functioned to find more evidence to increase our understanding of life on Mars since 2012. (2) Owing to the help of Curiosity, carbon-based compounds called organic molecules were found on Mars. (3) NASA has traced large organic molecules on Mars since 1970s, and finally found conclusive evidence. (4) The data collected by Curiosity indicate that the lake sediments of the watery lake in Mars's Gale Crater preserved organic molecules which are protected in sulfur-spiked rocks. (5) Sulfur may have protected the organic molecules from the radiation and bleach-like substances called perchlorates.
 
 &#x20;       (6) Nevertheless, the result alone is not strong enough to prove that there were lives on Mars, since non-living processes could have produced the same molecules. (7) In addition to the findings of the organic molecules, Curiosity also sniffed methane, the simplest organic molecule, existing in Mars's atmosphere. Interestingly, two things about the methane on Mars is puzzling. One is that methane shouldn't be there unless something keeps replenishing it; the other is that thousands of tons of methane burst out at a time in 2009. Researchers are unsure about the origin of the methane. They suspect that the methane might be a current product of serpentinization, a chemical reaction between iron-bearing rocks and liquid water or microbial activity from deep underground. Besides, it could be something stored in the past and released now. Whatever the source of the methane, one thing is for sure - Mars is an active planet.
@@ -2020,6 +2580,14 @@ Fill in the penalties according to the passage.
    (3) Puzzling thing: thousands of tons of methane burst out at a time in \_\_\_9\_\_\_
 
 ### BS.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Every driver is familiar with the dreaded blind spots caused by the thick A-pillars, or the windshield frame, of a car. While these pillars hold the front and side windows of a car in place, they block a driver's view, and might result in serious property damage or even deaths. According to the U.S. National Highway Traffic Safety Administration, over 840,000 car accidents occur due to blind spots. While drivers can take precautions such as adjusting the driver's seat and side mirrors properly, installing backup cameras and so on, they won't eliminate the blind spots completely. Luckily, a 14-year-old girl, who doesn't even have a driver's license yet, has conceived of a brilliant idea.
 
@@ -2052,6 +2620,14 @@ Fill in the penalties according to the passage.
 
 ### BT.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       For decades, physicians and scientists worldwide have been pursuing the goal of transplanting animal organs into human beings, which is known as xenotransplantation. In 2021, surgeons at New York University Langone Health transplanted kidneys from genetically modified pigs into two legally dead people with no discernible brain function. With no rejection, the organs functioned normally while the **deceased recipients** were sustained on ventilators. The procedure marks the first time that a pig organ has been transplanted into a human who has a chance to survive and recover.
 
 &#x20;       On January 7th, 2022, a 57-year-old man with life-threatening heart disease received a transplanted heart from a genetically modified pig and is doing well after the eight-hour operation procedure in Baltimore, Maryland. This groundbreaking procedure offers hope to hundreds of thousands of patients suffering from failing organs. It was the first successful transplant of a pig's heart into a human being.
@@ -2080,6 +2656,14 @@ Fill in the penalties according to the passage.
 
 ### BU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 #### Omicron - An Unwelcome Visitor to Taiwan
 
 &#x20;       "It was the best of times, it was the worst of times ..." So begins the classic Charles Dickens novel _A Tale of Two Cities_, which was written in 1859. At the start of 2022, this same sentiment might be considered equally appropriate for the COVID-19 situation in Taiwan.
@@ -2103,11 +2687,7 @@ Fill in the penalties according to the passage.
    (C) The first domestic Omicron cases in Taiwan were two foreigners.\
    (D) Taiwan has announced stricter regulations to prevent it from spreading.
 3. According to the passage, when was the Omicron variant reported to have reached the shores of Taiwan? \_\_\_3\_\_\_.
-4. According to the passage, at the start of 2022, over \_\_\_4\_\_\_ percent of Taiwan's population had received the first dose of the COVID-19 vaccines, and over \_\_\_5\_\_\_ percent had been fully vaccinated.
-
-### BV.
-
-&#x20;      &#x20;
+4. According to the passage, at the start of 2022, over \_\_\_4\_\_\_ percent of Taiwan's population had received the first dose of the COVID-19 vaccines, and over \_\_\_5\_\_\_ percent had been fully vaccinated.       &#x20;
 
 ***
 

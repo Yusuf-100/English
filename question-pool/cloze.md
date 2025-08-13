@@ -4,59 +4,15 @@ description: 克漏字相關題目。
 
 # Cloze
 
-## 答案
+### A.
 
 <details>
 
 <summary>點一下顯示答案</summary>
 
-**A \~ D**：BCCBA / CACCD / CADBC / BADCB\
-**E \~ H**：ACDAB / DACBB / DBCAA / CAABC\
-**I \~ L**：BADAC / DDACB / BDACB / BACAB\
-**M \~ P**：DBAAC / CDDBA / ABDCC / ABCDD\
-**Q \~ T**：CCDAB / ADDCCDBBCD / CADBD / DABC(ABCD)\
-**U \~ X**：DCBAD / CABDADDBCD / ADBCCBADCB / BAACBDDACC\
-**Y \~ AB**：BABAC / DD(ABCD)B(BD) / CDBCAB(BC)DCADDCAB / DB(AC)(ABD)D\
-**AC \~ AF**：(ABCD)CDAB(ABC)C / DCADBADC / ABACD / DABABCA\
-**AG \~ AJ**：CBCABD / DABCDAC / (BC)BCADA(BC)DDB / ACBDCCACBD\
-**AK \~ AN**：A(ABCD)CBDADDC(BC)D / CADCBD(ABCD)(BC) / CB(AB)DAB(ABCD)CDAABD(ABCD)C / DBDACCB\
-**AO \~ AR**：DCD(ACD)DBDCA / CDBACCDBAA / (ABC)CD(AC)ADBABC / CADBBDBCA(ABCD)\
-**AS \~ AV**：DA(ABCD)CBCBBCD / DBACADCDAD / BADCDBDCAC / CBDADBCAA(BC)\
-**AW \~ AZ**：ACBDB / CBCAD / AAACD / BCBAD\
-**BA \~ BD**：CCBBA / BAADD / ABCDB / BACDA\
-**BE \~ BH**：CBADC / CABDD / DBAAC / CACDB\
-**BI \~ BL**：BDBADBC / (ABCD)D(BD)DCABA / DCABCAC(BD)A(AC)B / DBDACA(AD)(ABCD)ACB\
-**BM \~ BP**：C(CD)ACCBA / D(BC)ACDDDCAB / BACBD / CDCAADD\
-**BQ \~ BT**：CBBDDDCD / BCDBA / BCB(ABCD)B / ADCDB / DDDC(AB)\
-**BU \~ BX**：ACADBBADC / ABDCADAC / DBABDC / ADBCA\
-**BY \~ CB**：ADACB / ABCDB / BCDBA / DACAB\
-**CC \~ CF**：ACCDD / BDCAB / CDAAB / BDCDB\
-**CG \~ CJ**：CBDCA / BCDBA / DABCD / DCCBADDACB\
-**CK \~ CN**：CCADABCBAD / (AC)CDCAC(ABCD)D(ABCD)D / ADCBA / BDCCA\
-**CO \~ CR**：CDABB(BC) / (BD)CABBBADC / DACBDA / A(BD)(AD)CAB(AD)CB\
-**CS \~ CV**：CACBD / DBCABDC / ABCCBDAD / BDDCABBCAD\
-**CW \~ CZ**：ACCBD / BAADC / BCADBBCB / BBCDA\
-**DA \~ DD**：DBCBDBA / DDBA / DCBBAD / CDBADAACBD\
-**DE \~ DH**：BCADC / DBABD / CADABBACDB / BCCCCBDABC\
-**DI \~ DL**：BDCBB / CDBAA / BADABBACDD / BDCAD\
-**DM \~ DP**：ACCBB / CABDB / BDACD / DDABC\
-**DQ \~ DT**：CADCB / BADBB / ACBDA / DAABC\
-**DU \~ DX**：DCBDA / CBABA / DBACD / CDDAC\
-**DY \~ EB**：DBACC / DDACB / BDABC / BCADA\
-**EC \~ EF**：CBADC / DCBDA / CDAAC / ACBDA\
-**EG \~ EJ**：BABCD / BCABA / CBCAD / BBDCA\
-**EK \~ EN**：CDCAB / CBADB / ACCBA / ACBDC\
-**EO \~ ER**：CCABD / BACBD / DACBA / DADBA\
-**ES \~ EV**：\
-**EW \~ EZ**：
+BCCBA
 
 </details>
-
-***
-
-## 題目
-
-### A.
 
 &#x20;       We all know that too much stress is not good for our health, but too little is not ideal, either. While \_\_\_1\_\_\_ stress can be dangerous to the body, short-term stress is actually healthy. Short-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. \_\_\_2\_\_\_ our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This \_\_\_3\_\_\_ us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim - an activity that places them under stress for a short while - they remembered their way through mazes far \_\_\_4\_\_\_ than rats that were in a relaxed state. The key to a healthy lifestyle is to keep our stress level \_\_\_5\_\_\_. Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.
 
@@ -68,6 +24,14 @@ description: 克漏字相關題目。
 
 ### B.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CACCD
+
+</details>
+
 &#x20;       Gesky Krumlov, lying in Bohemia's deep south, is deemed one of the most picturesque towns in Europe. Listed as a UNESCO site in 1992, Cesky Krumlov resembles a surreal medieval town and it \_\_\_1\_\_\_ one of the most magnetic cities in the Czech Republic. Situated on both banks of Vltava River, Cesky Krumlov boasts a \_\_\_2\_\_\_ of architectures, including Gothic, Renaissance, and Baroque. Every year, hordes of tourists flock into Cesky Krumlov, milling around the cobblestone streets. They \_\_\_3\_\_\_ exhibitions in galleries or museums, and savor local food in cafes, pubs and restaurants. The best way to explore Cesky Krumlov is on foot. Cars are banned in many parts of the historic section, which are designated for pedestrians. This was \_\_\_4\_\_\_ since most scenic spots can be accessed by walking. In the castle tower, a lot of tourists enjoy ascending the narrow, winding staircase up to the top. Once there, they can spend as much time taking in the magnificent panoramic view. \_\_\_5\_\_\_ visits Cesky Krumlov always gets intimate with it. The slow pace there is reminiscent of the bygone age, making people totally relaxed.
 
 1. (A) initially (B) scarcely (C) definitely (D) occasionally
@@ -77,6 +41,14 @@ description: 克漏字相關題目。
 5. (A) Those who (B) Anyone (C) What (D) Whoever
 
 ### C.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADBC
+
+</details>
 
 &#x20;       Do you know the difference between the terms _meteoroid_, _meteor_, and _meteorite_ in astronomy? Many people find these words confusing. However, the difference is all about their \_\_\_1\_\_\_. Meteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others \_\_\_2\_\_\_ the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to \_\_\_3\_\_\_ and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor \_\_\_4\_\_\_ its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. \_\_\_5\_\_\_, Barringer Crater in the American state of Arizona, measuring 1,200m in diameter and some 170m deep, was produced by a meteorite impact.
 
@@ -88,6 +60,14 @@ description: 克漏字相關題目。
 
 ### D.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BADCB
+
+</details>
+
 &#x20;       On the basis of political correctness, people usually agree that it's not okay to bully others because of their religion or sexuality. \_\_\_1\_\_\_, for many Westerners, teasing "gingers," or the redheads, seems to be the last frontier of socially accepted bullying. Ridiculous \_\_\_2\_\_\_ it sounds, gingerism does exist. For those who have gone through such unchecked discrimination, it is real, and it cuts deep. Anti-redhead prejudice can be traced back to thousands of years ago. In ancient Greece and medieval Europe, redheads were associated with evil, aggressive, and promiscuous. Nowadays, \_\_\_3\_\_\_ others, people tend to bully children with red hair. Studies also show that redheaded males are much more likely to have more negative experiences than their female \_\_\_4\_\_\_. Experts are not confident that gingerism can be addressed by expanding the definition of discrimination in laws. Yet, they do encourage redheads to \_\_\_5\_\_\_ their identity by holding ginger-themed events to remind people that they deserve more tolerance and sympathy. Red hair is rare, accounting for less than 2% of the world population, but redheads are absolutely unique!
 
 1. (A) Meanwhile (B) Nevertheless (C) Furthermore (D) Hence
@@ -97,6 +77,14 @@ description: 克漏字相關題目。
 5. (A) convince (B) embrace (C) fulfill (D) install
 
 ### E.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACDAB
+
+</details>
 
 &#x20;       The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, \_\_\_1\_\_\_ the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and \_\_\_2\_\_\_ pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in \_\_\_3\_\_\_ with businesses or manufacturers. Since its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements \_\_\_4\_\_\_ to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. \_\_\_5\_\_\_ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.
 
@@ -108,6 +96,14 @@ description: 克漏字相關題目。
 
 ### F.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DACBB
+
+</details>
+
 &#x20;       Lying is a highly demanding practice. A lying person must conceal the truth and manufacture a substitute story or reality that does not appear \_\_\_1\_\_\_ to every existing fact known to the listener. Such a psychological process usually demands much cognitive effort, which may give people some clues to detect it. People under heavy cognitive load tend to be inactive in their physical movement. A lying person may thus pose arms and legs, blink less, and reduce his or her habitual \_\_\_2\_\_\_ of gesturing. The consequences of heavy cognitive load will extend to changes of speech patterns. Because it would \_\_\_3\_\_\_ for people speaking deceptively to organize ideas in mind, liars are likely to repeat certain phrases, give short and obscure answers, or take longer pauses. There is also evidence that liars tend to adopt impersonal language to distance themselves from the lie. \_\_\_4\_\_\_, liars often use him and her instead of I, me and mine. To create even more evasiveness, some liars will avoid answering the question completely. This is \_\_\_5\_\_\_ professionals of detecting lies will seek to increase the suspected liar's cognitive load and simultaneously monitor the linguistic features. By intentionally making the suspect think harder, the signals of lying can become obvious.
 
 1. (A) logical (B) vertical (C) satisfactory (D) contrary
@@ -117,6 +113,14 @@ description: 克漏字相關題目。
 5. (A) how (B) why (C) which (D) that
 
 ### G.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBCAA
+
+</details>
 
 &#x20;       Scientific discovery can take various forms. One of them is "serendipity," the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.
 
@@ -130,6 +134,14 @@ description: 克漏字相關題目。
 
 ### H.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CAABC
+
+</details>
+
 &#x20;       The Dublin Whiskey Fire in 1875 was one of the most serious fire accidents in Ireland, On June 18th, 1875, over five thousands barrels of whiskey stored in Malone's malt house exploded for unknown reasons and caught fire. A burning stream of whiskey ran through the streets of Dublin's central district, stretching over four hundred meters and \_\_\_1\_\_\_ up two feet wide and six inches deep. Livestock escaped from fences, and screams from fleeing pigs made the scene \_\_\_2\_\_\_. Famous not only for making alcohol but also for drinking it, Irish people knew how to get \_\_\_3\_\_\_ from the pains of this accident. In the blaze of 1875, many Irish people were reported to drink the free-flowing liquor. Two Irishmen named Healy and M'Nuty were found lying drunk on the street with their boots off, which \_\_\_4\_\_\_ they used as drinking cups. The total casualties of this fire were thirteen people, but none of them died from \_\_\_5\_\_\_ or smoke - they died from alcohol poisoning. Today, a lounge bar sits on the historical site in Dublin, as a symbol of the fire accident and the Irish drinking culture.
 
 1. (A) reach (B) reached (C) reaching (D) to reach
@@ -139,6 +151,14 @@ description: 克漏字相關題目。
 5. (A) surgery (B) air crash (C) flames (D) heart attacks
 
 ### I.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BADAC
+
+</details>
 
 &#x20;       The fashion industry in African has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyonce, \_\_\_1\_\_\_. Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.
 
@@ -154,6 +174,14 @@ description: 克漏字相關題目。
 
 ### J.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DDACB
+
+</details>
+
 &#x20;       Most of us have the awkward moment when we are called the wrong names by our parents or when we confuse the names of our friends. This is called "misnaming' in psychology. It usually occurs within a confined social group, such as a boy calling his new girlfriends by the name of his ex, or a family member calling another family member by the name of \_\_\_1\_\_\_family member. Misnaming is not simply driven by the similarity of names or appearances; in fact, it has \_\_\_2\_\_\_ to do with affections, too.
 
 &#x20;       There is a mental semantic network in our brains \_\_\_3\_\_\_ the gathering of information. We can remember things because the units of the semantic network are activated and reached a threshold. However, when related units of information in the brain are also activated, \_\_\_4\_\_\_ will take place. That is, a mother may try to retrieve in mind the name of her son but select the name of her daughter \_\_\_5\_\_\_ the intimate connections of the son and the daughter in the mother's semantic network. So next time we call others the wrong name, we don't have to feel embarrassed; it is just a sign that we love them all!
@@ -165,6 +193,14 @@ description: 克漏字相關題目。
 5. (A) rather than (B) owing to (C) in case of (D) as for
 
 ### K.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDACB
+
+</details>
 
 &#x20;       When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.
 
@@ -180,6 +216,14 @@ description: 克漏字相關題目。
 
 ### L.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BACAB
+
+</details>
+
 &#x20;       The modern pizza was originally invented in Naples, Italy, but the word "pizza" is Greek in origin, derived from the Greek work Pektos, meaning solid or clotted. The ancient Greeks covered their bread with oils, herbs and cheese. The first \_\_\_1\_\_\_ that led to flat bread pizza was the use of tomato as a toping. It was common for the poor of the area around Naples to add tomato to their yeast-based flat bread, \_\_\_2\_\_\_ the pizza began.
 
 &#x20;       It is believed that modern pizza was first made by baker Raffaele Esposito of Naples in 1889, when the Royal Palace of Capodimonte assigned the Neapolitan pizzaiolo Raffaele Esposito to create a pizza \_\_\_3\_\_\_ the visiting Queen Margherita. Of the three different pizza he created, the Queen strongly preferred a pie swathed in the colors of the Italian flag: red (tomato), green (basil), and white (mozzarella). Supposedly, this kind of pizza was then named after the Queen \_\_\_4\_\_\_ Pizza Margherita. Later, the dish has become popular in many parts of the world. Nowadays, many varieties of pizza exist worldwide, \_\_\_5\_\_\_ several dish variants based upon pizza. In 2009, upon Italy's request, Neapolitan pizza was safeguarded in the European Union as a Traditional Specialty Guaranteed dish.
@@ -191,6 +235,14 @@ description: 克漏字相關題目。
 5. (A) except (B) along with (C) instead of (D) known to
 
 ### M.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBAAC
+
+</details>
 
 &#x20;       "Keeping up with the Joneses" is a catchphrase in many parts of the English-speaking world. Just like "keeping up appearances," it refers to the \_\_\_1\_\_\_ to one's neighbors as a standard for social status or the accumulation of material goods. Generally speaking, the more luxurious people have, the higher their value or social status - or \_\_\_2\_\_\_ they believe. To fail to "keep up with the Joneses" is thus perceived as revealing socioeconomic inferiority or, as the Chinese would put it, a great loss of face.
 
@@ -204,6 +256,14 @@ description: 克漏字相關題目。
 
 ### N.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDDBA
+
+</details>
+
 &#x20;       There is a great flood in biblical mythology that takes over the majority of lands and puts the world in a state of \_\_\_1\_\_\_. According to Genesis, Noah survives in an ark, and after the flood, he dispatches many birds to detect whether the water has receded or not. The first bird to be \_\_\_2\_\_\_ is a raven, but it returns without finding any dry soil to land on. On the 301st day of the great flood, Noah sends out \_\_\_3\_\_\_ bird, this time a dove, to spy again. The dove comes back in the evening with a plucked-off olive leaf in its mouth, and Noah knows the water has abated from the earth.
 
 &#x20;       The presence of an olive leaf can indicate the end of a natural \_\_\_4\_\_\_ because olive trees are very hard. Although the foliage of olive trees cannot survive the flood, the branches are able to withstand extreme conditions. When the flood has receded enough for the leaves to re-grow on the branches, it ushers in a sign of safety. In the Christian world, the olive branch comes to symbolize peace and the end of troubles, as it is perceived by Noah on the ark. At \_\_\_5\_\_\_ moments, people can keep their faith in God by looking forward to the appearance of an olive branch. When it comes, spring will not be far away.
@@ -215,6 +275,14 @@ description: 克漏字相關題目。
 5. (A) tough (B) historic (C) precise (D) favorable
 
 ### O.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABDCC
+
+</details>
 
 &#x20;       Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically \_\_\_1\_\_\_. And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.
 
@@ -230,6 +298,14 @@ description: 克漏字相關題目。
 
 ### P.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABCDD
+
+</details>
+
 &#x20;       In Southeast Asia, there is a fruit that drives Western tourists away but attracts local residents. The durian is widely known in Southeast Asia as the king of fruits. It is \_\_\_1\_\_\_ in its large size, unique odor, and hard outer shell. Typically \_\_\_2\_\_\_ one to three kilograms, the fruit can grow up to 30 centimeters long and 15 centimeters in diameter.
 
 &#x20;       The flesh of the fruit gives out a strong odor that can be smelled even when the fruit is meters away. Some people think the durian smells good; \_\_\_3\_\_\_ believe that the scent is hard to bear. In some hotels or public transportation in Southeast Asia, durians are not allowed \_\_\_4\_\_\_ indoors because of the odors.&#x20;
@@ -244,6 +320,14 @@ description: 克漏字相關題目。
 
 ### Q.&#x20;
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CCDAB
+
+</details>
+
 &#x20;       Teenagers nowadays suffer from a lack of sufficient sleep. \_\_\_1\_\_\_ keep awake, many teens start drinking large amounts of coffee or soft drinks, skipping sleep \_\_\_2\_\_\_ their loss. Under peer pressure, some teens even start using heavier drugs such as amphetamine or ecstasy, \_\_\_3\_\_\_ side effects are too serious to ignore. It is imperative that everyone \_\_\_4\_\_\_ enough sleep. Teenagers, however, are deprived \_\_\_2\_\_\_ sleep because they are caught between childhood and adulthood. Biologically, their body clocks are changing. Intellectually, they are expected to \_\_\_5\_\_\_ others by learning more and finishing more out-of-class assignments. It's \_\_\_5\_\_\_ that they end up sleeping less.
 
 1. (A) So as to (B) With a view to (C) In order to (D) In addition to
@@ -253,6 +337,14 @@ description: 克漏字相關題目。
 5. (A) fetch; dreadful (B) overtake; inevitable (C) spark; disgusting (D) monitor; persuasive
 
 ### R.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADDCC / DBBCD
+
+</details>
 
 &#x20;       Most of us have seen guide dogs around. These dogs are ones \_\_\_1\_\_\_ have been specially trained to guide blind people. Of course, it is \_\_\_2\_\_\_ easy to become a guide dog; many months of training are needed to complete the process. First, when a dog is around eight weeks old, a puppy raiser will come \_\_\_3\_\_\_ it. This person cares for the puppy by making sure that it grows up healthy, \_\_\_4\_\_\_ commands, and develops social skills. Puppy raisers therefore spend considerable time engaged in such tasks \_\_\_5\_\_\_ making sure their dogs have a healthy diet and giving them lots of love to make them trust humans. Next, at around 14 months of age, \_\_\_6\_\_\_ dogs are enrolled in formal training at guide dog center, \_\_\_7\_\_\_ they are trained for a few months. They learn basic guidance skills like how to \_\_\_3\_\_\_ danger and avoid obstacles. Finally, the dogs move on to local mobility teams \_\_\_7\_\_\_ work with them for around three months. During this period, the dogs \_\_\_8\_\_\_ real-life situations where they must apply the skills they have learned. \_\_\_9\_\_\_ a dog has completed these stages, it is matches with an owner. The owner is one whose needs the dog can meet and whose burdens the dog can help \_\_\_10\_\_\_.
 
@@ -269,6 +361,14 @@ description: 克漏字相關題目。
 
 ### S.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADBD
+
+</details>
+
 &#x20;       Mixing plant species is how we've gotten papayas \_\_\_1\_\_\_ viruses, corn plants that survive drought, soybeans that stand up to weed killer, potatoes that don't bruise, and crops \_\_\_2\_\_\_ and cost less. That's good news for our food supply and the business of farming. But people worry about pollen and seeds from genetically engineered plants spreading beyond the fields where they were planted. Or what \_\_\_2\_\_\_ harmful outcomes could we have if genetically modified animals mate with non-modified or wild ones? We got ruby red grapefruits through natural mutation, yet "\_\_\_3\_\_\_ are questioning the safety of all the random genetic changes that went into their development," says Kevin Klatt, a PhD student in the molecular nutrition program at Cornell University. What seems to \_\_\_4\_\_\_ fear among people is when those changes happen deliberately in a lab. Worse still, \_\_\_5\_\_\_ you can't catch a disease or get a virus from a plant, every now and then one makes its way from animals to humans, like swine flu and bird flu. Because animal viruses may be used in genetic engineering, some people worry they may \_\_\_4\_\_\_ diseases simply because of eating meat produced this way.
 
 1. (A) revenging on (B) watching out for (C) immune to (D) clashing with
@@ -278,6 +378,14 @@ description: 克漏字相關題目。
 5. (A) because (B) now that (C) given that (D) while
 
 ### T.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DABC(ABCD)
+
+</details>
 
 &#x20;       When one thinks of a Pacific Island, the first images they \_\_\_1\_\_\_ are probably white sandy beaches, palm trees, and bikinis. This is certainly what \_\_\_1\_\_\_ in mind. But northeast of Hawaii there is a different sort of island that they would prefer does not immediately enter your imagination, for this is a floating island of plastic bottles, bags, cans, and other garbage. \_\_\_2\_\_\_, it continues to grow year on year. This is \_\_\_3\_\_\_ is referred to as the Great Pacific Garbage Patch, one of three such patches \_\_\_3\_\_\_ currently exist. The patch began forming in 1950 but \_\_\_4\_\_\_ in recent years. Weighing more than 80,000 tons and containing more than 1.8 trillion pieces of plastic, one half the patch is composed of material from the fishing industry: lines, nets, and ropes \_\_\_5\_\_\_ the other half - and the part that is growing by leaps and bounds - is a result of our modern throwaway society.
 
@@ -289,6 +397,14 @@ description: 克漏字相關題目。
 
 ### U.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCBAD
+
+</details>
+
 &#x20;       \_\_\_1\_\_\_ the fact that plastic bags take 20 years to decompose, cans 200 years, bottles 450 years, and fishing line up to 600 years, it is believed that 60% of all seabirds, whales, and turtles have already been seriously \_\_\_2\_\_\_. Scientists predict that without heavy penalty \_\_\_2\_\_\_, by 2050 the weight of the plastic garbage in the oceans will weigh more than that of the fish \_\_\_3\_\_\_ them. Despite the ongoing efforts of the recycling movement and other green organizations, people nowadays are \_\_\_4\_\_\_ to stop producing more garbage - both recyclable and non-recyclable - than collection centers can process. While it seems that our cities have become cleaner and less polluted places for people to reside in, it is just different, less noticeable locations \_\_\_5\_\_\_ the same problem has turned to.
 
 1. (A) To consider (B) Compared to (C) Judged from (D) Given
@@ -298,6 +414,14 @@ description: 克漏字相關題目。
 5. (A) what (B) , which (C) X (D) that
 
 ### V.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CABDA / DDBCD
+
+</details>
 
 &#x20;       What killed about one-third of the world's population? The answer is the Spanish flu pandemic of 1918. The 1918 flu is the deadliest in history, causing \_\_\_1\_\_\_ 20 to 50 million deaths. First \_\_\_2\_\_\_ in Europe, the US, and parts of Asia, then it quickly infected people around the world. \_\_\_2\_\_\_ vaccines and effective drugs, citizens were ordered to wear masks and public places were shut. Officials advised people \_\_\_3\_\_\_ shaking hands and to stay indoors. Even so, bodies were still piling up before the pandemic came to an end.
 
@@ -320,6 +444,14 @@ description: 克漏字相關題目。
 
 ### W.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADBCC / BADCB
+
+</details>
+
 &#x20;       It can be hard to convince people that trying to protect our Earth really works. They may sometimes doubt they can do much to slow down the harm \_\_\_1\_\_\_ to our planet. But now, there is very clear proof \_\_\_2\_\_\_ changing our behavior makes a huge difference.
 
 &#x20;       Between 10 and 40 kilometers above the earth \_\_\_3\_\_\_ a layer of gas called the ozone layer, \_\_\_3\_\_\_ the planet. This \_\_\_4\_\_\_, ozone, is extremely important as it protects humans from dangerous rays from the sun. People were shocked when scientists in the 1980s discovered a large hole inside the ozone layer, a hole which has been growing each year for some time.
@@ -341,6 +473,14 @@ description: 克漏字相關題目。
 
 ### X.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BAACB / DDACC
+
+</details>
+
 &#x20;       Drinking tea is a Taiwanese pastime that verges on obsession. For breakfast, lunch, and dinner there's \_\_\_1\_\_\_ tea to perfectly complement any food and suit any palate. But when it comes to an afternoon drink or something to \_\_\_2\_\_\_ on while wandering through the local night market, nothing beats a pearl mile tea, Taiwan's "official" drink.
 
 &#x20;       Milk tea has many different forms and different origins. But \_\_\_3\_\_\_, most of the traditional milk tea originated from the \_\_\_4\_\_\_ of British afternoon tea in Asia. Certain countries have their own traditional \_\_\_4\_\_\_ of these recipes. Hong Kong, Thailand, and India, \_\_\_5\_\_\_, all have their own \_\_\_5\_\_\_ on the beverage.
@@ -360,6 +500,14 @@ description: 克漏字相關題目。
 
 ### Y.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BABAC
+
+</details>
+
 &#x20;         My family has a custom that we follow every Christmas. My husband Mike always preferred me not to buy Christmas presents for him. So one year, I decided \_\_\_1\_\_\_ a kind act for him instead. Mike loved sports, and he enjoyed working as a sports coach at a school. He suddenly became sad one day when he noticed that the team our son Kevin \_\_\_2\_\_\_ was \_\_\_2\_\_\_ proper gear. Secretly, I had some brand new sports \_\_\_3\_\_\_ delivered to the kids as a gift that Christmas, and I explained this in a note and put it into an envelope. Mike was extremely happy when he read the note on Christmas Day, and we \_\_\_4\_\_\_ this tradition ever since. Unfortunately, Mike \_\_\_5\_\_\_ last year from an illness, but my children and I have kept his spirit alive by gifting each other with these kinds of envelopes this year.
 
 1. (A) to persist (B) to perform (C) doing (D) acting on
@@ -370,6 +518,14 @@ description: 克漏字相關題目。
 
 ### Z.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DD(ABCD)B(BD)
+
+</details>
+
 &#x20;       The Lord of the Flies, a classic of English fiction, tells of a group of schoolboys \_\_\_1\_\_\_ a plane crash and \_\_\_1\_\_\_ on a \_\_\_2\_\_\_ island in the Pacific. The book \_\_\_3\_\_\_ disturbing conclusions about human nature, suggesting that people, \_\_\_4\_\_\_ to deal with difficult problems, will act selfishly instead of caring about the welfare of the group. However, a true story of \_\_\_4\_\_\_ boys from 1966 that recently \_\_\_5\_\_\_ has proven that humans aren't as dark as Golding had imagined.
 
 1. (A) survive; stranded (B) surviving; stranding (C) survived; stranded (D) who survive; become stranded
@@ -379,6 +535,14 @@ description: 克漏字相關題目。
 5. Choose the **CORRECT ONES**. (A) broke the news (B) hit the headlines (C) turned the spotlight on (D) made the news
 
 ### AA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDBCA / B(BC)DCA / DDCAB
+
+</details>
 
 &#x20;       One can never be too \_\_\_1\_\_\_ about festivals, for the motive behind each celebration of them is more than just for fun. For example, every year during the Dragon Boat Festival, there's a special custom \_\_\_2\_\_\_ my family clings. This involves having homemade rice dumplings \_\_\_3\_\_\_ to families whose living conditions \_\_\_4\_\_\_. In the days leading up to the annual holiday, my grandparents will demand that all the ingredients for the rice dumplings \_\_\_3\_\_\_. During this period, rarely \_\_\_5\_\_\_ late from school, for I just cannot wait to help them wrap the rice dumplings in bamboo leaves. \_\_\_6\_\_\_, I don't just enjoy spending time with my grandparents, who teach me \_\_\_7\_\_\_; I also use this \_\_\_8\_\_\_ an excuse to escape from \_\_\_1\_\_\_ chores, my homework, housework, to name a few. I know that if I am busy helping to make the rice dumplings, \_\_\_9\_\_\_ them carefully one by one, then my parents will forget to condemn me \_\_\_8\_\_\_ doing nothing else. And by the time they figure out my plan, I \_\_\_10\_\_\_ days without being plagued by disturbing work. However, \_\_\_11\_\_\_ my quick wits, such days of ease can only go on for a few days. Before we know it, the Dragon Boat Festival will suddenly be upon us \_\_\_2\_\_\_ means, in \_\_\_12\_\_\_ time, we will be ready to give away hundreds of homemade rice dumplings, and days working around the clock are to \_\_\_12\_\_\_ for weeks. Still, I always look forward to \_\_\_13\_\_\_ with my grandpa on his motorcycle \_\_\_13\_\_\_ the rice dumplings to a charity. In the future, I definitely plan to \_\_\_14\_\_\_ this special family tradition. By doing this good deed every year, my grandparents have shown me human nature \_\_\_15\_\_\_ and taught me the value of treating others with kindness.
 
@@ -401,6 +565,14 @@ description: 克漏字相關題目。
 
 ### AB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DB(AC)(ABD)D
+
+</details>
+
 &#x20;       It was one of the greatest examples of sportsmanship ever seen. In the 1936 Olympics in Berlin, the crowd saw the American track-and-field athlete Jesse Owens \_\_\_1\_\_\_ on his first two long jumps in the afternoon competition. This was especially surprising as Owens held the world record in this event. If his third jump was not better, he would fail to qualify for the finals. \_\_\_2\_\_\_, an opponent, Luz Long, did something quite unexpected. Long, from Germany, \_\_\_2\_\_\_ winning the gold in front of his home crowd. He \_\_\_4\_\_\_ a win, but he wanted to beat Owens at his best. There were no rules to stop him from helping an opponent, so he walked up to Owens and gave him some advice on his \_\_\_5\_\_\_ to the jump. Owens' next jump was a success, and he went on to win the gold medal. Long, who helped Owens achieve victory, took silver, but also won a deep friendship with the American \_\_\_5\_\_\_.
 
 1. (A) fell short (B) falls short (C) fallen short (D) fall short
@@ -410,6 +582,14 @@ description: 克漏字相關題目。
 5. (A) way; sportsmanship (B) method; patron (C) means; referee (D) approach; legend
 
 ### AC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(ABCD)CDAB / (ABC)C
+
+</details>
 
 &#x20;       \_\_\_1\_\_\_ the high cost of the plane tickets, the in-flight food provided doesn't seem to be worth the value. To have this nearly universal issue \_\_\_2\_\_\_, airlines have researched extensively and obtained some useful results. At the heart of the problem \_\_\_3\_\_\_ the altering of senses that occurs during a flight. Inside a pressurized cabin, one can notice the level of humidity \_\_\_4\_\_\_ to below desert levels. With a(n) \_\_\_2\_\_\_ change in the level of moisture in our nasal and oral mucous membranes, we perceive tastes differently. Airline research indicates the two tastes whose flavors are \_\_\_5\_\_\_ to a certain extent by the cabin environment are sweetness and saltiness. Accordingly, airline chefs add more sweet and salty condiments to compensate. Researchers also find that the loss of normal sensations of taste and smell can be reduced \_\_\_6\_\_\_ passengers wear headphones tuned to white noise. Hopefully, one day, dining in the air will be \_\_\_7\_\_\_ it is on the ground, if not more fun.
 
@@ -422,6 +602,14 @@ description: 克漏字相關題目。
 7. (A) as an enjoyable experience as (B) a more than enjoyable experience than (C) as enjoyable an experience as (D) more an enjoyable experience than
 
 ### AD.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCADB / ADC
+
+</details>
 
 &#x20;       To \_\_\_1\_\_\_ courage and faith, there's no better candidate than Bethany Hamilton, an American professional surfer whose experience has inspired people \_\_\_1\_\_\_. On October 31, 2003, when she was out surfing with her family and friends, she was attacked by a fourteen-foot-long tiger shark, \_\_\_2\_\_\_ her left arm \_\_\_2\_\_\_ from her shoulder. Her friends paddled her back to shore, \_\_\_3\_\_\_ she was rushed to Wilcox Memorial Hospital. By the time she arrived there, she \_\_\_4\_\_\_ over sixty percent of her blood and was going into shock. Amazingly, within three to four weeks of the shark attack, Hamilton was seen \_\_\_5\_\_\_ back in the water surfing. In the beginning, \_\_\_6\_\_\_ such a severe injury, she had to count on a custom surfboard longer and slightly thicker than standard for easier paddling, and a handle for her right arm. After going through many trials, on January 10, 2004, she \_\_\_7\_\_\_ to her first major competition. Since the attack, she has appeared on many TV shows. In 2004, she also went on to write a book about her experience, and her \_\_\_6\_\_\_ tale serves as an inspiration to many, assuring them that under no condition \_\_\_8\_\_\_.
 
@@ -436,6 +624,14 @@ description: 克漏字相關題目。
 
 ### AE.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABACD
+
+</details>
+
 &#x20;       Millionaires often make strange requests. They believe they can get anything they want. So,when one millionaire made the proposal that I \_\_\_1\_\_\_ a traffic jam, it didn't really surprise me, although it did \_\_\_1\_\_\_ my curiosity as to what the motive behind the plan was. Of course, it sounded like a waste of everyone's time and his money, but it was \_\_\_2\_\_\_. I thus started planning how to block the three roads leading to the theater, with two of \_\_\_3\_\_\_ being the main ones. Getting a wagon and a few cab drivers to help wasn't hard. \_\_\_3\_\_\_ was finding a policeman willing to assist that was a bit tricky. In the end, however, everyone has their price, and everything was arranged. As planned, never did the two make it to the show. \_\_\_4\_\_\_ for a whole hour, my mission was accomplished. The next day, I took a taxi myself to the crazy old rich guy's house. I wanted to collect the money I \_\_\_5\_\_\_ organizing the delay. It was quite a large amount but he just joked about a little fat boy shooting arrows. Like I said, more money than sense!
 
 1. (A) create; arouse (B) created; arouse (C) had created; raise (D) creating; raise
@@ -445,6 +641,14 @@ description: 克漏字相關題目。
 5. (A) spent (B) spending (C) has spent (D) had spent
 
 ### AF.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DABAB / CA
+
+</details>
 
 &#x20;       Should you choose love or money? In India, \_\_\_1\_\_\_ arranged marriages are common, people there often doubt \_\_\_2\_\_\_ true love \_\_\_2\_\_\_ exist. One woman recently wrote to a magazine to share that she \_\_\_3\_\_\_ to accept an arranged marriage for money. She wanted her life to be filled with travel and excitement, and believed her rich arranged husband would provide \_\_\_4\_\_\_ for her. And at first, that's \_\_\_4\_\_\_ what she got. They traveled the world, and had fun. However, when they \_\_\_5\_\_\_ into married life at home, things changed. After just a few months, she realized she and the man had very little in common. They either \_\_\_6\_\_\_ talked to each other or fought. But because theirs was an arranged marriage, there really wasn't any way out. To this day, over fifteen years after tying the knot, she said she regrets \_\_\_7\_\_\_ money \_\_\_7\_\_\_ love.
 
@@ -458,6 +662,14 @@ description: 克漏字相關題目。
 
 ### AG.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBCAB / D
+
+</details>
+
 &#x20;       The killing of our wild animals, whether for food or for love of hunting, has reduced their numbers greatly. The few \_\_\_1\_\_\_ buffaloes, which used to be part of herds roaming across the western plains in great numbers, are now \_\_\_1\_\_\_ chiefly in zoos and national parks. In the forest, the graceful deer have also been cruelly hunted. Lovers of these wild creatures discovered that \_\_\_2\_\_\_ something was done soon, these animals would disappear. Accordingly, many steps were \_\_\_3\_\_\_ to save wildlife. First, national parks, where the wild animals could not be hunted, were established. Then, fees were charged \_\_\_4\_\_\_ hunting licenses. As a third \_\_\_4\_\_\_, certain hunting seasons were \_\_\_5\_\_\_ effect, and \_\_\_6\_\_\_ certain months of the year could these animals be hunted. A final method was to limit the number of animals that could be killed at one time. People who offended the law deserved \_\_\_6\_\_\_ severely.
 
 1. (A) remained; finding (B) existed; to find (C) remaining; to be found (D) existing; founded
@@ -468,6 +680,14 @@ description: 克漏字相關題目。
 6. (A) within; being punished (B) at the point of; to punish (C) until; punished (D) only during; to be punished
 
 ### AH.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DABCD / AC
+
+</details>
 
 &#x20;       Sugary drinks, candy, baked goods, and sweetened dairy are the main sources of added sugar. But even savory foods, like breads, tomato sauce, and protein bars, can have sugar, making it all too easy to \_\_\_1\_\_\_ a surplus of the sweet stuff. To complicate it further, added sugars can be hard to spot on nutrition labels since they can be listed under a number of names, such as corn syrup, agave nectar, palm sugar, cane juice, or sucrose. \_\_\_2\_\_\_ it's called, sugar is sugar, and in excess, it can \_\_\_2\_\_\_ affect your body in many ways .Here's a closer look at how sugar can mess with your health.
 
@@ -489,6 +709,14 @@ description: 克漏字相關題目。
 
 ### AI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(BC)BCAD / A(BC)DDB
+
+</details>
+
 &#x20;       Amber is a hard, yellowish-brown substance that lasts for centuries. Valued \_\_\_1\_\_\_ it is now, it was originally used to describe a hardened waxy substance found within the intestines of sperm whales called ambergris. \_\_\_2\_\_\_, but for amber, which was also \_\_\_3\_\_\_ by people as a healing agent  in folk medicine in the past, we would not have many of the world's important insect remains. The word "amber" is \_\_\_4\_\_\_ the Middle Persian word "ambar." Long ago, amber was not as hard as it is today. It started out \_\_\_5\_\_\_ resin secreted to heal a wound of an ancient tree. The resin made a sticky, protective barrier \_\_\_5\_\_\_ fungus. When the tree eventually fell and began to \_\_\_6\_\_\_, the sap remained and the insects were often seen \_\_\_7\_\_\_ in the soft resin. The bugs caught in the sticky amber died but were forever \_\_\_8\_\_\_. After many years, the imprints of their bodies \_\_\_9\_\_\_ in the hardened resin. Those imprints of creatures and plants that once lived are called fossils, \_\_\_10\_\_\_ scientists refer for more information about life on earth in the past.
 
 1. Choose the **CORRECT ONES**. (A) since (B) as (C) though (D) although
@@ -504,6 +732,14 @@ description: 克漏字相關題目。
 
 ### AJ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACBDC / CACBD
+
+</details>
+
 &#x20;       Born and raised in Taiwan, dancer Sheu Fang-Yi is a sight to behold on the global stage. \_\_\_1\_\_\_ was her passion for dancing that Sheu found her \_\_\_2\_\_\_ in dancing early on. Thus, in spite of strong opposition from her parents, she has been determined and \_\_\_2\_\_\_ to become a dancer. There is never a shortage of dancers blessed with talent. However, a legend \_\_\_3\_\_\_ be worked on. What \_\_\_4\_\_\_ her from others is her very discipline to put in the hard work to further her skills. She follows a diet \_\_\_5\_\_\_, with a nearly religious fervor as well as keeping a vigorous workout routine to stay fit. Sheu has impressed her mentors and peers with her \_\_\_6\_\_\_ dedication to her art from adolescence to adulthood, winning a much \_\_\_6\_\_\_ spot in Martha Graham Dance Company in 1995, one of \_\_\_7\_\_\_ being most respected and celebrated dance companies in the U.S. Although she is outstanding and renowned, she has her share of setbacks like anyone else \_\_\_8\_\_\_ a grand dream or ambition. The dance company she established single-handedly did not work out and the news that she even \_\_\_9\_\_\_ a number of contracts that cost her millions was a(n) \_\_\_9\_\_\_ out of the blue. She, \_\_\_10\_\_\_, takes it upon herself to promote modern dance at home and abroad. We can surely expect to be amazed by more of her productions in the years to come.
 
 1. (A) Such (B) So (C) That (D) It
@@ -518,6 +754,14 @@ description: 克漏字相關題目。
 10. (A) hence (B) by the way (C) otherwise (D) however
 
 ### AK.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+A(ABCD)CBD / ADDC(BC) / D
+
+</details>
 
 &#x20;       The documentary _He Named Me Malala_ first aired in American theaters in October 2015. This was almost three years to the day after a brutal attack \_\_\_1\_\_\_ by Taliban terrorists that \_\_\_2\_\_\_ ended Pakistani schoolgirl Malala Yousafzai's life. The film explores the reason \_\_\_3\_\_\_ the shooting and the events in Pakistan stemmed. It also describes Malala, \_\_\_4\_\_\_ the age of fifteen, risked attending school despite threats by Islamic extremists. At the heart of the movies, however, \_\_\_5\_\_\_ the special bond Malala shares \_\_\_4\_\_\_ her father. Ziauddin Yousafzai, himself an education activist, \_\_\_6\_\_\_ resistance \_\_\_7\_\_\_ the notion of gender discrimination and equal rights \_\_\_7\_\_\_ education, always encouraged his daughter to further her studies. He also supported her when she first \_\_\_8\_\_\_ against shortened schooling for girls. American director Davis Guggenheim therefore hopes the documentary will inspire both fathers and daughters \_\_\_9\_\_\_ to treasure and support each other. For her part, Malala is praying "not just for a movie, but a movement." She wants the film to make free secondary education for all children around the globe \_\_\_10\_\_\_. \_\_\_11\_\_\_, that's exactly what it will do!
 
@@ -535,6 +779,14 @@ description: 克漏字相關題目。
 
 ### AL.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADCB / D(ABCD)(BC)
+
+</details>
+
 &#x20;       No one in the right state of mind believes it's \_\_\_1\_\_\_ to bang this little insect to death with his or her fist, unlike what he or she may do heartlessly to a mosquito or a fly. Once this little creature \_\_\_2\_\_\_ someone, buzzing nearby, \_\_\_3\_\_\_ for feeling annoyed he or she may be, he or she can only try to shoo it away gently. Can you guess what this little insect is? Probably because bees are trusted with one of the most crucial tasks in \_\_\_4\_\_\_ the world, they are equipped with a little stinger and venom to protect them from the cruelty of the most vicious species on Earth - human beings. However, \_\_\_5\_\_\_ the weapon they were born with, bees are dying. All over the world, from America to Europe, even in Taiwan, \_\_\_6\_\_\_ over the past twenty years, a fact disturbing all of us. Without bees, the best pollinators in nature, crops bloom but end up bearing no fruit, \_\_\_7\_\_\_ significant economic losses and a greater shortage of food worldwide. The next time you try to chase a stray bee away, wish the little creature luck. After all, \_\_\_8\_\_\_ its contribution, there wouldn't be food on your dining table.
 
 1. (A) worth to risk (B) worthy of risking (C) worth the risk (D) worthwhile of the risk
@@ -547,6 +799,14 @@ description: 克漏字相關題目。
 8. Choose the **CORRECT ONES**. (A) for all (B) but for (C) were it not for (D) had it been for
 
 ### AM.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CB(AB)DA / B(ABCD)CDA / ABD(ABCD)C
+
+</details>
 
 &#x20;       Ok, admit that: your pockets are not \_\_\_1\_\_\_ with your shopping, but with your fat. Still, your busy schedule \_\_\_2\_\_\_ your life, leaving no room for exercise. Don't worry! Exercise doesn't always have to be time-consuming and laborious. Research \_\_\_3\_\_\_ that moderate amounts of exercise - even just 15 minutes a day - helps ease depression (you stop \_\_\_1\_\_\_), enhance self-image (a fit person is never a(n) \_\_\_4\_\_\_ one lounging on the chair \_\_\_4\_\_\_ his mug, doing nothing), relieve stress (you are saying goodbye to what's \_\_\_5\_\_\_ you), and much more. That's right. \_\_\_6\_\_\_ is exercise that makes you happy, and you don't have to be a fitness fanatic to do it. What you need to do is to make "start slow and have fun" a motto to \_\_\_7\_\_\_. Then you'll be well on a \_\_\_5\_\_\_ anticipation to using physical activity as a tool to make you feel better every day. \_\_\_8\_\_\_, the "no pain, no gain" view of exercise is now considered old-fashioned. \_\_\_9\_\_\_, current health studies prove that exercise doesn't have to hurt to be effective. You might insist that a workout is hardly effective \_\_\_10\_\_\_ giving you pain. According to fitness trainers, physically demanding exercises may make you breathe heavily and your muscles may ache temporarily, but by no means should exercise be painful. If it is, it may \_\_\_11\_\_\_ an injury or muscle strain. Many great forms of exercise - like walking, swimming, or gentle stretching, get results without the soreness or discomfort \_\_\_12\_\_\_ some people associate exercise. For the sake of your health, it is high time everyone \_\_\_13\_\_\_ regular exercise a part of their life. Keep in mind that even short periods of low-impact exercise serves as a powerful \_\_\_14\_\_\_ to improve your health. So, \_\_\_15\_\_\_ busy you are, try to make time for exercise every day, like a 15-minute walk with your dog. Your body will thank you in many ways.
 
@@ -568,6 +828,14 @@ description: 克漏字相關題目。
 
 ### AN.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBDACCB
+
+</details>
+
 &#x20;       The idea \_\_\_1\_\_\_ feeding pigeons in a square at the sunset is itself romantic enough, but if you are caught doing so in Italy, you might be thrown in jail for feeding \_\_\_2\_\_\_ an offense that you don't even know of its existence! Well, to curb the growing pigeon population, the Italian government has made bird feeding illegal throughout Venice, so \_\_\_3\_\_\_ any desperate birdseed sellers still trying to hawk you their illicit pigeon snacks. For a visitor to the Thailand, it's the currency that he's to be careful about, \_\_\_4\_\_\_. Avoid stepping on any Thai currency. If caught, you will be charged for an offence \_\_\_5\_\_\_ the king, not something to be taken lightly in the kingdom \_\_\_6\_\_\_ the kings' images appear on all notes and coins. Anyway, learning about the laws of your travel destination is \_\_\_5\_\_\_ great help in protecting you from fines and potential jail time! Keep in mind that things that seem "normal" or "polite" to you might be considered \_\_\_7\_\_\_ in other countries.
 
 1. (A) how (B) X (C) which (D) that
@@ -579,6 +847,14 @@ description: 克漏字相關題目。
 7. (A) likewise (B) otherwise (C) unfamiliar (D) differently
 
 ### AO.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCD(ACD)D / BDCA
+
+</details>
 
 &#x20;       In spite of modernization and the increasing role of women in all walks of life, \_\_\_1\_\_\_ some gender-biased practices still persist somewhere in the world, one of \_\_\_2\_\_\_ is the practice of the dowry in India. The dowry system, money or property brought by a bride to her husband at marriage, \_\_\_3\_\_\_ centuries ago with the intention of providing security for a girl \_\_\_4\_\_\_ difficulties and unexpected circumstances after marriage arise. For this purpose, the parents gave their daughter whatever they could afford, which \_\_\_5\_\_\_ went to the groom's family. By the beginning of the 21st century, however, the custom \_\_\_6\_\_\_ to a point whereby the groom and his family had become very greedy. When demands for dowry are not met, the bride is \_\_\_7\_\_\_ torture, and often even killed. The more educated a man is, the \_\_\_8\_\_\_ is the expectation for dowry at the time of marriage. It is thus recommend that a highly educated girl \_\_\_9\_\_\_ larger dowries because she usually marries a more educated man.
 
@@ -593,6 +869,14 @@ description: 克漏字相關題目。
 9. (A) have (B) has (C) to have (D) with
 
 ### AP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDBAC / CDBAA
+
+</details>
 
 &#x20;       The megamouth shark swims in deep waters and is rarely seen by humans. In fact, not until in 1976 \_\_\_1\_\_\_ this shark first discovered. When it opens its giant mouth, it looks like a tunnel \_\_\_2\_\_\_ every fish \_\_\_2\_\_\_ to swim through it. Only 226 megamouth sharks have been recorded in the world, most of \_\_\_3\_\_\_, amazingly, swimming to waters off eastern Taiwan every year. \_\_\_4\_\_\_, Taiwanese fishing boats have been dangerous to the sharks. Every year, megamouth sharks get caught in fishing nets by accident. Between 2013 and mid-2020, 139 of these rare creatures were seen \_\_\_5\_\_\_ their fins desperately in the nets, caught. Laws during that time entitled people \_\_\_6\_\_\_ the sharks, after which they sold the sharks. Environmental groups and scientists found the situation hard to \_\_\_7\_\_\_ anymore, but all they could do was \_\_\_8\_\_\_ the Taiwanese government to take more protective measures for the conservation of the sharks. \_\_\_9\_\_\_ the request, in late 2020, the government stopped the fishing industry from killing the megamouth shark. Any boat that catches one must have it \_\_\_10\_\_\_ back into the sea even if it's dead. Failure to do so could result in a prison sentence or a fine of NT $150,000.
 
@@ -609,6 +893,14 @@ description: 克漏字相關題目。
 
 ### AQ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(ABC)CD(AC)A / DBABC
+
+</details>
+
 &#x20;       Disorders such as Alzheimer's, cardiovascular disease, depression and stroke all \_\_\_1\_\_\_ insufficient sleep. A student sitting for a test with his mind totally blank simply because he tossed and turned the night before would just wish he \_\_\_2\_\_\_ enough sleep the previous night. Luckily, there are many technological devices available to ensure we get enough sleep to wake up \_\_\_3\_\_\_. Thus, \_\_\_4\_\_\_ wearables don't do a perfect job of recording our sleep times, they can present us the data in an easily digestible format - graphs and charts through the companion app, for example. Plus, many offer extra features that can help us chart \_\_\_5\_\_\_ changes in our sleep over time so that we can build up a good picture of how our daily behaviors impact our sleep, and vice versa. And simply being more conscious of the need to get more sleep can encourage better sleep behavior - which can, \_\_\_6\_\_\_, lead to better sleep. Don't get too \_\_\_7\_\_\_ the data from your smartwatch or fitness tracker, \_\_\_8\_\_\_. Dr. Heather Morgan, lecturer in applied health science at the University of Aberdeen, told us that wearables could help us better understand our sleep, and \_\_\_9\_\_\_ analyzing her own sleep had helped her achieve a better sleep pattern. "But," she adds, "use your judgement and know your personality. If you \_\_\_10\_\_\_ anxiety, sleep tracking may not be for you. Trying to perfect your sleep could be one more thing to fixate on, which could, ironically, stop you from sleeping."
 
 1. Choose the **CORRECT ONES**. (A) result from (B) arise from (C) stem from (D) restore from
@@ -623,6 +915,14 @@ description: 克漏字相關題目。
 10. (A) intend to (B) count on (C) are prone to (D) are opposite to
 
 ### AR.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADBB / DBCA(ABCD)
+
+</details>
 
 &#x20;       In the past, people who lacked certain \_\_\_1\_\_\_ were hidden away because people believed they could never \_\_\_1\_\_\_ themselves well to the surroundings. In school, they were separated from "regular" students or were denied any access \_\_\_2\_\_\_ an education at all. However, the late 20th century was the time \_\_\_3\_\_\_ awareness of the rights of such people grew. The public started to change their opinions, \_\_\_4\_\_\_ these students as regular ones who just needed to learn \_\_\_2\_\_\_ a different manner. People recognized that it was better that we included them \_\_\_5\_\_\_ excluded them and \_\_\_6\_\_\_ it was imperative to provide them with the extra care or facilities needed. Thus, the concept of "special needs" emerged. In the United States, research indicates that 18.5% of students, \_\_\_7\_\_\_ age is under 18, have special needs. Luckily, with additional budgets \_\_\_8\_\_\_ by the government, their needs are met. As special needs students get a(n) \_\_\_8\_\_\_ education, they can gradually grow into contributing members of society. Apart from this, other students can learn how to work with them, which \_\_\_9\_\_\_, can help reduce bullying and other forms of poor treatment. All in all, thanks to these measures, special needs students won't \_\_\_10\_\_\_ insufficiencies in the education system, while other students benefit as well. It's a win-win situation.
 
@@ -639,6 +939,14 @@ description: 克漏字相關題目。
 
 ### AS.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DA(ABCD)CB / CBBCD
+
+</details>
+
 &#x20;       The idea \_\_\_1\_\_\_ you don't need to be a  good write to be a straight-A student may sound startling, but it's true. All you need to do is \_\_\_2\_\_\_ money ready. This very idea is the root of an issue \_\_\_3\_\_\_ many universities in the UK and the US. In recent years, college students have begun passing on their assignments to academic ghostwriters - specialists in research, essay writing, and structure - \_\_\_4\_\_\_ paid to do their work. The "essay-for-hire" industry has spread rapidly across the developing world, particularly in countries like Ukraine and India \_\_\_5\_\_\_ eloquent English speakers are plentiful and salaries in other jobs are low. Yet, \_\_\_6\_\_\_ seeing it as a way of pulling third-world writers out of poverty, first-world universities are panicking about what it might mean for academic prestige and integrity. "It's a huge problem," commented one \_\_\_7\_\_\_ director at the University of California, San Diego. "Every great university could \_\_\_8\_\_\_ being a diploma mill." Luckily, \_\_\_9\_\_\_ sentence patterns and comparing them with the student's previous assignments, US-based tech company Turnitin released new software that identifies ghostwritten documents. Although this may \_\_\_10\_\_\_ academic ghostwriting, the University of Nottingham's Julia Molinari fears it fails to address the root of the problem.
 
 1. (A) X (B) which (C) so (D) that
@@ -653,6 +961,14 @@ description: 克漏字相關題目。
 10. Choose the **WRONG** one. (A) check (B) restrain (C) curb (D) retain
 
 ### AT.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBACA / DCDAD
+
+</details>
 
 &#x20;       The air condition nowadays has \_\_\_1\_\_\_ people speechless. While people living in urban cities are \_\_\_2\_\_\_ air contaminants leading serious health problems, the air you're breathing in your home is likely to be contaminated with pollutants and toxic chemicals. These harmful indoor pollutants \_\_\_3\_\_\_ outdoor-derived compounds like CO2, dust-like particles, and VOCs emitted from furnishings, paint, detergents, and other common household objects. Don't worry! One \_\_\_4\_\_\_ cleaning the air inside is the use of indoor plants. Science, in fact, has \_\_\_5\_\_\_ the purifying power of indoor plants. One study, for example, found that harmful side effects of indoor pollution, such as itchy eyes, asthma, to name a few, were \_\_\_6\_\_\_ reduced by the addition of potted plants in an office building. However, how do plants makes \_\_\_7\_\_\_ the air possible? Well, plants convert carbon dioxide into oxygen through the process of photosynthesis. Root-associated microbes then convert toxins in the air into nutrients \_\_\_8\_\_\_ the plants thrive. Yet, while all plants are capable of riding surroundings \_\_\_9\_\_\_ pollutants to some degree, some are clearly better than others. Plants like Areca Palm and Dracaena are able to remove up to 70% of VOC chemicals in the air \_\_\_9\_\_\_ an interval of twenty-four hours! So, why not give it a try? You can enjoy the simple beauty of house plants with your lungs benefiting from their natural air cleansing function \_\_\_10\_\_\_.
 
@@ -669,6 +985,14 @@ description: 克漏字相關題目。
 
 ### AU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BADCD / BDCAC
+
+</details>
+
 &#x20;       If one \_\_\_1\_\_\_ today, chances are he was invited to sing karaoke the night before. In Taiwan, Karaoke does not mean standing in front of the bar and \_\_\_2\_\_\_ out-of-tune ballads to a drunken audience. Rather, Karaoke is enjoyed in a private room with only close friends \_\_\_3\_\_\_. Usually, friends go in groups, \_\_\_4\_\_\_ rooms \_\_\_4\_\_\_ up to 20 people. \_\_\_5\_\_\_ the much more relaxed atmosphere made possible by only close friends in the room, usually there isn't the fear of singing in front of strangers. \_\_\_6\_\_\_, there is still the need to perform well. Many Taiwanese, in fact, seeing an evening at KTV rooms as such a(n) \_\_\_7\_\_\_ part of their social lives that they practice singing beforehand \_\_\_8\_\_\_ being asked to give a performance. Anyway, good or bad, just \_\_\_9\_\_\_ through the song book for your signature song and sing for \_\_\_10\_\_\_ better day to come.
 
 1. (A) hears awful (B) sounds hoarse (C) hears like a crow (D) sounds like a nightingale
@@ -683,6 +1007,14 @@ description: 克漏字相關題目。
 10. (A) the other (B) other (C) another (D) the others
 
 ### AV.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBDAD / BCAA(BC)
+
+</details>
 
 &#x20;       In Taiwan, Phra Phrom is also known \_\_\_1\_\_\_ the "Four-Faced Awakened One." Small shrines, each \_\_\_2\_\_\_ a golden statue of him, can be found in corners and alleys all over Thailand. One distinctive trait of these shrines is the lack of walls and doors \_\_\_3\_\_\_ is the very reason why he is so close to Thai people's hearts. Some people see similarities between Phra Phrom's place in Thailand and Taiwan's omnipresent shrines to Tudi Gong, the Earth God. However, Phra Phrom is actually \_\_\_1\_\_\_ a much higher echelon, being the Thai \_\_\_4\_\_\_ of the Hindu creator god Brahma. Most statues of Phra Phrom are seated and cross-legged. They have eight arms and four faces, the faces \_\_\_5\_\_\_ love, compassion, joy, and charity. He is positioned to face the four cardinal directions, each responsible for luck in a different area. Going \_\_\_6\_\_\_, the first face oversees work and study; the second, love and romance; \_\_\_7\_\_\_, money, health and family respectively. With regard to the orientation of the faces, there is some debate. Some say the "love" face should look west, while \_\_\_7\_\_\_ say it should face the direction of the most populated area so as to have his blessings \_\_\_8\_\_\_ to as many as possible. Since the first Phra Phrom statue arrived in Taiwan over 30 years ago, the rituals and customs around Phra Phrom have begun to adapt to Taiwanese life. For example, Taiwan's important traditional festivals are timed around the lunar calendar. \_\_\_9\_\_\_ the practice, the 9th day of the 11th lunar month has become the "holy birthday" of Phra Phrom .\_\_\_10\_\_\_, the ceremonies are taking on Taiwanese elements.
 
@@ -699,6 +1031,14 @@ description: 克漏字相關題目。
 
 ### AW.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACBDB
+
+</details>
+
 &#x20;       In a densely populated metropolis, the collective output of waste can spell disaster for both the government and the average public. While most household waste either ends up in landfills or burned up, experts in America have \_\_\_1\_\_\_ an alternative that can turn the waste even to our advantage.
 
 &#x20;       As garbage breaks down in landfills, the organic materials release gases such as methane and carbon dioxide, both of \_\_\_2\_\_\_ can be turned to generate enough electricity to meet the needs of common families. Such projects have currently been in place in nearly every state in the U.S. except Alaska and Hawaii. \_\_\_3\_\_\_ is the potential of the landfill gas that it's recognized as an efficient and environmentally-friendly energy source by the American government.
@@ -712,6 +1052,14 @@ description: 克漏字相關題目。
 5. (A) is supposed to (B) has yet to (C) might as well (D) had better
 
 ### AX.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBCAD
+
+</details>
 
 &#x20;       Born and raised in Taiwan, dancer Sheu Fang-Yi is a sight to behold on the global stage. Sheu found her calling in dancing early on, and \_\_\_1\_\_\_ strong opposition from her parents, she has been determined and resilient in her aspiration to become a dancer by profession.
 
@@ -727,6 +1075,14 @@ description: 克漏字相關題目。
 
 ### AY.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+AAACD
+
+</details>
+
 &#x20;       The humble-looking piggy bank has a longer history than most of us are aware of. In the Middle Ages before the banks we know came into \_\_\_1\_\_\_, people used to deposit their loose change in kitchen jars made of a kind of clay called pygg. With metal back then \_\_\_2\_\_\_ rare and expensive, clay jars were seen as an economical choice. As the English language evolved, pygg was once pronounced the same as pig, and since pigs were known to roll in pygg mud and dirt, people began to associate, though mistakenly, the pygg jar with pigs. \_\_\_3\_\_\_, in the 19th century, British potters began making pig-shaped piggy banks, accidental yet amusing inventions.
 
 &#x20;       While the "piggy" in piggy bank is a visual pun, the "bank" part actually \_\_\_4\_\_\_ a bench in the very beginning. In the long past, European traders and dealers made transactions in public squares over benches laden with wads of bills and piles of coins, and actually the Italian word for bench is "banco," from which the English word "bank" is \_\_\_5\_\_\_. These days, ancient artifacts of piggy banks are rarely seen, for they must be broken to get the change deposited inside.
@@ -739,6 +1095,14 @@ description: 克漏字相關題目。
 
 ### AZ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCBAD
+
+</details>
+
 &#x20;       Nudžejma Softić initially received attention for being one of the first women to finish a marathon and triathlon wearing a hijab, a Muslim scarf that covers a woman’s hair and neck. \_\_\_1\_\_\_ up running in 2015, she ran her first half-marathon within 6 months and started training for a triathlon within two years. She was born in Bosnia and Herzegovina just before the start of the Bosnian War and grew up as a(n) \_\_\_2\_\_\_ in Croatia. Now \_\_\_3\_\_\_ working as a proofreader and copy editor for a TV channel, she is also a personal running trainer and motivational speaker. She usually talks about her tough childhood and the \_\_\_4\_\_\_ she has had overcome to compete in sports at a high level. With her fame, she hopes to \_\_\_5\_\_\_ people to walk out of their comfort zone and take their differences as their greatest treasure.
 
 1. (A) To take (B) Taking (C) Taken (D) Take
@@ -748,6 +1112,14 @@ description: 克漏字相關題目。
 5. (A) secure (B) upset (C) protect (D) encourage
 
 ### BA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CCBBA
+
+</details>
 
 &#x20;       For Wolf Cukier, the high school senior who discovered a new planet just three days into his internship in NASA, the coolest thing about his discovery is it orbits two stars at the same time. The Star Wars fan found this planet quite similar to Tatooine, \_\_\_1\_\_\_ is the movie protagonist’s hometown and has two sunrises and two sunsets every day. People are \_\_\_2\_\_\_ to visit the planet, though, since it would take over a thousand years to get there even if they \_\_\_3\_\_\_ to have a spacecraft to travel at the speed of light.
 
@@ -761,6 +1133,14 @@ description: 克漏字相關題目。
 
 ### BB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BAADD
+
+</details>
+
 &#x20;       Newbery Medal is the oldest and most prestigious children’s book award in the US. \_\_\_1\_\_\_ in 1922, it has been given to the author of “the most distinguished contribution.” This year, for the first time, the medal \_\_\_2\_\_\_ a graphic novel, New Kid written by Jerry Craft. The story is about a boy being one of the few children of color at a famous private school known for its academics. \_\_\_3\_\_\_ , he secretly dreamed to go to an art school. It is a story that explores topics \_\_\_4\_\_\_ friendship, race, class, and bullying in a fresh and often humorous manner. Craft said he hoped the win would show that stories \_\_\_5\_\_\_ African American characters who have support from family and friends can also succeed. The win of New Kid is believed to reflect changing attitudes about the literary values of graphic novels.
 
 1. (A) Found (B) Founded (C) To be founded (D) Founding
@@ -771,6 +1151,14 @@ description: 克漏字相關題目。
 
 ### BC.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABCDB
+
+</details>
+
 &#x20;       In most languages, the word "cancer" probably refers to a diagnosis. In Dutch; however, it is more likely to be an insult, as \_\_\_1\_\_\_ from the word Kankerlijer ("cancer-sufferer"). Generally, dirty words are based on social taboos. They are, in most cultures, related to sex, excrement or religion, and \_\_\_2\_\_\_. Nevertheless, they often feel weaker than the \_\_\_3\_\_\_ ones. Scholars are not sure why. One theory links it to Calvinism, which holds that the virtue of good people will show itself in material abundance, health and hygiene. "There was a shift in focus from the afterlife to this life \_\_\_4\_\_\_, for example, diminished the strength of 'God damn it'," says a Dutch linguist Marten van der Meulen. In this theory, "a curse might be stronger if you used something in actual life, like a disease." However, such theory is the so-called frequency hypothesis: the Dutch may curse with diseases simply because it \_\_\_5\_\_\_. Perhaps someday Dutch kids will call each other names with cries of "coronalijer" (coronavirus-sufferer).
 
 1. (A) illustrated (B) performed (C) exemplifying (D) demonstrating
@@ -780,6 +1168,14 @@ description: 克漏字相關題目。
 5. (A) wore out (B) caught on (C) faded away (D) took off
 
 ### BD.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BACDA
+
+</details>
 
 &#x20;       As historian and social critic Yuval Noah Harari once mentioned, when people ask about who they are, they expect to be told wonderful stories. Every generation, or everyone, is looking for the meaning of life. To explain the meaning of life, humans, politicians and religion leaders in particular, have made up different versions of stories \_\_\_1\_\_\_ our needs to explain our unique roles in the universe. \_\_\_2\_\_\_, in search of one's self identity, "the truth" is the last thing that humans want to hear while fantasy is rather favorable.
 
@@ -792,6 +1188,14 @@ description: 克漏字相關題目。
 5. (A) terrifying (B) persisting (C) inspiring (D) illuminating
 
 ### BE.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBADC
+
+</details>
 
 &#x20;       "I'm bored." It's a little phrase, yet it has the power to fill parents with a lot of dread and guilt. But boredom is something to experience rather than hastily get rid of. It may even be useful and \_\_\_1\_\_\_ for the kids.
 
@@ -807,6 +1211,14 @@ description: 克漏字相關題目。
 
 ### BF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CABDD
+
+</details>
+
 &#x20;       In the past few months, Formosan black bears have been reported to appear frequently in Yushan National Park. The traces of Formosan black bears are not \_\_\_1\_\_\_ only to the Walami Trail, the eastern part of the park. They can also be found in the Duiguan area of the Batongguan Trail, a trail going east and west within the park. According to the images \_\_\_2\_\_\_ by a camera installed near the Walami Trail, the black bears appear in this area almost on a monthly basis. Therefore, visitors to the area are told to exert more \_\_\_3\_\_\_ to stay away from the bears. If they happen to meet a black bear on the trail, they should walk away calmly and quickly \_\_\_4\_\_\_ behaving in panic. If the bear is walking toward them, they should never \_\_\_5\_\_\_ the bear, or rather, they should face the bear and walk backwards at a quick pace. Then, they are supposed to inform the park management nearby to help keep track of the bear's locations.
 
 1. (A) addicted (B) devoted (C) confirmed (D) revealed
@@ -816,6 +1228,14 @@ description: 克漏字相關題目。
 5. (A) turn their thumb up at (B) have their passion for (C) cross their fingers for (D) turn their back on
 
 ### BG.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBAAC
+
+</details>
 
 &#x20;       Yogurt is a dairy product made by fermenting milk. The bacteria used to make yogurt are called "yogurt cultures," which ferment lactose, a type of sugar found naturally in milk. This process produces lactic acid, a \_\_\_1\_\_\_ that acts on milk proteins, giving yogurt its texture and distinctive flavor. All types of milk can be used to make yogurt. Varieties made from skim milk are considered fat-free, whereas \_\_\_2\_\_\_ made from whole milk are considered full-fat. Plain yogurt is a white, thick liquid with a tart flavor. \_\_\_3\_\_\_, many yogurt companies add other ingredients, such as sugar and artificial flavors. These yogurts are not good for our health.
 
@@ -829,6 +1249,14 @@ description: 克漏字相關題目。
 
 ### BH.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CACDB
+
+</details>
+
 &#x20;       While the world's attention has been focused on the horrendous outbreak and spread of the coronavirus, another form of potential danger to the environment - single-used plastic - is making a strong comeback. \_\_\_1\_\_\_ they are throwaway masks, gloves or visors, plastic-based items are now making their way back to humans' life. Seen as \_\_\_2\_\_\_ accessories and an effective way to combat COVID-19, plastic items are now held in high regard for their multiple purposes and ability to keep the virus at bay. Many countries, such as Saudi Arabia, have demanded that every citizen \_\_\_3\_\_\_ protective gear like single-use gloves and face masks whenever they leave their homes. Even California has to partially lift their bans on the use of plastic utensils as a response to the fatal disease.
 
 &#x20;       However, the conservationists have begun \_\_\_4\_\_\_ the alarm, advising people not to neglect the environmental crisis caused by the continuous and immoderate use of plastic items in the past six months. Health experts further point out that plastic does not \_\_\_5\_\_\_ hygienic protection. "Only through constant hand-washing and avoiding crowd gathering can we really protect ourselves, and that is way more effective than putting on layers of plastic protections," say the experts.
@@ -841,6 +1269,14 @@ description: 克漏字相關題目。
 
 ### BI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDBAD / BC
+
+</details>
+
 &#x20;       I \_\_\_1\_\_\_ voluntary work at Emerald Hills Children's Hospital when I was in junior high school. Children there were sick and had no forms of entertainment \_\_\_2\_\_\_. Two years ago, I met Emily there, a six-year-old girl \_\_\_3\_\_\_ a serious illness. When I first met Emily, she seemed extremely frightened, believing herself \_\_\_4\_\_\_ to die. During my weekly visits, I told her that it was imperative that she \_\_\_5\_\_\_ to her feet. As time went by, Emily became increasingly comfortable in my presence, \_\_\_6\_\_\_ I take great pride as my success as a volunteer. One day, she even hugged me. It was the first time she had \_\_\_7\_\_\_ physical contact with me. Experiences like this one make me grateful for the opportunity to volunteer at Emerald Hills. Offering support and comfort to sick children is truly the most rewarding part of my life.
 
 1. (A) yearned for (B) embarked on (C) treaded on (D) confided to
@@ -852,6 +1288,14 @@ description: 克漏字相關題目。
 7. (A) imposed on (B) expelled from (C) engaged in (D) accounted for
 
 ### BJ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(ABCD)D(BD)DC / ABA
+
+</details>
 
 &#x20;       You might be surprised what kindergarteners can teach us when \_\_\_1\_\_\_ a challenge in a game. The Marshmallow Challenge has been carried out with many different groups around the world; it has them \_\_\_2\_\_\_ a tower out of spaghetti, tape, and string. Success is measured by the height of the tower, and \_\_\_3\_\_\_. One reason for this is that they don't hesitate to get started. Adults \_\_\_4\_\_\_ more talking and planning first, which leaves less time for the actual building. \_\_\_5\_\_\_ reason is kindergarteners' approach to problem-solving: \_\_\_6\_\_\_ planning, they rely on trial and error. They pick up the spaghetti and start testing ideas immediately. With unfamiliar conditions, experimenting right away works better than planning with \_\_\_7\_\_\_ information. \_\_\_5\_\_\_, it is usually the goals rather than the persons with whom they're to work with \_\_\_8\_\_\_ the kindergarteners are paying more attention to. Adults, on the other hand, may argue about who's the boss or whose idea is better, but kindergarteners just build. Next time you're facing a challenge, maybe you should think like a kindergartener!
 
@@ -870,6 +1314,14 @@ description: 克漏字相關題目。
 
 ### BK.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCABC / AC(BD)A(AC) / B
+
+</details>
+
 &#x20;       Through the eyes of an adult, the Day of the Dead is a memorable day while, through \_\_\_1\_\_\_ of a child, it can be pretty frightening. To begin with, you're told \_\_\_2\_\_\_ the festival, our world is visited by ghosts and \_\_\_3\_\_\_ the streets are to be filled with people \_\_\_2\_\_\_ consumes spooky enough to even \_\_\_4\_\_\_ grown-ups' hair \_\_\_3\_\_\_ on end. The same grown-ups \_\_\_5\_\_\_ expect you to stay in a graveyard all night until dawn, lighting candles and eating skull cookies! Many parents might be wondering \_\_\_6\_\_\_ all this to their kids. Fortunately, there are children's books that can help. These books are thought \_\_\_7\_\_\_ the Day of the Dead as far less scary time of year for children decades ago. One of the most popular of these books is a wonderful tale named The Dead Family D'iaz. This is the story of a young skeleton, Angelito, who is \_\_\_8\_\_\_ and is scared to death by the Day of the Dead. \_\_\_9\_\_\_ a skeleton, he finds people's red tongues, wild hair, and large round eyes absolutely terrifying. He \_\_\_10\_\_\_ in the dark underworld \_\_\_10\_\_\_ all night with such strange creatures. In addition, he also fears getting lost in the land of the living and having to stay there until the following November! However, when he \_\_\_11\_\_\_ makes friends with a real, living boy, everything changes. Hopefully this story can also change how some children view the Day of the Dead.
 
 1. (A) one (B) that (C) ones (D) those
@@ -885,6 +1337,14 @@ description: 克漏字相關題目。
 11. (A) in this way (B) somehow (C) by all means (D) somewhat
 
 ### BL.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBDAC / A(AD)(ABCD)AC / B
+
+</details>
 
 &#x20;       For some people, art is a(n) \_\_\_1\_\_\_ toward the pursuit of perfection. But what if "perfect" doesn't always \_\_\_2\_\_\_ "best"? That's the philosophy behind the Japanese term wabi-sabi, which is difficult to find its proper English \_\_\_3\_\_\_. At its heart, the idea of wabi-sabi is about finding beauty \_\_\_4\_\_\_ within life's imperfections. The most direct meanings of wabi and sabi do not necessarily help us understand this \_\_\_5\_\_\_ idea. Its real usage is best understood by considering things like cherry blossoms. Short \_\_\_6\_\_\_ the flowers only last, they are cherished for their beauty. \_\_\_7\_\_\_, their impermanence actually adds to their appeal. One comes to realize that he must learn to \_\_\_1\_\_\_ their beauty while the opportunity is there. Japanese culture \_\_\_8\_\_\_ examples like this one. Long ago, a Japanese tea ceremony would only be done with finely made, high-quality teaware. It wasn't until years later that tea ceremony took a style that embraced rough, mismatched, or even broken pieces. The imperfections in the tea set \_\_\_9\_\_\_ a shift of focus from the participants onto the experience of preparing and drinking the tea. In that way, wabi-sabi became a key part of this beloved Japanese custom \_\_\_10\_\_\_ its effect can also be seen in the design of Japanese gardens and even in modern buildings that work older, aged pieces into their designs. It might seem odd to smile at a chipped glass or a rusted fence, but the idea of wabi-sabi emphasizes that there is beauty \_\_\_11\_\_\_ in brokenness.
 
@@ -902,6 +1362,14 @@ description: 克漏字相關題目。
 
 ### BM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+C(CD)ACC / BA
+
+</details>
+
 &#x20;       "\_\_\_1\_\_\_ I had enough money for them all," said a customer when presented with a multitude of choices in competitive markets. In complete contrast is a monopoly, which exists when one company \_\_\_2\_\_\_ a market. In most cases, governments act to prevent monopolies and will break them up \_\_\_3\_\_\_. There are good reasons, from the consumer's point of view, \_\_\_4\_\_\_ measures against monopolies. Firstly, \_\_\_5\_\_\_ competition, a corporation can decide what prices to charge as they please, which is typically held \_\_\_6\_\_\_ higher prices for consumers. Secondly, far from \_\_\_7\_\_\_ innovation and superior products, companies in a monopoly position are more interested in the profits they are capable of making. This is because research and development is costly and cuts into profits. Thus, \_\_\_4\_\_\_ combating monopolies, governments are looking out for the best interests of consumers.
 
 1. (A) As long as (B) Now that (C) If only (D) Provided that
@@ -913,6 +1381,14 @@ description: 克漏字相關題目。
 7. (A) thriving on (B) attributing to (C) being resolved to (D) obsessing with
 
 ### BN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+D(BC)ACD / DDCAB
+
+</details>
 
 &#x20;       When we think of famous artists of the past, the name Van Gogh \_\_\_1\_\_\_. His most touching works \_\_\_2\_\_\_ the "Cafe Terrance at Night," "Irises," and his self-portraits; none of them, however, would prove to be as famous as "Starry Night," which \_\_\_3\_\_\_ be hailed as his iconic work, for it is \_\_\_4\_\_\_ an artistic masterpiece \_\_\_4\_\_\_ a strong personal revealing work. Van Gogh was born \_\_\_5\_\_\_ an upper-middle-class family. Often considered to be quiet, he struggled to make sense of the world. Several failed relationships and careers \_\_\_6\_\_\_ his ego to the point that he cut off his ear after a fight with his friend Paul Gauguin. Afterwards, he took a break from painting and entered a mental \_\_\_6\_\_\_. It was here that he decided to paint "Starry Night." \_\_\_7\_\_\_ it is that Van Gogh's feelings of loneliness as an artist is all the more \_\_\_8\_\_\_ felt. And \_\_\_9\_\_\_, its viewers can feel both sadness and great power \_\_\_5\_\_\_ the brushstrokes and colors of this painting. As we look upon these masterpieces, we must remember that behind every drawing \_\_\_10\_\_\_. And as we admire them, we might also reflect upon their stories and their hidden meanings.
 
@@ -929,6 +1405,14 @@ description: 克漏字相關題目。
 
 ### BO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BACBD
+
+</details>
+
 &#x20;       In today's time, there are nearly six million vending machines currently operating in the streets of Japan. They are \_\_\_1\_\_\_ common \_\_\_1\_\_\_ diverse so that people won't have any trouble \_\_\_2\_\_\_ one that meets their needs. However, vending machines don't just benefit customers. In a country \_\_\_3\_\_\_ real estate prices and labor costs are high, a merchant may find a vending machine produces a much higher profit margin than a retail store. \_\_\_4\_\_\_, in a lower-crime country as Japan, such machines are also more secure from the theft and vandalism they would likely suffer in other countries. No wonder, \_\_\_5\_\_\_ Japan today is home to myriads of vending machines is a fact well-established.
 
 1. (A) no more; than (B) as; as (C) not more; than (D) not less; than
@@ -938,6 +1422,14 @@ description: 克漏字相關題目。
 5. (A) X (B) what (C) while (D) that
 
 ### BP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDCAA / DD
+
+</details>
 
 &#x20;       There's more to jollof rice \_\_\_1\_\_\_ a main ingredient present in almost every dish in Nigeria. Since 2016, SBM Intel, a Lagos-based research firm, \_\_\_2\_\_\_ it to track food prices across Nigeria. The Jollof index tracks the prices of the main ingredients in the dish in 13 markets across six geopolitical zones to calculate how much it costs to prepare the iconic dish \_\_\_3\_\_\_ a family of five to six people rely. The index is updated from January through November \_\_\_4\_\_\_ a monthly basis. The data SBM has \_\_\_5\_\_\_ is alarming. The price of the dish reached more than 7,000 naria in August 2020, \_\_\_6\_\_\_ it far out of reach of the almost 40% of Nigerians who live on less than NT$10,230 per year. That is, \_\_\_7\_\_\_ such a big portion of expenditure spent on food, Nigerians could have enjoyed a better life. In fact, as of last summer, Nigerians were spending 56.6% of their income on food, the highest national average in the world. Even common \_\_\_5\_\_\_ for jollof, including noodle, fish, or egg dishes, have similarly soared in value. The Nigerian government will have to enact sweeping reforms to the country's transport, farming, and security if it intends to tackle the enormous structural issues behind the crisis. But \_\_\_4\_\_\_ its economy still working to get back up to speed after the pandemic, the question of when jollof rice will return to tables across the country remains to be seen.
 
@@ -951,6 +1443,14 @@ description: 克漏字相關題目。
 
 ### BQ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBBDD / DCD
+
+</details>
+
 &#x20;       Technology should be given the respect \_\_\_1\_\_\_ for whatever it has acted \_\_\_1\_\_\_ to save lives at critical moments. Two U.S. government agencies, the Department of Homeland Security and NASA, have noticed that how fast victims are rescued is \_\_\_2\_\_\_ important \_\_\_2\_\_\_ how well they are treated afterward. \_\_\_3\_\_\_, when a building crumbles down, the clock is ticking. Victims who where able to let rescuers know their location \_\_\_4\_\_\_ out of the wreckage, unharmed. So the two government agencies decide to work together and design a high-tech device to locate the victims \_\_\_5\_\_\_ in a \_\_\_5\_\_\_ building. They soon created a new device, called FINDER, the short form for Finding Individuals for Disaster and Emergency Response. The theory is \_\_\_6\_\_\_ FINDER sends out a microwave signals, which go in and hit the rubble and debris. Some of the signals may go further in, hit the victim deep inside and bounce back. As the victim moves, any of his or her subtle body movement will be \_\_\_7\_\_\_ and detected by FINDER. Even when the victim breathes or his or her heart beats, FINDER will not miss. Several pilot tests have proven that FINDER is \_\_\_8\_\_\_ tool by far to find survivors in an accident. Hopefully, it will save lots of lives in the future.
 
 1. (A) distinctive; readily (B) characteristic; firmly (C) due; accordingly (D) symbolic; virtually
@@ -963,6 +1463,14 @@ description: 克漏字相關題目。
 8. (A) not a worse (B) a far better (C) as good as a (D) the best
 
 ### BR.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCDBA / BCB(ABCD)B
+
+</details>
 
 &#x20;       \_\_\_1\_\_\_ a quick route to getting yourself into a better mood, but it's becoming increasingly clear that there's much more to the benefits of music \_\_\_2\_\_\_ just a quick boost for your outlook. Research has shown that music has a profound effect \_\_\_3\_\_\_ your body and psyche. In fact, there's a growing field of healthcare known as music therapy, which benefits \_\_\_4\_\_\_ suffering from cancer, ADD, or others. Some hospitals are even beginning to use music and music therapy \_\_\_3\_\_\_ their advantage to help with pain management, flight depression, promote movement, calm patients, or ease muscle tension. One research has shown that music with a strong beat can stimulate brainwaves to resonate \_\_\_5\_\_\_ the beat, with faster beats bringing sharper concentration and more alert thinking, and a slower tempo \_\_\_6\_\_\_ calm, meditative state. For years, music is believed \_\_\_7\_\_\_ to bring a more positive state of mind, \_\_\_7\_\_\_ to keep depression and anxiety at bay as well. The \_\_\_8\_\_\_ sound of music and the positive or \_\_\_8\_\_\_ messages that can be conveyed in the lyrics can all be routes to a new mental state. Music has also been found to bring \_\_\_9\_\_\_ benefits, such as lowering blood pressure, boost immunity, ease muscle tension, and more. With so many benefits and such profound physical effects, it's not surprise that so many are seeing music as something we cannot do without \_\_\_10\_\_\_ the well-being of the humans.
 
@@ -979,6 +1487,14 @@ description: 克漏字相關題目。
 
 ### BS.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADCDB
+
+</details>
+
 &#x20;       \_\_\_1\_\_\_ that our way of communication has been greatly impacted. According to research, many people \_\_\_2\_\_\_ smartphones are "phubbing" all the time, ignoring people or things around them. The word "phubbing" was actually coined by Macquarie Dictionary, combining a noun "phone" and a verb "snub", \_\_\_3\_\_\_ "snub" \_\_\_3\_\_\_ intentionally not paying attention to others and making them feel less important. If you happen to be a phubber, you are not \_\_\_4\_\_\_, for there are already a lot of "phubbers" out there. Seeing this unhealthy trend, an Australian young man Alex Haigh \_\_\_5\_\_\_ by launching a "Stop Phubbing" campaign, hoping to raise people's awareness of the importance of face-to-face communication.
 
 1. (A) Such is the prevalence of smartphones (B) So prevalently are the smartphones (C) How prevalently the smartphones are (D) What a prevalence is smartphone
@@ -988,6 +1504,14 @@ description: 克漏字相關題目。
 5. (A) put on the map (B) took a stand (C) took center stage (D) followed the lead
 
 ### BT.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DDDC(AB)
+
+</details>
 
 &#x20;       Are you intending to pray at a temple in Taiwan? If so, be aware that there are a few rules that should be observed during this ritual. Here are some basic guidelines to follow.
 
@@ -1005,6 +1529,14 @@ description: 克漏字相關題目。
 
 ### BU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACADB / BADC
+
+</details>
+
 &#x20;       Tomato plants have a unique way of protecting themselves \_\_\_1\_\_\_ caterpillars. \_\_\_2\_\_\_ a tomato leaf is nibbled by a caterpillar, all the leaves in the plant begin to release special proteins, which would \_\_\_3\_\_\_ the caterpillar's digestion. Soon, the caterpillar will be disgusted with the taste and will leave the plant alone. \_\_\_4\_\_\_ plants do not have central nervous systems as animals do, it will require more explanation how the wounded leaf notifies other leaves \_\_\_1\_\_\_ the danger. \_\_\_5\_\_\_ most scientists believe the messenger to be a chemical circulating in the plant's fluids, an astonishing discovery by David Wilson, a British biologist, has posed a serious challenge to that belief. In an experiment, Wilson placed electrodes on the surface of a tomato plant and then set caterpillars on a leaf. When the leaf was injured. It \_\_\_6\_\_\_ a tiny electric current all over the plant's surface. Every leaf in the plant soon started producing defensive proteins. Wilson is currently \_\_\_7\_\_\_ further experiments on the tomato plant and other plants. Having proving the existence of electricity on the surface of the tomato plant, he is now placing electrodes inside the plant tissues to \_\_\_7\_\_\_ possible electric currents there. Many plants bloom when their leaves sense the exact length of daytime \_\_\_8\_\_\_ the arrival of spring. How do the leaves transmit that message to the growth point \_\_\_9\_\_\_ bud appear? Wilson suspects it has something to do with electricity again, and he is trying to find that out.
 
 1. (A) from; of (B) without; off (C) across; upon (D) upon; from
@@ -1019,6 +1551,14 @@ description: 克漏字相關題目。
 
 ### BV.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABDCA / DAC
+
+</details>
+
 &#x20;       \_\_\_1\_\_\_ death, an inevitable part of life, the environmental cost associated with it, need not be. Traditional burials and cremations are hazardous for the planet, \_\_\_2\_\_\_ the former using tons of steel and concrete, and the latter pumping out lots of carbon dioxide into the atmosphere. that is why it is imperative one \_\_\_3\_\_\_ eco-friendly burials as a substitute. This term incorporates an array of options, but the key aspect they have in common is their beneficial effects \_\_\_4\_\_\_ the environment. They use far fewer harmful chemicals and precious resources - and \_\_\_5\_\_\_ cost less. One form of eco-friendly burial is water cremation, or aquamation. This keeps the remains \_\_\_6\_\_\_ in a watertight chamber containing extremely hot water and a chemical compound. Within 24 hours, the corpse is largely dissolved. The remains, \_\_\_4\_\_\_ ash form, are then given to the grieving family. Another option is the mushroom burial suit. \_\_\_7\_\_\_ mushrooms to eliminate the dead body's harmful toxins, the body is transformed into nutrients. \_\_\_8\_\_\_ option is sea burial. Here, the deceased can arrive at their final resting place on the ocean floor via a specially created coffin or in a natural shroud.
 
 1. (A) As opposed to (B) Based on (C) Speaking of (D) On account of
@@ -1032,6 +1572,14 @@ description: 克漏字相關題目。
 
 ### BW.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBABD / C
+
+</details>
+
 &#x20;       The belief that yawing symbolizes boredom seems to have \_\_\_1\_\_\_ the test of time. Plus, a person yawns to suggest that he \_\_\_2\_\_\_ exhausted, right? \_\_\_3\_\_\_, it seems that all this time we've been wrong about yawning. An international team of scientists has found that humans tend to yawn about four to ten times a day, but the higher the ambient temperatures become, \_\_\_4\_\_\_ this number increases. This leads the scientists to think that, despite common belief, yawning doesn't yield more oxygen for our blood. Instead, it is \_\_\_5\_\_\_ the ambient temperature, helping to cool the brain. Basically, the body can sense when the brain is overheating, so it forces to yawn as a part of cooling \_\_\_6\_\_\_.
 
 1. (A) valued (B) reached (C) awoke (D) stood
@@ -1042,6 +1590,14 @@ description: 克漏字相關題目。
 6. (A) frontier (B) diagnosis (C) mechanism (D) testimony
 
 ### BX.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADBCA
+
+</details>
 
 &#x20;       For decades a mature human brain was believed to be incapable of growing new neurons. But evidence was building that the adult brain could, \_\_\_1\_\_\_, create new neurons. In one experiment with mice, scientists found that simply running on a wheel led to the birth of new neurons in the hippocampus, a brain structure \_\_\_2\_\_\_ memory. Since then, other studies have established that exercise also has positive effects on the brains of humans and that it may even help \_\_\_3\_\_\_ the risk of Alzheimer's disease. But why does exercise affect the brain at all?
 
@@ -1054,6 +1610,14 @@ description: 克漏字相關題目。
 5. (A) had (B) having (C) to have (D) has
 
 ### BY.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADACB
+
+</details>
 
 &#x20;       Nothing is more disturbing than the mosquito buzz around our ears when we are sound asleep. But why do mosquitoes buzz in our ears? Well, they simply can't \_\_\_1\_\_\_ it.
 
@@ -1068,6 +1632,14 @@ description: 克漏字相關題目。
 5. (A) rumor (B) music (C) inspiration (D) appreciation
 
 ### BZ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABCDB
+
+</details>
 
 &#x20;       When Microsoft included a series of photos of Antelope Canyon in its Windows 7 desktop background themes in 2009, it helped put this place on the map. Then, in 2014, Antelope Canyon again captured people's imagination when _Phantom_, a photograph taken there, was sold at the highest price in history.
 
@@ -1085,6 +1657,14 @@ description: 克漏字相關題目。
 
 ### CA.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCDBA
+
+</details>
+
 &#x20;       Bitcoin is a digital currency, or cryptocurrency, introduced in 2008. Different from traditional currencies, Bitcoin is not controlled by any authorities \_\_\_1\_\_\_ operates across the global network based on a technology known as blockchain. Since there are numerous encrypted transactions, or "blocks," \_\_\_2\_\_\_ together, the chain is not easily interfered with by individuals, which ensures the security of transactions.
 
 &#x20;       One significant advantage of Bitcoin is decentralization. Since no organization and government can control people's Bitcoin, those worrying about how their money is used by banks are free from such concerns. \_\_\_3\_\_\_, the supply of Bitcoin is limited, and no individual can issue it at will. This feature prevents the value of Bitcoin from being eroded by the creation of more money in circulation. Despite these, there are some shortcomings in Bitcoin and other digital currencies as well. For example, using Bitcoin for transactions requires \_\_\_4\_\_\_ expertise, which may pose problems for those unfamiliar with the technology.
@@ -1099,6 +1679,14 @@ description: 克漏字相關題目。
 
 ### CB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DACAB
+
+</details>
+
 &#x20;       Norway is the first country in the world that has passed a law on retouched or edited photos on sites such as Facebook or Instagram. The new regulation requires that a label showing the pictures have been changed or edited \_\_\_1\_\_\_ to any image manipulated by advertisers or influencers. This is a move intended to protect Internet users, especially adolescents, \_\_\_2\_\_\_ psychological harm caused by unrealistic beauty standards and body images.
 
 &#x20;       Despite that, the regulation has met with its share of criticism and naysayers. Some believe the new law would only arouse more people's interest in images with photo manipulation. \_\_\_3\_\_\_, more Internet users will be tempted to figure out what is enhanced in the image. Some may further learn how to craft the photos they want to share on the social media. The new rule does not help \_\_\_4\_\_\_ the core issue of misleading images because people may, instead, be driven to extremes to achieve the desired look. Research into the effects of the new regulation is still ongoing, and experts argue that other methods such as support groups and counseling are worth \_\_\_5\_\_\_, too. While the end of debate seems nowhere in sight, authorities worldwide can surely learn from Norway's treatment of this important issue.
@@ -1110,6 +1698,14 @@ description: 克漏字相關題目。
 5. (A) consider (B) considering (C) being considered (D) to consider
 
 ### CC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACCDD
+
+</details>
 
 &#x20;       Japanese minimalism was once a well-practiced philosophy in Japan. It has recently made a comeback, decades after the country's being immersed in a market economy that gave rise to more waste and careless spending. \_\_\_1\_\_\_ consumerism that encourages excess living and spending, minimalism requires people to cut down on anything unnecessary, whether in art, culture, or life in general.
 
@@ -1123,6 +1719,14 @@ description: 克漏字相關題目。
 
 ### CD.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDCAB
+
+</details>
+
 &#x20;       Music is more than recreation. The use of music in human medicine has become increasingly popular. Studies show that music can enhance cognitive function in stroke patients and reduce patients’ \_\_\_1\_\_\_ during their medical examinations. Likewise, music has been proven to offer aids in the recovery of pets, creating a calm, warm and relaxing space for their post-surgical recovery.
 
 &#x20;       To dig into what kind of music might benefit felines during veterinary visits, a study \_\_\_2\_\_\_ researchers experimented with 20 domestic cats was conducted by Hampton and his colleagues, from the Schools of Veterinary Medicine at Louisiana State University in Baton Rouge. The felines were \_\_\_3\_\_\_ to cat-specific music, classical music, or no music at random veterinary visits, 2 weeks apart. The results were good news for the cats in the study. \_\_\_4\_\_\_, surrounded by cat-specific music, the cats appeared to be less stressed during the examinations. The experiment showed that \_\_\_5\_\_\_ the welfare, cat-specific music is something that feline creatures cannot do without during their vet visits. So, if you make an appointment for your cat next time, try playing some special tunes beforehand to calm it.
@@ -1134,6 +1738,14 @@ description: 克漏字相關題目。
 5. (A) in case of (B) in terms of (C) on behalf of (D) in addition to
 
 ### CE.&#x20;
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDAAB
+
+</details>
 
 &#x20;       In 2011, the Water, & Hygiene program initiated _the Reinvent the Toilet Challenge_ to generate and support new approaches to manage human waste more effectively. For the 4.5 billion people \_\_\_1\_\_\_ safe sanitation today, these reinvented new toilets have the potential to change their lives dramatically.
 
@@ -1152,6 +1764,14 @@ description: 克漏字相關題目。
 
 ### CF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDCDB
+
+</details>
+
 &#x20;       Since 1935, the board game Monopoly has been a popular choice to bring fun to social gatherings. However, the game itself did not merely serve the purpose of entertaining guests or friends. \_\_\_1\_\_\_, most people will be surprised to learn that it played a crucial role in helping prisoners escape in World War Ⅱ.
 
 &#x20;       In the beginning, Germany and her various charity organizations were permitted to \_\_\_2\_\_\_ board games to war prisoners. After all, it was assumed by the Nazis that playing the games would help distract those captives, hence \_\_\_3\_\_\_ the possibility of a prison break. Spotting a chance for a brilliant escape plan, MI9, a branch of British intelligence agency, worked closely with the manufacturer of Monopoly and local charities. \_\_\_4\_\_\_, they stuffed the game sets with survival tools such as the silk map of several European countries, miniature compasses, real banknotes, ropes and knives, and had them \_\_\_5\_\_\_ into the prison. The strategy successfully aided in the escape of British soldiers, and the whole scheme was not made available to the public until 1980 by the British government.
@@ -1164,6 +1784,14 @@ description: 克漏字相關題目。
 
 ### CG.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBDCA
+
+</details>
+
 &#x20;       Japanese have a special way to celebrate imperfections in life. “Kintsugi” is a tradition of mending broken ceramics with powdered gold or silver. It has its roots dating back over five centuries, believed to have started when Japanese artisans frowned upon tea cups repaired with metal staples and thus \_\_\_1\_\_\_ find other more aesthetic means of repair. Meaning “to join with gold” literally, kintsugi has artists start at the edges of a breakage to “glue” the broken pieces together. In fact, so popular has kintsugi become that it is not \_\_\_2\_\_\_ to see artisans break ceramics on purpose, only to decorate the broken pieces with powdered gold to highlight the breakages.
 
 &#x20;       \_\_\_3\_\_\_ hiding cracks or breakages, kintsugi serves to bring attention to imperfections of a piece of artwork. As a philosophy, it is interpreted as a way to remind people of human fragility and vulnerability, and to \_\_\_4\_\_\_ past mistakes or missteps as an accepted part of life. Our failures and flaws make us mature and mellow, \_\_\_5\_\_\_ the gold seams or repairs boost the aesthetic and financial value of art. Maybe we can all learn from this distinctive way of viewing imperfections, whether in art or in life.
@@ -1175,6 +1803,14 @@ description: 克漏字相關題目。
 5. (A) just as (B) only if (C) even if (D) although
 
 ### CH.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCDBA
+
+</details>
 
 &#x20;       Denmark consistently scores high in global happiness rankings, and Danish people have some cool words for ways to be happy. The word recently voted most popular among Danes is _pyt_, a term that describes the nation’s philosophy toward \_\_\_1\_\_\_.
 
@@ -1190,6 +1826,14 @@ description: 克漏字相關題目。
 
 ### CI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DABCD
+
+</details>
+
 &#x20;       Goose bumps are one of those fight-or-flight reactions of the sympathetic nervous system. When you experience cold or fear, a nerve reaction is sent to the muscles, which then contract involuntarily. This muscle contraction causes your body hair to stand erect. The skin with standing body hair \_\_\_1\_\_\_ a goose’s skin after its feathers have been plucked—hence the name goose bumps.
 
 &#x20;       But \_\_\_2\_\_\_ is this helpful to us as a response to fear or cold? Back in the days when our ancestors may have had a lot more body hair, this might have helped to keep them warm or scare an oncoming predator. These days, however, goose bumps are \_\_\_3\_\_\_ to human beings. Goose bumps, or the reflex that causes them, also occur in many other mammals. Many mammals fluff up their fur when \_\_\_4\_\_\_, to look bigger and thus more dangerous. For example, when a porcupine encounters a predator, its long sharp pointed hairs will stand up as a means of \_\_\_5\_\_\_. In animals with a thick hair coat, the rising of hair traps more air between the hairs, providing another layer of insulation to keep them warm.
@@ -1201,6 +1845,14 @@ description: 克漏字相關題目。
 5. (A) blocking the smell (B) attracting mates (C) showing friendliness (D) scaring the enemy
 
 ### CJ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCCBA / DDACB
+
+</details>
 
 &#x20;       In economics, a fungible asset is something with units that can be \_\_\_1\_\_\_ interchanged - like money. With money, you can swap a £10 note for two £5 notes and it will have the same value. However, that's where all the calculations \_\_\_2\_\_\_ when something is non-fungible, such as a house, or a painting such as the Mona Lisa, which is one of a kind, for you can take a photo of the painting or buy a print but there will only ever be one original painting. NFTs are "one-of-a-kind" assets in the digital world that can be bought and sold like any other piece of property, \_\_\_3\_\_\_ tangible form of their own. The digital tokens can be thought of as certificates of \_\_\_4\_\_\_ for virtual or physical assets. Traditional works of art such as paintings are valuable \_\_\_5\_\_\_ they are one of a kind. But digital files can be easily and endlessly duplicated. With NFTs, artwork can be "tokenized" to create a digital certificate of \_\_\_4\_\_\_ that can be bought and sold.\_\_\_6\_\_\_ crypto-currency, a record of who owns what is stored on a shared ledger known as the blockchain. The records cannot be forged because the ledger is maintained by thousands of computers around the world. In theory, anybody can tokenize their work to sell as an NFT but interest \_\_\_7\_\_\_ since recent headlines of multi-million-dollar sales were made public. But \_\_\_8\_\_\_ the digital art? Nothing. Millions of people have seen Beeple's art that sold for $69m and the image has been copied and shared countless times. In many cases, the artist even retains the copyright \_\_\_4\_\_\_ of their work, so they can continue to produce and sell copies. But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people \_\_\_9\_\_\_ it \_\_\_9\_\_\_ buying an autographed print. Is this a bubble? A day before his record-breaking auction, Beeple - whose real name is Mike Winkelmann - told the BBC: "I actually do think there will be a bubble, to be quite honest." "And I think it could \_\_\_10\_\_\_ some day in the future, too."
 
@@ -1220,6 +1872,14 @@ description: 克漏字相關題目。
 
 ### CK.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CCADA / BCBAD
+
+</details>
+
 &#x20;       The reality of a circus is far from the "wholesome, family-centered" experience that it portrays to the public. It's time we \_\_\_1\_\_\_ the cruelty it has done to animals. In fact, while millions of people find it fun to watch its lively shows and performances, for the animals, the circus is a place where they \_\_\_2\_\_\_ heavy equipment with regular beatings. These \_\_\_3\_\_\_ animals have \_\_\_3\_\_\_ tales to tell. On average, 96 percent of their lives is spent \_\_\_4\_\_\_ in chains or in cages. And because of the high costs, their cages are often disgusting environments - places \_\_\_5\_\_\_ they sleep, eat, and even poop. And if they are allowed to go outside, they are struck with metal rods. Due to this bad treatment, the animals often \_\_\_6\_\_\_ diseases that are harmful to humans, too. For example, some elephants \_\_\_7\_\_\_ to have tuberculosis. And, in fact, records show that elephants who tested positive for tuberculosis have even been used in public performances. So, how do we treat the \_\_\_8\_\_\_ problems associated with the supposed-to-be-fun circus? For starters, we can avoid supporting places like circuses that \_\_\_9\_\_\_ cruelty to animals. Once we set about \_\_\_10\_\_\_ those irresponsible circuses, we can start to help these animals. And after all, don't they deserve better lives?
 
 1. (A) stay alert to (B) fighting back (C) woke up to (D) to secure ourselves against
@@ -1234,6 +1894,14 @@ description: 克漏字相關題目。
 10. (A) turning down (B) making way for (C) abiding by (D) going after
 
 ### CL.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(AC)CDCA / C(ABCD)D(ABCD)D
+
+</details>
 
 &#x20;       Zebrafish, \_\_\_1\_\_\_ their strips, have been a popular test subject for researchers. Only a few centimeters \_\_\_2\_\_\_ length, the fish breed easily \_\_\_3\_\_\_ grow quickly, and their transparent body makes it easy to study their organs. \_\_\_4\_\_\_ they possess some amazing “self-healing” power. When part of their heart is removed, they can grow it back \_\_\_2\_\_\_ a matter of weeks. When \_\_\_5\_\_\_, they can quickly regain the ability to see. Recent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes. Moreover, 84 percent of human genes associated with disease find a(n) \_\_\_6\_\_\_ in zebrafish. Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines. Researchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can \_\_\_7\_\_\_ blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to \_\_\_8\_\_\_ of humans. If the process can be \_\_\_9\_\_\_ in humans, it may \_\_\_7\_\_\_ new treatments for blindness caused by retinal damage. In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will \_\_\_10\_\_\_ the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.
 
@@ -1250,6 +1918,14 @@ description: 克漏字相關題目。
 
 ### CM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ADCBA
+
+</details>
+
 &#x20;       Bruce Lee, a man who brought Kung Fu to the West, was born in San Francisco in 1940. His parents moved back to Hong Kong when he was still little, and as a kid, he often got into fist fights with his classmates. When he reached high school, despite his light weight and not being tall, he \_\_\_1\_\_\_ fight and won the Hong Kong high school boxing championship. He returned to the United States when he was 18 and went to the University of Washington in Seattle. \_\_\_2\_\_\_ was there that he opened his first martial art school.
 
 &#x20;       Before gaining international recognition, Lee tried out in the TV series _Kung Fu_ but failed to get the leading role \_\_\_3\_\_\_ the producers did not want to have a Chinese man star in the program. Filled with disappointment, he got onto a plane back to Hong Kong. There he made a film and it immediately became a box office hit, \_\_\_4\_\_\_ to raise Lee's profile in the world. Following his success, he made two more films and both of them were even bigger hits. \_\_\_5\_\_\_, he died a sudden death while making his last movie _Enter the Dragon_. Though fans all over the world mourned for him, his particular moves and philosophy will long be remembered.
@@ -1261,6 +1937,14 @@ description: 克漏字相關題目。
 5. (A) Unfortunately (B) Precisely (C) Deliberately (D) Scarcely
 
 ### CN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDCCA
+
+</details>
 
 &#x20;       The five-pointed star drawn with five lines is known today as the pentagram. It is an ancient symbol which has held different meanings. Today, we can see the pentagram \_\_\_1\_\_\_ as jewelry or designs on clothing. The Sumerians were the first to use the five-pointed star polygon. They wrote about the symbol in records \_\_\_2\_\_\_ 3000 B.C. In the context of that civilization, the pentagram was a character in a writing system. The Babylonians, a culture with close historical links to Sumer, used the pentagram \_\_\_3\_\_\_ the planets. Its five points indicated five planets - Mercury, Venus, Mars, Jupiter, and Saturn.
 
@@ -1274,6 +1958,14 @@ description: 克漏字相關題目。
 
 ### CO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDABB / (BC)
+
+</details>
+
 &#x20;       Although most people don't think much about it, the physical environment \_\_\_1\_\_\_ you are required to adjust does have a big impact on learning. This is even truer for children. Schools have traditionally favored walled classrooms. However, a Japanese architect named Takaharu Tezuka belleved \_\_\_2\_\_\_. He \_\_\_3\_\_\_ to remove barriers and help children play freely. He created Fuji Kindergarten, a donut-\_\_\_4\_\_\_, one-\_\_\_4\_\_\_ building. The school had no traditional playground equipment, with the roof considered \_\_\_5\_\_\_ to serve as both a playground and a track. Children run up to thirty laps a day, which burns their extra energy and keeps them healthy. \_\_\_6\_\_\_ running, they are also encouraged to climb trees. Taking risks like this helps them understand their own limits. Fuji Kindergarten is certainly a unique kindergarten.
 
 1. (A) where (B) what (C) to which (D) in that
@@ -1284,6 +1976,14 @@ description: 克漏字相關題目。
 6. Choose the **CORRECT ONES**. (A) Except for (B) Aside from (C) On top of (D) Other than
 
 ### CP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+(BD)CABB / BADC
+
+</details>
 
 &#x20;       In the story "The Lady or the Tiger?", the king believes that a person's innocence or guilt can be determined by which door he or she opens. Crazy \_\_\_1\_\_\_ it sounds, something similar was actually once a common practice for judging women thought to be witches. In earlier times in Europe, beliefs in witchcraft, the use of magic spells and medicines, were so popular among people that the Church began hunting witches \_\_\_2\_\_\_ the mysterious power of witchcraft prevail. Many women were thus \_\_\_3\_\_\_ practicing witchcraft. When a woman was believed to be a witch, she would be put \_\_\_4\_\_\_ trial \_\_\_4\_\_\_ a very unusual way. People would demand that she \_\_\_5\_\_\_ tossed into a lake. \_\_\_6\_\_\_ she begged for mercy, into the lake she went. People believed that \_\_\_7\_\_\_ a truly good woman could stand the test. If the woman sank in the lake, she was innocent. If she floated,she was considered a witch and therefore killed. This was by no means logical because the woman might die \_\_\_8\_\_\_! Still, women were tried this way for hundreds of years. Justice by strange trials is not just fiction. In total, 40,000 to 50,000 cases of women's death can be \_\_\_9\_\_\_ witch trials like these!
 
@@ -1299,6 +1999,14 @@ description: 克漏字相關題目。
 
 ### CQ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DACBD / A
+
+</details>
+
 &#x20;       Once widespread throughout the eastern part of the United States, the timber rattlesnake is now on the verge of being endangered and is almost \_\_\_1\_\_\_ in some of the eastern states where it once thrived. Compared with its western cousins, the timber rattlesnake appears more \_\_\_2\_\_\_ due to its certain behavior adapted to cope with the cold climate. Like all reptiles, rattlesnakes are found mostly in warmer places \_\_\_3\_\_\_ they cannot internally generate or regulate their own temperature. The warmth of the sun provides them with the heat they need. However, roughly 8,000 years ago when glaciers \_\_\_1\_\_\_, timber rattlesnakes migrated into the colder northern areas. In order to survive the cold in these northern regions, timber rattlesnakes developed certain strategies of their own; however, it is these adaptive changes that ultimately make them \_\_\_4\_\_\_ human predation, their main threat. “Hibernation" is one of the numerous survival strategies that timber rattlesnakes have developed. For approximately eight months, they are seen \_\_\_5\_\_\_ motionless in deep but frost-free crevices, with their body temperature dropping as low as 40 degrees Fahrenheit. When they emerge again in springtime, they need to sun for three to four days on rocks in the open wild to warm their chilled bodies. This peculiar behavior, \_\_\_6\_\_\_ their tendency to congregate in large numbers at their wintering sites, makes them easy prey.
 
 1. (A) distinct; shattered (B) instinct; opposed (C) distinctive; discharged (D) extinct; retreated
@@ -1309,6 +2017,14 @@ description: 克漏字相關題目。
 6. (A) along with (B) except for (C) rather than (D) based on
 
 ### CR.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+A(BD)(AD)CA / B(AD)CB
+
+</details>
 
 &#x20;       For three decades, Mitsuyasu Asada has \_\_\_1\_\_\_ tended the same lush mountainside terraces where his father and grandfather grew wasabi; \_\_\_2\_\_\_ that he's believed to be the last to retire. Yet at the age of just 56, Mr. Asada has been worn down by \_\_\_3\_\_\_ threats facing this indispensable condiment that graces plates of sushi and bowls of soba. Rising temperatures have \_\_\_4\_\_\_ his crops more susceptible to mold and rot. Worse yet, unpredictable rainfall, deluging floods and more intense typhoons \_\_\_5\_\_\_ cause great damage to his crops as well. The thick cedar forest that blankets the mountain \_\_\_6\_\_\_ his paddies - a result of postwar timber policy - has degraded the quality of the spring water the wasabi needs to grow. And his two adult daughters have married and shown no interest in \_\_\_7\_\_\_ his one and a half acres in Izu, a city in Shizuoka Prefecture, about 90 miles southwest of Tokyo. “If no one will take it over," Mr. Asada said, "It will end." Mr. Asada is just one of many growers in Shizuoka, one of Japan's largest wasabi-growing regions, who must \_\_\_5\_\_\_ rising challenges from global warming. Over the last decade, the volume of wasabi produced in Shizuoka  \_\_\_8\_\_\_ by close to 55 percent, according to the Ministry of Agriculture, Forestry and Fisheries. “In order to protect Japanese food culture," he added, "it is time everyone \_\_\_9\_\_\_ wasabi."
 
@@ -1324,6 +2040,14 @@ description: 克漏字相關題目。
 
 ### CS.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CACBD
+
+</details>
+
 &#x20;       One way to measure a country's level of gender equality is by the number of women in its government. \_\_\_1\_\_\_, if women are really equal, a democratic country should elect about as many women as men. Leading the world \_\_\_2\_\_\_, the African country of Rwanda has a government that's 56% represented by women. Rwanda's constitution has a rule which requires that at least 30% of all elected positions \_\_\_3\_\_\_ by women. Other countries have taken similar steps to increase women's representation in government. The United Arab Emirates has a(n) \_\_\_4\_\_\_ 50%--50% split between men and women in its national assembly. The governments of Bolivia and Mexico are also around 50% represented by women because of similar rules. Without these rules, a country can still do well, \_\_\_5\_\_\_. The island nation of Cuba, which has no such policy, ranks second \_\_\_2\_\_\_, right after Rwanda. Surprisingly, Iceland, which is known for its high level of gender equality in other areas, has only 38% women in its government, ranking 32nd in the world.
 
 1. (A) First and foremost (B) On the contrary (C) Simply put (D) On the one hand
@@ -1333,6 +2057,14 @@ description: 克漏字相關題目。
 5. (A) as well (B) either (C) by the way (D) however
 
 ### CT.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBCAB / DC
+
+</details>
 
 &#x20;       Boo Radley is a key character in _To Kill a Mockingbird_. For most of the novel, Boo is not seen by the other characters, many of \_\_\_1\_\_\_ despise him. However, he is frequently present in the horror stories that other residents of Maycomb tell about him. As young children, Jem and Scout \_\_\_2\_\_\_ believe these stories to be true. Boo's \_\_\_2\_\_\_ presence serves multiple purposes. First of all, he is an example of how Scout misunderstands many of the people around her. This is because her \_\_\_3\_\_\_ of events is told through a child's eyes. Second, Boo represents some of the more ugly sides of Maycomb's history, which \_\_\_4\_\_\_ have something to do with the immoral racial inequality. Many of Maycomb's residents choose to ignore or deny these less pleasant aspects of the town \_\_\_5\_\_\_ criticize them, and Boo represents this ignorance in the way that he is present in the town but \_\_\_6\_\_\_ from view. Finally, Boo protects Jem and Scout from the danger posed to them by Bob Ewell, a mean white man who drinks too much alcohol. Consequently, to their surprise, the children learn that Boo is not a monster. Rather, he is a kind and \_\_\_3\_\_\_ human being. In return, the reader learns to \_\_\_7\_\_\_ judgment about people until learning their whole story.
 
@@ -1346,6 +2078,14 @@ description: 克漏字相關題目。
 
 ### CU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ABCCB / DAD
+
+</details>
+
 &#x20;       "Chowbus” is the name of a recently-created American food delivery company. This \_\_\_1\_\_\_ company focuses on Asian food deliveries. Users can choose from a wide \_\_\_1\_\_\_ of restaurants across the country. At first, when Chowbus was founded in 2016, the people it served was \_\_\_2\_\_\_ the ones in the city of Chicago. However, today, Chicago is just one \_\_\_3\_\_\_ twenty cities that have Chowbus's service. Users, \_\_\_4\_\_\_, can also order food from Chowbus in San Francisco, Los Angeles, and New York, all of which have a large \_\_\_5\_\_\_ Asian restaurants that participate. Chowbus uses a mobile computer app to let customers order food \_\_\_3\_\_\_ an efficient way. The app can also sort dishes from various restaurants based on customers' preferences, \_\_\_6\_\_\_ them to pick and choose dishes they like easily. This is an excellent way to try out several new restaurants at once. This app allows you to \_\_\_7\_\_\_ your delivery, too. The idea \_\_\_8\_\_\_ you will know exactly when the food is on its way to your home is itself quite appealing.
 
 1. (A) particular; network (B) financial; layer (C) liable; variety (D) momentous; brand
@@ -1358,6 +2098,14 @@ description: 克漏字相關題目。
 8. (A) what (B) how (C) where (D) that
 
 ### CV.&#x20;
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDDCA / BBCAD
+
+</details>
 
 &#x20;       In many places, tourism is becoming a problem, \_\_\_1\_\_\_ a nightmare. Some areas are \_\_\_2\_\_\_ tourists that locals' quality of life suffers due to crowding, inconsiderate visitors, and housing problems. \_\_\_3\_\_\_, overtourism makes vacations unpleasant for tourists themselves. Tourism should be beneficial for both visitors and locals, but overtourism turns it into a negative experience for all of them. The UN agency \_\_\_4\_\_\_ promoting sustainable tourism, the World Tourism Organization (UNWTO), has made some suggestions about overtourism. First, they say we must deal with crowding. Some sights attract \_\_\_5\_\_\_ as they can comfortably hold. UNWTO recommends providing tourists \_\_\_6\_\_\_ suggestions about lesser-known locations and sights. Some visitors will choose to go there rather than the busy attractions but \_\_\_7\_\_\_ about those sights cap they go! Another way to deal with overcrowding is to set rules about how many visitors are allowed \_\_\_8\_\_\_. Another issue that UNWTO has addressed is the tension between visitors and locals created by overtourism. UNWTO suggests two measures to help \_\_\_6\_\_\_ this. The first is keeping local people involved in decision-making. Overtourism problems will affect some people more than others, and people \_\_\_9\_\_\_ should be part of discussions about it. On the tourists' side, local governments should \_\_\_10\_\_\_ make sure visitors understand local customs so they don't accidentally cause trouble. These recommendations can make tourism a good thing for everyone.
 
@@ -1374,6 +2122,14 @@ description: 克漏字相關題目。
 
 ### CW.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACCBD
+
+</details>
+
 &#x20;       Dishes served along with a bowl \_\_\_1\_\_\_ what people nowadays enjoy. In many cases, it has helped people to prepare healthier meals. By putting a layer of grains at the bottom, then vegetables, fruit, protein, and lastly a bit of fat in a sauce, you instantly get a balanced meal to \_\_\_2\_\_\_. Of course, there are a number of bowl meals that are not so healthy. People enjoy these \_\_\_3\_\_\_ because they find comfort in \_\_\_4\_\_\_ put in the bowls.The feeling of taking a warm bowl of food that looks and smells delicious in your hands and raising it to your face is very soothing. \_\_\_5\_\_\_ enjoys looking at a beautiful bowl of food and smelling the combination of all the different flavors savors life, too.
 
 1. (A) are (B) is (C) have (D) has
@@ -1384,6 +2140,14 @@ description: 克漏字相關題目。
 
 ### CX.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BAADC
+
+</details>
+
 &#x20;       Plastic waste is a huge problem for the world. Anyone who can help with the problem is worthy \_\_\_1\_\_\_, and one such person is Nzambi Matee. Thls 29-year-old from Kenya has created a solution for her East African nation's plastic crisis. Hard \_\_\_2\_\_\_ Kenya's government banned plastic bags in 2017, and single-use plastics in 2020, it has made little headway against the problem. Mattee would rather come up with her own solution \_\_\_3\_\_\_ for others to act. After nine months of experimentation, she created a brick made \_\_\_4\_\_\_ non-recyclable plastic. To do this, Matee mixes the plastic with sand and then heats it \_\_\_4\_\_\_ high temperatures. The bricks of compressed plastic have many colors and thickness, but they are stronger, lighter, and cheaper than their concrete \_\_\_5\_\_\_. Moreover, Matte's Gjenge Makers company and others like it are offering employment to many people at their factories.
 
 1. (A) praising (B) of being praised (C) to be praised (D) to praise
@@ -1393,6 +2157,14 @@ description: 克漏字相關題目。
 5. (A) frameworks (B) opponents (C) counterparts (D) participants
 
 ### CY.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCADB / BCB
+
+</details>
 
 &#x20;       Paiwan is one of the three largest indigenous groups of people in Taiwan. With a population of 103,000 people in 2020, they \_\_\_1\_\_\_ the mountains of southern Taiwan. They have multiple rituals in a year but the biggest one is the Five-Year Festival, \_\_\_2\_\_\_ Majeveq. The festival \_\_\_3\_\_\_ five days and takes place every five years. The Paiwan people \_\_\_4\_\_\_ the spirits of ancestors as well as \_\_\_5\_\_\_ of the gods to join the festival. At the heart of the event \_\_\_6\_\_\_ the bamboo pole ceremony. The warrior tries to spear one of the balls thrown into the air with a sharpened pole. It is believed that the gods decide who wins and the winner and his family will be \_\_\_7\_\_\_ good luck in the year to come. This includes good health, a good harvest, and successful hunts. At the same time, the festival is a time for the members to \_\_\_3\_\_\_ any past conflicts with each other. The activities bring everyone together in harmony. \_\_\_8\_\_\_, only the Tuban in Taitung County carry out the complete set of traditions. The government in Taitung has stepped in and marked it as a critical folk custom. With efforts, their traditions and practices can be kept alive.
 
@@ -1410,6 +2182,14 @@ description: 克漏字相關題目。
 
 ### CZ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BBCDA
+
+</details>
+
 &#x20;       \_\_\_1\_\_\_ being majestic, tall, and social, horses \_\_\_2\_\_\_ good companions for other reasons. They have great memory, for example. Horses can remember people and specific situations, so if you treat a horse well, you will find yourself \_\_\_3\_\_\_ whatever they will act positively toward you in future encounters. To avail oneself of the multitasks horses are able to do, it's urgent one \_\_\_4\_\_\_ his horses with positive reinforcement, like food or even affection when they follow a command so that a lifelong bond can be \_\_\_5\_\_\_.
 
 1. Choose the **WRONG ONE**. (A) Apart from (B) Other than (C) In addition to (D) On top of
@@ -1419,6 +2199,14 @@ description: 克漏字相關題目。
 5. (A) secured (B) insured (C) defended (D) exploited
 
 ### DA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBCBD / BA
+
+</details>
 
 &#x20;       \_\_\_1\_\_\_ the movie Schindler's List released in 1993, based on the true story of Oskar Schindler. But for Schindler, \_\_\_2\_\_\_ heavy casualties. He, a member of the German Nazi party, alone helped save around 12,000 Jews during World War II. Schindler, unlike most Nazis, was \_\_\_3\_\_\_ toward the Jews in Germany and Poland. Schindler owned some factories in Poland and decided to \_\_\_3\_\_\_ local Jews to work for him. \_\_\_4\_\_\_ they became his colleague, they were safe from being sent to death camps. Schindler even convinced Nazi officers to allow him to move his factory the moment the war came closer to his city. In order to do so, little money \_\_\_5\_\_\_; instead, he secretly handed large sums of money over to the Nazis. That's why his workers weren't arrested. Schindler also spent lots of money \_\_\_6\_\_\_ supplies into his factories so that his workers could eat. \_\_\_7\_\_\_, Schindler lost almost all of his money. After the war, his business did not \_\_\_6\_\_\_, and he had to be supported by people he had saved. When he died in 1974, he was given an honorable burial in Israel for his acts of bravery in helping the Jews. The movie that was made to tell Schindler's story is seen as classic today.
 
@@ -1432,6 +2220,14 @@ description: 克漏字相關題目。
 
 ### DB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DDBA
+
+</details>
+
 &#x20;       Air fryers use a fan and heating mechanism that allows them to function like a convection oven, \_\_\_1\_\_\_ sweltering air is circulated rapidly around the cooking basket or tray. This rapid air movement creates a convection effect that efficiently cooks food while achieving \_\_\_2\_\_\_ results than other methods such as deep frying. The high temperature of the air also shortens your cooking time without sacrificing quality \_\_\_3\_\_\_ its ability to cook quickly with moist interiors but crispy exteriors on any cuisine from French fries up to steak! The air fryer does not actually fry foods at all; it uses an \_\_\_2\_\_\_ way called "convection," which moves hot heated overtop so you can enjoy quick yet perfect French Fries. And since you use little or no oil when cooking with air fryers, your food does not absorb excess oil. It's about time you \_\_\_4\_\_\_ the absorption of fats from vegetable oils cooking with an air fryer.
 
 1. (A) what (B) which (C) that (D) where
@@ -1440,6 +2236,14 @@ description: 克漏字相關題目。
 4. (A) reduced (B) reduce (C) reduce (D) reducing
 
 ### DC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCBBA / D
+
+</details>
 
 &#x20;       A large, vicious creature that's half man and half wolf \_\_\_1\_\_\_ in Western folklore for centuries. In the past, they were regarded as real and actively hunted by superstitious communities. German serial killer Peter Stumpp, who met his death in 1589, was accused of being a werewolf. Werewolf trials continued well into 18th century, with \_\_\_2\_\_\_ known trials taking place in South Austria. Though the concept of modern werewolf has its roots in northern Europe, descriptions of people with wolf-like qualities \_\_\_3\_\_\_ antiquity. The Greek physician, Galen, described a patient with the appearance and appetite of a wolf. The term "clinical lycanthropy", the delusion that one is able to turn into an animal, was born from this description. The relationship between \_\_\_4\_\_\_ and \_\_\_4\_\_\_ should not be taken lightly. From much of history, superstition severely \_\_\_5\_\_\_ the development of modern science. \_\_\_6\_\_\_ mythologizing mysterious illnesses and demonizing those who are afflicted by them, medical institutions strive to inform and educate both the patients and the communities they live in. The more we understand a particular disease works and where it comes from, the better we can avoid the creation of yet another monster.
 
@@ -1451,6 +2255,14 @@ description: 克漏字相關題目。
 6. (A) Aside from (B) Other than (C) Except for (D) Rather than
 
 ### DD.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDBAD / AACBD
+
+</details>
 
 &#x20;       Rudyard Kipling was one of the most influential writers of the late 19th and early 20th centuries. \_\_\_1\_\_\_ Kipling wrote, his readers seemed to love it. First of all, \_\_\_2\_\_\_ made Kipling so popular was his writing style. He often wrote in a very encouraging tone. For example, in "If--," a father's useful and positive advice to a son was written \_\_\_3\_\_\_ the form of a poem. It contained many different situations often encountered in life \_\_\_4\_\_\_ some very good advice on how to handle each of them. Another thing that added to Kipling's popularity was that he really loved his country. Although he was born and raised in India, his writing often showed support for the British Empire. Some readers at the time disagreed with his views, and that remains \_\_\_5\_\_\_ today. We must, \_\_\_6\_\_\_, keep in mind that his ideas and tales reflect the historical context of the time. Although Britain didn't \_\_\_7\_\_\_ its colonial rule in many countries until after Kipling died, he was writing in a transitional period leading up to these changes. Therefore, people nowadays still \_\_\_8\_\_\_ Kipling with that period, and we can also reveal aspects of his \_\_\_9\_\_\_ self. For instance, "Baa Baa Black Sheep," "A Trip Across a Continent," and ".007" are all based on \_\_\_10\_\_\_ with different characters that he had during his own travels. Due to these unique elements of his work, Kipling was actually the first British person to receive the Nobel Prize to literature.
 
@@ -1467,6 +2279,14 @@ description: 克漏字相關題目。
 
 ### DE.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCADC
+
+</details>
+
 &#x20;       Five days before Christmas in 2016, quite an alarming article appeared on the AWD News website. Its headline, which supposedly directly quoted Israel's Defense Minister, stated, \_\_\_1\_\_\_, in no uncertain terms that Israel would "destroy" Pakistan "with a nuclear attack," if they dared send troops to Syria. Pakistan's Minister of Defense then \_\_\_2\_\_\_ tensions even further by reminding Israel, on Twitter, that his own country was also a nuclear state. When one considers that political relations between the two countries was, at the time, already very strained, it is quite evident just how serious such a threat might appear. Thankfully, the Israeli defense ministry issued a statement on Twitter the very next day to declare that the quote was completely false \_\_\_3\_\_\_ tensions should be allowed to rise any further. \_\_\_4\_\_\_, Pakistani officials no longer took the headline or the article seriously, and eventually they realized that the story had been nothing but some very dangerous fake news. Nonetheless, it is frightening to think that it \_\_\_5\_\_\_ leading to nuclear war!
 
 1. (A) more often than not (B) out of the blue (C) in the long run (D) by no means
@@ -1477,6 +2297,14 @@ description: 克漏字相關題目。
 
 ### DF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBABD
+
+</details>
+
 &#x20;       A new food has hit the market. Scientists can now change animal stem cells \_\_\_1\_\_\_ meat to be served at home or in restaurants. The new product is called lab-grown meat and has several advantages over traditional meat. First, it has no need of \_\_\_2\_\_\_, so no animals are killed during production. It can also help \_\_\_3\_\_\_ the environmental damage that occurs during the production of traditional meat. Lab-grown meat may even be healthier than traditional meat products. Some, however, advise caution. While they agree that lab-grown meat may be \_\_\_4\_\_\_ beneficial and worthy of further development, they argue that further research is needed to prove these ideas are true. Still, a number of businesses are sure that lab-grown meat will prove a \_\_\_5\_\_\_ product in the long term. In the end, only time will tell whether consumers will welcome lab-grown meat. So stay tuned for further news on this innovative product.
 
 1. (A) with (B) over (C) by (D) into
@@ -1486,6 +2314,14 @@ description: 克漏字相關題目。
 5. (A) can't-be-mission (B) can't-missing (C) can't-miss (D) can't-be-missed
 
 ### DG.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADAB / BACDB
+
+</details>
 
 &#x20;       Some time ago, a news article surfaced in the press, and it shocked Hillary Clinton's fans across America. This was just months \_\_\_1\_\_\_ the 2016 presidential election, in which Clinton hoped to become America's first female president. The story \_\_\_2\_\_\_ first appeared on the website www.worlddailynews.com, claimed to have been based on an actual interview with Yoko Ono. Ono is, of course, a famous Japanese-American artist, \_\_\_3\_\_\_ once been married to Beatles star John Lennon. She's also known for her \_\_\_4\_\_\_ peace protests. With her third husband Lennon, for example, she had protested \_\_\_5\_\_\_ the Vietnam War for several months. The article in question, headlined "YOKO ONO: 'I Had an Affair with Hillary Clinton in the '70s'," \_\_\_6\_\_\_ several Ono "quotes" as proof that these two famous female figures had once been romantically involved. Judging by the fact \_\_\_7\_\_\_ the story prompted over 930,000 "shares" on Facebook, a substantial number of people were exposed to the story. More alarmingly, many just have \_\_\_8\_\_\_ it \_\_\_8\_\_\_ an actual, reliable news article. Thus, thousands of social media users \_\_\_9\_\_\_ believing that Clinton and Ono really had been lovers at one stage. Thankfully, fact-checking sites soon confirmed the story to be completely fake, preventing it from \_\_\_10\_\_\_ even more Americans \_\_\_10\_\_\_ the false information. This was one match, it appears, that had only been made in fake news heaven.
 
@@ -1502,6 +2338,14 @@ description: 克漏字相關題目。
 
 ### DH.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCCCC / BDABC
+
+</details>
+
 &#x20;       Convenient \_\_\_1\_\_\_ they are, you might be surprised to learn that the meals you're now used to ordering online might not actually be prepared at restaurants. \_\_\_2\_\_\_ preparing food for delivery in their own kitchens, some restaurants use a "cloud kitchen" - also referred to as a "ghost kitchen where at the center \_\_\_3\_\_\_ a central food preparation facility with no restaurant attached to it. What's more, it's normally not making just one restaurant's food. Orders \_\_\_4\_\_\_ multiple different restaurants might all go to the same cloud kitchen and be assembled by the same people. \_\_\_5\_\_\_, the owners of the cloud kitchen, a restaurant can \_\_\_6\_\_\_ itself the trouble of maintaining a physical location. This decreases the \_\_\_6\_\_\_ cost of starting up new food business. The cloud kitchen eliminates the need to find and rent a street-side location and hire waitstaff, which \_\_\_7\_\_\_. All that is required now is to draft a menu, hire chefs, and find space at a cloud kitchen. \_\_\_8\_\_\_, so are customers lured, all without having its own location. While the arrangement doesn't work for every business, though, cloud kitchens are clearly becoming a force to be \_\_\_9\_\_\_ in the food industry. Even when people \_\_\_10\_\_\_ dining out after COVID-19, it's likely that cloud kitchens will remain part of the world of food.
 
 1. (A) yet (B) as (C) while (D) although
@@ -1517,6 +2361,14 @@ description: 克漏字相關題目。
 
 ### DI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDCBB
+
+</details>
+
 &#x20;       Tiny droplets of water and ice \_\_\_1\_\_\_ clouds. More of these mean more condensation, and eventually the droplets fall as rain. Using this principle, scientists \_\_\_2\_\_\_ cloud seeding. Bu artificially adding small ice-like particles to clouds, we can increase the chance that the clouds fall down as rain. There are numerous reasons why controlled precipitation might be desirable, one of \_\_\_3\_\_\_ is its help in increasing snowfall in ski resorts. This is also done upstream from dams by hydroelectric companies to increase the eventual amount of spring snowmelt, and thereby increase \_\_\_4\_\_\_ power. Cloud seeding is also used to manage inclement weather; airports benefit from its ability to clear away fog, and some regions \_\_\_5\_\_\_ hail are able to reduce storm damage by shrinking the size of hailstones.
 
 1. Choose the **WRONG** one. (A) make up (B) consist of (C) comprise (D) constitute
@@ -1527,6 +2379,14 @@ description: 克漏字相關題目。
 
 ### DJ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDBAA
+
+</details>
+
 &#x20;       With either a black or solid-colored base and luxurious designs on only the lower hem, tomesode are highly formal kimono for married women. Black tomesode are typically worn by the mothers of the bride and groom at weddings, \_\_\_1\_\_\_ colored ones are a good fit for other formal occasions as well. Tomesode typically pair with a finely patterned gold obi and white \_\_\_2\_\_\_. The tomesode's formality is \_\_\_3\_\_\_ not only by its color scheme, but also the three to five family crests that decorate its chest, sleeves, and the back of the collar. The uchikake is a gorgeous bridal over-kimono that trails on the floor. It can be beautifully colored, often in red, though it also \_\_\_4\_\_\_ an all-white style called shiromuku. This magnificent bridal set, \_\_\_5\_\_\_ with a traditional hairstyle and decorations such as hair ornaments, a fan, and a special veil, is typically worn by brides at Shinto wedding rituals.
 
 1. (A) since (B) once (C) while (D) unless
@@ -1536,6 +2396,14 @@ description: 克漏字相關題目。
 5. (A) completing (B) complete (C) to complete (D) having completed
 
 ### DK.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BADAB / BACDD
+
+</details>
 
 &#x20;       There's one instrument that can be played without contact - the theremin. It \_\_\_1\_\_\_ an eerie, abnormal sound. Some people say it \_\_\_2\_\_\_ the sound of a purified saxophone, or a bizarre, amplified children's slide whistle. The theremin was accidently invented by Russian physicist Leon Theremin, \_\_\_3\_\_\_ agenda was to create a device to measure properties of gases. \_\_\_4\_\_\_, he found that his machine produced a weird tone that could be manipulated by moving his hands around it. Theremin took his new discovery and began to tour the world with it, always having the audience \_\_\_5\_\_\_ the performance. The theremin produces electromagnetic waves that are sent through two antennas, one a vertical rod and \_\_\_6\_\_\_ a horizontal loop. The instrument relies on the electrical charges produced by our bodies to work as these \_\_\_7\_\_\_ the theremin's waves. This is \_\_\_8\_\_\_ causes the pitch and volume to change. Players move one hand near the vertical antenna to \_\_\_1\_\_\_ the pitch. They control the volume by moving their other hand up or down over the looped antenna. The actions needed to control a theremin are \_\_\_9\_\_\_ delicate and dramatic. Sometimes the performer even looks as if they're casting a spell. This is why, in addition to \_\_\_10\_\_\_ used to \_\_\_10\_\_\_ haunting music for film, the theremin makes a great concert instrument. It's truly spectacular to witness in action.
 
@@ -1552,6 +2420,14 @@ description: 克漏字相關題目。
 
 ### DL.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDCAD
+
+</details>
+
 &#x20;       Colorblindness affects around eight percent of males and around 0.5 percent of females globally. The term, \_\_\_1\_\_\_ its misleading name, does not mean people cannot see colors, but in fact means they have difficulty telling the difference between colors. There are many types of colorblindness, the most common being deuteranomaly: red-green colorblindness. People with this disorder have difficulty seeing red and noticing \_\_\_2\_\_\_ between different shades of green.&#x20;
 
 &#x20;       Colorblindness is a handicap. In fact, some jobs require their employees to have normal color vision. Jobs which require this include police officer, firefighter, and airline pilot. One everyday \_\_\_3\_\_\_ of having colorblindness is the inability to tell the difference between a green banana and a yellow one.&#x20;
@@ -1566,6 +2442,14 @@ description: 克漏字相關題目。
 
 ### DM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACCBB
+
+</details>
+
 &#x20;       While it's not in every home yet, VR equipment is showing up in many parts of our lives. One exciting use of this technology is in hospitals. VR headsets and programs can provide doctors and healthcare workers with new \_\_\_1\_\_\_ for healing patients.
 
 &#x20;       Some hospitals use virtual reality to promote mental healing. In the US, for example, children who have been burned have responded \_\_\_2\_\_\_ to VR games, as they have eased their mental trauma. In Japan, VR is being used to help patients take virtual vacations.
@@ -1579,6 +2463,14 @@ description: 克漏字相關題目。
 5. (A) To practice (B) Having practiced (C) Practiced (D) Having been practiced
 
 ### DN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CABDB
+
+</details>
 
 &#x20;       “Anne! Jo! I mean, Max!” Mothers often mix up their children’s names, but studies show that moms are not the only ones who make this mistake. \_\_\_1\_\_\_ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.
 
@@ -1596,6 +2488,14 @@ description: 克漏字相關題目。
 
 ### DO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDACD
+
+</details>
+
 &#x20;       Astronomers have discovered the darkest alien planet known to exist in the galaxy.
 
 &#x20;       The Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight \_\_\_1\_\_\_ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, \_\_\_2\_\_\_ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), \_\_\_3\_\_\_ its closeness to its sun — its source of energy.
@@ -1609,6 +2509,14 @@ description: 克漏字相關題目。
 5. (A) make (B) count (C) read (D) tell
 
 ### DP.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DDABC
+
+</details>
 
 &#x20;       Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the \_\_\_1\_\_\_ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, \_\_\_2\_\_\_ people have even heard his name.
 
@@ -1624,6 +2532,14 @@ description: 克漏字相關題目。
 
 ### DQ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CADCB
+
+</details>
+
 &#x20;       Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as \_\_\_1\_\_\_ his life of adventure.
 
 &#x20;       Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to \_\_\_2\_\_\_ such events as the Greek Revolution. During this period, he produced his early important works, including _The Sun Also Rises_. Among his later works, the most outstanding is _The Old Man and the Sea_ (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been \_\_\_3\_\_\_. Hemingway liked to portray soldiers, hunters, bullfighters — tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this \_\_\_4\_\_\_ lose hope and faith. His straightforward prose is particularly effective in his short stories, some of \_\_\_5\_\_\_ are collected in _Men Without Women_ (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.
@@ -1635,6 +2551,14 @@ description: 克漏字相關題目。
 5. (A) what (B) which (C) them (D) these
 
 ### DR.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BADBB
+
+</details>
 
 &#x20;       Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common \_\_\_1\_\_\_ for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).
 
@@ -1652,6 +2576,14 @@ description: 克漏字相關題目。
 
 ### DS.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACBDA
+
+</details>
+
 &#x20;       Brushing your teeth regularly will help you maintain a healthy smile. But that smile won’t last long if you don’t take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can \_\_\_1\_\_\_ in toothbrushes over time.
 
 &#x20;       Many Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends \_\_\_2\_\_\_ a new toothbrush every three to four months. Children’s toothbrushes may need to be changed more \_\_\_3\_\_\_.
@@ -1665,6 +2597,14 @@ description: 克漏字相關題目。
 5. (A) it (B) one (C) the (D) which
 
 ### DT.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DAABC
+
+</details>
 
 &#x20;       Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is \_\_\_1\_\_\_! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world’s longest wildlife studies, trying to discover how learning is transferred \_\_\_2\_\_\_ generations.
 
@@ -1680,6 +2620,14 @@ description: 克漏字相關題目。
 
 ### DU.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCBDA
+
+</details>
+
 &#x20;       The undersea world isn’t as quiet as we thought, according to a New Zealand researcher. Fish can “talk” to each other and make a range of \_\_\_1\_\_\_ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.
 
 &#x20;       Fish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off \_\_\_2\_\_\_ fish and even divers. Another discovery about fish sounds is that not all fish are \_\_\_3\_\_\_ “talkative.” Some species talk a lot, while others don’t. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, \_\_\_4\_\_\_, usually keep silent, except when they are laying eggs. Any goldfish lover who hopes to strike up a conversation with their pet goldfish is \_\_\_5\_\_\_. Goldfish have excellent hearing, but they don’t make any sound whatsoever. Their excellent hearing isn’t associated with vocalization.
@@ -1692,6 +2640,14 @@ description: 克漏字相關題目。
 
 ### DV.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBABA
+
+</details>
+
 &#x20;       The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, \_\_\_1\_\_\_ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. \_\_\_2\_\_\_ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this \_\_\_3\_\_\_ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses \_\_\_4\_\_\_ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays \_\_\_5\_\_\_ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.
 
 1. (A) starts (B) started (C) starting (D) to start
@@ -1702,6 +2658,14 @@ description: 克漏字相關題目。
 
 ### DW.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBACD
+
+</details>
+
 &#x20;       The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to \_\_\_1\_\_\_ Norway’s centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities \_\_\_2\_\_\_ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections \_\_\_3\_\_\_ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center \_\_\_4\_\_\_ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors \_\_\_5\_\_\_ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.
 
 1. (A) help (B) solve (C) take (D) mark
@@ -1711,6 +2675,14 @@ description: 克漏字相關題目。
 5. (A) among (B) regarding (C) including (D) through
 
 ### DX.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDDAC
+
+</details>
 
 &#x20;       In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The \_\_\_1\_\_\_ began 45 minutes before the start of the European Cup final. The British team was scheduled to \_\_\_2\_\_\_ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for \_\_\_3\_\_\_ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, \_\_\_4\_\_\_ the main exit in their section when a six-foot concrete wall collapsed.
 
@@ -1724,6 +2696,14 @@ description: 克漏字相關題目。
 
 ### DY.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DBACC
+
+</details>
+
 &#x20;       Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work \_\_\_1\_\_\_, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be \_\_\_2\_\_\_, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is \_\_\_3\_\_\_ or when the vendor has done all that can reasonably or legally be expected.
 
 &#x20;       An adjustment refusal message requires your best communication skills \_\_\_4\_\_\_ it is bad news to the receiver. You have to refuse the claim and retain the customer \_\_\_5\_\_\_. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.
@@ -1736,6 +2716,14 @@ description: 克漏字相關題目。
 
 ### DZ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DDACB
+
+</details>
+
 &#x20;       People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, \_\_\_1\_\_\_, studied the facial reactions of students to a horror film. When the Japanese students watched the film \_\_\_2\_\_\_ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they \_\_\_3\_\_\_ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust.
 
 &#x20;       The study also shows that there are several unspoken rules about how feelings should be \_\_\_4\_\_\_ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress \_\_\_5\_\_\_ someone in authority, which explains why the students masked their upset with a poker face in the experiment.
@@ -1747,6 +2735,14 @@ description: 克漏字相關題目。
 5. (A) with the help of (B) in the presence of (C) on top of (D) in place of
 
 ### EA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BDABC
+
+</details>
 
 &#x20;       The sun is an extraordinarily powerful source of energy. In fact, the Earth \_\_\_1\_\_\_ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it \_\_\_2\_\_\_ all the power needed throughout the world.
 
@@ -1762,6 +2758,14 @@ description: 克漏字相關題目。
 
 ### EB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCADA
+
+</details>
+
 &#x20;       Signs asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to \_\_\_1\_\_\_ the works. The Louvre’s Tactile Gallery, targeted at the blind and visually \_\_\_2\_\_\_, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a \_\_\_3\_\_\_ of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called “Animals, Symbols of Power,” the exhibit \_\_\_4\_\_\_ animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, \_\_\_5\_\_\_ scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.
 
 1. (A) fix up (B) run over (C) take away (D) knock off
@@ -1771,6 +2775,14 @@ description: 克漏字相關題目。
 5. (A) is (B) being (C) has (D) having
 
 ### EC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBADC
+
+</details>
 
 &#x20;       Keele University in the United Kingdom has developed a “virtual patient,” created by a computer, to help train the pharmacists of the future. Students in the university’s School of \_\_\_1\_\_\_ work with the “patient” to gain experience in effective communication and decision-making.
 
@@ -1784,6 +2796,14 @@ description: 克漏字相關題目。
 
 ### ED.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DCBDA
+
+</details>
+
 &#x20;       The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different — they may not even be \_\_\_1\_\_\_. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and \_\_\_2\_\_\_ functions, and users may interact with them in new ways, too. \_\_\_3\_\_\_ they are still called “phones” — a word meaning “voice” in Greek — making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may \_\_\_4\_\_\_ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. \_\_\_5\_\_\_, they will be “the remote-control for life.”
 
 1. (A) heard (B) sold (C) changed (D) seen
@@ -1793,6 +2813,14 @@ description: 克漏字相關題目。
 5. (A) In short (B) As yet (C) By the way (D) On the contrary
 
 ### EE.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDAAC
+
+</details>
 
 &#x20;       The fruits and vegetables we eat often come in distinctive colors. The rich colors, \_\_\_1\_\_\_, are not there only to attract attention. They perform another important function for the plants.
 
@@ -1808,6 +2836,14 @@ description: 克漏字相關題目。
 
 ### EF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACBDA
+
+</details>
+
 &#x20;       Recent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that \_\_\_1\_\_\_ them to take more drugs. Alcohol works directly on the central nervous system and alters one’s moods and limits judgment. Since its way of altering moods (changing one’s state of mind) is generally expected and socially acceptable, oftentimes it \_\_\_2\_\_\_ over drinking. Habitual drinkers may find alcohol not stimulating enough \_\_\_3\_\_\_ and want to seek other more stimulating substances. \_\_\_4\_\_\_ a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the \_\_\_5\_\_\_ of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.
 
 1. (A) lead (B) leads (C) leading (D) led
@@ -1817,6 +2853,14 @@ description: 克漏字相關題目。
 5. (A) population (B) popularity (C) pollution (D) possibility
 
 ### EG.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BABCD
+
+</details>
 
 &#x20;       A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way \_\_\_1\_\_\_ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could \_\_\_2\_\_\_ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced \_\_\_3\_\_\_ the event. Recycling cans were also provided for items such as \_\_\_4\_\_\_ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event’s $250 award for the most creative memory destined for \_\_\_5\_\_\_. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.
 
@@ -1828,6 +2872,14 @@ description: 克漏字相關題目。
 
 ### EH.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BCABA
+
+</details>
+
 &#x20;       Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are \_\_\_1\_\_\_ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people \_\_\_2\_\_\_ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. \_\_\_3\_\_\_, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men \_\_\_4\_\_\_ in life. The low point seems to last longer for women — throughout their 30s and 40s, only climbing \_\_\_5\_\_\_ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.
 
 1. (A) for (B) with (C) at (D) of
@@ -1837,6 +2889,14 @@ description: 克漏字相關題目。
 5. (A) once (B) unless (C) before (D) since
 
 ### EI.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBCAD
+
+</details>
 
 &#x20;       The northern lights, known as the aurora borealis, is one of nature’s most dazzling spectacles. Science is still not certain \_\_\_1\_\_\_ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. \_\_\_2\_\_\_, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway \_\_\_3\_\_\_ while flames of red, orange, green, and blue play up and down the moving folds.
 
@@ -1850,6 +2910,14 @@ description: 克漏字相關題目。
 
 ### EJ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BBDCA
+
+</details>
+
 &#x20;       Average global temperature has increased by almost 1°F over the past century. Scientists expect it to increase an \_\_\_1\_\_\_ 2° to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth’s climate as \_\_\_2\_\_\_ before.
 
 &#x20;       Climate change may affect people’s health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. \_\_\_3\_\_\_, human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding. How people and nature \_\_\_4\_\_\_ climate change will determine how seriously it affects human health. Generally, poor people and poor countries are \_\_\_5\_\_\_ probable to have the money and resources they need to cope with health problems due to climate change.
@@ -1861,6 +2929,14 @@ description: 克漏字相關題目。
 5. (A) less (B) very (C) most (D) further
 
 ### EK.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CDCAB
+
+</details>
 
 &#x20;       The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, \_\_\_1\_\_\_ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional \_\_\_2\_\_\_ is based on forestry, animal husbandry and subsistence agriculture. However, these \_\_\_3\_\_\_ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also \_\_\_4\_\_\_.
 
@@ -1874,6 +2950,14 @@ description: 克漏字相關題目。
 
 ### EL.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CBADB
+
+</details>
+
 &#x20;       Measurements are needed in many everyday activities. In kitchens you will find measures for volume (measuring cups), mass (scales and weights), and temperature (cooking thermometers). Accurate measurements are \_\_\_1\_\_\_ important for scientific experiments. In a laboratory, make sure your measure meets your needs. \_\_\_2\_\_\_ using any thermometer, double check that it covers the right temperature \_\_\_3\_\_\_ for your activity or experiment. A garden thermometer, \_\_\_4\_\_\_, will burst if you try to use it for boiling liquids.
 
 &#x20;       There are different systems of measures. Most scientists now use the International System of measures, with meters for length, kilograms for \_\_\_5\_\_\_, and seconds for time. If the measures in your experiment show other units, appropriate conversion tables for different systems may prove to be very useful.
@@ -1886,7 +2970,15 @@ description: 克漏字相關題目。
 
 ### EM.
 
-&#x20;       Every year Catemaco, a small town in the south of Mexico, hosts the Annual Witch Gathering. Healers and witch doctors converge on this beautiful lakeside town in March to make their yearly trade. \_\_\_1\_\_\_ since pre-Hispanic times, Lake Catemaco has been a centre for alternative medicine and strange treatments. \_\_\_2\_\_\_, the area’s association with witchcraft dates back to Olmec times more than 2,000 years ago. If you’ve ever seen the Sean Connery movie _Medicine Man_, \_\_\_3\_\_\_ the annual convention of wizards and witches will be familiar to you. \_\_\_4\_\_\_, get prepared for the overwhelming attack of wizards and witches here. Most witch doctors are guaranteed to be charlatans, not real doctors, who \_\_\_5\_\_\_ some quick money from tourists. Yet, don’t be surprised if the occasional remedy offered is effective.
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACCBA
+
+</details>
+
+&#x20;       Every year Catemaco, a small town in the south of Mexico, hosts the Annual Witch Gathering. Healers and witch doctors converge on this beautiful lakeside town in March to make their yearly trade. \_\_\_1\_\_\_ since pre-Hispanic times, Lake Catemaco has been a center for alternative medicine and strange treatments. \_\_\_2\_\_\_, the area’s association with witchcraft dates back to Olmec times more than 2,000 years ago. If you’ve ever seen the Sean Connery movie _Medicine Man_, \_\_\_3\_\_\_ the annual convention of wizards and witches will be familiar to you. \_\_\_4\_\_\_, get prepared for the overwhelming attack of wizards and witches here. Most witch doctors are guaranteed to be charlatans, not real doctors, who \_\_\_5\_\_\_ some quick money from tourists. Yet, don’t be surprised if the occasional remedy offered is effective.
 
 1. (A) Ever (B) Not (C) Only (D) Rarely
 2. (A) In advance (B) In all (C) In fact (D) In sum
@@ -1895,6 +2987,14 @@ description: 克漏字相關題目。
 5. (A) go after (B) turn down (C) give away (D) complain about
 
 ### EN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+ACBDC
+
+</details>
 
 &#x20;       Young visitors to museums often complain about having museum feet, the tired feeling one gets after spending too much time in a museum. A case of museum feet makes one feel like saying: “This is \_\_\_1\_\_\_. I could have done the painting myself. When can we sit down? What time is it?” Studies of museum behavior show that the average visitor spends about four seconds looking at one object. For young visitors, the time span can be \_\_\_2\_\_\_ shorter. Children are more interested in smells, sounds, and the “feel” of a place than looking at a work of art. If they stay in a museum too long, a feeling of boredom and monotony will build up, leading \_\_\_3\_\_\_ to impatience and fatigue.
 
@@ -1908,6 +3008,14 @@ description: 克漏字相關題目。
 
 ### EO.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+CCABD
+
+</details>
+
 &#x20;       In the desert of southwest Peru, enormous shapes, complex patterns, and thousands of perfectly straight lines are cut into the desert’s surface. They are known as the Nazca lines and they \_\_\_1\_\_\_ 500 square kilometers. There are about fifty animal figures \_\_\_2\_\_\_ 275 meters long, including a monkey, a spider, and an “owl man.” The last of these lines were drawn about 1,000 years ago. More\_\_\_3\_\_\_ is the fact that they can be viewed only from the air. Some people believe the Nazca Indians were \_\_\_4\_\_\_ able to fly, perhaps in balloons. Others say the lines were landing areas for alien spaceships. Maybe the lines were to carry water for farming, or were used as a calendar. The only thing certain is that the Nazca lines remain one of the world’s most fascinating \_\_\_5\_\_\_ mysteries.
 
 1. (A) circle (B) contain (C) cover (D) wrap
@@ -1918,6 +3026,14 @@ description: 克漏字相關題目。
 
 ### EP.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+BACBD
+
+</details>
+
 &#x20;       After a long day working in the office, Alexander hailed a taxi to take him home. Squeezing his body into the taxi, he noticed the shiny interior and the smell of brand new leather. After informing the driver of his \_\_\_1\_\_\_, Alexander resorted to his reading of Dan Brown’s intelligent thriller, The _Da Vinci Code_. Five minutes into the journey, he was on page 120: “…his Mona Lisa is neither male nor female…” Suddenly, Alexander \_\_\_2\_\_\_ and noticed that the driver had detoured from the familiar route. To redirect the driver, Alexander tapped him on the shoulder. Out of the blue, the driver screamed, lost control of the car, and almost hit a bus. The cab went up on the footpath and \_\_\_3\_\_\_ stopped centimeters away from a shop window. For a second, everything went quiet in the cab. Then the driver said, “Look, mate! Don't ever do that again. You scared the living daylights out of me!” Alexander apologized and said, “I didn't \_\_\_4\_\_\_ that a little tap would scare you so much.” The driver replied, “Sorry, sir. It’s not really your \_\_\_5\_\_\_. Today is my first day as a cab driver. I've been driving a funeral van for the last 25 years.”
 
 1. (A) motivation (B) destination (C) expectation (D) solution
@@ -1927,6 +3043,14 @@ description: 克漏字相關題目。
 5. (A) matter (B) decision (C) trouble (D) fault
 
 ### EQ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DACBA
+
+</details>
 
 &#x20;       Coined in 2020, the term “revenge travel” stems from a feeling of wanting to break free from the monotonous life of lockdowns. After being confined in their homes for months due to the fear of the highly contagious disease and subsequent worldwide lockdowns, many people are \_\_\_1\_\_\_ to travel even more before the pandemic. It appears that now, rather than feeling afraid and worried, people are just ready to get back at something: the year 2020 \_\_\_2\_\_\_ lockdowns. With this mindset, the tourism industry bas greatly bounced back right after the COVID wave starts declining. Many people want to go somewhere so eagerly as they have felt imprisoned for so long. Take India for example. Many people still go traveling out of sheer frustration and the feeling of annoyance from August to October, generally considered the off-season for travel because of unfavorable weather conditions.
 
@@ -1940,6 +3064,14 @@ description: 克漏字相關題目。
 
 ### ER.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+DADBA
+
+</details>
+
 &#x20;       The origin of the well-loved stuffed toy teddy bear can be traced back to the story of Theodore Roosevelt, the president of the US from 1901 to 1909. In 1902, as a devoted hunter, Theodore Roosevelt went on a trip of bear hunting with his assistant and staff. Much \_\_\_1\_\_\_ he loved hunting, he failed to find a single prey that day. One of Roosevelt's assistants tied a baby bear to a willow tree and suggested that he shoot it. Roosevelt refused and thought that it was cruel to shoot a defenseless animal. Little \_\_\_2\_\_\_ the president know that his actions would cause the creation of a world-famous toy.
 
 &#x20;       The story soon spread to every corner in the country. Newspapers around the country kept recounting the story of Theodore Roosevelt and the bear. An owner of a sweet shop heard the story and was deeply impressed by Roosevelt's \_\_\_3\_\_\_. In order to express his admiration for the president, he had an idea of creating a toy bear \_\_\_4\_\_\_ Theodore Roosevelt, or Teddy. These stuffed toys, now known as teddy bears, sold like hot cakes. Women and children alike carried a teddy bear with them no matter where they went. Interestingly, Theodore Roosevelt himself, while \_\_\_5\_\_\_ for his second term in office in 1904, also used the teddy bear as his mascot. Nowadays, the toddy bear remains one of the most popular gifts all over the world.
@@ -1949,8 +3081,6 @@ description: 克漏字相關題目。
 3. (A) endeavor (B) misery (C) passion (D) sympathy
 4. (A) acquainted with (B) named after (C) looked up to (D) fed up with
 5. (A) campaigning (B) defending (C) protesting (D) volunteering
-
-### ES.
 
 
 

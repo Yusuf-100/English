@@ -71,6 +71,14 @@ description: 文意選填相關題目。
 
 ### A.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. complex    | B. when     | C. spice up  | D. contented   |
 | ------------- | ----------- | ------------ | -------------- |
 | E. urban      | AB. feasted | AC. erupting | AD. unloaded   |
@@ -79,6 +87,14 @@ description: 文意選填相關題目。
 &#x20;       Naples is Italy's third-largest municipality. Its history stretches all the way back to the second millennium BC, \_\_\_1\_\_\_ makes it one of the world's oldest cities. When I traveled there, I wanted to explore an area where I could have all my accumulated burdens \_\_\_2\_\_\_. Despite that Naples lives under the constant threat of Mount Vesuvius \_\_\_3\_\_\_ at any time, fortunately for me, the volcano was quiet, as was the beginning of my tour when I paid a visit to Santa Chiara. I wandered through the cloisters and \_\_\_4\_\_\_ the beautiful majolica tiles and frescoes, contemplating how much history this old \_\_\_5\_\_\_ had been since it was built in the 1300s. I then traveled on to the Sansevro Chapel, where I \_\_\_6\_\_\_ my eyes on many awe-inspiring religious artworks and enjoyed a quiet atmosphere. On another day, I ended up strolling through La Pignaescca, the \_\_\_7\_\_\_ street market in Naples. The streets were filled with bustling crowds buying fresh produce for their meals. There was activity around every corner, and the wide variety of fresh seafood for sale was the very ingredient to \_\_\_8\_\_\_ a traveler's trip. Of course, I never visit Naples without eating its most famous dish: pizza, \_\_\_9\_\_\_ one with tomato sauce, basil, and fresh mozzarella cheese placed on top of raw dough that has been stretched to an even thickness baked in a wood-burning oven. Piazza Bellini is an ideal place to kick back at night, and it gave me a wonderful ending to each of my days. I would grab a gelato and find a place to sit, perfectly \_\_\_10\_\_\_ to be in such a splendid Italian city.
 
 ### B.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. assembled   | B. close to   | C. commissioned | D. during which |
 | -------------- | ------------- | --------------- | --------------- |
@@ -94,6 +110,14 @@ description: 文意選填相關題目。
 
 ### C.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. rage          | B. consisted of  | C. evolved       | D. contributed to |
 | ---------------- | ---------------- | ---------------- | ----------------- |
 | E. innovative    | AB. launch       | AC. considerably | AD. came          |
@@ -102,6 +126,14 @@ description: 文意選填相關題目。
 &#x20;       Here's a look at how music listening has \_\_\_1\_\_\_ through the ages. In the beginning there was the phonograph invented by Thomas Edison. Not perfect though it was, it was a \_\_\_2\_\_\_ invention for its time. Around a decade later, German America inventor Emile Berline camp up with an invention, gramophere, that \_\_\_3\_\_\_ bettered the phonograph and made possible the \_\_\_4\_\_\_ of the record player \_\_\_5\_\_\_ a turntable and speaker. It was not until Philips released the cassette tape in the mid-1960s that records ceased \_\_\_6\_\_\_ the music-listening scene. However, the inexpensive and portable nature of the cassette tape \_\_\_7\_\_\_ the rampant behavior of \_\_\_8\_\_\_. Then, in 2007, after the CDs, MP3 players and iPod \_\_\_9\_\_\_ music streaming, which soon became all the \_\_\_10\_\_\_.
 
 ### D.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. alike    | B. analyzes     | C. drastically | D. durable      |
 | ----------- | --------------- | -------------- | --------------- |
@@ -125,6 +157,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### E.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. given   | B. outreach      | C. responsible for | D. accessed    |
 | ---------- | ---------------- | ------------------ | -------------- |
 | E. caution | AB. vigorous     | AC. as             | AD. deploy     |
@@ -134,6 +174,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### F.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. access     | B. adjust           | C. current | D. infant mortality |
 | ------------- | ------------------- | ---------- | ------------------- |
 | E. lead to    | AB. life expectancy | AC. offset | AD. peak            |
@@ -142,6 +190,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       The world's population is likely to \_\_\_1\_\_\_ at 9.7 billion in 2064, and then decline to about 8.8 billion by the end of the century, as women get better \_\_\_2\_\_\_ to education and birth control, a new study has found. By 2100, 183 of 195 countries will not have fertility rates required to maintain the \_\_\_3\_\_\_ population, with a \_\_\_4\_\_\_ 2.1 births per woman. \_\_\_5\_\_\_ 23 countries - including Japan, Thailand, Italy, and Spain - will see populations \_\_\_6\_\_\_ by more than 50%, researchers said. The study also predicts major changes in the global age structure as fertility falls and \_\_\_7\_\_\_ increases, with an estimated 2.37 billion people over 65 years globally in 2100, compared with 1.7 billion under the age of 20. Researchers said that these "dramatic declines" in working-age populations in countries such as India and China, will both obstruct economic growth and \_\_\_8\_\_\_ shifts in global powers. Countries will have to rethink their immigration policies, and economies will have to \_\_\_9\_\_\_. Some experts suggest that populations decline could be \_\_\_10\_\_\_ by immigration, and that countries with liberal immigration policies will be better able to both maintain population size and support economic growth - even as fertility falls.
 
 ### G.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. crust           | B. in addition to | C. hardly   | D. alone       |
 | ------------------ | ----------------- | ----------- | -------------- |
@@ -158,6 +214,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### H.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. checked         | B. suffers from | C. wipe out      | D. approval    |
 | ------------------ | --------------- | ---------------- | -------------- |
 | E. favorable       | AB. engineer    | AC. exclusively  | AD. spanned    |
@@ -167,6 +231,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### I.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. develop   | B. sarcastically | C. humble      | D. proceeded  |
 | ------------ | ---------------- | -------------- | ------------- |
 | E. yields    | AB. met with     | AC. ironical   | AD. heralding |
@@ -175,6 +247,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       Walt Disney was born on December 5, 1901, in Chicago. As a child, he had a \_\_\_1\_\_\_ beginning, making money by selling pictures he had drawn to his neighbors. In high school, he took classes with a view to \_\_\_2\_\_\_ his interest in art and photography. Later on, he got a job making commercials and cartoons. He started his own company but \_\_\_3\_\_\_ many obstacles and ran out of money. However, there wasn't a(n) \_\_\_4\_\_\_ of the thought of giving up in his mind. Instead, he \_\_\_5\_\_\_ with his brother and a friend to Hollywood in 1923 and established the Disney Brothers Cartoon Studio. \_\_\_6\_\_\_ Mickey Mouse, Disney's studio also created Minnie Mouse, Donald Duck, Goofy, and Pluto. These characters became very famous, \_\_\_7\_\_\_ the arrival of a Disney family to come. With good \_\_\_8\_\_\_, the company expanded and hired several employees, but again faced hardship in the 1940s, and many of the employees quit. Still, Disney's passion never \_\_\_9\_\_\_. He created many more movies and TV shows, and in 1955, he opened Disneyland, but died \_\_\_10\_\_\_ in 1966, before the second Disney resort was opened.
 
 ### J.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. assert   | B. aware          | C. due        | D. undergoing     |
 | ----------- | ----------------- | ------------- | ----------------- |
@@ -191,6 +271,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### K.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. provide for | B. primary | C. chores   | D. colleagues |
 | -------------- | ---------- | ----------- | ------------- |
 | E. witnessed   | F. assume  | G. reversed | H. initially  |
@@ -202,6 +290,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### L.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. immunity | B. spread | C. deadliest | D. shut     |
 | ----------- | --------- | ------------ | ----------- |
 | E. avoid    | F. until  | G. blackouts | H. vaccines |
@@ -212,6 +308,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       The flu had quite serious impacts on society. It wiped out many families. Basic \_\_\_6\_\_\_ like garbage collection and mail delivery stopped because there were too many flu-stricken workers. In some places there were even not enough farm workers to harvest crops. The global economy almost collapsed. The flu ended by the summer of 1919 since those who were infected either died or developed \_\_\_7\_\_\_. However, the cause of the fatal flu was not discovered \_\_\_8\_\_\_ 2008, almost 90 years later. Researchers announced that a group of three genes enabled the virus to weaken a victim’s lungs and clear the way for bacterial pneumonia. There have been several other flu pandemics \_\_\_9\_\_\_ 1918 but none caused so much damage. The Spanish flu is also called the “forgotten pandemic” because it broke out during World War I and was covered up by news \_\_\_10\_\_\_ and poor record-keeping. It is the modern day pandemics that bring renewed interest in it.
 
 ### M.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. shivering | B. disqualified | C. relived | D. celebration |
 | ------------ | --------------- | ---------- | -------------- |
@@ -225,6 +329,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       By now, the girl in lane two was about to pass Elizabeth. With the sock finally on, Elizabeth swam her heart out for the last 15 meters. It was close. But Elizabeth beat the other girl to the wall for the victory. There was all the \_\_\_9\_\_\_ and joy. And, for a few minutes, Elizabeth was the hero. It was completely unexpected, ridiculous and pointless. On the ride home, she \_\_\_10\_\_\_ her moment of glory again and again. She told me that if the T-shirt relay was an Olympic event, she is quite sure it should be her team winning the gold medal.
 
 ### N.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. available    | B. characterized | C. home    | D. mix     |
 | --------------- | ---------------- | ---------- | ---------- |
@@ -241,6 +353,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### O.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. ordeal          | B. pleaded with | C. catered to     | D. characteristic of |
 | ------------------ | --------------- | ----------------- | -------------------- |
 | E. fled            | AB. resolutely  | AC. distributed   | AD. despite          |
@@ -252,6 +372,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### P.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. derive from | B. threatened | C. allegedly | D. colonies  |
 | -------------- | ------------- | ------------ | ------------ |
 | E. where       | AB. owing to  | AC. ideally  | AD. coined   |
@@ -261,6 +389,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### Q.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. vaccines  | B. predators   | C. reproducing | D. as such     |
 | ------------ | -------------- | -------------- | -------------- |
 | E. thereby   | AB. clotting   | AC. perpetuate | AD. as much as |
@@ -269,6 +405,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       Although mosquitoes spread disease all over the world, there is some hope that mosquito saliva may have some \_\_\_1\_\_\_ use for the treatment of the worldwide killer of humans: cardiovascular disease. Chemicals in mosquito saliva stop human blood from \_\_\_2\_\_\_. Thanks to mosquitoes, new anti-\_\_\_2\_\_\_ drugs that \_\_\_3\_\_\_ the risk of heart attacks and strokes may soon be developed. There's even research going on into the possibility of turning mosquitoes into living \_\_\_4\_\_\_. Secondly, mosquitoes help pollinate. Only those females of some mosquito species need a meal of blood to get the proteins necessary to lay eggs. For the most part, male and female adult mosquitoes depend on nectar for energy. While \_\_\_5\_\_\_ nectar, mosquitoes pollinate plants, especially the aquatic \_\_\_6\_\_\_ while they spend much of their lives. They help make these plants thrive and \_\_\_7\_\_\_ them. Lastly, mosquito larva are aquatic insects, and \_\_\_8\_\_\_, play an important role in the aquatic food chain. Mosquito of other larvae eat algae, fungi, and dead bodies of other insects, and they eat all the time! And so efficient they are in consuming the biological waste in nature that they absorb plenty of nutrients, \_\_\_9\_\_\_ making themselves nutritious snacks bars for their \_\_\_10\_\_\_.
 
 ### R.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. utterly   | B. crossed  | C. reverse  | D. distinguish |
 | ------------ | ----------- | ----------- | -------------- |
@@ -282,6 +426,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       Another thing many don't know about Leonardo is that he is left-handed. Besides, the hundreds of his notebook pages that have survived time reveal a(n) \_\_\_8\_\_\_ habit of the artist. That is, he often wrote backward, from the right side of the page to the left. In addition, he wrote in mirror script, that is, in the \_\_\_9\_\_\_ direction of normal handwriting, so it would only be readable when the page was held up to a mirror. Some speculate that he did so to be secretive. Only when he was writing something \_\_\_10\_\_\_ for other people did he write in the normal direction. Others suggest that, as a lefty, he could avoid smearing ink on his hand by writing this way.
 
 ### S.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. alternative | B. market   | C. appearance | D. significant |
 | -------------- | ----------- | ------------- | -------------- |
@@ -298,6 +450,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### T.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. marks       | B. meaning    | C. potential | D. extensively   |
 | -------------- | ------------- | ------------ | ---------------- |
 | E. corresponds | F. popularity | G. dry       | H. intentionally |
@@ -313,6 +473,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### U.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. therefore   | B. additionally | C. poses       | D. features |
 | -------------- | --------------- | -------------- | ----------- |
 | E. commercials | F. allow for    | G. account for | H. ripe     |
@@ -323,6 +491,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 &#x20;       However, the timing is now \_\_\_5\_\_\_ for an overdue shift and adjustment. These days, women \_\_\_6\_\_\_ 62% of all car buyers, and influence over 85% of all the purchase decisions in the U.S. “Equal Vehicle for All Initiative” was \_\_\_7\_\_\_ introduced so as to make driving a safer and more pleasant experience for drivers regardless of gender. On the top of the list is to include female dummies in crash tests. For the first time ever, such tests \_\_\_8\_\_\_ various factors such as female physiques and muscle tones. \_\_\_9\_\_\_ , their driving habits and reactions in the event of an accident are taken into consideration. Despite being often \_\_\_1\_\_\_ in the past, dummies modeled after pregnant drivers will be put in place to make safety tests more inclusive. Hopefully, with more advanced technology, accidents can be reduced and safety improved.
 
 ### V.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. due        | B. subjects | C. guardians | D. conditions  |
 | ------------- | ----------- | ------------ | -------------- |
@@ -339,6 +515,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### W.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. denial      | B. advances  | C. soothing   | D. sheltered   |
 | -------------- | ------------ | ------------- | -------------- |
 | E. undesirable | F. ward off  | G. settle for | H. acknowledge |
@@ -352,6 +536,14 @@ End-to-end Internet-based convenience store software systems deliver a seamless 
 
 ### X.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. outcasts  | B. cash in on   | C. genre     | D. relatively   |
 | ------------ | --------------- | ------------ | --------------- |
 | E. dominates | AB. invaded     | AC. real     | AD. occupying   |
@@ -364,13 +556,17 @@ Loss of Autonomy: The idea of being controlled, overwhelmed, surrounded, or smot
 Separation: Abandonment, rejection, or fear of becoming a non-person. That pretty much speaks for itself. Zombies can either symbolize social \_\_\_6\_\_\_, or derogatory cultural norm that desires nothing more than to infect you with its biases.\
 Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separation, except it has to do with fear of disapproval, a lack of a \_\_\_8\_\_\_ sense of lovability or capability.
 
-&#x20;       So zombies remind us of the simple fact that someday we're all going to die and turn into rotten things also. So while filmmakers, writers, and video game developers try to \_\_\_9\_\_\_ the zombie craze, let's not forget the key interest in zombies has to do with self-discovery. Zombie Apocalypse stories tell us something \_\_\_10\_\_\_ about who and what we are.\
-
-
-\
-
+&#x20;       So zombies remind us of the simple fact that someday we're all going to die and turn into rotten things also. So while filmmakers, writers, and video game developers try to \_\_\_9\_\_\_ the zombie craze, let's not forget the key interest in zombies has to do with self-discovery. Zombie Apocalypse stories tell us something \_\_\_10\_\_\_ about who and what we are.
 
 ### Y.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. obsessive   | B. ornamental  | C. lucrative | D. established |
 | -------------- | -------------- | ------------ | -------------- |
@@ -387,6 +583,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### Z.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. initiatives | B. accounts for         | C. suffering | D. thereby   |
 | -------------- | ----------------------- | ------------ | ------------ |
 | E. civic       | AB. accounts for        | AC. acute    | AD. dogmatic |
@@ -395,6 +599,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       After \_\_\_1\_\_\_ for nearly 20 years, the United Nations Environment Programme proudly announced in August 2021 that no country now uses leaded gasoline for vehicles, \_\_\_2\_\_\_ heralding a new era for health and the environment. In 1922, a certain kind of lead was used as a fuel \_\_\_3\_\_\_. It improved engine performance, and by the 1970s, almost all gasoline in the world included lead. However, the consequences for humans and the environment were quite \_\_\_4\_\_\_. As leaded fuel burns, it contaminates air, water, and soil \_\_\_5\_\_\_. Humans exposed to lead \_\_\_6\_\_\_ heart disease, cancer, and strokes. Lead also \_\_\_7\_\_\_ a variety of developmental issues in children. By the 1980s, most countries had stopped using leaded fuel, but there were still a \_\_\_8\_\_\_ few in the early 2000s. UNEP coordinated with governments and private companies as well as \_\_\_9\_\_\_ groups to find ways to end the use of leaded fuel in those countries. Their success shows that humanity can fix mistakes it has made, which gives hope to those working on other \_\_\_10\_\_\_ related to transportation changes.
 
 ### AA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. hence      | B. hypothesis | C. carcasses | D. imagining   |
 | ------------- | ------------- | ------------ | -------------- |
@@ -405,6 +617,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. at the cost of | B. replace     | C. intertwined | D. complex   |
 | ----------------- | -------------- | -------------- | ------------ |
 | E. somehow        | AB. precedence | AC. form       | AD. as       |
@@ -413,6 +633,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       When it comes to urban planning, the old is regularly sacrificed \_\_\_1\_\_\_ the new. Modern, forward-thinking progress thus frequently takes \_\_\_2\_\_\_ over the safeguarding of historic structures. The latter, however, are often closely \_\_\_3\_\_\_ with the cultural treasure of a city and its people. Many aging buildings are thus social treasures that \_\_\_4\_\_\_ be preserved. Locals, therefore, need to figure out a way to \_\_\_5\_\_\_ find room for both the old and the new. This is exactly what was achieved when property developers in New York wanted to \_\_\_6\_\_\_ a 25-screen movie house for an old theater on 42nd street. Such a large cinema \_\_\_7\_\_\_ obviously made a lot of financial sense. But, on the other hand, the old Empire Theater was famous for its historical significance and beautiful decorations. In the end, a compromise was reached by having the old building \_\_\_8\_\_\_ the entrance to the new mega movie house. This required some moving of the old structure and the Empire was thus raised a whole, and wheeled along a 170-foot track to a new location. Short \_\_\_9\_\_\_ the distance was, it took a whole week to complete this part of the project. It nevertheless proved that the new does not always need to be introduced \_\_\_10\_\_\_ the old. With just a little sweat, both can have a happy ending.
 
 ### AC.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. treats     | B. oppression   | C. decisive       | D. rhetorical      |
 | ------------- | --------------- | ----------------- | ------------------ |
@@ -429,6 +657,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AD.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. incidence | B. therefore    | C. result in | D. shift    |
 | ------------ | --------------- | ------------ | ----------- |
 | E. literally | AB. for example | AC. grim     | AD. sustain |
@@ -439,6 +675,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       Overuse of groundwater can lead to \_\_\_3\_\_\_ consequences. Groundwater overuse occurs when water is pumped out of the ground at an \_\_\_4\_\_\_ rate. This can \_\_\_5\_\_\_ multiple problems. \_\_\_6\_\_\_, groundwater supplies surface water, which refers to water in bodies such as lakes and streams. \_\_\_7\_\_\_, if groundwater supplies are low, surface water supplies also suffer. Next, groundwater overuse can lead to the \_\_\_8\_\_\_ of a process known as land subsidence. This is when the surface of the ground starts to sink. Naturally, this can cause negative outcomes, especially on land that is \_\_\_9\_\_\_ on to support housing. Finally, groundwater overuse near the coast is dangerous because it allows saltwater from the ocean to \_\_\_10\_\_\_ inland. This is a huge problem because water supplies are then at risk of becoming contaminated by saltwater.
 
 ### AE.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. in short  | B. concerns     | C. suit         | D. recent   |
 | ------------ | --------------- | --------------- | ----------- |
@@ -451,6 +695,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AF.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. perceived   | B. contributed to | C. target     | D. boost                |
 | -------------- | ----------------- | ------------- | ----------------------- |
 | E. proportions | AB. alternatively | AC. defying   | AD. rigorous            |
@@ -459,6 +711,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       This summer, Norway became the latest country to pass regulations that put \_\_\_1\_\_\_ restrictions on doctored images in advertising and media. Norway's new regulations \_\_\_2\_\_\_ these types of images by requiring social media influencers and advertisers to attach tags to retouched photos. Those \_\_\_3\_\_\_ the new laws could face heavy fines. Images in media often show seemingly perfect people, from supermodels with extraordinary \_\_\_4\_\_\_ to social media influencers with flawless faces. Yet most are not honest depictions, images are edited to erase or minimize any \_\_\_5\_\_\_ defects. The negative effects that image manipulation have on young people's self-esteem are \_\_\_6\_\_\_ documented in a 2016 study, which concluded that exposure to doctored Instagram selfies directly \_\_\_7\_\_\_ lower body image among teenagers. Norwegian lawmakers who passed the regulations have said they want children to grow up with a healthier self-image and a better sense of what realistic bodies look like, which, however, doesn't ring \_\_\_8\_\_\_ to the majority of the people. In fact, research studies on image disclaimers like the ones Norway is requiring have shown they don't do much at all to \_\_\_9\_\_\_ women's self-esteem, and may even increase comparisons by drawing more attention to the edited photos. Such labels also fail to address the root \_\_\_10\_\_\_: "There's an entire system set up to support certain body ideals," says Jacqueline Nessi, an assistant professor in psychiatry at Brown University.
 
 ### AG.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. taking place | B. practices    | C. proposed  | D. mechanisms     |
 | --------------- | --------------- | ------------ | ----------------- |
@@ -469,6 +729,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AH.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. which    | B. reserved  | C. be        | D. inclusive |
 | ----------- | ------------ | ------------ | ------------ |
 | E. vigilant | AB. friction | AC. stance   | AD. gauge    |
@@ -478,11 +746,27 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 <table data-header-hidden><thead><tr><th width="244"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>A. increasingly</td><td>B. certain</td><td>C. manufacture</td><td>D. besting</td></tr><tr><td>E. vying</td><td>F. producing</td><td>G. essential</td><td>H. unveil</td></tr><tr><td>I. dominance</td><td>J. claiming</td><td></td><td></td></tr></tbody></table>
 
 &#x20;       Without a doubt, semiconductors, or chips, are \_\_\_1\_\_\_ to the world that we are living in today. Not only are they found in our smartphones, computers, and electronic devices, but \_\_\_2\_\_\_ in appliances, vehicles, and data centers as well. When it comes to \_\_\_3\_\_\_ semiconductors, Taiwan is a world leader in the industry, and one Taiwanese company in particular Taiwan Semiconductor Manufacturing Co. (TSMC) stands head and shoulders above all the rest, with the company \_\_\_4\_\_\_ more than half of the world's global foundry business by revenue itself. Yet, TSMC does have a slew of rivals challenging its industry \_\_\_5\_\_\_, and one of its biggest competitors Samsung Electronics Co. from South Korea recently announced that it has begun mass production of 3 nanometer chips, \_\_\_6\_\_\_TSMC in the quest to build the world's latest and most advanced chips. At the moment, Samsung is focusing on producing 3 nanometer semiconductors for \_\_\_7\_\_\_ computing applications, but it has yet to expand to mobile processors. TSMC, however, has stated that it will \_\_\_8\_\_\_ its 3 nanometer technology in the second half of this year. The company has claimed that its technology will be different than Samsung's, which will allow it to start making chips for both computing applications and smartphones right away. Industry experts say that both TSMC and Samsung are \_\_\_9\_\_\_ with large companies like Apple and Qualcomm for long-term business, and some wonder if Samsung will be able to \_\_\_10\_\_\_ its 3 nanometer chips with as much cost efficiency as TSMC is likely able to achieve.&#x20;
 
 ### AJ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. optimistic  | B. removal  | C. willingness | D. epic   |
 | -------------- | ----------- | -------------- | --------- |
@@ -496,6 +780,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       Despite all the challenges, people are \_\_\_9\_\_\_ that the cathedral will be restored to its previous design. The project has elicited a worldwide outpouring of empathy and a wave of \_\_\_10\_\_\_ to help. So far, it has generated a massive influx of $1 billion donations. With such a collective effort, the architectural uniqueness and the rich history of this cultural symbol will continue to impress the world.
 
 ### AK.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. advantages     | B. pace      | C. discount    | D. findings    |
 | ----------------- | ------------ | -------------- | -------------- |
@@ -514,6 +806,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AL.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. delight     | B. explorations    | C. turn     | D. surprised     |
 | -------------- | ------------------ | ----------- | ---------------- |
 | E. imported    | F. over-emphasized | G. artistic | H. hidden        |
@@ -531,6 +831,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AM.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A. securely | B. system | C. techniques | D. form    |
 | ----------- | --------- | ------------- | ---------- |
 | E. limbs    | F. alone  | G. summit     | H. rewards |
@@ -543,6 +851,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       It is clear, then, that to be a rock climber, you need not only strong \_\_\_9\_\_\_ but also a strong mind. But the \_\_\_10\_\_\_ of rock climbing are clearly worth the effort. When a climber reaches the top of a particularly tough climb, they feel - quite rightly - on top of the world.
 
 ### AN.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. spread | B. culture   | C. trapped   | D. adored  |
 | --------- | ------------ | ------------ | ---------- |
@@ -558,6 +874,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;       During the Middle Ages, aquaculture \_\_\_8\_\_\_ in Europe, since far away from the seacoasts and the big rivers, fish had to be salted so they did not rot. Throughout feudal Europe, monastic orders and the aristocracy were the main users of freshwater fish, for they had a \_\_\_9\_\_\_ over the land, forests, and water courses while the common people could seldom build ponds of their own. As with hunting, \_\_\_10\_\_\_ fishing was severely punished and the less well-off would have to wait a few centuries before fresh fish was served on their plates.
 
 ### AO.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A. staying   | B. keep up   | C. dominant  | D. production |
 | ------------ | ------------ | ------------ | ------------- |
@@ -576,6 +900,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AP.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -584,6 +916,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;      &#x20;
 
 ### AQ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
@@ -594,6 +934,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AR.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -602,6 +950,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;      &#x20;
 
 ### AS.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
@@ -612,6 +968,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AT.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -620,6 +984,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;      &#x20;
 
 ### AU.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
@@ -630,6 +1002,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AV.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -638,6 +1018,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;      &#x20;
 
 ### AW.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
@@ -648,6 +1036,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AX.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -657,6 +1053,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 
 ### AY.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |
 | E.   | AB.  | AC.  | AD.  |
@@ -665,6 +1069,14 @@ Ego-death: This is something \_\_\_7\_\_\_ personal, and it's similar to separat
 &#x20;      &#x20;
 
 ### AZ.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 | A.   | B.   | C.   | D.   |
 | ---- | ---- | ---- | ---- |

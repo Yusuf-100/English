@@ -29,6 +29,14 @@ description: 篇章結構相關題目。
 
 ### A.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The central theme of Lord of the Flies is human nature: are we naturally good, naturally evil, or something else entirely?
 
 &#x20;       When the boys gather on the beach for the first time, summoned by the sound of the conch, they have not yet internalized the fact that they are now outside the normal bounds of civilization. \_\_\_1\_\_\_ They build shelters and show concern for the youngest among them. \_\_\_2\_\_\_
@@ -48,6 +56,14 @@ description: 篇章結構相關題目。
 
 ### B.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Two seriously ill men shared the same hospital room. One man was allowed to sit up in his bed for an hour every afternoon. His bed was next to the room's only window. \_\_\_1\_\_\_ The two men talked for hours about everything every day. And every afternoon when the man in the bed by the window could sit up, he would pass the time by describing to his roommate all the things he could see outside the window. The man in the other bed began to live for those one-hour periods where his world would be broadened by all the colors of the world outside.
 
 &#x20;       \_\_\_2\_\_\_ Ducks and swans played on the water while children sailed their model boats. Young lovers walked arm in arm amidst flowers of every color of the rainbow. Grand old trees graced the landscape, and a fine view of the city skyline could be seen in the distance. One warm afternoon the man by the window described a parade passing by. The gentleman by the window portrayed it with descriptive words. \_\_\_3\_\_\_
@@ -64,6 +80,14 @@ description: 篇章結構相關題目。
 (AB) Despite the illness, these two men tried their best to make their life less miserable.
 
 ### C.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Email spam is also termed as junk email with suspicious messages sent in bulk. Most of the email spam messages are commercial in nature. \_\_\_1\_\_\_ However, those only lead to phishing websites that host malware.
 
@@ -82,6 +106,14 @@ description: 篇章結構相關題目。
 
 ### D.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Covering an area of about 7 percent of the earth's surface, tropical rainforests are found mainly near the Equator. \_\_\_1\_\_\_ These are areas that are warm and wet year around. Average rainfall in rainforest areas ranges from about 80 inches to an almost incredible 400 inches a year and the average temperature hovers around 24 to 27 degrees Celsius.
 
 &#x20;       Rainforests contribute to the planet's well-being in many ways. They recycle the world's oxygen, nitrogen and carbon; in doing so they help influence the temperature of the planet. \_\_\_2\_\_\_ in fact, fifty percent of the planet and animal species on the planet live in the rainforests. \_\_\_3\_\_\_ Rainforests also provide us with food, wicker latex, turpentine, cork, gums, dyes, oils, foods, medicines and resins.
@@ -97,6 +129,14 @@ description: 篇章結構相關題目。
 
 ### E.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Fiction is the name we use for stories that are make-believe, such as Harry Potter or Alice in the Wonderland. \_\_\_1\_\_\_ It can be so close to the truth that it seems as real as something that happened to you this morning. Or, fiction can be as fantastic as the most unbelievable fairy tale.
 
 &#x20;       Not everything in a fictional story has to be made up. \_\_\_2\_\_\_ You, of course, are real, and the moon is real, and many of the things that you could describe, such as the stars, the wind, and the pull of gravity, would be real. \_\_\_3\_\_\_ It would be a trip you took in your imagination.
@@ -111,6 +151,14 @@ description: 篇章結構相關題目。
 
 ### F.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Starting around 4,000 B.C., traditional Chinese brush painting has developed continuously over a period of more than six thousand years. \_\_\_1\_\_\_
 
 &#x20;       During the 1st century A.D., the art of painting religious murals gradually gained in prominence, with the introduction of Buddhism to China and the consequent building of temples. \_\_\_2\_\_\_ For example, paintings of historical characters and stories of everyday life became extremely popular. Besides historical figures, landscape painting was also common in Chinese brush painting. By the 4th century, this particular type of painting had already established itself as an independent form of expression. \_\_\_3\_\_\_ The blue-and-green landscape used bright blue, green and red pigments derived from minerals to create a richly decorative style; the ink-and-wash landscape relied on vivid brushwork and various intensity of ink to express the artist's conception of nature as well as his own emotions. \_\_\_4\_\_\_ A great many artists in the 9th century painted in this genre and their subject matters included a rich variety of flowers, fruits, birds, insects, and fish.
@@ -124,6 +172,14 @@ description: 篇章結構相關題目。
 (E) It then gradually developed into two separate styles.
 
 ### G.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Bitcoin wins its publicity as an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority. \_\_\_1\_\_\_
 
@@ -144,6 +200,14 @@ description: 篇章結構相關題目。
 
 ### H.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Our glaciers are disappearing. Glaciers worldwide that have existed for centuries are disappearing in human timescales - our lifetimes. \_\_\_1\_\_\_
 
 &#x20;       Today, we have over 400,000 glaciers and ice caps scattered across Earth, over 5.8 million square miles of ice. \_\_\_2\_\_\_ It fluctuates in multitudes of ways to local, regional and global environmental dynamics.
@@ -163,6 +227,14 @@ description: 篇章結構相關題目。
 
 ### I.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Badminton could be traced back to more than 2000 years ago to the ancient game called battledore (bat or paddle) and shuttlecock (also called "bird" or "birdie"). \_\_\_1\_\_\_
 
 &#x20;       From the 1600s, battledore and shuttlecock was just a game involving 2 persons hitting a shuttlecock towards each other as many times as possible before it hit the ground and it used to be an upper-class game in Europe, including England. \_\_\_2\_\_\_ It's a very popular new year's game involving a wooden paddle called hagoita and a shuttle called hane. According to "A Brief History of Badminton from 1870 to 1949" written by Betty Uber, modern badminton was created by British military officers by around 1850s in British India. \_\_\_3\_\_\_
@@ -178,6 +250,14 @@ description: 篇章結構相關題目。
 
 ### J.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       A reusable shopping bag, sometimes called bag-for-life in the UK, is a type of shopping bad which can be reused many times. It is an alternative to single-use paper or plastic shopping bag. \_\_\_1\_\_\_
 
 &#x20;       \_\_\_2\_\_\_ They are sold for a nominal sum, usually 10 pence, and are replaced for free. \_\_\_3\_\_\_ The bags are more durable than standard bags, meaning that they can be reused many times over. And in contrast to most spartan carrier bags, bags for life tend to be colorful and sometimes show some aspect of the supermarket's advertising. \_\_\_4\_\_\_ The increasing use of the reusable shopping bags has found their way into various fields as well. \_\_\_5\_\_\_ Even at end of life, they can be used as planters for growing garden vegetables.
@@ -190,6 +270,14 @@ description: 篇章結構相關題目。
 (AB) The main purpose of this is to ensure that packaging waste legislation was met and to encourage the bags to be recycled.
 
 ### K.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Fred Hill was a tight end for the Philadelphia Eagles in 1969, when doctors informed him and his wife Fran that their three-year-old daughter Kim had been diagnosed with acute lymphatic leukemia. Kim was only given six months to live, yet she fought through an abnormal childhood. She spent three and a half years undergoing chemotherapy and radiation treatments in an attempt to defeat the cancer. \_\_\_1\_\_\_
 
@@ -206,6 +294,14 @@ description: 篇章結構相關題目。
 
 ### L.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The Fushimi Inari Taisha is a famous tourist destination in Kyoto, Japan. It is a religious site for Japan's Shinto religion, and it is known around the world for the hundreds of red gateways (called torii) and paths that surround it on the mountainside. The torii gates number around one thousand, and each was given by Japanese businesses or families over time. Each gate has its giver's name marked on it. \_\_\_1\_\_\_ The shrine was created to worship fox spirits, and from the second one enters the shrine site, one begins to see countless statues of foxes (known as Inari in Japanese). \_\_\_2\_\_\_ The main shrine building itself has a gateway with two fox statues on either side, each with red cloths fastened around its neck. \_\_\_3\_\_\_ The key is traditionally meant to open granaries, or grain storage buildings. Therefore, the foxes are seen as spirits responsible for agriculture and rice. \_\_\_4\_\_\_
 
 (A) It is said that when one gives a torii gate to a shrine, he or she will receive his or her wish in return.\
@@ -215,6 +311,14 @@ description: 篇章結構相關題目。
 (E) However, over time, many business people began to worship the fox in order for their companies to have good fortune.
 
 ### M.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Have you ever wondered how body language came about? Is it something we are born with or is it learned through social interaction? Actually, the answer to this question is more complicated than we think.
 
@@ -230,6 +334,14 @@ description: 篇章結構相關題目。
 
 ### N.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Food trucks have grown in popularity since the 2008 recession and are as much a restaurant concept as family-style dining or fast food. \_\_\_1\_\_\_ Today, food trucks offer menu options from cupcakes or grilled cheese to hybrid taco-waffles, and pretty much anything imaginable. \_\_\_2\_\_\_
 
 &#x20;       \_\_\_3\_\_\_ Vendors sold food from small carts or street kitchens, and the practice has continued throughout the world, especially in urban areas. Roy Choi became one of the leaders in the food truck industry when he opened Kogi in Los Angeles in 2008.
@@ -243,6 +355,14 @@ description: 篇章結構相關題目。
 (E) Selling food street-side dates back to the late 17th century when living conditions were cramped and many people did not have the resources to cook their own meals.
 
 ### O.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Airbrushing, by definition, means retouching photos to remove flaws or enhance images. For example, it can eliminate unwanted shadows and distracting background images or add a scenic background to a car advertisement to make the car appear to cruise down a mountain road. \_\_\_1\_\_\_ In the days before digital media, airbrushing involved painting with an airbrush. Today, the development of new technologies and image editing software allows for almost endless manipulation of images.
 
@@ -259,6 +379,14 @@ description: 篇章結構相關題目。
 
 ### P.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Since mosquitoes are attracted to skin odors and carbon dioxide, conventional insect repellents keep away mosquitoes by masking their smell and taste. Nonetheless, most people still get bitten when the repellent wears off. Kao, a cosmetics and chemical company, developed a unique mosquito repellent technology by creating a hydrophobic oil surface, which prevents mosquitoes from staying long enough to feed. Mosquitoes use their forelegs to stabilize their posture once they land on the skin. \_\_\_1\_\_\_ However, Kao's research revealed that when their legs came into contact with silicone oil, they would rub their legs together in an attempt to wipe the oil sticking to them. \_\_\_2\_\_\_ Human trials demonstrated that 85% of female mosquitoes that landed on non-coated skin displayed blood-feeding behavior while only 4% displayed such behavior when they landed on skin where silicone oil had been applied.
 
 &#x20;       According to a leader at Kao's research lab, Dr. Takao Nakagawa, Kao hopes to apply this technology into future products and thus help people. He revealed that Kao's lab had developed a new technology with a different mechanism of action from conventional insect repellents. \_\_\_3\_\_\_ Mosquitoes are carriers of infectious diseases such as dengue, malaria and Zika. According to a survey conducted by Kao in 2020, in places like Indonesia, Thailand and Vietnam, mosquito-borne infections occur year-round and 80% of the population is bitten by mosquitoes on a daily basis. \_\_\_4\_\_\_ Hopefully, Kao's new technology can effectively control the spread of dengue and other infectious diseases in many affected areas.
@@ -269,6 +397,14 @@ description: 篇章結構相關題目。
 (D) It is expected to help develop products to protect people from mosquito bites.
 
 ### Q.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Plastic trash is washing off from land to sea. Unlike some other kinds of waste, plastic doesn’t decompose over time. \_\_\_1\_\_\_ They pose a major threat to marine creatures, including coral reefs.
 
@@ -288,6 +424,14 @@ description: 篇章結構相關題目。
 
 ### R.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       For those having bad reactions to milk yet still craving for the taste of it, they may have a sound reason to celebrate. A team in Israel has been committed to developing a kind of milk made from yeast, which looks, smells and tastes quite similar to regular milk but will not cause discomfort to people with lactose intolerance.
 
 &#x20;       Dr. Tuller from Tel Aviv University has been driven by the public’s growing awareness of the environmental impact of the dairy industry to launch their experimental project. \_\_\_1\_\_\_ In fact, methane is a much more powerful greenhouse gas than carbon dioxide. Raising healthy cows is also impossible without feeding them with plenty of proteins, the production of which is yet another significant contributor to global warming. \_\_\_2\_\_\_ Still another equally strong motivator behind Dr. Tuller’s work is the often-reported inhumane or cruel practices at animal ranches far and wide. \_\_\_3\_\_\_ Also, to boost production, cows are often injected with growth hormones that leave the animals with greater pains and physical suffering.
@@ -300,6 +444,14 @@ description: 篇章結構相關題目。
 (D) They aim to take a gene from a living organism to plant it in another organism to make it a “factory” producing the target protein or milk affordably.
 
 ### S.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Generous billionaires are not hard to come by, but it is definitely a challenge to find a billionaire who spends all his fortune on charity just to end up broke. \_\_\_1\_\_\_
 
@@ -316,6 +468,14 @@ description: 篇章結構相關題目。
 
 ### T.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       With commercial flights to outer space capturing public imagination, how astronauts or space travelers carry out their daily routine in space has become a focus of attention lately. \_\_\_1\_\_\_ Up until now, it has been a standard practice for astronauts to store and carry their feces and urine with them, on top of their sweat-stained underwear, gym clothes, and else. \_\_\_2\_\_\_ While being far from ideal and environmentally-friendly, it seems to be the best compromise as yet.
 
 &#x20;       A much-awaited change is on the horizon, though. It is a joint effort spearheaded by NASA and a multinational consumer goods corporation, Procter & Gamble Co. (P\&G). \_\_\_3\_\_\_ Other possibilities, such as bacteria-resistant clothing materials and stain removal tools, have also been in various stages of development as well. All these are to make what space travelers wear clean and reusable. Feasible as the project sounds now, all designs are required to pass the test of weightlessness. \_\_\_4\_\_\_ As urine and sweat are recycled for drinkable water, so is the wastewater from laundry. Well, humans have always been pushing the limits in exploring outer space. Hopefully, such innovations will benefit not only astronauts but also people living in some arid regions in the near future.
@@ -326,6 +486,14 @@ description: 篇章結構相關題目。
 (D) One issue of interest is personal hygiene, namely, how they stay clean and dispose of human waste in a less embarrassing manner.
 
 ### U.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Foods go extinct for all sorts of reasons, most related to human activity, such as overhunting, habitat destruction, and an agricultural production system that often favors a limited range of crops for profitability. \_\_\_1\_\_\_ Transportation and the ability to ship food have made it unnecessary for some species to exist in certain regions when they are easier grown someplace else, but this reliance on a few crops puts not only our food system at risk from disruptions, but it also puts our health at risk.
 
@@ -340,6 +508,14 @@ description: 篇章結構相關題目。
 (E) Post World War II, people were worried about starvation, hunger, all of those things, but the price paid for that was a world in which more of our food became greater in uniformity.
 
 ### V.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Even if you have never been to Paris, you must have heard of the avenue Champs-Élysées on which an array of boutiques and coffee shops are giving the visitors a taste of fashion.
 
@@ -356,6 +532,14 @@ description: 篇章結構相關題目。
 
 ### W.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Yep, there's an official term for the way that your auntie used to pinch your chubby little cheeks just that bit too hard. It's called 'cute aggression' and it's defined as the urge to squeeze, crush, or bite cute things without any desire to cause harm. Most of us look at babies and instinctively find them cute, and experts say this is because certain infant characteristics (like a large head and a cuddly body) literally change our behavior. Animal behavior expert Konrad Lorenz dubbed these infantile traits 'baby schema', and said that they motivate us to take care of the child, serving an important evolutionary function by keeping vulnerable babies safe, and increasing the likelihood of survival. \_\_\_1\_\_\_ Just think about how many brands adopt a baby animal as their mascot, such as the Andrex puppy, for example.
 
 &#x20;       \_\_\_2\_\_\_ Well, although it might feel unnatural to think about squeezing, pinching, or grabbing a vulnerable pet or small child, it's really nothing to worry about. According to psychoanalytic psychotherapist Smita Rajput Kamble, cute aggression invites play and has a useful function. She says: "\_\_\_3\_\_\_ For example, soft-boxing someone without making real contact."
@@ -370,6 +554,14 @@ description: 篇章結構相關題目。
 
 ### X.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       When getting to know someone in South Korea, there is a good chance that at one point or another, you will be asked, “What's your blood type?" \_\_\_1\_\_\_ But in Korea, a person's blood type - either A, B, O, or AB - is widely believed to be predictive of personality and temperament, similar to horoscopes in the West.
 
 &#x20;       Under the blood type personality theory, a person with Type A blood is diligent and caring toward others. \_\_\_2\_\_\_ Those with Type B blood are optimistic and passionate, but can be forgetful and self-centered. \_\_\_3\_\_\_ The best romantic match is between a Type A woman and a Type O man. \_\_\_4\_\_\_ According to a 2017 poll by Gallup Korea, around half of the population (58 percent) said they believed the blood type personality theory to some degree, while the remaining 42 percent said they did not.
@@ -381,6 +573,14 @@ description: 篇章結構相關題目。
 (E) Despite a lack of scientific basis, the blood type personality theory has grown to become a cultural norm here since the concept emerged in the late 1990s.
 
 ### Y.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Mickey Mouse became popular for many reasons. He has appeared in TV shows, movies, video games and merchandise. In addition to him starring in the first cartoon with synchronized sound, he also came into the world just before the Great Depression of 1929. During the Depression, people often turned to entertainment to momentarily escape from life's difficulties. \_\_\_1\_\_\_
 
@@ -398,6 +598,14 @@ description: 篇章結構相關題目。
 
 ### Z.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Roughly thirty kilometers off the southeast coast of Taiwan lies the island known as Green Island. This island has an area of around fifteen square kilometers, and is home to just 26,000 permanent residents. \_\_\_1\_\_\_ Its many wonderful snorkeling and diving spots, as well as its beautiful scenery, actually make it a very popular holiday destination. It is, in addition, one of just three places in the world where people can enjoy a soak in a completely natural saltwater hot spring!
 
 &#x20;       Taiwan's Green Island, though, is not the only Green Island on the planet. The UK alone, in fact, has no fewer than five islands that go by this name. \_\_\_2\_\_\_ Just a stone's throw from the mainland, this Green Island can be reached by either boat or helicopter. \_\_\_3\_\_\_ The first is a two-bedroom summer house, while the other is a small wooden cabin. Both belong to Edward Iliffe, an English multi-millionaire who actually owns the entire island.
@@ -410,6 +618,14 @@ description: 篇章結構相關題目。
 (D) One of these is situated off the southwest coast of Britain and forms part of Dorset County.
 
 ### AA.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Famous poet and short story writer Peter Meinke was born in New York in 1932. He has published a total of eighteen literary works and has won numerous awards for his poetry and short fiction.
 
@@ -428,6 +644,14 @@ description: 篇章結構相關題目。
 
 ### AB.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       One tragic day in 1994, a mangrove forest on Union Island came under attack. The countless creatures living within the roots of these unique trees were forced to flee as a construction company ripped apart Ashton Lagoon. \_\_\_1\_\_\_ For years, locals had objected to the resort and told the corporation that uprooting the mangroves would destroy the marine environment. To make matters worse, the resort project was abandoned less than a year after it began. \_\_\_2\_\_\_ In 1998, two researchers from Canada announced that Ashton Lagoon was "ecologically dead."
 
 &#x20;       Islanders asked another scientists for his assessment and were thrilled when his report was more optimistic. Unfortunately, implementing his suggestions for restoration would be a long, slow process. \_\_\_3\_\_\_ In 2014, both permission and funding were obtained, but it would be another three years before construction crews could return to Ashton Lagoon, this time to resurrect it. After the removal of walls and pillars left there in 1994, the natural tidal flow could resume. \_\_\_4\_\_\_ Residents rejoiced, especially those who had experienced firsthand the protection mangroves offer.
@@ -439,6 +663,14 @@ description: 篇章結構相關題目。
 
 ### AC.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       In March 2022, Kevin Berling won a US$450,000 lawsuit against his former company for throwing him a birthday party. It seems silly when phrased this way, but the events leading to the lawsuit deeply distressed Berling. In August 2019, he asked his company not to throw a party for his birthday. \_\_\_1\_\_\_ However, the party occurred anyway, and Berling suffered a panic attack and had to leave. Later, his managers called him into a meeting and criticized him. \_\_\_2\_\_\_ Berling was fired not long after, and he later sued for discrimination and emotional distress. Though mental illnesses are often made light of, anxiety disorders like Berling's are no joke. Anxiety can leave people in "fight-or-flight" mode constantly, making any stressor a potential trigger for a panic attack. \_\_\_3\_\_\_ Feelings of danger, fear of dying, and even detachment from reality are all possible mental symptoms. Panic attacks can be terrifying to experience and concerning for outside observes. \_\_\_4\_\_\_ It is important for others to listen to and respect those with mental illness, and to learn what we can do to help and not hinder their recovery.
 
 (A) However, they don't mean the person is violent, and those who suffer from panic attacks often have strategies to prevent and cope with them.\
@@ -448,6 +680,14 @@ description: 篇章結構相關題目。
 
 ### AD.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       The **2022 FIFA World Cup** is the 22nd FIFA World Cup, an international football tournament contested by the men's national teams of FIFA's member associations. \_\_\_1\_\_\_ At an estimated cost of over $220 billion, it is the most expensive World Cup ever held. \_\_\_2\_\_\_ This tournament is set to be the last with 32 participating teams, with the field to increase to 48 teams for the 2026 edition. To avoid the extremes of Qatar's hot climate, this World Cup is being held during November and December. \_\_\_3\_\_\_ In the first round of the tournament finals, the teams competed in eight round-robin groups of four teams for points, with the top two teams in each group proceeding. \_\_\_4\_\_\_ The choice to host the World Cup in Qatar has been a source of controversy due to Qatar's treatment of migrant workers, women, and its position on LGBT rights as well as Qatar's climate, lack of a strong football culture, scheduling changes, and allegations of bribery for hosting rights and wider FIFA corruption.
 
 (A) It is being played in a reduced timeframe of 29 days with 64 matches to be played in eight venues across five cities. \
@@ -456,6 +696,14 @@ description: 篇章結構相關題目。
 (D) This figure is disputed by Qatari officials, who said the true cost is $8 billion, and other figures relate to overall infrastructure development since the World Cup was awarded to Qatar in 2010.
 
 ### AE.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Amber Bourke, the Australian women's pool and free diving champion, is on her way to setting a new world record. Scientists once thought humans could swim to a maximum depth of 30 meters on a single breath. \_\_\_1\_\_\_&#x20;
 
@@ -469,6 +717,14 @@ description: 篇章結構相關題目。
 (D) Amber Bourke has gone deeper than 70 meters and this is what physiology alone can't explain.
 
 ### AF.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       One of the most difficult things for a human to face is the loss of a limb. If a person loses an arm or a leg, he/she must be fitted with an artificial limb.
 
@@ -487,6 +743,14 @@ description: 篇章結構相關題目。
 
 ### AG.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Louis Braille lost his sight at the age of three. He was sent to the National Institute for Blind Children in Paris, where he became hungry for knowledge. At the age of just 15, frustrated by the lack of material he could "read," Louis invented a new writing system that changed everything for blind people. \_\_\_1\_\_\_ It allows people with no sight to read with their hands, no matter what language they speak.
 
 &#x20;       \_\_\_2\_\_\_ Combinations of raised dots represent 64 letters, numbers, and mathematical symbols. However, this is only the basic "alphabet" of Braille; the characters can be combined in various ways to create words without taking up extra space. This is important when printing long texts such as novels. The long form of Braille, in which every character is shown individually, is described as "uncontracted"; the short form in "contracted."
@@ -501,6 +765,14 @@ description: 篇章結構相關題目。
 (D) At the Institute in Paris, Louis had been given some books printed in "night writing."
 
 ### AH.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;       Martha Graham was born in Pennsylvania in the United States in 1894. When she was 15, her family moved to California, where she first became interested in dancing. In 1916, she joined the experimental Denishawn dance school and company in Los Angeles, and soon distinguished herself through her forceful and dramatic performances.
 
@@ -519,6 +791,14 @@ description: 篇章結構相關題目。
 
 ### AI.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       Copernicus, founder of modern astronomy, was born in 1473 to a well-to-do merchant family in Torun, Poland. He was sent off to attend university in Italy, studying mathematics and optics, and canon law. Returning from his studies abroad, Copernicus was appointed to an administrative position in the cathedral of Frauenburg. There he spent a sheltered and academic life for the rest of his days.
 
 &#x20;       \_\_\_1\_\_\_ He made his observations from a tower situated on the protective wall around the cathedral. His observations were made with the "bare eyeball," so to speak, as a hundred years were to pass before the invention of the telescope. In 1530, Copernicus completed his famous work _De Revolutionibus_, which later played a major role in changing the philosophical view of humankind's place in the universe. \_\_\_2\_\_\_
@@ -536,6 +816,14 @@ description: 篇章結構相關題目。
 
 ### AJ.
 
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
+
 &#x20;       As Parkinson's disease attacks the central nervous system (CNS), nerve cells in the brain stop functioning normally. \_\_\_1\_\_\_ The severe shaking, especially in the hands, may prevent individuals from performing daily tasks like using a computer, shaving, and even eating.
 
 &#x20;       Besides this constant shaking, decreased dopamine levels can also cause other serious problems for people suffering from Parkinson's. They are often unable to sleep well and are less mobile. \_\_\_2\_\_\_
@@ -552,6 +840,14 @@ description: 篇章結構相關題目。
 (D) When the cells that control production of a chemical messenger called dopamine no longer do their job, a person may shake uncontrollably.
 
 ### AK.
+
+<details>
+
+<summary>點一下顯示答案</summary>
+
+
+
+</details>
 
 &#x20;      &#x20;
 
