@@ -4,36 +4,13 @@ description: 篇章結構相關題目。
 
 # Discourse Structure
 
-## 答案
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-**A \~ D**：C(AB)EAB / DECBA / CEB(AB)D / C(AB)AED\
-**E \~ H**：EDCAB / DBEAC / (AB)DBEC / ECAD(AB)\
-**I \~ L**：DA(AB)CE / EC(AB)DB / CEB(AB)D / ADBE\
-**M \~ P**：DAEB / DBEC / DCAB / CBDA\
-**Q \~ T**：EBADC / CBAD / CADB / DCBA\
-**U \~ X**：DEAB / CADB / EADB / DBAE\
-**Y \~ AB**：CEAB / BDAC / CBDA / DBAC\
-**AC \~ AF**：BDCA / BDAC / DBCA / CFAED\
-**AG \~ AJ**：BADC / BADC / FBDEC / DBAC\
-**AK \~ AN**：
-
-</details>
-
-***
-
-## 題目
-
 ### A.
 
 <details>
 
 <summary>點一下顯示答案</summary>
 
-
+CFEAB
 
 </details>
 
@@ -52,7 +29,7 @@ description: 篇章結構相關題目。
 (C) The boys decide to set up a democratic society in order to maintain order.\
 (D) Without Jack's hunters, the boys would have suffered hunger and deprivation.\
 (E) The rules are only as effective as their enthusiasm for the game itself.\
-(AB) They also play make believe and other games, exulting in their freedom from chores and rules.
+(F) They also play make believe and other games, exulting in their freedom from chores and rules.
 
 ### B.
 
@@ -60,7 +37,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DECBA
 
 </details>
 
@@ -77,7 +54,7 @@ description: 篇章結構相關題目。
 (C) Although the other man couldn't see the band, he could see it in his mind's eye.\
 (D) However, the other had to lie flat all the time.\
 (E) The window overlooked a park with a lovely lake.\
-(AB) Despite the illness, these two men tried their best to make their life less miserable.
+(F) Despite the illness, these two men tried their best to make their life less miserable.
 
 ### C.
 
@@ -85,7 +62,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CEBFD
 
 </details>
 
@@ -102,7 +79,7 @@ description: 篇章結構相關題目。
 (C) They contain links that look genuine and convincingly familiar.\
 (D) There should be a faster, more reliable solution for email spam.\
 (E) Spambots are used by spammers to obtain email addresses of the target victims and send malicious emails to the obtained email list.\
-(AB) They are crafted to direct victims to a fake organization's website that is malicious while the user ends up sharing all the personal information from login credentials to financial details.
+(F) They are crafted to direct victims to a fake organization's website that is malicious while the user ends up sharing all the personal information from login credentials to financial details.
 
 ### D.
 
@@ -110,7 +87,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CFAED
 
 </details>
 
@@ -125,7 +102,7 @@ description: 篇章結構相關題目。
 (C) They cover a large portion of the northern part of south America and are also found in Central America, Africa, and Southeast Asia.\
 (D) Experts say that a large portion of the world's rainforests will be gone in less than 50 years.\
 (E) Other causes include the widespread clearing of the rainforest for farming use.\
-(AB) They provide shelter for many humans and animals.
+(F) They provide shelter for many humans and animals.
 
 ### E.
 
@@ -133,7 +110,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+EDCAB
 
 </details>
 
@@ -155,7 +132,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBEAC
 
 </details>
 
@@ -177,7 +154,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+FDBEC
 
 </details>
 
@@ -196,7 +173,7 @@ description: 篇章結構相關題目。
 (C) As such, its future cannot be predicted by anyone.\
 (D) Any transaction issued with Bitcoin cannot be reversed.\
 (E) Consequently, keeping your savings with Bitcoin is not recommended at this point.\
-(AB) That is, managing transactions and issuing money are carried out collectively through the network.
+(F) That is, managing transactions and issuing money are carried out collectively through the network.
 
 ### H.
 
@@ -204,7 +181,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+ECADF
 
 </details>
 
@@ -223,7 +200,7 @@ description: 篇章結構相關題目。
 (C) Each glacier is exceptionally diverse.\
 (D) So when I say a glacier has melted X amount, I'm also saying climate change has altered something X amount.\
 (E) This vanishing ice holds staggering consequences.\
-(AB) It is not burdened by ideology and carries no political baggage as it crosses the threshold from solid to liquid.
+(F) It is not burdened by ideology and carries no political baggage as it crosses the threshold from solid to liquid.
 
 ### I.
 
@@ -231,7 +208,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DAFCE
 
 </details>
 
@@ -246,7 +223,7 @@ description: 篇章結構相關題目。
 (C) By around 1870s, retired British army officers brought the game back to England from India and it became a very popular sport.\
 (D) Similar games were played for centuries across Eurasia countries such as Greece, Egypt, China, India, and Japan.\
 (E) By 1972, Badminton became a demo sport at the Munich Olympics and became an official Olympic Sport at the 1992 Barcelona Olympics.\
-(AB) At that time, a net was added to the game and because it was very popular in the garrison town of Poona, the game was known as Poona.
+(F) At that time, a net was added to the game and because it was very popular in the garrison town of Poona, the game was known as Poona.
 
 ### J.
 
@@ -254,7 +231,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+ECFDB
 
 </details>
 
@@ -267,7 +244,7 @@ description: 篇章結構相關題目。
 (C) Reusable shopping bags are offered in most British supermarkets.\
 (D) Some supermarkets, for example, maintain the same design for years at a time, whereas some, like Waitrose, rotate the designs to tie in with either the season or the most recent advertising campaign.\
 (E) It is often a tote bag made from fabric such as canvas.\
-(AB) The main purpose of this is to ensure that packaging waste legislation was met and to encourage the bags to be recycled.
+(F) The main purpose of this is to ensure that packaging waste legislation was met and to encourage the bags to be recycled.
 
 ### K.
 
@@ -275,7 +252,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CEBFD
 
 </details>
 
@@ -290,7 +267,7 @@ description: 篇章結構相關題目。
 (C) By Kim's second year of treatment, Hill came to feel the strain of having a child with leukemia.\
 (D) The goal of the entire organization is to produce a "home away from home" for families who are struggling to care for their sick children.\
 (E) With the help of his neighbor Stan Lane, Hill created his own charity, Eagles Fly for Leukemia, to raise money for the cause.\
-(AB) The McDonald's Corporation agreed as long as the house being built for these families would be named the "Ronald McDonald House."
+(F) The McDonald's Corporation agreed as long as the house being built for these families would be named the "Ronald McDonald House."
 
 ### L.
 
@@ -298,7 +275,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+ADBE
 
 </details>
 
@@ -316,7 +293,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DAEB
 
 </details>
 
@@ -338,7 +315,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBEC
 
 </details>
 
@@ -360,7 +337,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DCAB
 
 </details>
 
@@ -383,7 +360,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CBDA
 
 </details>
 
@@ -402,7 +379,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+EBADC
 
 </details>
 
@@ -428,7 +405,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CBAD
 
 </details>
 
@@ -449,7 +426,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CADB
 
 </details>
 
@@ -472,7 +449,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DCBA
 
 </details>
 
@@ -491,7 +468,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DEAB
 
 </details>
 
@@ -513,7 +490,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CADB
 
 </details>
 
@@ -536,7 +513,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+EADB
 
 </details>
 
@@ -558,7 +535,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBAE
 
 </details>
 
@@ -578,7 +555,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CEAB
 
 </details>
 
@@ -602,7 +579,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+BDAC
 
 </details>
 
@@ -623,7 +600,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CBDA
 
 </details>
 
@@ -648,7 +625,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBAC
 
 </details>
 
@@ -667,7 +644,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+BDCA
 
 </details>
 
@@ -684,7 +661,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+BDAC
 
 </details>
 
@@ -701,7 +678,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBCA
 
 </details>
 
@@ -722,7 +699,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+CFAED
 
 </details>
 
@@ -747,7 +724,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+BADC
 
 </details>
 
@@ -770,7 +747,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+BADC
 
 </details>
 
@@ -795,7 +772,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+FBDEC
 
 </details>
 
@@ -820,7 +797,7 @@ description: 篇章結構相關題目。
 
 <summary>點一下顯示答案</summary>
 
-
+DBAC
 
 </details>
 
@@ -838,18 +815,6 @@ description: 篇章結構相關題目。
 (B) Some lose the ability to walk even short distances and are instead limited to using wheelchairs or staying in bed all the time.\
 (C) This allowed test subjects with Parkinson's to sleep through the night without being interrupted by their uncontrolled shaking.\
 (D) When the cells that control production of a chemical messenger called dopamine no longer do their job, a person may shake uncontrollably.
-
-### AK.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-&#x20;      &#x20;
 
 ***
 
