@@ -112,7 +112,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ABAAD / BCBCC / ACAAD / DAADB
 
 </details>
 
@@ -163,7 +163,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CACAD / BBCAD / BDAAC / DCBAB
 
 </details>
 
@@ -214,7 +214,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DCCCB / CBABC / BCAAD / BADCB
 
 </details>
 
@@ -268,7 +268,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BACCD / DCDAB / DCDBA / BACDA
 
 </details>
 
@@ -319,7 +319,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDABC / BADCC / ACBBA / CDDCB
 
 </details>
 
@@ -370,7 +370,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ADCBD / CADCB / ADBCA / DCDBA
 
 </details>
 
@@ -421,7 +421,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DBBCB / ADCCB / BADAC / DBBAB
 
 </details>
 
@@ -472,7 +472,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DCCBC / BDDAD / CBCAC / BDACB
 
 </details>
 
@@ -526,7 +526,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ABDDA / DCBBA / CBDCB / ADCDB
 
 </details>
 
@@ -577,7 +577,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DACCD / BADAC / DBCCC / DBABD
 
 </details>
 
@@ -628,7 +628,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDABD / ABCDD / BAACA / DBACD
 
 </details>
 
@@ -679,7 +679,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ABABD / CACAB / DBBAD / BCCCD
 
 </details>
 
@@ -730,7 +730,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DAADB / CABBD / BBCBD / CABBA
 
 </details>
 
@@ -781,7 +781,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDCCD / CADDC / ADCAA / CBDAC
 
 </details>
 
@@ -832,7 +832,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DBACB / DBBCA / BCAAD / DABDC
 
 </details>
 
@@ -883,7 +883,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDABC / DBCAC / ABCAD / DBCAD
 
 </details>
 
@@ -934,7 +934,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BCDCA / BDACA / DBCBA / DCABC
 
 </details>
 
@@ -985,7 +985,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BCABD / CBDCA / DBDCA / ACBDC
 
 </details>
 
@@ -1036,7 +1036,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BADBC / ABCAD / ADBCD / BCADB
 
 </details>
 
@@ -1087,7 +1087,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ACBAD / CBDAC / BACDB / CBACD
 
 </details>
 
@@ -1138,7 +1138,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DBCAC / ACBDC / BDDAC / DAACB
 
 </details>
 
@@ -1189,7 +1189,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BDACD / BADDA / CBDCB / ADACC
 
 </details>
 
@@ -1239,7 +1239,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CBBDA / ADADA / ABABC / CABDD
 
 </details>
 
@@ -1295,7 +1295,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ACDCB / BABCC / DDACB / CBADB
 
 </details>
 
@@ -1350,7 +1350,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CADBC / ACBDA / CADBC / BDACB
 
 </details>
 
@@ -1422,7 +1422,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CABAC / ADCCA / DBABC / DBCAC
 
 </details>
 
@@ -1480,7 +1480,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CABBD / DDBAC / ADBAC / ACDBC
 
 </details>
 
@@ -1550,7 +1550,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CADBC / DDDAC / DBACD / BDBAC
 
 </details>
 
@@ -1620,7 +1620,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BACDC / BDABC / BCDAB / BDABC
 
 </details>
 
@@ -1684,7 +1684,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BDACD / CACBD / DACBC / DCABD
 
 </details>
 
@@ -1735,7 +1735,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ADBAC / BACAA / BDCAC / ADBCD
 
 </details>
 
@@ -1749,7 +1749,7 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) accumulation; portrayed (B) accommodation; depicted (C) illustration; conveyed (D) illumination; recruited
 645. He speaks very \_\_\_\_\_\_\_\_ of your work \_\_\_\_\_\_\_\_.\
      (A) occasionally; in mind (B) enormously; in sum (C) favorably; in question (D) liberally; in total
-646. <mark style="color:blue;">**FROM THIS QUESTION**</mark>When winter comes, the once green and leafy trees are left \_\_\_\_\_\_\_\_ and empty.\
+646. When winter comes, the once green and leafy trees are left \_\_\_\_\_\_\_\_ and empty.\
      (A) mighty (B) stark (C) lively (D) dense
 647. Cristo was Bulgarian-American installation artist who had the rare talent of combining art with engineering. His works were thus \_\_\_\_\_\_\_\_.\
      (A) exceptional (B) intentional (C) considerable (D) agricultural
@@ -1786,7 +1786,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BCDBA / CADBD / ACDBC / ABDBC
 
 </details>
 
@@ -1837,7 +1837,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDCCA / BDDCA / CBCAC / CBADB
 
 </details>
 
@@ -1891,7 +1891,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ADBCA / CADBD / BCBAA / DCABC
 
 </details>
 
@@ -1947,7 +1947,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BAACB / BDADC / BBCCC / ACCBC
 
 </details>
 
@@ -1998,7 +1998,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BAAAC / AADCA / ADDDB / ADDDD
 
 </details>
 
@@ -2049,7 +2049,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BCADD / ACDBD / AABAD / ABDAC
 
 </details>
 
@@ -2100,7 +2100,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDACD / BDBBD / BCCAC / AAADA
 
 </details>
 
@@ -2151,7 +2151,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CABCA / ACDDC / BDDBB / DCAAA
 
 </details>
 
@@ -2202,7 +2202,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BACCA / CCDAD / CCABA / ADBAB
 
 </details>
 
@@ -2253,7 +2253,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+AADBC / DABCA / CBBAD / CBCAA
 
 </details>
 
@@ -2304,7 +2304,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CDDDA / BBCAB / CAABC / BACDB
 
 </details>
 
@@ -2355,7 +2355,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DBABD / AADCB / ABBBD / BCDAA
 
 </details>
 
@@ -2407,7 +2407,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DACDB / CDABA / DDBCA / ADDBA
 
 </details>
 
@@ -2458,7 +2458,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CCAAC / CADDD / BBCCB / ABAAC
 
 </details>
 
@@ -2509,7 +2509,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ACBBB / DCCAA / DBABC / DBCAA
 
 </details>
 
@@ -2560,7 +2560,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ABDAC / AABAB / CBAAC / DCAAC
 
 </details>
 
@@ -2611,7 +2611,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DDCBC / ACADA / DBACA / ADBCA
 
 </details>
 
@@ -2662,7 +2662,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CCCCB / CADAC / ACBCA / BBDCB
 
 </details>
 
@@ -2713,7 +2713,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CBDAD / CCACA / BBBBD / BABDA
 
 </details>
 
@@ -2764,7 +2764,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BBACD / AACDD / BDACC / CABDA
 
 </details>
 
@@ -2815,7 +2815,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DCBCB / AAAAB / ACBCC / ACAAB
 
 </details>
 
@@ -2866,7 +2866,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BBAAC / CCCCC / AACDA / CABDC
 
 </details>
 
@@ -2917,7 +2917,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+BCBCB / DCACB / DADBD / ADDDB
 
 </details>
 
@@ -2968,7 +2968,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+DDCBC / BCDBD / ADCAC / BDBCB
 
 </details>
 
@@ -3019,7 +3019,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+ABBBB / DCDCC / CBCBB / CDAAA
 
 </details>
 
@@ -3070,7 +3070,7 @@ DADCD / BBCCC / ABCCD / BACBB
 
 <summary>點一下顯示答案</summary>
 
-
+CCCAB
 
 </details>
 
