@@ -2,17 +2,79 @@
 description: 單字相關題目，範圍約為7000單以內。
 ---
 
-# Vocabulary
+# Copy of Vocabulary
 
-## 1. \~ 20.
+## 答案
 
 <details>
 
 <summary>點一下顯示答案</summary>
 
-CACAA / CCAAA / ABCAB / CADAA
+**1.** CACAA / CCAAA / ABCAB / CADAA\
+**21.** DADCD / BBCCC / ABCCD / BACBB\
+**41.** ABAAD / BCBCC / ACAAD / DAADB\
+**61.** CACAD / BBCAD / BDAAC / DCBAB\
+**81.** DCCCB / CBABC / BCAAD / BADCB\
+**101.** BACCD / DCDAB / DCDBA / BACDA\
+**121.** CDABC / BADCC / ACBBA / CDDCB\
+**141.** ADCBD / CADCB / ADBCA / DCDBA\
+**161.** DBBCB / ADCCB / BADAC / DBBAB\
+**181.** DCCBC / BDDAD / CBCAC / BDACB\
+**201.** ABDDA / DCBBA / CBDCB / ADCDB\
+**221.** DACCD / BADAC / DBCCC / DBABD\
+**241.** CDABD / ABCDD / BAACA / DBACD\
+**261.** ABABD / CACAB / DBBAD / BCCCD\
+**281.** DAADB / CABBD / BBCBD / CABBA\
+**301.** CDCCD / CADDC / ADCAA / CBDAC\
+**321.** DBACB / DBBCA / BCAAD / DABDC\
+**341.** CDABC / DBCAC / ABCAD / DBCAD\
+**361.** BCDCA / BDACA / DBCBA / DCABC\
+**381.** BCABD / CBDCA / DBDCA / ACBDC\
+**401.** BADBC / ABCAD / ADBCD / BCADB\
+**421.** ACBAD / CBDAC / BACDB / CBACD\
+**441.** DBCAC / ACBDC / BDDAC / DAACB\
+**461.** BDACD / BADDA / CBDCB / ADACC\
+**481.** CBBDA / ADADA / ABABC / CABDD\
+**501.** ACDCB / BABCC / DDACB / CBADB\
+**521.** CADBC / ACBDA / CADBC / BDACB\
+**541.** CABAC / ADCCA / DBABC / DBCAC\
+**561.** CABBD / DDBAC / ADBAC / ACDBC\
+**581.** CADBC / DDDAC / DBACD / BDBAC\
+**601.** BACDC / BDABC / BCDAB / BDABC\
+**621.** BDACD / CACBD / DACBC / DCABD\
+**641.** ADBAC / BACAA / BDCAC / ADBCD\
+**661.** BCDBA / CADBD / ACDBC / ABDBC\
+**681.** CDCCA / BDDCA / CBCAC / CBADB\
+**701.** ADBCA / CADBD / BCBAA / DCABC\
+**721.** BAACB / BDADC / BBCCC / ACCBC\
+**741.** BAAAC / AADCA / ADDDB / ADDDD\
+**761.** BCADD / ACDBD / AABAD / ABDAC\
+**781.** CDACD / BDBBD / BCCAC / AAADA\
+**801.** CABCA / ACDDC / BDDBB / DCAAA\
+**821.** BACCA / CCDAD / CCABA / ADBAB\
+**841.** AADBC / DABCA / CBBAD / CBCAA\
+**861.** CDDDA / BBCAB / CAABC / BACDB\
+**881.** DBABD / AADCB / ABBBD / BCDAA\
+**901.** DACDB / CDABA / DDBCA / ADDBA\
+**921.** CCAAC / CADDD / BBCCB / ABAAC\
+**941.** ACBBB / DCCAA / DBABC / DBCAA\
+**961.** ABDAC / AABAB / CBAAC / DCAAC\
+**981.** DDCBC / ACADA / DBACA / ADBCA\
+**1001.** CCCCB / CADAC / ACBCA / BBDCB\
+**1021.** CBDAD / CCACA / BBBBD / BABDA\
+**1041.** BBACD / AACDD / BDACC / CABDA\
+**1061.** DCBCB / AAAAB / ACBCC / ACAAB\
+**1081.** BBAAC / CCCCC / AACDA / CABDC\
+**1101.** BCBCB / DCACB / DADBD / ADDDB\
+**1121.** DDCBC / BCDBD / ADCAC / BDBCB\
+**1141.** ABBBB / DCDCC / CBCBB / CDAAA\
+**1161.** CCCAB
 
 </details>
+
+***
+
+## 題目
 
 1. The company is going to implement a(n) \_\_\_\_\_\_\_\_ expansion plan to double its market, but we doubt if it's feasible.\
    (A) reluctant (B) imaginary (C) ambitious (D) miserable
@@ -54,17 +116,6 @@ CACAA / CCAAA / ABCAB / CADAA
     (A) oddly (B) randomly (C) doubtfully (D) consequently
 20. In the public hearing, local residents are very worried about the \_\_\_\_\_\_\_\_ of building a new power plant in this town, such as noises, traffic jams, air pollution, and the like.\
     (A) shortcomings (B) masterpieces (C) frameworks (D) commonplaces
-
-## 21. \~ 40.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-DADCD / BBCCC / ABCCD / BACBB
-
-</details>
-
 21. Our English teacher gave us some more example sentences to \_\_\_\_\_\_\_\_ our memory of the usage of this word, which was taught in the previous lesson.\
     (A) motivate (B) dispense (C) contest (D) refresh
 22. The famous soccer player has a(n) \_\_\_\_\_\_\_\_ tattoo of an eagle covering his right shoulder and arm, which looks like a real one.\
@@ -93,7 +144,7 @@ DADCD / BBCCC / ABCCD / BACBB
     (A) demonstration (B) objection (C) association (D) distribution
 34. It's not a formal party, so you come in \_\_\_\_\_\_\_\_ wear, such as T-shirts, shorts, hoodies or jeans.\
     (A) primitive (B) luxurious (C) casual (D) delicate
-35. Longing for more \_\_\_\_\_\_\_\_ to ancient civilization, Joseph decides to make a trip to Egypt.\
+35. Longing for more \_\_\_\_\_\_\_\_ ancient civilization, Joseph decides to make a trip to Egypt.\
     (A) addition (B) obstacle (C) resistance (D) exposure
 36. The difference between the two pictures is too small to be \_\_\_\_\_\_\_\_; they look practically the same.\
     (A) selected (B) detected (C) neglected (D) suspected
@@ -105,17 +156,6 @@ DADCD / BBCCC / ABCCD / BACBB
     (A) carve (B) assess (C) multiply (D) perceive
 40. Louise \_\_\_\_\_\_\_\_ recalled how he used to bully the nerdy kids back in high school. He feels guilty all the time.\
     (A) voluntarily (B) regrettably (C) furiously (D) promptly
-
-## 41. \~ 60.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 41. The president was awarded the Nobel Peace Prize for his outstanding \_\_\_\_\_\_\_\_ of solving the nuclear crisis.\
     (A) contribution (B) distribution (C) depression (D) oppression
 42. After a ten-hour discussion, the board members finally decided to \_\_\_\_\_\_\_\_ my suggestion on the new product.\
@@ -156,17 +196,6 @@ DADCD / BBCCC / ABCCD / BACBB
     (A) merriness (B) drowsiness (C) restlessness (D) consciousness
 60. The hiking trail climbed \_\_\_\_\_\_\_\_ upwards, leaving the hikers breathless and exhausted.\
     (A) bitterly (B) steeply (C) tensely (D) recklessly
-
-## 61. \~ 80.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 61. The dairy company recalled a popular mile product after discovering that it might have been \_\_\_\_\_\_\_\_ by a cleaning solution during production.\
     (A) certified (B) intensified (C) contaminated (D) innovated
 62. Aloe vera has long been used as a skincare remedy. In addition to moisturizing the skin, the plant has a(n) \_\_\_\_\_\_\_\_ effect on burns.\
@@ -207,17 +236,6 @@ DADCD / BBCCC / ABCCD / BACBB
     (A) inflation; prosperity (B) intonation; immunity (C) complication; humidity (D) perfection; dynasty
 80. The \_\_\_\_\_\_\_\_ errors you made in your composition \_\_\_\_\_\_\_\_ if you had been more careful.\
     (A) lousy; would avoid (B) grammatical; could have been avoided (C) shortsighted; should have avoided (D) dreadful; might be avoided
-
-## 81. \~ 100.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 81. You have given us many \_\_\_\_\_\_\_\_ opinions. Thanks for you \_\_\_\_\_\_\_\_.\
     (A) persuasive; blessing (B) insulting; syllable (C) urban; socket (D) constructive; input
 82. Choose the **WRONG** one.\
@@ -261,17 +279,6 @@ DADCD / BBCCC / ABCCD / BACBB
     (A) when is the singer going to release her album (B) where is the singer holding the concert (B) when the singer's album will be released (D) where the singer's concert be held
 100. Patrick Dempsey is \_\_\_\_\_\_\_\_ just an actor; he is a famous race car driver, too.\
      (A) as good as (B) more than (C) just only (D) no more than
-
-## 101. \~ 120.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 101. Over a professional career that spanned 20 years, Bryant \_\_\_\_\_\_\_\_ no hardship at all, and his 5 NBA championships and 18 All-Star selections \_\_\_\_\_\_\_\_ him as one of the best players in NBA history.\
      (A) conceives of; attach (B) submits to; justify (C) removes form; defend (D) restrains from; identify
 102. \_\_\_\_\_\_\_\_, New South Wales was the hardest hit of the Australian States, with more than two thousand homes destroyed or damaged by the \_\_\_\_\_\_\_\_ blaze, which is the largest in state history.\
@@ -310,19 +317,8 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) foul; even though (B) extensive; since (C) potential; with (D) huge; , which
 119. On the stage \_\_\_\_\_\_\_\_ Olivia, \_\_\_\_\_\_\_\_ her fame, \_\_\_\_\_\_\_\_ people to walk out of their comfort zone.\
      (A) standing; thanks to; had inspired (B) stood; accompanied by; to inspire (C) standing; for; inspired (D) stood; with; inspiring
-120. \_\_\_\_\_\_\_\_ what manner did he discover the new planet? He noticed the dimming of brightness from the stars in the telescope \_\_\_\_\_\_\_\_ he took as evidence that something was there.\
+120. \_\_\_\_\_\_\_\_ what manner did Cukier discover the new planet? He noticed the dimming of brightness from the stars in the telescope \_\_\_\_\_\_\_\_ he took as evidence that something was there.\
      (A) In; , which (B) For; , that (C) By; , which (D) With; what
-
-## 121. \~ 140.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 121. The committee \_\_\_\_\_\_\_\_ that mentally ill people in the community are not receiving the care and treatment they need and promises to make amends for that.\
      (A) condemns (B) demands (C) acknowledges (D) preaches
 122. \_\_\_\_\_\_\_\_ part of our writing program, students will exchange \_\_\_\_\_\_\_\_ with their peers in another country.\
@@ -363,17 +359,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) at risk; overlooked (B) in danger; offered (C) at stake; perceived (D) in peril; inherited
 140. Both black and white demonstrators \_\_\_\_\_\_\_\_ protests against police brutality in more than 2,000 US cities, despite the pandemic and social distancing rules. They were supporting the Black Lives Matter movement, which has been fighting racial injustice \_\_\_\_\_\_\_\_ the country for ages.\
      (A) executed; embracing (B) initiated; haunting (C) induced; shattering (D) pleaded; penetrating
-
-## 141. \~ 160.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 141. Making money by creating online videos that receive lots of clicks has become a job many people long to do. To succeed in this line of work, the following qualities are the ones one cannot \_\_\_\_\_\_\_\_: relevant software skills, the ability to work when \_\_\_\_\_\_\_\_ by time, and always being ready to live with stress.\
      (A) dispense with; compelled (B) do without; interfered (C) dispose of; acquired (D) fall short; destroyed
 142. Most people think language exists to help us express our thoughts and opinions. But what if you \_\_\_\_\_\_\_\_ that around? In German, the word "bridge" is grammatically feminine, but in Spanish, it is masculine. Therefore, German speakers will \_\_\_\_\_\_\_\_ from beautiful or elegant bridges for thrills, but Spanish speakers will do so from strong and tough bridges for fun.\
@@ -414,17 +399,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) who (B) , which (C) , who (D) which
 160. Since Amy \_\_\_\_\_\_\_\_ movies with her boyfriend tomorrow afternoon, she can't go shopping with us.\
      (A) will be watching (B) have watched (C) is watching (D) watches
-
-## 161. \~ 180.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 161. \_\_\_\_\_\_\_\_ you are really eager for success \_\_\_\_\_\_\_\_ willing to make sacrifices and do your best.\
      (A) Once; can you be (B) Not until; you are (C) Every time; you are (D) Only when; will you be
 162. \_\_\_\_\_\_\_\_ is more important to Lora when she chooses her future job is not the salary but \_\_\_\_\_\_\_\_.\
@@ -465,17 +439,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) when; solitary (B) which; resented (C) that; whined (D) during which; withered
 180. \_\_\_\_\_\_\_\_ is the appeal of the sweets that they gain wide \_\_\_\_\_\_\_\_ in the markets.\
      (A) So; precaution (B) such; currency (D) That; badge (D) It; argument
-
-## 181. \~ 200.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 181. No sooner \_\_\_\_\_\_\_\_ with in appropriate physical contact than you had to report it to the police. The supervisors cannot \_\_\_\_\_\_\_\_ him like this.\
      (A) he had started harassing you; consent to (B) he started harassing you; abide by (C) did he start harassing you; comply with (D) had he started harassing you; indulge
 182. \_\_\_\_\_\_\_\_, a lot of people still choose to ride a motorcycle due to its convenience. In fact, you can see quite a few riders \_\_\_\_\_\_\_\_ past or even changing lanes at will, putting their lives and others' at risk.\
@@ -519,17 +482,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) abolished; air-tight (B) curbed; abundant (C) banned; transparent (D) alienated; fundamental
 200. Since this is only a(n) \_\_\_\_\_\_\_\_ plan, I'm \_\_\_\_\_\_\_\_ my judgement. I'll give my final say when the conclusion is reached.\
      (A) vague; illustrating (B) tentative; suspending (C) adolescent; discarding (D) trifle; reforming
-
-## 201. \~ 220.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 201. Failing to \_\_\_\_\_\_\_\_ her anger, she had a fierce \_\_\_\_\_\_\_\_ with her mom.\
      (A) suppress; dispute (B) refute; duration (C) devour; tangle (D) revolve; sentiment
 202. Apparently, various businessmen had been \_\_\_\_\_\_\_\_ the officials to \_\_\_\_\_\_\_\_ the costs at the expense of qualities.\
@@ -570,17 +522,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) checked; gleam (B) plunged; visa (C) heightened; flap (D) gasped; dart
 220. Please \_\_\_\_\_\_\_\_ our condolences to the bereft family suffering \_\_\_\_\_\_\_\_ loss.\
      (A) comprehend; notorious (B) convey; substantial (C) evolve; active (D) lift; innumerable
-
-## 221. \~ 240.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 221. Mom \_\_\_\_\_\_\_\_ at Spotty, our dog, for he \_\_\_\_\_\_\_\_ the picnic table, spilling food everywhere.\
      (A) hovered; zipped (B) jeered; consumed (C) nibbled; overflowed (D) glared; upset
 222. It's hard to believe that those workers could \_\_\_\_\_\_\_\_ such unexpected results in so \_\_\_\_\_\_\_\_ living conditions.\
@@ -621,17 +562,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) universal; wrung (B) elaborate; whisked (C) stylish; yarned (D) contemporary; pruned
 240. He has been \_\_\_\_\_\_\_\_ with rage after receiving from his opponent the letter inundated with such \_\_\_\_\_\_\_\_ language.\
      (A) exclaiming; toxic (B) squatting; astonishing (C) vowing; solemn (D) simmering; coarse
-
-## 241. \~ 260.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 241. For many baseball fans, a visit to the Yankee Stadium is a(n) \_\_\_\_\_\_\_\_ he has to \_\_\_\_\_\_\_\_.\
      (A) vacancy; rotate (B) objective; repay (C) pilgrimage; undertake (D) tournament; update
 242. The proposal of lowering interest rate to give a much-needed \_\_\_\_\_\_\_\_ to the economy was \_\_\_\_\_\_\_\_ with thundering applause.\
@@ -672,17 +602,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) publication (B) documentary (C) certificate (D) journal
 260. It seemed that the issue of water pollution did not \_\_\_\_\_\_\_\_ local residents, as few expressed their views or worries in the town meeting.\
      (A) illustrate (B) identify (C) discharge (D) concern
-
-## 261. \~ 280.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 261. Unfortunately, the cancer patient is in \_\_\_\_\_\_\_\_ condition and his family are told to prepare for the worst by the doctor.\
      (A) critical (B) abundant (C) reserved (D) affectionate
 262. Having conducted research on the issue of child psychology for over a decade, he has read \_\_\_\_\_\_\_\_ all the books on the topic.\
@@ -723,17 +642,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) suspect (B) reject (C) doubt (D) assume
 280. To achieve \_\_\_\_\_\_\_\_ and move on with her life, Lydia intends to have a face-to-face conversation with her long-lost boyfriend and officially end their relationship.\
      (A) status (B) outcome (C) qualification (D) closure
-
-## 281. \~ 300.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 281. The young climate activist Greta Thunberg has been launching a(n) \_\_\_\_\_\_\_\_ to raise public awareness of the global warming issue.\
      (A) warning (B) alert (C) career (D) appeal
 282. Something has been bothering the troubled student for a long time and she decides to \_\_\_\_\_\_\_\_ her heart out to the school counselor and seek his advice.\
@@ -774,17 +682,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) steady (B) liberal (C) expressive (D) urgent
 300. Although recording is strictly forbidden in the movie theater, David \_\_\_\_\_\_\_\_ his camera into the cinema and made a bootleg copy of the new film.\
      (A) sneaked (B) balanced (C) tossed (D) imposed
-
-## 301. \~ 320.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 301. As a fitness enthusiast, Eve regularly takes \_\_\_\_\_\_\_\_ exercise such as aerobics, biking uphill, and cross-country skiing.\
      (A) majestic (B) immense (C) vigorous (D) abundant
 302. The police had found new evidence that \_\_\_\_\_\_\_\_ the suspect's involvement in the murder case, and he was soon found guilty.\
@@ -825,17 +722,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) wardrobe; relishes (B) accessories; gropes (C) documentary; yearns (D) auctions; ponders
 320. Some of the officers were more \_\_\_\_\_\_\_\_ than others in \_\_\_\_\_\_\_\_ working class voters.\
      (A) outright; fortifying (B) intimate; propelling (C) zealous; wooing (D) patriotic; nourishing
-
-## 321. \~ 340.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 321. \_\_\_\_\_\_\_\_ to change, he was made \_\_\_\_\_\_\_\_ at work.\
      (A) Immune; vulgar (B) Seduced; thrift (C) Cramped; humiliated (D) Resistant; redundant
 322. I woke up with a \_\_\_\_\_\_\_\_ headache after learning violence had \_\_\_\_\_\_\_\_ up again in the Middle East.\
@@ -876,17 +762,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) Hereafter; obscure (B) Subsequently; transmit (C) initially; hack (D) Literally; stunt
 340. A \_\_\_\_\_\_\_\_ is reached that the delegates will be chosen at random instead of being \_\_\_\_\_\_\_\_.\
      (A) realization; reinforced (B) commitment; disclosed (C) consensus; designated (D) tryout; generated
-
-## 341. \~ 360.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 341. \_\_\_\_\_\_\_\_ numbers of the public are being \_\_\_\_\_\_\_\_ contradictory information about the new tax from all sides.\
      (A) Intimate; provoked into (B) Finite; detached from (C) Decent; bombarded with (D) Addicted; intruded upon
 342. John is a gourmet. He has all the \_\_\_\_\_\_\_\_ Italian restaurants in this districts \_\_\_\_\_\_\_\_.\
@@ -927,17 +802,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) incentive; comprehensive (B) essence; diverse (C) projection; present (D) autonomy; preventive
 360. I will consider your \_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_ experienced staff instead of those who are just fresh from school.\
      (A) verification; safeguard (B) animation; grope (C) refinement; flutter (D) proposition; recruit
-
-## 361. \~ 380.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 361. The \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ serious damage on the economy.\
      (A) famine; implemented (B) boycott; inflicted (C) repression; executed (D) squash; leased
 362. To \_\_\_\_\_\_\_\_ your mind, expose yourself to a broad \_\_\_\_\_\_\_\_ of music and books.\
@@ -978,17 +842,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) conviction; faculty (B) precedent; custody (C) terminal; assertion (D) obligation; token
 380. No more enjoying a(n) \_\_\_\_\_\_\_\_ economy, half these factories now stand \_\_\_\_\_\_\_\_.\
      (A) prestigious; incompetent (B) comparative; blunt (C) robust; idle (C) exclusive; neutral
-
-## 381. \~ 400.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 381. The officer whose \_\_\_\_\_\_\_\_ is short is mainly concerned with keeping \_\_\_\_\_\_\_\_ down.\
      (A) statue; capacity (B) stature; expenditure (C) statute; monopoly (D) status; rental
 382. It's a pity that a person with a(n) \_\_\_\_\_\_\_\_ mind like him should \_\_\_\_\_\_\_\_ in the earthquake.\
@@ -1029,17 +882,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) swarms; suppress (B) preys; abolish (C) assets; discard (D) commodities; curb
 400. Stop running on the \_\_\_\_\_\_\_\_, especially when you are having an umbrella in your hand. You'll \_\_\_\_\_\_\_\_ someone in the eye if you're not careful!\
      (A) banquet; pierce (B) sector; penetrate (C) corridor; poke (D) mirage; pinch
-
-## 401. \~ 420.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 401. I don't think you understand the \_\_\_\_\_\_\_\_ of the situation. You are not allowed to \_\_\_\_\_\_\_\_ a girl like this, let alone for three months.\
      (A) consequence; quench (B) gravity; stalk (C) legislation; inflict (D) oppression; speculate
 402. She felt a wave of admiration \_\_\_\_\_\_\_\_ inside her as she listened to her boyfriend telling her his \_\_\_\_\_\_\_\_ ideals.\
@@ -1080,17 +922,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) spans; generate (B) rites; disclose (C) spectrums; affirm (D) bouts; blur
 420. Her handbag was \_\_\_\_\_\_\_\_ from her in the street, and the sudden push was so hard that she \_\_\_\_\_\_\_\_ backwards.\
      (A) dispensed; whirled (B) snatched; reeled (C) pinched; spurred (D) attained; loomed
-
-## 421. \~ 440.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 421. Such a highly \_\_\_\_\_\_\_\_ speaker John is that he knows how to \_\_\_\_\_\_\_\_ the conversation away from controversial issues.\
      (A) articulate; steer (B) astonishing; alternate (C) inquisitive; negotiate (D) initiative; formulate
 422. I would hold you \_\_\_\_\_\_\_\_ accountable for the pointless act of \_\_\_\_\_\_\_\_ against the government. That's why you are the only one detained.\
@@ -1131,17 +962,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) scarcely; sensation (B) undoubtedly; devotion (C) virtually; spectacle (D) authentically; modification
 440. While twins, being of \_\_\_\_\_\_\_\_ ages, are usually even better matched on environmental variables during upbringing than are siblings, there're still some points \_\_\_\_\_\_\_\_ to be settled.\
      (A) considerable; containing (B) confidential; maintaining (C) imperative; persisting (D) identical; remaining
-
-## 441. \~ 460.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 441. Firefighting is a(n) \_\_\_\_\_\_\_\_ dangerous occupation; firefighters are likely to \_\_\_\_\_\_\_\_ serious injuries while doing their jobs.\
      (A) utterly; overtake (B) faithfully; induce (C) massively; resume (D) inherently; sustain
 442. How much food should be \_\_\_\_\_\_\_\_ to people involved in the accident has \_\_\_\_\_\_\_\_ widespread discussions in the meeting.\
@@ -1182,17 +1002,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) skipped (B) repaired (C) scraped (D) relieved
 460. Many backpackers travel on a tight \_\_\_\_\_\_\_\_, so they can't afford to stay in luxury hotels.\
      (A) deadline (B) budget (C) schedule (D) relationship
-
-## 461. \~ 480.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 461. Some simple \_\_\_\_\_\_\_\_, like wearing a mask, washing hands frequently and avoiding crowds, can help you protect yourself and others from COVID-19.\
      (A) symptoms (B) precautions (C) bargains (D) gestures
 462. Ang Lee's _Sense & Sensibility_, \_\_\_\_\_\_\_\_ from the Jane Austen's novel of the same name, is widely accepted as one of the best movies.\
@@ -1232,17 +1041,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) preserves (B) deserves (C) remains (D) maintains
 480. Public bike rental systems like U-Bike have made cycling an increasingly popular \_\_\_\_\_\_\_\_ of transportation for tourists and commuters.\
      (A) content (B) frame (C) means (D) status
-
-## 481. \~ 500.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 481. Max never keeps money in the banks but prefers making risky \_\_\_\_\_\_\_\_ because he believes it is the only way to guarantee handsome rewards.\
      (A) approaches (B) insurances (C) investments (D) reservations
 482. Unlike her \_\_\_\_\_\_\_\_ husband, Connie is fairly liberal and gives her children plenty of freedom to decide what they want with their life.\
@@ -1288,17 +1086,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) delighted (B) selfish (C) informal (D) realistic
 500. Starting a family is no longer Jim’s \_\_\_\_\_\_\_\_ at the moment. In fact, it is now secondary to landing a job with a stable income.\
      (A) approach (B) continent (C) essence (D) priority
-
-## 501. \~ 520.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 501. You shouldn’t be so \_\_\_\_\_\_\_\_ about others’ business. I believe you already have enough problems of your own to deal with.\
      (A) concerned (B) identified (C) preserved (D) reflected
 502. The \_\_\_\_\_\_\_\_ of police officers in the room made everyone feel uneasy and anxious. No one had expected them to appear for the occasion.\
@@ -1343,19 +1130,9 @@ DADCD / BBCCC / ABCCD / BACBB
 520.    His fear \_\_\_\_\_\_\_\_ as he fell heavily on to the road, with his eyes \_\_\_\_\_\_\_\_ wide open.
 
         (A) confessed; gulping (B) manifested; bulging (C) magnified; draping (D) notified; streaking
+521.    Every week the magazine presents the \_\_\_\_\_\_\_\_ of the most well-known sports personality, who \_\_\_\_\_\_\_\_ all the others.
 
-## 521. \~ 540.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-521. Every week the magazine presents the \_\_\_\_\_\_\_\_ of the most well-known sports personality, who \_\_\_\_\_\_\_\_ all the others.\
-     (A) ego; zooms (B) patron; staggers (C) profile; eclipses (D) delegation; influences
+        (A) ego; zooms (B) patron; staggers (C) profile; eclipses (D) delegation; influences
 522.    Judging from the number of \_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_, it will take forever to comb all of them out of my hair.
 
         (A) tangles; apparently (B) particles; obviously (C) stacks; evidently (D) craters; remarkably
@@ -1415,19 +1192,9 @@ DADCD / BBCCC / ABCCD / BACBB
 540.    The government doesn't like to be \_\_\_\_\_\_\_\_ as the mere \_\_\_\_\_\_\_\_ of the military.
 
         (A) mourned; reef (B) tagged; puppet (C) heeded; armor (D) meditated; barbarian
+541.    As soon as he heard the story, he inclined his head in \_\_\_\_\_\_\_\_. Like most Catholic children, he has heard many stories of Ireland from the \_\_\_\_\_\_\_\_.
 
-## 541. \~ 560.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-541. As soon as he heard the story, he inclined his head in \_\_\_\_\_\_\_\_. Like most Catholic children, he has heard many stories of Ireland from the \_\_\_\_\_\_\_\_.\
-     (A) duration; stereotype (B) compassion; crib (C) acknowledgement; cradle (D) precaution; comrade
+        (A) duration; stereotype (B) compassion; crib (C) acknowledgement; cradle (D) precaution; comrade
 542.    The break-up leaves her \_\_\_\_\_\_\_\_ and lowers her self-\_\_\_\_\_\_\_\_.
 
         (A) vulnerable; esteem (B) hissed; bonus (C) despised; scent (D) decayed; agenda
@@ -1473,19 +1240,9 @@ DADCD / BBCCC / ABCCD / BACBB
 560.    At least three of the dead woman's relatives have a(n) \_\_\_\_\_\_\_\_ claim to her house whose worth is \_\_\_\_\_\_\_\_ to about 2 billion dollars.
 
         (A) ethical; comparative (B) Incredible; successive (C) legitimate; equivalent (D) valid; excessive
+561.    Students \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ half of our customers.
 
-## 561. \~ 580.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-561. Students \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ half of our customers.\
-     (A) make up; hardly (B) bring in; mostly (C) account for; virtually (D) lead to; practically
+        (A) make up; hardly (B) bring in; mostly (C) account for; virtually (D) lead to; practically
 562.    Our manager was so \_\_\_\_\_\_\_\_ that he seldom listened to our ideas. That was why if necessity arouse, we had to be quite \_\_\_\_\_\_\_\_ in the workplace.
 
         (A) rigid; assertive (B) bizarre; identical (C) precise; alternative (D) exclusive; simultaneous
@@ -1543,19 +1300,9 @@ DADCD / BBCCC / ABCCD / BACBB
 580.    What a(n) \_\_\_\_\_\_\_\_ change in weather! It was scorching hot ten minutes ago, but now the rain is \_\_\_\_\_\_\_\_ across the window pane.
 
         (A) specific; glaring (B) intense; piercing (C) radical; whipping (D) dire; rumbling
+581.    &#x20;\_\_\_\_\_\_\_\_ the power of color. Believe me, nothing beats black for the classic \_\_\_\_\_\_\_\_ look.
 
-## 581. \~ 600.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-581. \_\_\_\_\_\_\_\_ the power of color. Believe me, nothing beats black for the classic \_\_\_\_\_\_\_\_ look.\
-     (A) Abide by; reluctant (B) Keep an eye on; wholesome (C) Avail yourself of; sophisticated (D) Aim at; alternative
+        (A) Abide by; reluctant (B) Keep an eye on; wholesome (C) Avail yourself of; sophisticated (D) Aim at; alternative
 582.    The measure taken so far has been a(n) \_\_\_\_\_\_\_\_ one, for the alcohol is able to \_\_\_\_\_\_\_\_ the need for violence, but cannot remove it.
 
         (A) tentative; blunt (B) infinite; shatter (C) alarming; discourage (D) spiritual; flip
@@ -1613,19 +1360,9 @@ DADCD / BBCCC / ABCCD / BACBB
 600.    With recession \_\_\_\_\_\_\_\_ the employers, part-time workers are considered \_\_\_\_\_\_\_\_.
 
         (A) suppressing; artificial (B) compressing; condensed (C) oppressing; dispensable (D) impressing; barren
+601.    They tried to \_\_\_\_\_\_\_\_ the young boy into \_\_\_\_\_\_\_\_ the bag left at the railroad station.
 
-## 601. \~ 620.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-601. They tried to \_\_\_\_\_\_\_\_ the young boy into \_\_\_\_\_\_\_\_ the bag left at the railroad station.\
-     (A) manipulate; declining (B) intimidate; retrieving (C) deter; inferring (D) seduce; overturning
+        (A) manipulate; declining (B) intimidate; retrieving (C) deter; inferring (D) seduce; overturning
 602.    The group has taken a(n) \_\_\_\_\_\_\_\_ position on the issue of \_\_\_\_\_\_\_\_ promotion, refusing to compromise and believing few would become learned because of it.
 
         (A) militant; literacy (B) thorough; measurement (C) notorious; hormone (D) liable; longevity
@@ -1677,17 +1414,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) depicts; deficient (B) envisions; decent (C) upholds; obedient (D) evolves; sheer
 620. Is it financially \_\_\_\_\_\_\_\_ to support a family by \_\_\_\_\_\_\_\_ the cows?\
      (A) disgraceful; soothing (B) familiar; unfolding (C) feasible; herding (D) frail; accessing
-
-## 621. \~ 640.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 621. Is football a good \_\_\_\_\_\_\_\_ for men's \_\_\_\_\_\_\_\_?\
      (A) strategy; alliance (B) outlet; aggression (C) posture; vitality (D) toll; consumption
 622. In a worse-case \_\_\_\_\_\_\_\_, women on the planet would be given a \_\_\_\_\_\_\_\_ status, having no say in any matter.\
@@ -1728,17 +1454,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) contributed; intensively (B) complemented; incidentally (C) complimented; accordingly (D) distributed; extensively
 640. Early rising \_\_\_\_\_\_\_\_ good health. However, the early birds only \_\_\_\_\_\_\_\_ a relatively small proportion of the population.\
      (A) accounts for; relate to (B) makes up; account for (C) contributes to; take up (D) makes for; make up
-
-## 641. \~ 660.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 641. When the pandemic struck, only 40% of the workforce was \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ available.\
      (A) registered; readily (B) exceeded; relatively (C) inflicted; shortly (D) constituted; preferably
 642. A group of seven people was \_\_\_\_\_\_\_\_, responsible for the \_\_\_\_\_\_\_\_ of bridges and roads.\
@@ -1779,17 +1494,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) penetrated (B) altered (C) provoked (D) intended
 660. Some wise people have said that only when we let go of \_\_\_\_\_\_\_\_ can we live a carefree life. If we don't forgive our enemies, it is we ourselves who suffer.\
      (A) pity (B) virtue (C) honesty (D) hatred
-
-## 661. \~ 680.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 661. The main \_\_\_\_\_\_\_\_ of a test is to see whether a student has acquired certain knowledge in class.\
      (A) journalist (B) objective (C) illustration (D) politician
 662. The flood has greatly affected the country's economy, for agriculture is one of its \_\_\_\_\_\_\_\_ industries.\
@@ -1830,17 +1534,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) milestone; ranch (B) coverage; commentary (C) enterprise; trademark (D) rally; ethic
 680. His speech failed to \_\_\_\_\_\_\_\_ his colleagues into abandoning the plan. They still insisted on having the writer's work \_\_\_\_\_\_\_\_ on magazines.\
      (A) grip; accustomed (B) conceal; modified (C) sway; reproduced (D) summon; enrolled
-
-## 681. \~ 700.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 681. Women walking past into or past the \_\_\_\_\_\_\_\_ was being \_\_\_\_\_\_\_\_ in the male-dominated society in the past.\
      (A) stall; rustled (B) corridor; stalked (C) shrine; banned (D) blizzard; revolved
 682. After \_\_\_\_\_\_\_\_ happily about nothing in particular for hours, he heard his stomach \_\_\_\_\_\_\_\_ - he hadn't eaten all day.\
@@ -1884,19 +1577,9 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) infinitely (B)scarcely (C) respectively (D) restlessly&#x20;
 700. James needs to be wary around his boss whose mood is unpredictable and can \_\_\_\_\_\_\_\_ from joy to rage in an instant.\
      (A) seize (B) swing (C) fetch (D) abort&#x20;
+701.    Health authorities in Belgium and the Netherlands ordered an immediate \_\_\_\_\_\_\_\_ of the drinks from sale after at least 100 people fell ill after drinking the products.&#x20;
 
-## 701. \~ 720.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
-701. Health authorities in Belgium and the Netherlands ordered an immediate \_\_\_\_\_\_\_\_ of the drinks from sale after at least 100 people fell ill after drinking the products. \
-     (A) recall (B) submission (C) feat (D) fidelity&#x20;
+        (A) recall (B) submission (C) feat (D) fidelity&#x20;
 702.    Contrary to what the majority of people think, the \_\_\_\_\_\_\_\_ of osteoporosis is very high in places where the consumption of milk is great.&#x20;
 
         (A) reflection (B) regime (C) diplomacy (D) incidence&#x20;
@@ -1940,17 +1623,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) grilled (B) generalized (C) fragmented (D) freaked
 720. The proposal made by Christine was rejected because it was not \_\_\_\_\_\_\_\_ to the company.\
      (A) analytic (B) adaptable (C) applicable (D) abstract
-
-## 721. \~ 740.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 721. The rocket \_\_\_\_\_\_\_\_ aircraft into space.\
      (A) prescribed (B) propelled (C) prohibited (D) purified
 722. The patient was nervous and anxious; maybe he needed some \_\_\_\_\_\_\_\_ to make himself calm down.\
@@ -1991,17 +1663,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) controversial (B) cosmopolitan (C) credible (D) cumulative
 740. Due to lack of \_\_\_\_\_\_\_\_, the company has become less and less competitive in the fashion-oriented clothing market.\
      (A) intersection (B) interval (C) innovation (D) implement
-
-## 741. \~ 760.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 741. The cost of living is \_\_\_\_\_\_\_\_ by the soaring oil prices.\
      (A) auctioned (B) boosted (C) bombarded (D) authorized
 742. This is only a \_\_\_\_\_\_\_\_ draft of my final report. I will revise it several times before I hand it in.\
@@ -2042,17 +1703,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) cater (B) civilize (C) brew (D) buckle
 760. The \_\_\_\_\_\_\_\_ of a magazine cover should be appealing enough to attract the potential buyers.\
      (A) manuscript (B) lyric (C) kernel (D) layout
-
-## 761. \~ 780.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 761. The birth of a baby is a \_\_\_\_\_\_\_\_ moment to the parents.\
      (A) lengthy (B) joyous (C) liable (D) mellow
 762. Confucius is the eastern \_\_\_\_\_\_\_\_ of the greatest western philosopher, Socrates.\
@@ -2093,17 +1743,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) temperamental (B) tactful (C) theoretical (D) tedious
 780. The forest fire led to serious damage because the residents did not \_\_\_\_\_\_\_\_ this disaster.\
      (A) abuse (B) advocate (C) anticipate (D) accommodate
-
-## 781. \~ 800.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 781. The chairman attempted to avoid a head-on \_\_\_\_\_\_\_\_ between legislators of the two rival parties, but in vain.\
      (A) clarity (B) competence (C) collision (D) consensus
 782. My secretary is so \_\_\_\_\_\_\_\_ that she will not tell anyone our company's secrets.\
@@ -2144,17 +1783,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) abstraction (B) accordance (C) advocacy (D) aggression
 800. Indeed, my friend's insincere flattery made me feel \_\_\_\_\_\_\_\_ and annoyed.\
      (A) irritated (B) intruded (C) unjust (D) immune
-
-## 801. \~ 820.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 801. Our Christmas dinner party was \_\_\_\_\_\_\_\_ by a burned plum pudding.\
      (A) lamented (B) lured (C) marred (D) mellowed
 802. Her latest novel \_\_\_\_\_\_\_\_ the lonely life of an unmarried woman.\
@@ -2195,17 +1823,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) transmission (B) tremor (C) trait (D) transcript
 820. Touched by the love story, the sentimental girl \_\_\_\_\_\_\_\_ into tears.\
      (A) dissolved (B) dispatched (C) dispersed (D) diverted
-
-## 821. \~ 840.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 821. The small rubber \_\_\_\_\_\_\_\_ went down the stream, drifting with the current.\
      (A) ramp (B) raft (C) raid (D) posture
 822. Unable to survive its financial crisis, the small company had no choice but to merge with the big \_\_\_\_\_\_\_\_.\
@@ -2246,17 +1863,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) extracted (B) facilitated (C) expelled (D) flared
 840. The conference will provide \_\_\_\_\_\_\_\_ interpretation of English and French.\
      (A) sanitary (B) simultaneous (C) serene (D) seductive
-
-## 841. \~ 860.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 841. I admired the great statesman who was always able to deal with problems of great \_\_\_\_\_\_\_\_.\
      (A) dimension (B) diagram (C) diplomacy (D) diplomat
 842. LOHAS is the \_\_\_\_\_\_\_\_ for Lifestyles of Health and Sustainability.\
@@ -2297,17 +1903,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) pathetic (B) outright (C) pious (D) picturesque
 860. In the retirement home, the nurses' job is to take care of \_\_\_\_\_\_\_\_ elderly people.\
      (A) frail (B) formidable (C) fortified (D) fragile
-
-## 861. \~ 880.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 861. To find their way back home, Hans left a trail of \_\_\_\_\_\_\_\_ in the forest. Unfortunately, they were all eaten by the birds.\
      (A) corps (B) crooks (C) crumbs (D) daybreaks
 862. \_\_\_\_\_\_\_\_ samples from 100 athletes were tested for drugs.\
@@ -2348,17 +1943,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) differentiated (B) disapproved (C) dictated (D) disclosed
 880. The sentence "I love Karen more than you" is \_\_\_\_\_\_\_\_. It has two different meanings.\
      (A) aboriginal (B) ambiguous (C) anonymous (D) applicable
-
-## 881. \~ 900.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 881. The meanings of century-old festivals and \_\_\_\_\_\_\_\_ are different.\
      (A) sanitation (B) rotation (C) scripts (D) rituals
 882. The \_\_\_\_\_\_\_\_ oil prices may swing times of shortage or oversupply.\
@@ -2400,17 +1984,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) ingredients (B) combinations (C) objectives (D) inspirations
 900. Although Stephen Hawking contracted a disease in his early twenties that gradually \_\_\_\_\_\_\_\_ him of his mobility, he continued to work despite the disease's progressively disabling effects.\
      (A) robbed (B) threatened (C) informed (D) accused
-
-## 901. \~ 920.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 901. While English and German are commonly used in the Netherlands, the \_\_\_\_\_\_\_\_ language of the country is Dutch, which is spoken by more than 97% of the population.\
      (A) universal (B) identical (C) legal (D) dominant
 902. During the pandemic, most people have been restricted to their dwelling places, thus allowing online shopping to be \_\_\_\_\_\_\_\_ at an unprecedented rate.\
@@ -2451,17 +2024,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) scoop (B) saddle (C) sandal (D) ridge
 920. The man is \_\_\_\_\_\_\_\_; he always looks at the dark side of life.\
      (A) pessimistic (B) perilous (C) perishing (D) parallel
-
-## 921. \~ 940.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 921. The \_\_\_\_\_\_\_\_ keeps the room warm in winter.\
      (A) framework (B) folklore (C) furnace (D) glacier
 922. I keep socks and underwear in my \_\_\_\_\_\_\_\_.\
@@ -2502,17 +2064,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) temptation (B) terrace (C) threshold (D) throng
 940. The ship was \_\_\_\_\_\_\_\_ on the rocks by the high tides.\
      (A) strapped (B) straightened (C) stranded (D) stooped
-
-## 941. \~ 960.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 941. When I was little, what I hated most was that most adults enjoyed pinching my cute \_\_\_\_\_\_\_\_ cheeks.\
      (A) chubby (B) carefree (C) cautious (D) civic
 942. The family has engaged in deep-sea \_\_\_\_\_\_\_\_ for several generations.\
@@ -2553,17 +2104,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) reproduce (B) refute (C) reckon (D) publicize
 960. \_\_\_\_\_\_\_\_ by her classmates, the overweight girl was upset.\
      (A) Taunted (B) Tackled (C) Tangled (D) Tinned
-
-## 961. \~ 980.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 961. Let's \_\_\_\_\_\_\_\_ to catch the bus, otherwise we have to wait for half an hour.\
      (A) sprint (B) squash (C) sprinkle (D) solo
 962. The cold wind \_\_\_\_\_\_\_\_ her shirt and made her shiver.\
@@ -2604,17 +2144,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) patent (B) pacific (C) paradoxical (D) parallel
 980. The tiny dust \_\_\_\_\_\_\_\_ in the air always make me sneeze.\
      (A) perils (B) pimples (C) particles (D) patents
-
-## 981. \~ 1000.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 981. Depression has \_\_\_\_\_\_\_\_ her for years; she always feels unhappy and hopeless.\
      (A) propped (B) ploughed (C) pleaded (D) plagued
 982. Protesters fought against the police at an election \_\_\_\_\_\_\_\_ near the capital city.\
@@ -2655,17 +2184,6 @@ DADCD / BBCCC / ABCCD / BACBB
      (A) startle (B) stagger (C) soften (D) sow
 1000. Some people think Robin Hood was just a \_\_\_\_\_\_\_\_ in the Sherwood Forest.\
       (A) bandit (B) beverage (C) bandage (D) batman
-
-## 1001. \~ 1020.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1001. Then newlywed couple has quarreled over \_\_\_\_\_\_\_\_ since they got married.\
       (A) tortures (B) trademarks (C) trifles (D) trout
 1002. It is impossible for you to drive the \_\_\_\_\_\_\_\_ old car across America.\
@@ -2706,17 +2224,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) compounds (B) clans (C) commodities (D) conceptions
 1020. In Maokong, there are several tea houses where you can sit or gaze out as the gondola \_\_\_\_\_\_\_\_ to the top.\
       (A) assaults (B) ascends (C) bans (D) batters
-
-## 1021. \~ 1040.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1021. Isn't it strange that 80 percent of the townspeople \_\_\_\_\_\_\_\_ in one single building?\
       (A) publicize (B) reap (C) reside (D) rattle
 1022. I could see the \_\_\_\_\_\_\_\_ of a woman through the frosted glass.\
@@ -2757,17 +2264,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) Substantial (B) Stylish (C) Straightforward (D) Superstitious
 1040. Several fishermen are working together to \_\_\_\_\_\_\_\_ a giant fish onto the ship.\
       (A) haul (B) hedge (C) heed (D) hijack
-
-## 1041. \~ 1060.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1041. The mathematician is particularly expert in \_\_\_\_\_\_\_\_.\
       (A) furry (B) geometry (C) gasp (D) glacier
 1042. I hope these withering flowers can \_\_\_\_\_\_\_\_ in water.\
@@ -2808,17 +2304,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) suppress (B) tick (C) thrust (D) sustain
 1060. We were deeply \_\_\_\_\_\_\_\_ at the news that the company wouldn't sponsor the project any more.\
       (A) distressed (B) delegated (C) despised (D) decayed
-
-## 1061. \~ 1080.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1061. You have to blow up the tree \_\_\_\_\_\_\_\_ before you plant the field.\
       (A) streak (B) stutter (C) stroll (D) stump
 1062. The yearly \_\_\_\_\_\_\_\_ of this factory is worth two billion dollars.\
@@ -2859,17 +2344,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) caretaker (B) chairperson (C) chatter (D) civilian
 1080. The young man was \_\_\_\_\_\_\_\_ as the most potential singer due to his voice quality and charming personality.\
       (A) gripped (B) hailed (C) gulped (D) hissed
-
-## 1081. \~ 1100.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1081. Thousands of passengers were stranded in the airport because of the \_\_\_\_\_\_\_\_.\
       (A) bruise (B) blizzard (C) blur (D) bronze
 1082. The poor suffered \_\_\_\_\_\_\_\_ of having her baby girl kidnapped.\
@@ -2910,17 +2384,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) creek (B) corridor (C) curb (D) courtyard
 1100. The Ministry of Justice is planning to \_\_\_\_\_\_\_\_ the death sentence.\
       (A) adore (B) agonize (C) abolish (D) alienate
-
-## 1101. \~ 1120.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1101. The \_\_\_\_\_\_\_\_ of the traffic made it extremely difficult to drive around in the big city.\
       (A) democrat (B) density (C) decay (D) disbelief
 1102. If the music is played in public without authorization, it infringes the \_\_\_\_\_\_\_\_ law.\
@@ -2960,18 +2423,7 @@ DADCD / BBCCC / ABCCD / BACBB
 1119. The museum is too \_\_\_\_\_\_\_\_ for us to visit in five hours.\
       (A) indifferent (B) impulsive (C) imperial (D) immense
 1120. Millions of \_\_\_\_\_\_\_\_ watched the game live on TV.\
-      (A) videotapes (B) viewers (C) viewpoints (D) veins
-
-## 1121. \~ 1140.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
+      (A) videotapes (B) viewers (C) viewpoints (D)&#x20;
 1121. Parents often question if their teenage children have \_\_\_\_\_\_\_\_ problems.\
       (A) abrupt (B) adorable (C) alternate (D) adolescent
 1122. "What an arrogant hypocrite you are!" Janet \_\_\_\_\_\_\_\_.\
@@ -3012,17 +2464,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) puffed (B) reeled (C) ragged (D) repaid
 1140. To ensure fairness, we have invited \_\_\_\_\_\_\_\_ to be the judges in the contest.\
       (A) orchards (B) outsiders (C) novices (D) ostriches
-
-## 1141. \~ 1160.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1141. An \_\_\_\_\_\_\_\_ of the Navy is a military naval officer of the highest rank.\
       (A) Admiral (B) Anchor (C) Aircraft (D) Ace
 1142. Seeing its owner home, my dog \_\_\_\_\_\_\_\_ its tail in delight.\
@@ -3063,17 +2504,6 @@ DADCD / BBCCC / ABCCD / BACBB
       (A) reptiles (B) realms (C) reminders (D) republicans
 1160. The explosion \_\_\_\_\_\_\_\_ the windows and injured many people.\
       (A) shattered (B) scrolled (C) shielded (D) shrieked
-
-## 1161. \~ 1180.
-
-<details>
-
-<summary>點一下顯示答案</summary>
-
-
-
-</details>
-
 1161. The brave \_\_\_\_\_\_\_\_ rushed into the house engulfed in flames to save a baby's life.\
       (A) foe (B) folklore (C) fireman (D) fishery
 1162. To take exclusive photos, paparazzi often violate the privacy of \_\_\_\_\_\_\_\_.\

@@ -31,6 +31,7 @@
 ## Question Pool
 
 * [Vocabulary](question-pool/vocabulary.md)
+* [Copy of Vocabulary](question-pool/copy-of-vocabulary.md)
 * [Cloze](question-pool/cloze.md)
 * [Fill in the Blanks](question-pool/fill-in-the-blanks.md)
 * [Discourse Structure](question-pool/discourse-structure.md)
