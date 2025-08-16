@@ -5,10 +5,13 @@
 
 ## Vocabulary
 
-* [Verbs](vocabulary/verb.md)
-* [Nouns](vocabulary/noun.md)
-* [Adjectives](vocabulary/adjective.md)
-* [Adverbs](vocabulary/adverb.md)
+* [Vocabulary](vocabulary/vocabulary.md)
+* [Vocab for Composition](vocabulary/vocab-for-composition/README.md)
+  * [Verbs](vocabulary/vocab-for-composition/verb.md)
+  * [Nouns](vocabulary/vocab-for-composition/noun.md)
+  * [Adjectives](vocabulary/vocab-for-composition/adjective.md)
+  * [Adverbs](vocabulary/vocab-for-composition/adverb.md)
+  * [Prep. & Conj. & Aux.](vocabulary/vocab-for-composition/miscellaneous.md)
 * [Miscellaneous](vocabulary/miscellaneous.md)
 
 ## GRAMMAR
@@ -22,11 +25,12 @@
 
 ## composition
 
-* [作文百句 1\~50](composition/zuo-wen-bai-ju-150.md)
-* [作文百句 51\~100](composition/zuo-wen-bai-ju-51100.md)
-* [作文百句 101\~148](composition/zuo-wen-bai-ju-101148.md)
-* [作文佳句、句型](composition/zuo-wen-jia-ju-ju-xing.md)
+* [作文百句](composition/zuo-wen-bai-ju/README.md)
+  * [作文百句 1\~50](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md)
+  * [作文百句 51\~100](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-51100.md)
+  * [作文百句 101\~148](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-101148.md)
 * [文章欣賞](composition/wen-zhang-xin-shang.md)
+* [作文佳句、句型](composition/zuo-wen-jia-ju-ju-xing.md)
 
 ## Question Pool
 
