@@ -5,7 +5,7 @@
 
 ## Vocabulary
 
-* [Vocabulary](vocabulary/vocabulary.md)
+* [Vocabulary (尚在編輯中)](vocabulary/vocabulary-shang-zai-bian-ji-zhong.md)
 * [Vocab for Composition](vocabulary/vocab-for-composition/README.md)
   * [Verbs](vocabulary/vocab-for-composition/verb.md)
   * [Nouns](vocabulary/vocab-for-composition/noun.md)
