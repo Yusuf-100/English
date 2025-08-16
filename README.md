@@ -60,7 +60,7 @@ Author: Yusuf 100
 
 ## 翻譯
 
-除了單字、文法外，翻譯也是學測手寫的一大重點。我參考了老師的講義和晟景出版社<mark style="color:yellow;">英文句型與翻譯</mark>一書，整理了相關內容，並將它們匯集起來。
+除了單字、文法外，翻譯也是學測手寫的一大重點。我參考了老師的講義和「<mark style="color:yellow;">翰林 贏家21世紀英文主題式翻譯</mark>」一書，整理了相關內容，並將它們匯集起來。
 
 * [Vocab & Examples](translation/vocab-and-examples.md)
 
