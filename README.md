@@ -33,7 +33,7 @@ Author: Yusuf 100
 
 單字是一篇文章最基本的組成元素，沒有足夠的單字量，就無法精準傳達感情。高中時期，我使用的單字書是「<mark style="color:yellow;">晟景 英文字彙 中級 2201\~4500</mark>」及「<mark style="color:yellow;">晟景 英文字彙 高級 4501\~7000</mark>」，所以底下的單字整理，內容多來自於這兩本書。
 
-* 重要或易忘記的單字與用法：[Vocabulary](vocabulary/vocabulary-shang-zai-bian-ji-zhong.md) (範圍：2201\~7000) (尚在編輯中)
+* 重要或易忘記的單字與用法：Vocabulary (範圍：2201\~7000) (尚在編輯中)
 * 作文用單字：[Vocab for Composition](vocabulary/vocab-for-composition/) (範圍：2201\~4500)
 * 我隨機記錄的單字或片語：[Miscellaneous](vocabulary/miscellaneous.md)
 
