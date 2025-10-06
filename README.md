@@ -15,7 +15,7 @@ Author: Yusuf 100
 {% hint style="info" %}
 歡迎追蹤我～喜歡這個網站的話歡迎跟大家分享～也邀請大家到我的選修化學教學網站看看～
 
-* [Discord Server](https://discord.gg/nDbebSB7s9) (300+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應
+* [Discord Server](https://discord.gg/gkVjnqzeFr) (450+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應
 * 高中選修化學：[選修化學一](https://hackmd.io/@Yusuf100/chemistry-1)、[選修化學二](https://hackmd.io/@Yusuf100/chemistry-2)
 * [YouTube](https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp) (主要是遊戲的影片)
 * [IG](https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D\&utm_source=qr)
