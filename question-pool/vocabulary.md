@@ -23,7 +23,7 @@ CACAA / CCAAA / ABCAB / CADAA
 4. The word "nomophobia" was first \_\_\_\_\_\_\_\_ in 2005 to refer to the fear of being without a mobile phone.\
    (A) coined (B) combed (C) acquired (D) amounted
 5. The archer has always had his heart set on the \_\_\_\_\_\_\_\_ dream to gain an Olympic medal even after years of training and hard work.\
-   (A) vivid (B) ultimate (C) spacious (D) brutal
+   (A) vivid (B) robust (C) spacious (D) brutal
 6. Critics argue that the rule is outdated, designed to control and \_\_\_\_\_\_\_\_ women and girls to stereotypical gender roles. It is against gender equality.\
    (A) shrink (B) transport (C) confine (D) strip
 7. Even if you disapprove of other people's points of view, do try to remain \_\_\_\_\_\_\_\_.\
@@ -124,7 +124,7 @@ ABAAD / BCBCC / ACAAD / DAADB
     (A) due (B) durable (C) vacant (D) visual
 44. Thanks to the latest 5G network, international \_\_\_\_\_\_\_\_ via the Internet will no longer be disturbed by external factors, such as slow connect speed.\
     (A) communication (B) concentration (C) transformation (D) transportation
-45. The country has been divided for a long time. The candidate has stated once he wins the election, he is going to \_\_\_\_\_\_\_\_ the state and long-lasting division.\
+45. The country has been divided for a long time. The candidate has stated once he wins the election, he is going to \_\_\_\_\_\_\_\_ the state and end the long-lasting division.\
     (A) access (B) expand (C) refer (D) unite
 46. After several months of investigation, the team concluded that the disaster could have been easily avoided if everyone had been on the same page to \_\_\_\_\_\_\_\_ the accident.\
     (A) persuade (B) prevent (C) produce (D) promote
@@ -132,9 +132,9 @@ ABAAD / BCBCC / ACAAD / DAADB
     (A) considerable (B) considerate (C) reckless (D) tactful
 48. The infection rate and death toll of the virus have dropped down significantly. However, the government is still not \_\_\_\_\_\_\_\_ with the current result and keeps promoting social distancing.\
     (A) affordable (B) content (C) confident (D) confidential
-49. Traditional sports start to notice the rise of E=sports and view it as a \_\_\_\_\_\_\_\_, for E-sports generate millions of dollars of revenue each year and are gradually taking over the market of traditional sports.\
+49. Traditional sports start to notice the rise of E-sports and view it as a \_\_\_\_\_\_\_\_, for E-sports generate millions of dollars of revenue each year and are gradually taking over the market of traditional sports.\
     (A) condition (B) demand (C) threat (D) trend
-50. Nowadays, We Media, also known as self-media, has gradually become a(n) \_\_\_\_\_\_\_\_ element of the media world. As more and more mainstream media show their political preferences, the general public is looking for more neutral third-party news.\
+50. Nowadays, we media, also known as self-media, has gradually become a(n) \_\_\_\_\_\_\_\_ element of the media world. As more and more mainstream media show their political preferences, the general public is looking for more neutral third-party news.\
     (A) commercial (B) distinct (C) essential (D) extreme
 51. Many trees have been felled for \_\_\_\_\_\_\_\_ developments; as cities grow larger, the woodlands shrink.\
     (A) urban (B) solar (C) civil (D) tribal
@@ -245,7 +245,7 @@ DCCCB / CBABC / BCAAD / BADCB
     (A) even; to buy (B) ever; buying (C) once; bought (D) yet; buy
 92. Many students love the movie The Avengers \_\_\_\_\_\_\_\_ is also one of my favorites.\
     (A) that (B) which (C) , which (D) what
-93. 90% of the people in the world are right-handed. They use their right hands to do almost everything,\_\_\_\_\_\_\_\_ writing, using tools, and playing sports.\
+93. 90% of the people in the world are right-handed. They use their right hands to do almost everything, \_\_\_\_\_\_\_\_ writing, using tools, and playing sports.\
     (A) such as (B) for example (C) included (D) such like
 94. The scientist will \_\_\_\_\_\_\_\_ some experiments on rats and later present the results in a journal.\
     (A) perform (B) predict (C) expose (D) control
@@ -254,7 +254,7 @@ DCCCB / CBABC / BCAAD / BADCB
 96. Those who \_\_\_\_\_\_\_\_ great things have clear goals, dare to take risks, and never give up.\
     (A) recite (B) accomplish (C) manifest (D) reform
 97. Can you recall \_\_\_\_\_\_\_\_?\
-    (A) what happened to your little sister (B) how did the even happen (C) when did your mother cook the dinner (D) where you go this morning
+    (A) what happened to your little sister (B) how did the event happen (C) when did your mother cook the dinner (D) where you go yesterday
 98. Here in Taiwan, people can enjoy iced tea \_\_\_\_\_\_\_\_ comes in many flavors.\
     (A) , which (B) in which (C) all that (D) that
 99. Do you know \_\_\_\_\_\_\_\_?\
