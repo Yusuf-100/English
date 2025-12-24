@@ -2791,14 +2791,6 @@ description: 重要或易忘記的單字與用法(範圍：2201~7000)。
     (n.) 酵母菌
 
     Yeast is used in making beer and bread.
-*   zip (zip -> zipped)\
-    (n.) 拉鍊 (v.) 拉上拉鍊\
-    I can't open my bag because the zip has stuck.\
-    Zip your coat up, it's cold outside.
-
-    (v.) 颼地一聲前進
-
-    It was close! A bullet just zipped past me.
 *   yarn
 
     (n.) 紗、線
@@ -2835,3 +2827,11 @@ description: 重要或易忘記的單字與用法(範圍：2201~7000)。
     (n.) 鋅
 
     It’s said that oysters are rich in zinc.
+*   zip (zip -> zipped)\
+    (n.) 拉鍊 (v.) 拉上拉鍊\
+    I can't open my bag because the zip has stuck.\
+    Zip your coat up, it's cold outside.
+
+    (v.) 颼地一聲前進
+
+    It was close! A bullet just zipped past me.
