@@ -273,7 +273,7 @@ BACCD / DCDAB / DCDBA / BACDA
 </details>
 
 101. Over a professional career that spanned 20 years, Bryant \_\_\_\_\_\_\_\_ no hardship at all, and his 5 NBA championships and 18 All-Star selections \_\_\_\_\_\_\_\_ him as one of the best players in NBA history.\
-     (A) conceives of; attach (B) submits to; justify (C) removes form; defend (D) restrains from; identify
+     (A) conceives of; attach (B) submits to; justify (C) removes form; defend (D) restrains from; memorize
 102. \_\_\_\_\_\_\_\_, New South Wales was the hardest hit of the Australian States, with more than two thousand homes destroyed or damaged by the \_\_\_\_\_\_\_\_ blaze, which is the largest in state history.\
      (A) Evidently; massive (B) Properly; extensive (C) Obviously; distinctive (D) Appropriately; continental
 103. On June, 1, 2018, Pablo delivered pizza to the military offices at Fort Hamilton in Brooklyn, as he had several times before. This time, however, \_\_\_\_\_\_\_\_ Pablo was detained by the base security, for he was asked for another form of government-\_\_\_\_\_\_\_\_ identification and was found that he'd been ordered to be deported in 2010.\
@@ -302,7 +302,7 @@ BACCD / DCDAB / DCDBA / BACDA
      (A) Having bruised his ego; imposes (B) Having had his ego bruised; advocates (C) Bruising his ego; grants (D) His ego has bruising; presents
 115. \_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_ their timely help, we wouldn't succeed in winning the league championship now.\
      (A) Ultimately; had it not been for (B) In the long run; were it not for (C) Eventually; if it had not for (D) In the end, if there were no
-116. The story is about a boy bring one of the few children of color at a famous private school \_\_\_\_\_\_\_\_ nothing other than its academics is given \_\_\_\_\_\_\_\_ to.\
+116. The story is about a boy bringing one of the few children of color at a famous private school \_\_\_\_\_\_\_\_ nothing other than its academics is given \_\_\_\_\_\_\_\_ to.\
      (A) which; privilege (B) where; priority (C) which; qualification (D) where; distinction
 117. On the wall \_\_\_\_\_\_\_\_ the picture Liberty Leading the People painted in the Romantic style in 1830. In the painting ordinary French citizens were seen charging and firing their guns at the soldiers of King Charles X. Everything being quiet, you might hear people shouting themselves \_\_\_\_\_\_\_\_ out of fear and the nonstop echoes of gunfire.\
      (A) hung; hoarse (B) was hung; coarse (C) hanged; stranded (D) was hanged; trapped
