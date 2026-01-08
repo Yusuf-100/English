@@ -275,10 +275,10 @@ General Rules:
 * If James <mark style="color:blue;">**stopped**</mark> insulting me, I <mark style="color:blue;">**wouldn't fight**</mark> with him.
 * If you <mark style="color:blue;">**hadn't spoken**</mark> ill of Amy, she <mark style="color:blue;">**wouldn't have been**</mark> so annoyed.
 * If I <mark style="color:blue;">**had**</mark> the money, I <mark style="color:blue;">**would go**</mark> abroad for traveling.
-* If I were billionaire, I would still live a simple life. -> Were I a billionaire, I would still live a simple life.
-* If I had had enough time, I would have attained the end I had in view. -> Had I had enough time, I would have attained the end I had in view.
+* If I were billionaire, I would still live a simple life. → Were I a billionaire, I would still live a simple life.
+* If I had had enough time, I would have attained the end I had in view. → Had I had enough time, I would have attained the end I had in view.
 * If the sun <mark style="color:blue;">**were to rise**</mark> in the west, the impossible <mark style="color:blue;">**would be**</mark> possible. (與真理相反的假設)
-* <mark style="color:blue;">**If there should be a fire**</mark>, do not panic. -> Should there be a fire, do not panic. (「萬一」的假設與倒裝)
+* <mark style="color:blue;">**If there should be a fire**</mark>, do not panic. → Should there be a fire, do not panic. (「萬一」的假設與倒裝)
 * What would you do if you <mark style="color:blue;">**should**</mark> fail to enter the dream college of yours? (「萬一」的假設)
 
 ### B. Wish
@@ -322,8 +322,8 @@ Wish 一般用在<mark style="color:blue;">**不可能實現的願望**</mark>�
 
 ### A. 將對等句簡化成分詞構句
 
-* She opened the washer door, and she put her laundry in. -> She opened the washer door, putting her laundry in.
-* I stood on top of the mountain, and I was fascinated by the sea of clouds. -> I stood on top of the mountain, fascinated by the sea of clouds.
+* She opened the washer door, and she put her laundry in. → She opened the washer door, putting her laundry in.
+* I stood on top of the mountain, and I was fascinated by the sea of clouds. → I stood on top of the mountain, fascinated by the sea of clouds.
 * Papua's glaciers have shrunk by 85% to a mere 0.5 square kilometers, and Papua's glaciers will completely disappear within a decade. → Having shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade.
 
 ### B. 將副詞子句簡化成分詞構句
@@ -332,21 +332,34 @@ Wish 一般用在<mark style="color:blue;">**不可能實現的願望**</mark>�
 If/ because/ before/ after/ as/ when / while/ once/ unless
 {% endhint %}
 
-* When the thief saw the policeman, he ran away. -> Seeing the policeman, the thief ran away.
-* Because he has failed math twice, he fears this subject above all others. -> Having failed math twice, he fears this subject above all others.
-* As the man was hungry and tired, he couldn't walk any further. -> (Being) hungry and tired, he couldn't walk any further.
-* Because he didn't know what to do, he asked his parents for help. -> Not knowing what to do, he asked his parents for help.
+* When the thief saw the policeman, he ran away. → Seeing the policeman, the thief ran away.
+* Because he has failed math twice, he fears this subject above all others. → Having failed math twice, he fears this subject above all others.
+* As the man was hungry and tired, he couldn't walk any further. → (Being) hungry and tired, he couldn't walk any further.
+* Because he didn't know what to do, he asked his parents for help. → Not knowing what to do, he asked his parents for help.
 * Since he hasn't finished his homework, he is not allowed to watch TV. → Not having finished (Having not finished) his homework, he isn't allowed to watch TV.
-* 被女友拋棄後，John開始思考自己的人生目標 → Having been abandoned by his girlfriend, John started to think about his goal of life.
+* 被女友拋棄後，John開始思考自己的人生目標。\
+  Having been abandoned by his girlfriend, John started to think about his goal of life.
 
 ### C. 獨立分詞構句
 
-{% hint style="danger" %}
-用在前後主詞不一致時，主要子句用正常的方式書寫，附屬子句則需用分詞構句。
+{% hint style="info" %}
+用在**前後主詞不一致**時。主要子句用正常的方式書寫，附屬子句則需保留主詞並用分詞構句書寫。
 {% endhint %}
 
-* When the sun has risen, the farmers start to work. -> The sun having risen, the farmers start to work.
-* If the weather permits, we will go on a picnic tomorrow. -> The weather permitting, we will go on a picnic tomorrow.
+* When the sun has risen, the farmers start to work. → The sun having risen, the farmers start to work.
+* If the weather permits, we will go on a picnic tomorrow. → The weather permitting, we will go on a picnic tomorrow.
+* Since the lion was kept in the cage, the children were not afraid. → The lion kept in the cage, the children were not afraid.
+* The old man sat on the bench, and his hands were in his pockets. → His hands in his pockets, the old man sat on the bench.
+
+{% hint style="danger" %}
+**獨立分詞構句不應連接兩個不相關的句子**。上述範例都有清楚的因果、邏輯、時序關係，或皆描述發生在同一情境內的事，僅因為主詞不同，所以使用獨立分詞構句的形式書寫；換句話說，獨立分詞構句的使用條件和標準的分詞構句相同。若忽略使用條件而任意連接句子，可能導致語意不清楚。底下為較<mark style="color:red;">**不適合**</mark>的範例：
+
+* 退休後，她開始在後院種植各式各樣的花卉，她的植物在她的照顧下茁壯成長。\
+  After retirement, She began planting all types of flowers, her plants thriving under her care.\
+  文法本身沒有問題，但連接的兩個句子並沒有明確的因果、邏輯、時序關係，也沒有描述發生在同一情境內的事，所以這樣連接並不適當。較佳的連接方法如下：\
+  After retirement, she began planting all types of flowers, which thrived under her care.\
+  After retirement, she began planting all types of flowers, and they thrived under her care.
+{% endhint %}
 
 ### D. 練習
 
@@ -404,8 +417,8 @@ If/ because/ before/ after/ as/ when / while/ once/ unless
 
 #### C. 當關係代名詞遇到不定量詞
 
-* I read four English novels during this summer vacation. Three of them were written by J.K. Rowling. -> I read four English novels during this summer vacation<mark style="color:blue;">**, three of which**</mark> were written by J.K. Rowling.
-* Mr. and Mrs. Bennet have five daughters. None of them is married. -> Mr. and Mrs. Bennet have five daughters<mark style="color:blue;">**, none of whom**</mark> is married.
+* I read four English novels during this summer vacation. Three of them were written by J.K. Rowling. → I read four English novels during this summer vacation<mark style="color:blue;">**, three of which**</mark> were written by J.K. Rowling.
+* Mr. and Mrs. Bennet have five daughters. None of them is married. → Mr. and Mrs. Bennet have five daughters<mark style="color:blue;">**, none of whom**</mark> is married.
 
 ### 關係副詞
 
@@ -413,15 +426,15 @@ If/ because/ before/ after/ as/ when / while/ once/ unless
 Where/ when/ why/ how
 {% endhint %}
 
-* The factory was burned down. I used to work in it. -> The factory where I used to work was burned down.
-* I can clearly remember the good old days. We studied and had fun together in those days. -> I can clearly remember the good old days when we studied and had fun together.
-* I don't know the reason she is crying. -> I don't know why she is crying.
-* I don't like the way he dealt with the crisis. -> I don't like how he dealt with the crisis.
+* The factory was burned down. I used to work in it. → The factory where I used to work was burned down.
+* I can clearly remember the good old days. We studied and had fun together in those days. → I can clearly remember the good old days when we studied and had fun together.
+* I don't know the reason she is crying. → I don't know why she is crying.
+* I don't like the way he dealt with the crisis. → I don't like how he dealt with the crisis.
 
-### 複合關係代名詞 (the thing which -> what)
+### 複合關係代名詞 (the thing which → what)
 
-* All you can do is calm down and wait. -> <mark style="color:blue;">**What**</mark> you can do is calm down and wait.
-* Do you understand the things that he said? -> Do you understand <mark style="color:blue;">**what**</mark> he said?
+* All you can do is calm down and wait. → <mark style="color:blue;">**What**</mark> you can do is calm down and wait.
+* Do you understand the things that he said? → Do you understand <mark style="color:blue;">**what**</mark> he said?
 
 ### That 的使用時機
 
@@ -699,7 +712,7 @@ get / make + O. + N. / adj.
 
 * I <mark style="color:blue;">**saw**</mark> John <mark style="color:blue;">**eating**</mark> dinner with his girlfriend when I passed by the restaurant.
 * I <mark style="color:blue;">**saw**</mark> the car <mark style="color:blue;">**stolen**</mark> by a young man.
-* Everybody <mark style="color:blue;">**heard**</mark> John <mark style="color:blue;">**sing**</mark> a song to his wife. -> John <mark style="color:blue;">**was heard to sing / singing**</mark> a song to his wife.
+* Everybody <mark style="color:blue;">**heard**</mark> John <mark style="color:blue;">**sing**</mark> a song to his wife. → John <mark style="color:blue;">**was heard to sing / singing**</mark> a song to his wife.
 
 ### F. 練習
 
@@ -1044,10 +1057,10 @@ O.C.可為adj.、Ving、pp等，用以形容**O的狀態**。**使用Ving或pp�
 
 ### C. 表"直到.../直到...才..."的連接詞句型
 
-1. S + V ... until ... 肯定句 (可持續的動作) -> 一直...直到...
+1. S + V ... until ... 肯定句 (可持續的動作) → 一直...直到...
    * Allen waited in his car <mark style="color:blue;">**until**</mark> his girlfriend finished buying things. (一直等，直到)
    * I studied <mark style="color:blue;">**until**</mark> 2 a.m. yesterday. (一直讀書，直到)
-2. S not V ... until 否定句 (非持續的動作) -> 一直沒有...直到...
+2. S not V ... until 否定句 (非持續的動作) → 一直沒有...直到...
    * My brother did<mark style="color:blue;">**n't**</mark> go to bed <mark style="color:blue;">**until**</mark> he had finished the report. (一直沒有睡覺，直到)
    * I did<mark style="color:blue;">**n't**</mark> stop studying <mark style="color:blue;">**until**</mark> 2 a.m. yesterday. (一直沒有停止讀書，直到)
 
@@ -1269,14 +1282,9 @@ if / in case / on condition that / provided (that) / providing (that) / suppose 
      Like / Unlike + N. ..., S + V ... 如同...一樣 / 不同於...
    * <mark style="color:blue;">**As you sow, so shall you reap.**</mark> 一分耕耘，一分收穫。\
      <mark style="color:blue;">**As**</mark> women like diamonds, <mark style="color:blue;">**so**</mark> men love brand-name cars. 男人愛名車，就像女人愛鑽石一樣。
-8.  **其他比較級的用法**
-
-    * would rather + VR ... than + VR ... = would as soon + VR ... as + VR ... 寧可...也不要...\
-      prefer N. / Ving + to N. / Ving 喜歡...勝於...\
-      prefer to VR ... 比較喜歡 ...
-    * Like many teenage boys, Mark <mark style="color:blue;">**would rather**</mark> play basketball under the burning sun <mark style="color:blue;">**than**</mark> sit in the classroom, listening to the teacher's lecture. 跟許多青少年男孩一樣，Mark寧可在烈日下打籃球也不願坐在教室裡聽老師上課。\
-      I <mark style="color:blue;">**prefer**</mark> communicating with friends through e-mail <mark style="color:blue;">**to**</mark> chatting with them on the phone. 我喜歡用電子郵件跟朋友溝通勝過於用電話聊天。
-
-
-
-## Next Grammar...
+8. **其他比較級的用法**
+   * would rather + VR ... than + VR ... = would as soon + VR ... as + VR ... 寧可...也不要...\
+     prefer N. / Ving + to N. / Ving 喜歡...勝於...\
+     prefer to VR ... 比較喜歡 ...
+   * Like many teenage boys, Mark <mark style="color:blue;">**would rather**</mark> play basketball under the burning sun <mark style="color:blue;">**than**</mark> sit in the classroom, listening to the teacher's lecture. 跟許多青少年男孩一樣，Mark寧可在烈日下打籃球也不願坐在教室裡聽老師上課。\
+     I <mark style="color:blue;">**prefer**</mark> communicating with friends through e-mail <mark style="color:blue;">**to**</mark> chatting with them on the phone. 我喜歡用電子郵件跟朋友溝通勝過於用電話聊天。

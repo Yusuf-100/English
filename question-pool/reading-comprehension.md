@@ -2076,12 +2076,10 @@ wind patterns; heat extremes / B / C / D; E / (5)
    (B) analyze the cause and effect of the locust outbreak in East Africa\
    (C) evaluate the damage caused by locust swarms in East Africa\
    (D) propose a solution for the locust plague in East Africa
-3.  Later, George accidentally heard Dino said that the total number of current locusts in Kenya was about 45 million. As a scientist, George estimated that in 6 months, the number of the locusts would quickly reach \_\_\_4\_\_\_. (Choose from A to G) What a disaster!\
-
+3.  Later, George accidentally heard Dino said that the total number of current locusts in Kenya was about 45 million. As a scientist, George estimated that in 6 months, the number of the locusts would quickly reach \_\_\_4\_\_\_. (Choose from A to G) What a disaster!<br>
 
     <div align="left"><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="444"><figcaption></figcaption></figure></div>
-4.  In order not to be disappointed by the locust swarms, Janet and George decided to avoid travelling to countries like \_\_\_5\_\_\_ and \_\_\_6\_\_\_, which were the epicenter of the locust crisis.\
-
+4.  In order not to be disappointed by the locust swarms, Janet and George decided to avoid travelling to countries like \_\_\_5\_\_\_ and \_\_\_6\_\_\_, which were the epicenter of the locust crisis.<br>
 
     <div align="left"><figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="392"><figcaption></figcaption></figure></div>
 5. Keith Cressman, FAO Senior Locust Forecasting Officer, once warned, "(Africa) They're in a precarious situation. The potential hunger threat is tremendous in a region where 42 million are expected to face acute food insecurity." Which sentence best explains his warning? The sentences in this passage are numbered **(1)** to **(5)**. Write down the **NUMBER** of the sentence on the answer sheet. \_\_\_7\_\_\_
