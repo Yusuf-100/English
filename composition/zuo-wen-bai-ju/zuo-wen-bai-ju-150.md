@@ -12,7 +12,11 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 4. My grandfather <mark style="color:blue;">**quit smoking**</mark> because of the <mark style="color:blue;">**ashtray**</mark> I had given to him. <mark style="color:blue;">**What a miracle**</mark> it was! Now, my grandfather has <mark style="color:blue;">**quit smoking**</mark> for more than one year.
 5. <mark style="color:blue;">**On**</mark> last Father's Day, I gave him a present, which <mark style="color:blue;">**had nothing to do with**</mark> smoking. I bought him a shirt and a card to show my <mark style="color:blue;">**respect**</mark> and <mark style="color:blue;">**concern**</mark> for him. On the card I wrote, "<mark style="color:blue;">**In exchange for**</mark> the <mark style="color:blue;">**ashtray**</mark> that you have never used and will never use."
 
-#### 重點整理
+<details>
+
+<summary>作文百句 1 重點整理</summary>
+
+#### 單字、片語
 
 * Ashtray (n.) 煙灰缸
   * 這是由 `ash` (灰) + `tray` (盤子) 組成的複合詞。
@@ -28,15 +32,61 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * Stubborn (adj.) 固執的、頑固的。通常帶有貶義，形容人的性格不易被改變、不可理喻或死板。
   * He is too stubborn to admit his mistakes. (他太固執了，不肯承認錯誤。)
 * Admonish (v.) 告誡、輕責
-  * admonish + sb + for + N/Ving (因某事責備某人)
+  * admonish sb for N/Ving (因某事責備某人)
     * The teacher admonished the students for being late. (老師因為學生遲到而責備他們。)
-  * admonish + sb + to + VR (勸告某人去做某事)
+  * admonish sb to VR (勸告某人去做某事)
     * My mother admonished me to be more careful with my money. (母親力勸我要更小心用錢。)
-  * admonish + that 子句 (S + V) (正式地告誡某件事)
+  * admonish that 子句 (S + V) (正式地告誡某件事)
     * The doctor admonished that too much stress could lead to heart disease. (醫生告誡說壓力太大可能導致心臟病。)
 * Achieve (v.) 達成、實現
   * 後面通常接 `goal`, `purpose`, `success` 等名詞。
   * 例句: If you work hard, you will eventually achieve your goals. (如果你努力工作，最終會達成目標。)
+* Turn out 的不同用法
+  * It turns out that 子句 (S + V) 結果竟然是...、證明是...
+    * 用 `It` 當虛主詞，後面接一個完整的句子。
+    * It turns out that the stranger is my father's old friend. (結果那個陌生人是我父親的老朋友。)
+  * It turns out to be N/Adj. 結果竟然是...、證明是...
+    * The weather looked bad, but it turned out to be a sunny day. (天氣看起來很糟，結果卻是個晴天。)
+  * Turn out 副詞
+    * 用來表示事情發展得如何（好或壞）。
+    * I hope everything turns out well in the end. (我希望最後一切都能圓滿解決。)
+* Be exposed to N/Ving 暴露於...、接觸到...
+  * `to` 是介係詞，後面必須接名詞或V-ing。
+  * Many skin problems are caused by being exposed to the sun for too long. (許多皮膚問題是因曝曬太陽過久引起的。)\
+    Students should be exposed to different viewpoints. (學生應該接觸不同的觀點。)
+* Have nothing to do with sth 與...無關
+  * Please stay calm. This decision has nothing to do with your performance. (請保持冷靜，這個決定與你的表現無關。)
+* In exchange for sth 作為交換...
+  * I’ll help you with English in exchange for some help with math. (我幫你英文，以換取你幫我數學。)
+* Quit Ving 停止/放棄做某事
+  * 類似用法的動詞還有 `finish`, `enjoy`, `avoid`。
+  * You should quit smoking for the sake of your health. (為了健康，你應該戒菸。)
+
+#### 文法
+
+*   過去、現在、未來完成式
+
+    <table data-header-hidden><thead><tr><th width="119"></th><th width="144.33331298828125"></th><th></th></tr></thead><tbody><tr><td>時態</td><td>寫法</td><td>關鍵</td></tr><tr><td>現在完成式</td><td><code>have/has pp</code></td><td><p>● 從過去到現在做過的事。</p><p>● 從過去開始一直持續到現在的狀態。</p><p>● 剛剛才完成的事。</p></td></tr><tr><td>過去完成式</td><td><code>had pp</code></td><td>兩件事都發生在過去，<mark style="color:blue;"><strong>先發生的用過去完成式</strong></mark>。</td></tr><tr><td>未來完成式</td><td><code>will have pp</code></td><td>預測在未來的某個時間點之前，動作已經完成。</td></tr></tbody></table>
+
+    * 文章中提到 `Now, my grandfather has quit smoking for more than one year.`，這裡用<mark style="color:blue;">**現在完成式**</mark>，表示從一年前開始到現在的狀態。
+    * 但在提到禮物時說 `the ashtray I had given to him.`，這裡用<mark style="color:blue;">**過去完成式**</mark>，表示給禮物這個動作發生在戒菸成功之前。
+* Neither... nor... 既不...也不...
+  * 連接兩個否定對象。若連接主詞，動詞受 <mark style="color:blue;">**nor 之後的對象**</mark>影響。
+  * Neither my parents nor my brother knows about my secret. (我父母和我弟都不知道我的秘密。→ 動詞隨 brother 用單數)
+  * He neither eats meat nor drinks milk. (他既不吃肉也不喝牛奶。)
+* 感嘆句型
+  * `What + a/an + (adj.) + N + (S + V)!`\
+    `How + adj./adv. + (S + V)!`
+    * What a miracle (it was)! (真是個奇蹟！)\
+      How amazing (the miracle was)! (這奇蹟多麼令人驚訝！)
+* On + 節日/特定日期
+  * 只要提到特定的一天，介係詞就用 <mark style="color:blue;">**on**</mark>。
+
+#### 寫作建議
+
+在寫「感悟類」作文時，可以挑選一個具體的物品作為核心，並描繪該物品的<mark style="color:blue;">**象徵意義 (Symbolism)**</mark>。透過描寫這個物品的變化，來反映人物的情感轉折。
+
+</details>
 
 ## 2.&#x20;
 
