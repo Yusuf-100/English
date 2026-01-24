@@ -14,9 +14,9 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <details>
 
-<summary>作文百句 1 重點整理</summary>
+<summary>作文百句 1 單字整理</summary>
 
-#### 單字、片語
+#### 單字
 
 * Ashtray (n.) 煙灰缸
   * 這是由 `ash` (灰) + `tray` (盤子) 組成的複合詞。
@@ -41,6 +41,15 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * Achieve (v.) 達成、實現
   * 後面通常接 `goal`, `purpose`, `success` 等名詞。
   * 例句: If you work hard, you will eventually achieve your goals. (如果你努力工作，最終會達成目標。)
+
+</details>
+
+<details>
+
+<summary>作文百句 1 片語整理</summary>
+
+#### 片語
+
 * Turn out 的不同用法
   * It turns out that 子句 (S + V) 結果竟然是...、證明是...
     * 用 `It` 當虛主詞，後面接一個完整的句子。
@@ -50,17 +59,23 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * Turn out 副詞
     * 用來表示事情發展得如何（好或壞）。
     * I hope everything turns out well in the end. (我希望最後一切都能圓滿解決。)
-* Be exposed to N/Ving 暴露於...、接觸到...
+* Be exposed to N/Ving (phr.) 暴露於...、接觸到...
   * `to` 是介係詞，後面必須接名詞或V-ing。
   * Many skin problems are caused by being exposed to the sun for too long. (許多皮膚問題是因曝曬太陽過久引起的。)\
     Students should be exposed to different viewpoints. (學生應該接觸不同的觀點。)
-* Have nothing to do with sth 與...無關
+* Have nothing to do with sth (phr.) 與...無關
   * Please stay calm. This decision has nothing to do with your performance. (請保持冷靜，這個決定與你的表現無關。)
-* In exchange for sth 作為交換...
+* In exchange for sth (phr.) 作為交換...
   * I’ll help you with English in exchange for some help with math. (我幫你英文，以換取你幫我數學。)
-* Quit Ving 停止/放棄做某事
+* Quit Ving (phr.) 停止/放棄做某事
   * 類似用法的動詞還有 `finish`, `enjoy`, `avoid`。
   * You should quit smoking for the sake of your health. (為了健康，你應該戒菸。)
+
+</details>
+
+<details>
+
+<summary>作文百句 1 文法整理</summary>
 
 #### 文法
 
@@ -82,6 +97,12 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * On + 節日/特定日期
   * 只要提到特定的一天，介係詞就用 <mark style="color:blue;">**on**</mark>。
 
+</details>
+
+<details>
+
+<summary>作文百句 1 寫作建議</summary>
+
 #### 寫作建議
 
 在寫「感悟類」作文時，可以挑選一個具體的物品作為核心，並描繪該物品的<mark style="color:blue;">**象徵意義 (Symbolism)**</mark>。透過描寫這個物品的變化，來反映人物的情感轉折。
@@ -94,17 +115,324 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 2. <mark style="color:blue;">**For one thing**</mark>, <mark style="color:blue;">**pursuing**</mark> studies in a foreign culture helps <mark style="color:blue;">**expand one's horizons**</mark>. In a foreign country, students need to <mark style="color:blue;">**interact with**</mark> people who <mark style="color:blue;">**lead**</mark> a different life, speak a new language, and <mark style="color:blue;">**embrace**</mark> novel ideas.
 3. In the <mark style="color:blue;">**process**</mark>, they learn to see things from different <mark style="color:blue;">**angles**</mark>. <mark style="color:blue;">**Moreover**</mark>, students believe that having a foreign <mark style="color:blue;">**diploma**</mark> <mark style="color:blue;">**enhances**</mark> their <mark style="color:blue;">**competitiveness**</mark> in the job market. Many companies or <mark style="color:blue;">**enterprises**</mark> <mark style="color:blue;">**favor**</mark> those who <mark style="color:blue;">**attended**</mark> an overseas university. Therefore, <mark style="color:blue;">**graduates**</mark> from <mark style="color:blue;">**prestigious**</mark> universities abroad may <mark style="color:blue;">**stand out**</mark> from other <mark style="color:blue;">**candidates**</mark>.
 4. If the <mark style="color:blue;">**option**</mark> to study overseas presents itself, I will <mark style="color:blue;">**definitely**</mark> <mark style="color:blue;">**take on the challenge**</mark>. <mark style="color:blue;">**I have been dreaming of studying abroad for years**</mark>. By <mark style="color:blue;">**interacting with**</mark> those in a different <mark style="color:blue;">**social context**</mark>, I think I will learn to <mark style="color:blue;">**put things into perspective**</mark> and develop a <mark style="color:blue;">**global mindset**</mark>.
-5. <mark style="color:blue;">**Besides**</mark>, studying abroad would <mark style="color:blue;">**provide**</mark> me <mark style="color:blue;">**with**</mark> an opportunity to make friends from different backgrounds. I think this would come naturally to me since I am an <mark style="color:blue;">**open-minded**</mark> and <mark style="color:blue;">**outgoing**</mark> person. <mark style="color:blue;">**In conclusion**</mark>, <mark style="color:blue;">**so long as**</mark> money isn't an <mark style="color:blue;">**issue**</mark>, I will surely choose to study overseas to challenge and push  myself to a higher level of <mark style="color:blue;">**excellence**</mark>.
+5. <mark style="color:blue;">**Besides**</mark>, studying abroad would <mark style="color:blue;">**provide**</mark> me <mark style="color:blue;">**with**</mark> an opportunity to make friends from different backgrounds. I think this would come naturally to me since I am an <mark style="color:blue;">**open-minded**</mark> and <mark style="color:blue;">**outgoing**</mark> person. <mark style="color:blue;">**In conclusion**</mark>, <mark style="color:blue;">**so long as**</mark> money isn't an <mark style="color:blue;">**issue**</mark>, I will surely choose to study overseas to challenge and push myself to a higher level of <mark style="color:blue;">**excellence**</mark>.
+
+<details>
+
+<summary>作文百句 2 單字整理</summary>
+
+#### 單字
+
+* Graduate (n.) 畢業生
+  * 動詞 `graduate from + 學校` 表示從某校畢業。
+  * She is a graduate of National Taiwan University. (她是台大的畢業生。)\
+    I graduated from this school three years ago. (我三年前從這所學校畢業。)
+* Factor (n.) 因素
+  * 常與 `contribute to` 或 `influence` 連用，用來分析事件的原因。
+  * Economic stability is a <mark style="color:blue;">**key factor**</mark> in this decision. (經濟穩定性是這項決策的關鍵因素。)\
+    Many factors influence economic development. (許多因素都會影響經濟發展。)
+* Pursue (v.) 追求、從事
+  * 常接 `studies`, `career`, `dreams` 或 `happiness`。
+  * He decided to <mark style="color:$primary;">**pursue a career in**</mark> medicine. (他決定從事醫學事業。)\
+    We should encourage students to pursue their interests. (我們應該鼓勵學生追求自己的興趣。)
+* Embrace (v.) 原意為擁抱，在此引申為欣然接受、擁抱 (想法等)
+  * 比 `accept` 更有熱情、主動接納的語氣，常用於接受新概念或改變。
+  * To succeed, you must learn to embrace new ideas from others. (要成功，你必須學會接受他人的新想法。)
+* Enhance (v.) 提升、增加
+  * 用來形容品質、價值、吸引力或能力的優化。
+  * Regular exercise can greatly enhance your physical health. (規律運動能大大改善你的身體健康。)\
+    The new lighting enhanced the beauty of the room. (新的照明設備提升了房間的美感。)
+* Competitiveness (n.) 競爭力
+  * Continuous learning is necessary to <mark style="color:blue;">**maintain your competitiveness**</mark>. (持續學習是保持競爭力的必要條件。)
+* Enterprise (n.) 企業、事業單位
+  * 較正式的字，常用於法律或商業正式文書中。
+  * Small and medium enterprises are the backbone of the economy. (中小企業是經濟的支柱。)
+* Abroad (adv.) 在國外、向國外
+  * `Overseas` (adv.) 也有相同意思。
+  * My sister is currently studying abroad in France. (我姊姊目前在法國留學。)\
+    He plans to go overseas for his master's degree. (他計畫出國讀碩士學位。)
+* Trend (n.) 趨勢、走向
+  * 常與 `follow` 或 `set` 連用。
+  * There is a growing trend toward remote work. (遠端工作的趨勢正日益增長。)\
+    She always follows the latest fashion trends. (她總是追隨最新的流行趨勢。)
+* Diploma (n.) 畢業證書、文憑
+  * `degree` 通常指學位 (如學士、碩士)，而 `diploma` 則是修業完成的證書。
+  * You need a high school diploma to apply for this job. (你需要高中畢業證書才能申請這份工作。)
+* Prestigious (adj.) 有名望的、聲譽卓著的
+  * 常用來形容大學、獎項或職位。
+  * Getting into a prestigious university is a dream for many students. (考入名聲顯赫的大學是許多學生的夢想。)
+* Candidate (n.) 候選人、求職者
+  * There are ten candidates interviewing for the position. (有十位應徵者正在面試這個職位。)
+* Context (n.) 背景、環境、語境
+  * 在此文章中指 `social context` (社會背景/環境)。
+  * It is important to understand the cultural context of the story. (了解這個故事的文化背景是很重要的。)
+* Mindset (n.) 心態、思維模式
+  * 指一個人看待事物的固定態度。
+  * To be successful, you need to have a <mark style="color:blue;">**positive mindset**</mark>. (要獲得成功，你需要具備積極的心態。)
+* Moreover / Besides / Furthermore (adv.) 此外、而且
+
+</details>
+
+<details>
+
+<summary>作文百句 2 片語整理</summary>
+
+#### 片語
+
+* Be responsible for sth (phr.) 為某事負責、是某事的原因
+  * 在本文中意指「趨勢的成因」。
+  * Human activities are mainly responsible for global warming. (人類活動是造成全球暖化的主要原因。)\
+    Who is responsible for the error in the report? (誰該為報告中的錯誤負責？)
+* Expand one's horizons (phr.) 開闊某人的眼界
+  * `horizon` 原指地平線，在此引申為知識、經驗或視野。
+  * Traveling to different countries is the best way to expand your horizons. (去不同的國家旅行是開拓眼界的最佳方式。)
+* Stand out from sth/sb (phr.) 從...之中脫穎而出
+  * With her unique talent, she stands out from the rest of the applicants. (她擁有獨特的才能，在眾多申請者中脫穎而出。)
+* Take on sth (phr.) 接受 (挑戰)、承擔 (責任)
+  * I am ready to take on the challenge of working abroad. (我已準備好迎接海外工作的挑戰。)\
+    He took on the responsibility of leading the team. (他承擔起了領導團隊的重任。)
+* Put things into perspective (phr.) 客觀地審視事物、調整看待問題的角度
+  * 指當人跳脫原本的框架後，能更理智、更全面地衡量事情。
+  * Living alone for a year helped me put things into perspective. (獨自生活一年讓我對事物有了更清晰的認識。)
+* Provide sb with sth (phr.) 提供某人某物
+  * 結構同 `provide sth for sb`。
+  * The school provides students with free internet access. (學校提供學生免費上網服務。)\
+    The internet provides a lot of useful information for us. (互聯網為我們提供了許多有用的信息。)
+* Come naturally to sb (phr.) 對某人來說很自然 (易如反掌)
+  * Playing the piano comes naturally to him; he never seems to struggle. (他彈鋼琴就像與生俱來一樣，似乎從來不會遇到困難。)
+* So long as (conj.) 只要...
+  * 用法等同於 `as long as`。
+  * So long as you don't give up, you still have a chance to win. (只要你不放棄，還有機會贏。)
+* In my opinion (phr.) 依我之見
+  * `From my perspective`, `As far as I am concerned`, `In my view` 皆有相似意思。
+  * In my opinion, health is more important than wealth. (依我之見，健康比財富更重要。)\
+    From my perspective, the plan needs more discussion. (從我的觀點來看，這個計畫需要更多討論。)
+* For one thing... (For another...) (phr.) 一方面... (另一方面...)
+  * 用來列舉一或多個原因。
+  * For one thing, the job is interesting; for another, the salary is great. (一方面，這工作很有趣；另一方面，薪水也很棒。)\
+    I'm not going to that party. For one thing, I'm too tired. (我不會去參加那個派對。一則是因為我太累了。)
+* Lead a/an adj. life (phr.) 過著...的生活
+  * They lead a simple life in the countryside. (他們在鄉間過著簡單的生活。)
+* Dream of/about N/Ving (phr.) 夢想...
+  * He dreams of traveling around the world someday. (他夢想有一天能環遊世界。)\
+    I never dreamed about becoming a teacher. (我從未夢想過會成為一名老師。)
+
+</details>
+
+<details>
+
+<summary>作文百句 2 文法整理</summary>
+
+#### 文法
+
+* `Have/has + been + Ving` 現在完成進行式
+  * 強調一個動作從過去開始，一直持續到現在，且通常暗示該動作仍會繼續下去。
+  * I have been dreaming of studying abroad for years. (我夢想出國留學已經好幾年了。)\
+    She has been waiting for the bus for thirty minutes. (她已經等公車等了三十分鐘了。)
+* 動名詞當主詞
+  * Ving 放在句首當主詞時，視為單數。
+  * Having a foreign diploma enhances their competitiveness. (擁有國外文憑能提升他們的競爭力。)\
+    Exercising regularly is essential for maintaining good health. (規律運動對維持健康至關重要。)
+* 關係代名詞 (who/which/that) 引導的限定用法
+  * 用來修飾前面的名詞 (先行詞)。若先行詞是人，用 `who` 或 `that`；若是物，用 `which` 或 `that`。動物或植物除了在擬人化的情境下可用 `who`，其他情況下仍用 `which`。
+  * Students need to interact with people who lead a different life. (學生需要與過著不同生活的人互動)\
+    Many companies favor those who attended an overseas university. (許多公司青睞那些就讀過海外大學的人)
+* Since 既然/因為
+  * 除了「自從」的意思，在本文中是當連接詞，表示「因為」或「既然」。
+  * I think this would come naturally to me since I am an open-minded person. (我覺得這對我來說很自然，因為我是一個心胸開闊的人。)\
+    Since we are all here, let's start the meeting. (既然我們都在這了，就開始開會吧。)
+* 虛擬語氣在提供假設情境時的應用
+  * 當某件事還沒發生，且作者將其視為一種可能性或想像的情境時，會使用 `would/could/might` 讓語氣聽起來更客觀、委婉，像是在討論一種潛在的利益；當作者非常有信心這件事一定會發生，或者已經將其列為確定的計畫時，會使用 `will/can`，這類用法的語氣較強烈、直接。除非是很明顯與事實相反的假設語氣，否則一般情況下，用 `will/can` 就可以，不用想太複雜。
+  * Studying abroad would provide me with an opportunity to make friends. (出國留學將會提供我一個交朋友的機會。)\
+    It would be great if I could visit England next year. (如果明年能去英國就太棒了。)
+
+</details>
+
+<details>
+
+<summary>作文百句 2 寫作建議</summary>
+
+#### 文章分析
+
+這篇文章遵循了非常清晰的「總－分－總」結構：
+
+* 開門見山：第一段先拋出數據 (5% 的畢業生)，引出「出國留學」的趨勢，並明確表達立場：`two major factors are responsible for this trend.`
+* 論證：第二段與第三段分別用 `For one thing` 與 `Moreover` 引出兩大主因：
+  * 主因一：文化層面 (開闊視野、與不同背景的人互動)。
+  * 主因二：實務層面 (提升職場競爭力、名校光環)。
+* 個人展望：第四、五段將焦點從「大環境」轉向「我」。**這點非常重要**！在作文中，僅論述大道理是不夠的，必須結合個人特質 (e.g., `outgoing person`) 與目標。
+* 總結：結尾用 `In conclusion` 再次重申意願，並以「提升至更高層次」作為結尾，展現積極的態度。
+
+除此之外，作者將抽象論點與具體行為結合，不是只寫「出國會學到東西」，而是寫了 `interact with people who lead a different life, speak a new language, and embrace novel ideas.` 等具體內容，清楚呈現出國求學的優點，提升文章的層次。
+
+#### 寫作補給站—總結文章常用的片語
+
+* `In conclusion` / `To sum up` / `In summary` 總之、綜上所述
+  * In conclusion, so long as money isn't an issue, I will surely choose to study overseas. (總之，只要錢不是問題，我一定會選擇出國留學。)\
+    To sum up, the benefits of studying abroad far outweigh the challenges. (總結來說，出國留學的好處遠大於挑戰。)
+* `All in all` / `Consequently` 總而言之、因此
+  * `All in all` 常用於總結全文論點；`Consequently` 強調最後推導出的結論。
+  * All in all, staying open-minded is the key to personal growth. (總而言之，保持心胸開闊是個人成長的關鍵。)\
+    Consequently, I believe that everyone should try to live abroad at least once. (因此，我相信每個人都應該至少嘗試在國外生活一次。)
+* `In short` / `In brief` 簡而言之
+  * In short, pursuing a dream is never a waste of time. (簡而言之，追求夢想絕非浪費時間。)
+
+#### 寫作建議
+
+針對這類「論述趨勢並表達個人意願」的題目，大家可以參考以下三點建議：
+
+1. 理由要「內外兼具」：在寫理由時，可以學習這篇文章，一個理由寫「內在成長」（開眼界），一個理由寫「外在實務」（就業競爭力）。這樣會顯得你的思維非常全面且成熟。
+2. 在描述個人願望時，加入自己的個性，讓理由更清晰。例如原文提到 `since I am an open-minded and outgoing person.`。如果你的性格內向，可以寫 `Even though I am introverted, I believe this challenge will help me break out of my comfort zone.`。
+3. 結尾要有高度。試著像原文結尾一樣 `push myself to a higher level of excellence.`。這種充滿正能量的動詞片語，能讓老師對你的整篇表現留下極佳的印象。
+
+</details>
 
 ## 3.
 
 1. Dear chil&#x64;**,** \
-   When you read this, you'll be in high school. What an exciting time it <mark style="color:blue;">**must**</mark> be for you! As I write this, I am also a high schooler. I'm enjoying my life <mark style="color:blue;">**as**</mark> a teenager ─ I <mark style="color:blue;">**hang out**</mark> with my friends a lot, listen to great music, and <mark style="color:blue;">**play sports**</mark> on the weekends.
+   When you read this, you'll be in high school. What an exciting time it <mark style="color:blue;">**must**</mark> be for you! As I write this, I am also a high schooler. I'm enjoying my life <mark style="color:blue;">**as**</mark> a teenager—I <mark style="color:blue;">**hang out**</mark> with my friends a lot, listen to great music, and <mark style="color:blue;">**play sports**</mark> on the weekends.
 2. I won't say everything is <mark style="color:blue;">**rosy**</mark>, <mark style="color:blue;">**though**</mark>. There are times I feel <mark style="color:blue;">**overwhelmed**</mark> by my studies and the growing <mark style="color:blue;">**pains**</mark> of <mark style="color:blue;">**being stuck**</mark> between childhood and <mark style="color:blue;">**adulthood**</mark>.
 3. I'm not sure how the world will have changed <mark style="color:blue;">**by the time**</mark> you read this. However, I think every teenager shares the experience of trying to <mark style="color:blue;">**figure out**</mark> who they are and how they <mark style="color:blue;">**fit in**</mark>.
 4. I want to tell you: don't worry too much about your <mark style="color:blue;">**current**</mark> problems. Some things may feel like the end of the world, but they will pass and you'll have better times <mark style="color:blue;">**ahead**</mark>. <mark style="color:blue;">**Keep your chin up**</mark>! You come from a strong mother, so I know you're a strong child!\
    &#x20;                                                                                                                                           All my lov&#x65;**,**\
    &#x20;                                                                                                                                                      Mom
+
+<details>
+
+<summary>作文百句 3 單字整理</summary>
+
+#### 單字
+
+* Rosy (adj.) 美好的、樂觀的
+  * 由 `rose (玫瑰)` 演變而來，字面意思是玫瑰色的，常用於形容前景或生活美滿。
+  * Although the future looks rosy, we should still be prepared for challenges. (雖然未來看起來很美好，我們仍應為挑戰做好準備。)
+* Overwhelmed (adj.) 感到難以招架的、不知所措的
+  * 常用來形容壓力、工作量或情緒大到讓人無法負荷，常接介係詞 `by` 或 `with`。
+  * He felt overwhelmed by the amount of work he had to do. (他覺得要完成的工作量多到讓他難以招架。)\
+    She was overwhelmed with joy when she heard that she won the award. (當她得知她獲獎時，她欣喜若狂。)
+* Studies (n.) 學業、研究
+  * 當「學業」講時通常用複數形。
+  * It is important to find a balance between your studies and your social life. (在學業與社交生活之間找到平衡是很重要的。)
+* Childhood (n.) 童年時期
+  * 字尾 `-hood` 常用來表示一個人的身分、狀態或一段時期。若要表示成年期，可以用 `adulthood`。
+  * I have many fond memories of my childhood. 我的童年有許多美好的回憶。\
+    Transitioning from teenager to adulthood can be a difficult process. (從青少年轉變到成年期可能是一個艱難的過程。)
+* Experience (n.) 經驗、經歷
+  * 當不可數名詞時指「經驗」；當可數名詞時指一次次的「經歷」。
+  * Living alone for the first time was a great experience for me. (第一次獨自生活對我來說是一個很棒的經歷。)\
+    Does he have enough experience for this job? (他有足夠的經驗勝任這份工作嗎？)
+* Ahead (adv.) 在前面、在未來
+  * 常用於時間或空間的前方。
+  * Don't look back; you have a bright future ahead. (不要回頭看；你的未來一片光明。)\
+    There are many obstacles <mark style="color:blue;">**ahead of**</mark> us. (在我們面前有許多障礙。)
+* Schooler (n.) 學生、在學者
+  * 本單字通常不單獨使用，而是作為字尾或與級別連用，用來指稱處於某個受教階段的人。
+  * `High schooler` 高中生 / `Middle schooler` 國中生
+    * I am a high schooler who loves playing basketball. (我是一個愛打籃球的高中生。)
+  * `Home-schooler` 在家自學者
+    * Being a home-schooler requires a lot of self-discipline. (作為一名在家自學者需要極大的自律。)
+  * `Preschooler` 學齡前兒童、幼兒
+    * The park is always full of preschoolers on Sunday mornings. (星期天早上公園總是擠滿了學齡前兒童。)
+
+</details>
+
+<details>
+
+<summary>作文百句 3 片語整理</summary>
+
+#### 片語
+
+* Hang out with sb 和某人一起鬼混、閒晃。
+  * 形容非正式的聚會或打發時間。
+  * I enjoy hanging out with my friends at the mall. (我喜歡和朋友們在購物中心閒晃。)\
+    Do you want to hang out with us tonight? (你今晚想和我們一起去混嗎？)
+* Be stuck between A and B 卡在 A 與 B 之間
+  * 除了實體空間，也常用於描述心境上的兩難 (`dilemma`) 或過渡階段。
+  * I am stuck between childhood and adulthood. (我正處於童年與成年之間的尷尬期。)\
+    The car was stuck between two large trucks. (那輛汽車被卡在兩輛大卡車之間。)
+* By the time + S + V 到了...的時候
+  * 用於強調動作發生的先後順序，且常與完成式連用。至於該用哪種完成式，需透過該句的情境判斷。
+  * I'm not sure how the world <mark style="color:blue;">**will have changed**</mark> by the time you read this. (我不知道當你讀到這篇文章時，世界會發生怎樣的變化。)\
+    By the time we reached the theater, the movie <mark style="color:blue;">**had already started**</mark>. (當我們到達電影院時，電影已經開始了。)
+* Figure out sth 想出、弄清楚、理解
+  * It took me a while to figure out how to use the software. (我花了一段時間才弄清楚如何使用這款軟體。)\
+    They are trying to figure out the best solution to the problem. (他們正試圖想出解決這個問題的最佳方案。)
+* Fit in 融入、合得來
+  * 常用於描述人適應新環境、社交群體或社會規範。
+  * She moved to a new school and struggled to fit in. (她轉學到一所新學校，且很難融入其中。)\
+    He dressed like everyone else just to fit in. (他穿得跟其他人一樣只是為了融入大家。)
+* Keep one's chin up 振作起來、不氣餒
+  * `Chin` 是「下巴」的意思，所以這個片語的字面意思是「抬起下巴」，引申為在困境中保持信心與勇氣。
+  * Keep your chin up! Things will get better soon. (振作起來！事情很快就會好轉的。)\
+    Despite the failure, he managed to keep his chin up. (儘管失敗了，他仍設法保持不氣餒。)
+
+</details>
+
+<details>
+
+<summary>作文百句 3 文法整理</summary>
+
+#### 文法
+
+* `Will have + V-p.p.` 未來完成式 (Future Perfect)
+  * 表達「在<mark style="color:blue;">**未來**</mark>某個時間點之前，某個動作已經完成」的狀態。
+  * By the time you read this, you will have finished your studies. (到你讀到這封信時，你將已經完成學業。)\
+    By the end of this year, he will have lived here for five years. (到今年年底，他將已經在這裡住了五年。)
+* `What` 開頭的感嘆句
+  * 結構為：`What + a/an + (Adj) + N + (S + V)!`。請注意<mark style="color:blue;">**句尾不是問號**</mark>。
+  * What an exciting time (it must be for you)! (對你來說這一定是個多麼令人興奮的時光！)\
+    What a beautiful day (it is)! (多麼美好的一天呀！)
+* 現在分詞 (V-ing) 引導的形容詞用法
+  * `growing pains` 中的 `growing` 作為形容詞，修飾後面的名詞 `pains`。
+  * There are times I feel overwhelmed by the growing pains. (有些時候我會因為成長的痛苦而感到難以招架。)\
+    The falling leaves covered the entire ground. (落葉鋪滿了整個地面。)
+* 疑問詞引導的名詞子句&#x20;
+  * 使用 `who`, `when`, `where`, `which`, `why`, `how` 等疑問詞來引導子句，作為主要動詞的受詞。注意語序需使用「陳述句語序」（主詞 + 動詞，也就是<mark style="color:blue;">**順著寫**</mark>），而<mark style="color:blue;">**不是問句的格式**</mark>。
+  * I think every teenager shares the experience of trying to figure out who they are. (我認為每個青少年都有試著弄清楚自己是誰的經歷。)\
+    Nobody knows why she is angry now. (沒人知道她現在為什麼生氣。)
+* 助動詞對現在的推測
+  * `must be` 表示對現在事實的高度肯定推測。
+  * What an exciting time it must be for you! (這對你來說一定是個令人興奮的時刻！)\
+    You must be tired after working all day. (工作了一整天，你一定很累了。)
+
+</details>
+
+<details>
+
+<summary>作文百句 3 寫作建議</summary>
+
+#### 文章分析
+
+這篇「給自己未來小孩的一封信」的文章以「母親寫給未來孩子」的視角，成功地將個人的青春回憶與對未來的祝福串聯在一起。
+
+* 角色設定與時空交錯：作者巧妙地讓「現在的自己 (高中生)」與「未來的孩子 (也是高中生)」對話。這種對比法能讓讀者感受到時間的流動，也讓安慰的話語更具說服力。
+* 情感真實性的建立：文章沒有一味地說「高中生活很棒」，而是坦誠地提到 `won't say everything is rosy` 以及 `feel overwhelmed`。這種先抑後揚的做法，能讓後面的鼓勵更顯真實。
+* 具體的細節描寫：透過 `hang out with friends`, `listen to great music` 等具體行為，勾勒出青少年的生活輪廓，比起空洞的形容詞更能引發共鳴。
+
+#### 寫作補給站—書信與心靈成長常用語
+
+* 書信體的開頭與結尾語
+  * By the time you receive this, ... 當你收到這封信時，...
+  * As I am writing this, ... 正當我在寫這封信時，...
+  * All my love / Best wishes / Yours sincerely 書信結尾後的署名常用詞
+* 描述心境轉折的句型
+  * Life is not a bed of roses. 生活並非事事如意。
+  * Every cloud has a silver lining. 黑暗中總有一線曙光 (指困境中必有希望)。
+  * It is just a phase you are going through. 這只是你必經的一個階段。
+* 給予鼓勵與力量的片語
+  * Stay true to yourself. 保持真實的自我。
+  * Follow your heart. 追隨你的內心。
+  * Believe in your potential. 相信你的潛力。
+
+#### 寫作建議
+
+針對這類文章，大家可以參考以下建議：
+
+1. 善用<mark style="color:blue;">**時態**</mark>來區分層次：在寫這類涉及未來的信件時，可以學習原文用 `will be` 描述想像中的未來、用 `will have changed` (未來完成式) 增加語氣的深度。
+2. 加入<mark style="color:blue;">**對比**</mark>：寫作時可以將光鮮亮麗的一面與辛苦掙扎的一面並陳。例如原文中提到 `play sports` (樂趣) 與 `growing pains` (痛苦) 的並存。
+3. 結尾：書信體作文最忌諱草率結束。建議像原文最後提到 `Keep your chin up!` 並給予一個強而有力的肯定 (如：`you're a strong child!`)，這能提升整篇文章的格調。
+
+</details>
 
 ## 4.
 
