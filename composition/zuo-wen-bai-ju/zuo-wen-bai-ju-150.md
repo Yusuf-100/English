@@ -12,6 +12,32 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 4. My grandfather <mark style="color:blue;">**quit smoking**</mark> because of the <mark style="color:blue;">**ashtray**</mark> I had given to him. <mark style="color:blue;">**What a miracle**</mark> it was! Now, my grandfather has <mark style="color:blue;">**quit smoking**</mark> for more than one year.
 5. <mark style="color:blue;">**On**</mark> last Father's Day, I gave him a present, which <mark style="color:blue;">**had nothing to do with**</mark> smoking. I bought him a shirt and a card to show my <mark style="color:blue;">**respect**</mark> and <mark style="color:blue;">**concern**</mark> for him. On the card I wrote, "<mark style="color:blue;">**In exchange for**</mark> the <mark style="color:blue;">**ashtray**</mark> that you have never used and will never use."
 
+#### 重點整理
+
+* Ashtray (n.) 煙灰缸
+  * 這是由 `ash` (灰) + `tray` (盤子) 組成的複合詞。
+  * He emptied the ashtray before cleaning the table. (他在清理桌子前倒掉了煙灰缸。)
+* Skull (n.) 骷髏、頭蓋骨
+  * 此單字在文章中作為象徵物，代表死亡。
+  * The poison bottle had a skull and crossbones on the label. (毒藥瓶的標籤上印有骷髏和交叉骨。)
+* Frugal (adj.) 節儉的
+  * 此單字通常帶有褒義；`cheap`, `stingy` 表吝嗇、小氣，帶有貶義。
+  * Despite being wealthy, she leads a frugal life. (儘管富有，她過著簡樸節儉的生活。)
+* Miracle (n.) 奇蹟
+  * It was a miracle that no one was hurt in the accident. (事故中沒人受傷真是個奇蹟。)
+* Stubborn (adj.) 固執的、頑固的。通常帶有貶義，形容人的性格不易被改變、不可理喻或死板。
+  * He is too stubborn to admit his mistakes. (他太固執了，不肯承認錯誤。)
+* Admonish (v.) 告誡、輕責
+  * admonish + sb + for + N/Ving (因某事責備某人)
+    * The teacher admonished the students for being late. (老師因為學生遲到而責備他們。)
+  * admonish + sb + to + VR (勸告某人去做某事)
+    * My mother admonished me to be more careful with my money. (母親力勸我要更小心用錢。)
+  * admonish + that 子句 (S + V) (正式地告誡某件事)
+    * The doctor admonished that too much stress could lead to heart disease. (醫生告誡說壓力太大可能導致心臟病。)
+* Achieve (v.) 達成、實現
+  * 後面通常接 `goal`, `purpose`, `success` 等名詞。
+  * 例句: If you work hard, you will eventually achieve your goals. (如果你努力工作，最終會達成目標。)
+
 ## 2.&#x20;
 
 1. Do you know that each year around 5% of all high school <mark style="color:blue;">**graduates**</mark> choose to study <mark style="color:blue;">**abroad**</mark>? <mark style="color:blue;">**Nowadays**</mark>, college students study <mark style="color:blue;">**abroad for**</mark> <mark style="color:blue;">**various**</mark> reasons. <mark style="color:blue;">**In my opinion**</mark>, two major <mark style="color:blue;">**factors**</mark> <mark style="color:blue;">**are responsible for**</mark> this <mark style="color:blue;">**trend**</mark>.
