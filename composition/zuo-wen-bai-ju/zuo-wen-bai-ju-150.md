@@ -430,7 +430,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 1. 善用<mark style="color:blue;">**時態**</mark>來區分層次：在寫這類涉及未來的信件時，可以學習原文用 `will be` 描述想像中的未來、用 `will have changed` (未來完成式) 增加語氣的深度。
 2. 加入<mark style="color:blue;">**對比**</mark>：寫作時可以將光鮮亮麗的一面與辛苦掙扎的一面並陳。例如原文中提到 `play sports` (樂趣) 與 `growing pains` (痛苦) 的並存。
-3. 結尾：書信體作文最忌諱草率結束。建議像原文最後提到 `Keep your chin up!` 並給予一個強而有力的肯定 (如：`you're a strong child!`)，這能提升整篇文章的格調。
+3. 結尾：書信體作文最忌諱草率結束。建議像原文最後提到 `Keep your chin up!` 並給予一個強而有力的肯定 (如 `you're a strong child!`)，這能提升整篇文章的格調。
 
 </details>
 
