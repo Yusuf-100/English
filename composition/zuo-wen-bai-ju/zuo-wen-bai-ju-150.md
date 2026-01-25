@@ -1123,6 +1123,125 @@ She plays the piano, and she plays the violin, too.
    I would like to discuss with you some <mark style="color:blue;">**bullying**</mark> that has been <mark style="color:blue;">**taking place**</mark> in our class. One boy in our class, Mark, is not as <mark style="color:blue;">**masculine**</mark> as some of the other boys in the class. For this reason, many of the boys <mark style="color:blue;">**look down on**</mark> him, especially the more popular classmates. Mark <mark style="color:blue;">**barely**</mark> has any friends in class. What's more, the <mark style="color:blue;">**remaining**</mark> few who stand by him are <mark style="color:blue;">**threatened**</mark> by the <mark style="color:blue;">**bullies**</mark>. If they dare to <mark style="color:blue;">**lend**</mark> Mark <mark style="color:blue;">**a hand**</mark>, they will <mark style="color:blue;">**suffer from**</mark> <mark style="color:blue;">**isolation**</mark> <mark style="color:blue;">**as a consequence**</mark>.
 2. I know how troublesome it is to deal with something like this, but it's still necessary to do so. <mark style="color:blue;">**Isolation**</mark> has a disastrous <mark style="color:blue;">**impact**</mark> <mark style="color:blue;">**on**</mark> one's mental development. Should the <mark style="color:blue;">**current**</mark> situation continue, Mark may have difficulty <mark style="color:blue;">**interacting**</mark> <mark style="color:blue;">**with**</mark> people in years to come. Besides, it's <mark style="color:blue;">**critical**</mark> to teach students to respect those who are different from them. If you are able to help, I'm sure Mark would be <mark style="color:blue;">**eternally**</mark> <mark style="color:blue;">**grateful to**</mark> you.
 
+<details>
+
+<summary>作文百句 7 單字整理</summary>
+
+### 單字
+
+* Bullying (n.) 霸凌、恃強凌弱
+  * `Bullying` 強調的是「霸凌這個行為」；`bully` 當名詞時是指「霸凌者」。
+  * Online bullying has become a serious issue among teenagers. (網路霸凌在青少年之間已成為一個嚴重的問題。)
+* Masculine (adj.) 男性的、陽剛的、有男子氣概的
+  * 相對詞是 `feminine` (女性的)。
+  * Some people still hold stereotypical views about what is considered masculine behavior. (有些人對於什麼是陽剛的行為仍抱持著刻板印象。)
+* Barely (adv.) 幾乎不、僅僅、勉強
+  * He was so tired that he could barely keep his eyes open. (他累到幾乎睜不開眼睛。)
+* Remaining (adj.) 剩下的、剩餘的
+  * 來自於動詞 `remain`。
+  * Please finish the remaining work before you leave. (請在離開前完成剩下的工作。)
+* Threaten (v.) 威脅、恐嚇
+  * 名詞形式為 `threat`。
+  * The bullies threatened to hurt him if he told the teacher. (那些霸凌者威脅他說，如果他告訴老師就要傷害他。)
+* Dare (v.) 敢、膽敢
+  * 常接不定詞 `to VR`，在否定或疑問句中偶爾可作助動詞省略 `to`。
+  * She didn't dare (to) jump off the high diving board. (她不敢從高跳水板跳下來。)
+* Suffer (v.) 受苦、遭受 (痛苦、損害等)
+  * `Suffer + 受詞`，後方直接接<mark style="color:blue;">**負面**</mark>的名詞，通常指遭受<mark style="color:blue;">**具體的、一次性的損失或損害**</mark>。常見搭配受詞有 `loss`, `defeat`, `injury`, `damage`。
+    * The company suffered a huge financial loss this year.
+    * Our team suffered a crushing defeat in the final match.
+    * He suffered a serious leg injury during the game.
+  * `Suffer from + 受詞`，強調<mark style="color:blue;">**長期、持續性**</mark>的狀態，或者是特定的<mark style="color:blue;">**疾病、困擾**</mark>，表「受...所苦」或「患有...」。常見搭配受詞有 `headaches`, `insomnia` (失眠), `depression` (憂鬱), `bullying`, `poverty` (貧窮)。
+    * Mark suffers from isolation and bullying in class.
+    * Many people in this city suffer from air pollution.
+    * He has suffered from insomnia for years.
+* Isolation (n.) 孤立、隔離
+  * 動詞為 `isolate`。在社交情境中指被群體排斥。
+  * Feelings of isolation can lead to depression. (孤立感可能會導致憂鬱症。)
+* Consequence (n.) 後果、結果、代價
+  * 通常指行為隨之而來的結果 (常為負面的)。
+  * If you break the rules, you must be prepared to face the consequences. (如果你違反規則，就必須準備好面對後果。)
+* Troublesome (adj.) 令人煩惱的、討厭的、麻煩的
+  * This is a troublesome problem that requires careful consideration. (這是一個棘手的問題，需要仔細考慮。)
+* Disastrous (adj.) 災難性的、極其糟糕的
+  * 名詞為 `disaster` (災難)。
+  * The typhoon had a disastrous effect on the island's agriculture. (颱風對島上的農業造成了災難性的影響。)
+* Impact (n.) 巨大影響、衝擊
+  * 常與介系詞 `on` 連用。
+  * His speech made a profound impact on the audience. (他的演講對聽眾產生了深遠的影響。)
+* Interact (v.) 互動、交流
+  * 名詞為 `interaction`。常與介系詞 `with` 連用。
+  * It's important for children to learn how to interact with others. (學習如何與他人互動對孩子來說很重要。)
+* Critical (adj.) 關鍵的、至關重要的；批評的、批判性的
+  * 在本文中作「至關重要的」解。
+  * Time is critical in a rescue mission. (在救援任務中，時間至關重要。)
+  * Teachers should encourage critical thinking among their students. (老師應該鼓勵學生們進行批判性思考。)
+* Eternally (adv.) 永恆地、永久地
+  * 形容詞為 `eternal`。
+  * They promised to love each other eternally. (他們承諾要永恆地愛著彼此。)
+* Grateful (adj.) 感激的、感謝的
+  * 常見用法為 `~ to sb` (對某人) 或 `~ for sth` (因某事)。
+  * I am deeply grateful to you for your timely help. (我非常感激你及時的幫助。)
+
+</details>
+
+<details>
+
+<summary>作文百句 7 片語整理</summary>
+
+### 片語
+
+* Take place 發生、舉行
+  * 通常指計畫好的事情或某種現象的產生。
+  * The wedding will take place in a beautiful garden next month. (婚禮下個月將在一個美麗的花園舉行。)
+* Look down on 輕視、瞧不起
+  * 反義詞是 `look up to` (尊敬)。
+  * It's wrong to look down on people just because they are different. (僅僅因為他人與眾不同就瞧不起他們是不對的。)
+* Stand by (sb) 支持、站在 (某人) 這邊
+  * 指在困難時刻依然不離不棄。
+  * No matter what happens, I will always stand by you. (無論發生什麼事，我都會永遠支持你。)
+* Lend (sb) a hand 幫 (某人) 一個忙、向 (某人) 伸出援手
+  * Could you lend me a hand with these heavy boxes? (你能幫我搬這些沉重的箱子嗎？)
+* Suffer from 受...之苦、患有...
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-dan-zi-zheng-li)關於 `Suffer` 與 `Suffer from` 的比較。
+* As a consequence 結果、因此
+  * 等同於 `as a result` 或 `consequently`。用於引導某個行為或狀況產生的後果 (常為負面的)。
+  * He spent all his money on video games; as a consequence, he couldn't afford lunch. (他把所有的錢都花在電玩上了；結果，他沒錢買午餐吃。)
+  * The forest was destroyed. Consequently, many animals lost their homes. (森林被摧毀了。因此，許多動物失去了家園。)
+* Deal with 處理、應付
+  * 等同於 `handle` 或 `tackle`。
+  * Teachers have to deal with many different types of students every day. (老師每天都必須應付許多不同類型的學生。)
+* Have difficulty (+ in) V-ing 做...有困難
+  * `in` 常被省略，後方一定要接 `V-ing`。
+  * I have difficulty understanding what he's saying. (我理解他在說什麼時有困難。)
+* In years to come 在未來的幾年裡
+  * 用於描述長遠的影響。
+  * Technology will change even more in years to come. (科技在未來的幾年裡會變得更多。)
+
+</details>
+
+<details>
+
+<summary>作文百句 7 文法整理</summary>
+
+### 文法
+
+
+
+</details>
+
+<details>
+
+<summary>作文百句 7 寫作建議</summary>
+
+### 文章分析
+
+### 寫作補給站—
+
+### 寫作建議
+
+</details>
+
 ## 8.
 
 1. Last Friday my classmates and I went on a <mark style="color:blue;">**field trip**</mark> to the zoo with our teacher. Before we entered the zoo, the teacher gave each of us a <mark style="color:blue;">**worksheet**</mark>. He asked us to <mark style="color:blue;">**observe**</mark> the animals' living and health conditions and <mark style="color:blue;">**take notes**</mark>. <mark style="color:blue;">**To be honest**</mark>, in the beginning we just took the trip as an <mark style="color:blue;">**outing**</mark> in which we would be able to take tons of <mark style="color:blue;">**selfies**</mark> with lovely animals.
