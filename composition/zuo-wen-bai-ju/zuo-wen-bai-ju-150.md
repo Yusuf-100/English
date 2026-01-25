@@ -895,6 +895,228 @@ She plays the piano, and she plays the violin, too.
 3. <mark style="color:blue;">**Hard as she tried**</mark>, she couldn't wake Jack up. After a few minutes, she couldn't <mark style="color:blue;">**stand**</mark> it any more, so she <mark style="color:blue;">**rose**</mark> from her seat and stood <mark style="color:blue;">**by**</mark> the door. Jack kept sleeping for quite a long while. Finally, he woke up and found that he was at the bus <mark style="color:blue;">**terminal**</mark>, which was far from his home.
 4. He looked at his watch and found it was almost eleven o'clock. It was impossible for him to take another bus home. Feeling cold and hungry, he <mark style="color:blue;">**had no choice but to**</mark> <mark style="color:blue;">**hail a taxi**</mark>, which cost him almost five hundred dollars. After that, he <mark style="color:blue;">**vowed**</mark> that he would never sleep on the bus again.
 
+<details>
+
+<summary>作文百句 6 單字整理</summary>
+
+### 單字
+
+* Exhausted (adj.) 筋疲力竭的
+  * 形容極度疲勞，比 `tired` 強烈許多。
+  * After working for twelve hours straight, the nurses felt completely exhausted. (連續工作十二小時後，護理師們感到筋疲力竭。)
+* Cram school (n.) 補習班
+  * 亞洲學生非常熟悉的單詞，特指為了應付考試而設立的學校。
+  * In Taiwan, many students spend their evenings at cram schools. (在台灣，許多學生晚上都在補習班度過。)
+* Drag (v.) 拖曳、拖著 (沉重地) 走
+  * 常用於描述身體沉重或被迫移動。
+  * He had to drag his heavy suitcase up the stairs. (他不得不把沉重的行李箱拖上樓。)
+* Hesitation (n.) 猶豫
+  * 其動詞為 `hesitate`。常用於 `without hesitation` (毫不猶豫)。
+  * When she saw the child in danger, she jumped into the river without hesitation. (當她看到孩子身處險境，她毫不猶豫地跳進河裡。)
+* Overcome (v.) 被...壓倒、克服
+  * 在本文中指被某種情緒或生理狀態 (如疲勞) 所席捲。
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-dan-zi-zheng-li)關於 `overcome` 作為「克服」的用法。
+  * He was overcome by grief after hearing the sad news. (聽到不幸的消息後，他被悲傷壓垮了。)
+* Fatigue (n.) 疲勞
+  * Driving with fatigue is as dangerous as drunk driving. (疲勞駕駛和酒駕一樣危險。)
+* Drool (v.) 流口水
+  * 描寫睡相或看到美食時的生動動詞。
+  * The dog started to drool when it smelled the steak. (那隻狗聞到牛排味時開始流口水。)
+* Lean (v.) 傾斜、靠著
+  * 常用結構為 `lean against...` (靠在...上)。
+  * Don't lean against the door while the train is moving. (火車移動時請勿靠在車門上。)
+* Snore (v.) 打呼、打鼾
+  * He snored so loudly that his wife couldn't fall asleep. (他打呼聲太大，讓他妻子睡不著覺。)
+* Embarrassed (adj.) 尷尬的、難堪的
+  * I felt so embarrassed when I forgot my teacher's name. (當我忘記老師的名字時，我感到非常尷尬。)
+* Stand (v.) 忍受、容忍
+  * 在否定句中非常常用，意義等同於 `tolerate`。
+  * I can't stand the loud noise from the construction site anymore. (我再也受不了建築工地的噪音了。)
+* Rise (v.) 站起身、起身、升起
+  * 在本文中指「從座位上站起來」。注意其三態變化為 `rise-rose-risen`。
+  * She rose from her seat to welcome the guests. (她從座位上站起來迎接客人。)
+  * The sun rises in the east and sets in the west. (太陽從東方升起，從西方落下。)
+* Terminal (n.) 終點站、航廈
+  * 指公車、火車或飛機路線的末端。
+  * We finally arrived at the bus terminal after a long journey. (經過漫長的旅程，我們終於抵達了公車總站。)
+* Impossible (adj.) 不可能的
+  * 反義字為 `possible`。
+  * It's almost impossible to find a parking space in this area. (在這個區域幾乎不可能找到停車位。)
+* Hail (v.) 招呼 (計程車)、歡呼
+  * 在交通情境下，特指在路邊招手叫計程車。
+  * She hailed a taxi because she was late for her meeting. (因為開會遲到，她招了一輛計程車。)
+  * The people lined the streets to hail the returning heroes. (人們夾道歡迎凱旋的英雄們。)
+* Vow (v.) (鄭重地) 誓言、發誓
+  * They vowed to remain friends forever regardless of the distance. (他們發誓無論距離多遠，永遠都是朋友。)
+
+</details>
+
+<details>
+
+<summary>作文百句 6 片語整理</summary>
+
+### 片語
+
+* All day (long) 整天
+  * He has been playing video games all day long. (他整天都在玩電動遊戲。)
+* Pull up (車輛) 停下、駛近
+  * 特指公車或車輛靠站停下的動作。
+  * A black car pulled up in front of the hotel. (一輛黑色的車子在飯店門口停了下來。)
+* Without hesitation 毫不猶豫
+  * She accepted the job offer without hesitation. (她毫不猶豫地接受了那份工作錄取。)
+* Get on / off 上車 / 下車
+  * 用於公車、火車、飛機等大型交通工具 (<mark style="color:blue;">**可站立**</mark>)。小型車用 `get in / out of`。
+  * I saw him getting on the bus this morning. (我今天早上看到他上公車。)
+* Far from 離...很遠
+  * 可指物理距離，也可指程度上的「一點也不」。
+  * The school is far from my house, so I take the bus. (學校離我家很遠，所以我搭公車。)
+  * The app is far from useful. It translates everything wrong. (這個軟體一點用處都沒有，翻譯全錯。)
+* Have no choice but to + VR 除...之外別無選擇、不得不...
+  * `can't help V-ing`, `can't but VR`, `can't help but VR` 強調「忍不住...」、「不禁...」； `have no choice but to VR` 強調因為客觀環境或情況「別無他法」而不得不做。請特別注意每種寫法的差異，很愛考。
+  * I had no choice but to laugh. (我除了笑別無選擇。)
+  * I couldn't help laughing. = I couldn't (help) but laugh. (我忍不住笑了。)
+
+</details>
+
+<details>
+
+<summary>作文百句 6 文法整理</summary>
+
+### 文法
+
+* `Adj/Adv/N + as/though + S + V` 雖然……但是……
+  * 原本是 `Though + S + V + Adj/Adv/N`。若將形容詞、副詞或名詞置於句首，則句子需<mark style="color:blue;">**倒裝**</mark>。請注意，若使用名詞置首的倒裝寫法，則其前面<mark style="color:blue;">**不加冠詞**</mark>。使用倒裝寫法可以增加強調的意思。
+  * Though she tried hard, she couldn't wake Jack up. → <mark style="color:blue;">**Hard as she tried**</mark>, she couldn't wake Jack up.
+  * Though he was tired, he continued his work. → <mark style="color:blue;">**Tired though he was**</mark>, he continued his work.
+  * Though he is a student, he knows a lot about English. → <mark style="color:blue;">**Student as he is**</mark>, he knows a lot about English. (<mark style="color:$danger;">**錯誤範例**</mark>：A student as he is...)
+
+#### 一般分詞構句
+
+* 當兩個句子以連接詞連接，且<mark style="color:blue;">**主詞相同**</mark>時，為了簡潔，可將次要子句簡化為分詞。
+* 變換步驟：
+  1. 刪除連接詞 (若意思明確)。
+  2. 刪除相同的主詞。
+  3. 動詞變分詞：主動變 `V-ing`，被動變 `V-ed`。
+* 主動分詞構句：
+  * After Jack had studied all day, he was exhausted. → <mark style="color:blue;">**Having studied**</mark> all day, Jack was exhausted.：`Jack` 與「學習」之間是主動的關係，故用 `V-ing`。
+  * When the thief saw the police, he ran away. → <mark style="color:blue;">**Seeing**</mark> the police, the thief ran away.：這裡的 `the thief` 與「看見警察」之間是主動的關係，故用 `V-ing`。
+* 被動分詞構句：
+  * Since Jack was overcome by fatigue, he fell asleep. → <mark style="color:blue;">**Overcome**</mark> by fatigue, Jack fell asleep.：`Jack` 是「被疲勞感席捲」，故用 `V-ed`。
+  * As Alana was raised in Taiwan, she speaks Mandarin fluently. → <mark style="color:blue;">**Born**</mark> in Taiwan, Alana speaks Mandarin fluently.：`Alana` 是在台灣「被養大」，故用 `V-ed`。
+
+{% hint style="info" %}
+#### 小撇步
+
+學習此文法時，請與[第四篇的「分詞作為後置修飾語：`V-ing` vs. `V-ed`」](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-4-wen-fa-zheng-li)相互對照，兩者的省略邏輯相似，建議一次把他們學會。
+{% endhint %}
+
+{% hint style="info" %}
+#### 懸空分詞與慣用語
+
+在標準的分詞構句中，分詞的主詞必須與主句主詞一致。如果「分詞的主詞」找不到對應的人，就像懸在半空中一樣，這就是懸空分詞。<mark style="color:blue;">**這樣寫是錯誤的**</mark>。
+
+* <mark style="color:$danger;">**錯誤範例**</mark>：`Walking down the street, the trees were beautiful.`
+  * 這會變成「樹在路上走」，邏輯不通。
+* 正確寫法：`Walking down the street, I found the trees beautiful.`
+
+但是，有一些分詞用法因為太常被使用了，大家已經習慣把動作主體設定為「說話者」或「大眾」，所以即便與主句主詞不同，也被視為正確的固定用法。<mark style="color:blue;">**底下這些用法都是正確的**</mark>。
+
+* Judging from..., ... 從...來判斷
+  * Judging from his expression, he is clearly upset.
+* Generally speaking, ... 一般而言
+  * Generally speaking, girls live longer than boys.
+* Strictly speaking, ... 嚴格來說
+  * Strictly speaking, Alana is my girlfriend, not just a classmate.
+* Taking everything into consideration, ... 考慮到所有因素
+  * Taking everything into consideration, our plan was a success.
+{% endhint %}
+
+#### 獨立分詞構句
+
+當我們想要簡化句子，卻發現<mark style="color:blue;">**主詞不一致**</mark>時，就必須使用「獨立分詞構句」。
+
+* 前提條件：
+  1. 兩句主詞不一致。
+  2. 兩句之間必須有明確的<mark style="color:blue;">**邏輯關係**</mark> (因果、時序、條件、附隨情況)，這點和一般分詞構句相同。
+* 變換步驟：
+  1. 刪除連接詞 (若意思明確)。
+  2. <mark style="color:blue;">**保留副詞子句的主詞**</mark> (這裡與一般分詞構句不同)。
+  3. 將動詞變為分詞：主動變 `V-ing`，被動變 `V-ed`。
+* 例句：
+  * When the sun has risen, the farmers start to work. → <mark style="color:blue;">**The sun having risen**</mark>, the farmers start to work.
+  * If the weather permits, we will go on a picnic. → <mark style="color:blue;">**Weather permitting**</mark>, we will go on a picnic.
+  * Since the lion was kept in the cage, the children were not afraid. → <mark style="color:blue;">**The lion kept**</mark> in the cage, the children were not afraid.
+* 常見的固定俗諺或慣用語：許多我們常用的轉折詞或片語，本質上都是獨立分詞構句。
+  * That being said, ... 話雖如此、儘管如此
+  * Weather permitting, ... 天氣允許的話
+  * God willing, ... 上帝保佑、如果順利的話
+  * All things considered, ... 考慮到所有情況
+  * Everything taken into account, ... 綜合考慮
+
+| 特徵   | 一般分詞構句                  | 獨立分詞構句                     |
+| ---- | ----------------------- | -------------------------- |
+| 主詞關係 | 前後主詞相同                  | 前後主詞不一致                    |
+| 主詞處理 | 刪除副詞子句主詞                | 保留副詞子句主詞                   |
+| 結構示範 | `V-ing/V-ed..., S + V.` | `S1 + V-ing/V-ed, S2 + V.` |
+
+{% hint style="danger" %}
+#### 獨立分詞構句使用上的禁忌
+
+獨立分詞構句不可用於「強行連接」兩個僅有鬆散關係的句子。以翻譯「她開始種植花卉，她的植物在她的照顧下茁壯成長。」為例：
+
+* <mark style="color:$danger;">**錯誤範例**</mark>：She began planting flowers, her plants thriving under her care.
+  * 這兩句雖然在同一個主題，但缺乏強烈的邏輯推動。
+* 建議寫法：She began planting flowers, which thrived under her care.
+  * 這樣寫不僅流暢，且更能體現出「植物」與「花卉」之間的繼起關係。
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 6 寫作建議</summary>
+
+### 文章分析
+
+這是一篇幽默的敘事文，非常適合學習如何描寫生活中的尷尬瞬間。
+
+* 鋪陳：交代時間、地點、疲勞狀態。
+* 衝突：具體描述 Jack 睡著後的一系列尷尬行為。
+* 轉折：女孩受不了離去，Jack 在終點站驚醒。
+* 代價：沒車回家，被迫花大錢搭計程車。
+* 教訓：以發誓結尾，呼應題目核心。
+
+### 寫作補給站—交通工具相關片語
+
+* Get on / Get off 上下大車 (公車、火車、飛機、捷運)
+  * 指可以「<mark style="color:blue;">**站立**</mark>行走」的大型交通工具。
+  * You should get on the bus at the next stop. (你應該在下一站上公車。)
+  * I saw a cute girl get off the train. (我看到一個可愛的女孩下火車。)
+* Get in / Get out of 上下小車 (汽車、計程車、Uber)
+  * 指空間較小，必須「鑽進去」的交通工具。
+  * Please get in the taxi quickly; it's raining! (請快點上計程車，在下雨！)
+  * He got out of the Uber and walked toward the hotel. (他下了 Uber 並走向飯店。)
+* Pull up (車子) 駛近、停下
+  * 特指車輛靠近路邊停靠。
+  * The car pulled up at the curb to let me out. (車子在路邊停下讓我下車。)
+* Drive off (車子) 駛離、開走
+  * 指車子從原地離開。
+  * As soon as I got out, the taxi drove off. (我一走下車，計程車就開走了。)
+* Drop sb off 讓某人下車 (送到某地)
+  * 這是最常拿來表示「我要下車」的片語。
+  * Can you drop me off at the corner? (可以在轉角讓我下車嗎？)
+* Pull over (靠邊) 停車
+  * 常見於「請靠邊停車」的情境。
+  * The police officer asked the driver to pull over. (警察要求駕駛靠邊停車。)
+
+### 寫作建議
+
+1. 善用<mark style="color:blue;">**五感**</mark>描寫尷尬：不要只寫 "He was sleeping."。原文用了聽覺 (`snore`)、視覺與觸覺 (`drool`, `lean head against`)，這種細節會讓文章動起來。
+2. 活用分詞構句，增加節奏感：原文用了大量的分詞構句。在敘事文中，這能讓讀者感到動作是連續且緊湊的。
+3. 後悔與承諾：這類趣聞類文章，結尾通常要有一個 `I vowed that...` 或 `From that day on, I never...`，這能讓故事有一個完整的收尾。
+
+</details>
+
 ## 7.
 
 1. Dear Teacher,\
