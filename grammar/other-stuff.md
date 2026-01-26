@@ -275,11 +275,10 @@ General Rules:
 * If James <mark style="color:blue;">**stopped**</mark> insulting me, I <mark style="color:blue;">**wouldn't fight**</mark> with him.
 * If you <mark style="color:blue;">**hadn't spoken**</mark> ill of Amy, she <mark style="color:blue;">**wouldn't have been**</mark> so annoyed.
 * If I <mark style="color:blue;">**had**</mark> the money, I <mark style="color:blue;">**would go**</mark> abroad for traveling.
-* If I were billionaire, I would still live a simple life. → Were I a billionaire, I would still live a simple life.
+* If I were a billionaire, I would still live a simple life. → Were I a billionaire, I would still live a simple life.
 * If I had had enough time, I would have attained the end I had in view. → Had I had enough time, I would have attained the end I had in view.
 * If the sun <mark style="color:blue;">**were to rise**</mark> in the west, the impossible <mark style="color:blue;">**would be**</mark> possible. (與真理相反的假設)
 * <mark style="color:blue;">**If there should be a fire**</mark>, do not panic. → Should there be a fire, do not panic. (「萬一」的假設與倒裝)
-* What would you do if you <mark style="color:blue;">**should**</mark> fail to enter the dream college of yours? (「萬一」的假設)
 
 ### B. Wish
 
