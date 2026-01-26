@@ -1417,9 +1417,39 @@ She plays the piano, and she plays the violin, too.
 
 ### 文章分析
 
-### 寫作補給站—
+這篇文章是一封寫給老師的信，旨在描述 Mark 所遭受的霸凌，並促請老師採取行動。
+
+* 現況陳述：第一段直接切入主題，描述 Mark 在班上遭受的孤立與嘲弄。
+* 後果推測：運用「假設語氣」描述如果不處理，情況會如何惡化。這種寫法能有效地向讀者 (老師) 施加心理壓力，使其感到責任感。
+* 正式請求：結尾明確提出希望老師採取的具體行為，並運用「必要性」形容詞強調及時介入的重要性。
+
+### 寫作補給站—反映問題的優雅金句集
+
+這裡提供在撰寫反映信、求助信或建議信時，能提升專業感與說服力的關鍵片語與句型。
+
+* 引導對方關注特定議題
+  * I am writing to draw your attention to a serious issue regarding... (我寫這封信是為了讓您注意到關於……的一個嚴重問題。)
+  * It has come to my attention that some students are facing... (我注意到有些學生正遭遇著……。)
+* 描述負面影響與擔憂
+  * I am deeply concerned about the negative impact of... (我對……的負面影響深感擔憂。)
+  * Such behavior not only hurts the individual but also poisons the class atmosphere. (這種行為不僅傷害個人，也毒化了班級氣氛。)
+* 運用假設語氣提出警示
+  * Should we turn a blind eye to this, the situation will only worsen. (萬一我們對此視而不見，情況只會惡化。)
+  * If no immediate action is taken, the consequences could be irreversible. (如果不立即採取行動，後果可能是不可挽回的。)
+* 正式的請求與呼籲
+  * I would be grateful if you could look into this matter at your earliest convenience. (如果您能在方便時儘早調查此事，我將不勝感激。)
+  * It is essential that ... (...是必要的。)
+* 結尾的期待與致謝
+  * Thank you for your time and for everything you do for our class. (感謝您的時間，以及您為我們班所做的一切。)
+  * I look forward to hearing from you regarding this concern. (我期待收到您針對這項擔憂的回覆。)
 
 ### 寫作建議
+
+大家可以參考本文的結構，將其運用在書信或是針對社會議題提出建言的作文。
+
+* 可以遵循「觀察現況 → 預測危機 → 提出方案」的三段論法，讓論點更清晰。
+* 若能善用<mark style="color:blue;">**假設**</mark>語句，則可以更清楚描述可能危機。
+* 適時使用<mark style="color:blue;">**倒裝**</mark>語法，增加強調意味。
 
 </details>
 
@@ -1428,6 +1458,130 @@ She plays the piano, and she plays the violin, too.
 1. Last Friday my classmates and I went on a <mark style="color:blue;">**field trip**</mark> to the zoo with our teacher. Before we entered the zoo, the teacher gave each of us a <mark style="color:blue;">**worksheet**</mark>. He asked us to <mark style="color:blue;">**observe**</mark> the animals' living and health conditions and <mark style="color:blue;">**take notes**</mark>. <mark style="color:blue;">**To be honest**</mark>, in the beginning we just took the trip as an <mark style="color:blue;">**outing**</mark> in which we would be able to take tons of <mark style="color:blue;">**selfies**</mark> with lovely animals.
 2. However, our <mark style="color:blue;">**cheerful mood**</mark> changed when we saw the animals in the cages: some <mark style="color:blue;">**lay**</mark> quite <mark style="color:blue;">**lifeless**</mark> on the ground, <mark style="color:blue;">**others**</mark> looked frightened by the large number of visitors and <mark style="color:blue;">**still**</mark> <mark style="color:blue;">**others**</mark> seemed lonely. Gazing at these <mark style="color:blue;">**imprisoned**</mark> unhappy <mark style="color:blue;">**creatures**</mark>, I <mark style="color:blue;">**couldn't help but**</mark> imagine how I would feel if I lived <mark style="color:blue;">**in captivity**</mark> like this.
 3. I would not need to worry about lacking food to eat, but I would not be able to run <mark style="color:blue;">**free**</mark> <mark style="color:blue;">**in the wild**</mark>. <mark style="color:blue;">**Instead of**</mark> living with my family and friends, I would be surrounded and watched by strangers every day. The idea of losing freedom really scared me. The zoo does make <mark style="color:blue;">**conservation**</mark> efforts and aim to <mark style="color:blue;">**educate**</mark> visitors about animals, but that does not necessarily make it an <mark style="color:blue;">**ideal**</mark> place for animals to live. The visit to the zoo not only taught me to be <mark style="color:blue;">**observant**</mark> <mark style="color:blue;">**of**</mark> the animals but also led me to <mark style="color:blue;">**ponder on**</mark> the rights of the zoo animals.
+
+<details>
+
+<summary>作文百句 8 單字整理</summary>
+
+### 單字
+
+* Selfie (n.) 自拍
+  * The tourist took a selfie in front of the famous statue. (這名遊客在那座著名的雕像前拍了一張自拍。)
+* Field trip (n.) 校外教學、實地考察
+  * Our class went on a field trip to the science museum last month. (我們班上個月去科學博物館進行了校外教學。)
+* Worksheet (n.) 學習單、工作表
+  * Please hand in your completed worksheets before the end of the day. (請在今天結束前交回你們完成的學習單。)
+* Observe (v.) 觀察、遵守 (法律或習俗)
+  * 形容詞為 `observant`，`Be observant of sth.` 表示「對...細心觀察」、「留意」。
+  * The scientist spent hours observing the behavior of the birds. (這位科學家花了數小時觀察鳥類的行為。)
+  * You must observe the rules of the library while you are here. (你在這裡時必須遵守圖書館的規則。)
+  * A good detective must be very observant of small details. (一名優秀的偵探必須對微小的細節非常觀察敏銳。)
+* Lovely (adj.) 可愛的、美好的
+  * 用來形容令人愉悅或吸引人的事物。
+  * We spent a lovely afternoon walking through the botanical garden. (我們在植物園散步，度過了一個美好的下午。)
+  * What a lovely garden you have! (你的花園真漂亮！)
+* Outing (n.) 郊遊、遠足
+  * 指短暫的休閒性旅行。
+  * The company organized a weekend outing for all its employees. (公司為所有員工組織了一次週末郊遊。)
+* Mood (n.) 情緒、心情
+  * 常用語法為 `in a/an adj. mood`。
+  * Listening to classical music always puts me in a peaceful mood. (聽古典音樂總能讓我心情平靜。)
+* Lifeless (adj.) 無精打采的、死氣沉沉的
+  * Without enough sunlight, the plants in the room looked lifeless. (沒有足夠的陽光，房間裡的植物看起來死氣沉沉。)
+* Frightened (adj.) 受驚嚇的、害怕的
+  * 動詞為 `frighten`。
+  * You look frightened. (你看起來很害怕。)
+  * The sudden loud noise frightens me. (突然的巨響嚇到了我。)
+* Gaze (v./n.) 凝視、注視
+  * 指長時間地專注看著某處。
+  * They sat on the beach to gaze at the stars in the night sky. (他們坐在海灘上凝視著夜空中的星星。)
+  * His gaze remained on the old photograph for a long time. (他的目光在老照片上停留了很長時間。)
+* Imprisoned (adj.) 被囚禁的
+  * The protesters demanded that the innocent man should not be imprisoned. (抗議者要求不應囚禁那名無辜的人。)
+* Captivity (n.) 囚禁、束縛
+  * 常指野生動物被關在籠子或園區內。常用語法為 `in captivity`。
+  * Animals born in captivity may find it hard to survive in the wild. (在囚禁中出生的動物可能難以在野外生存。)
+* Surround (v.) 圍繞、環繞
+  * `Be surrounded by ...` 表「被...圍繞、環繞」。
+  * Beautiful snow-capped mountains surround the small village. (美麗的雪山環繞著這座小村莊。)
+  * The celebrity was quickly surrounded by a crowd of fans. (這位名人很快就被一群粉絲圍繞。)
+* Conservation (n.) 保護、保育
+  * 特別指對大自然或資源的維護。
+  * Many organizations work hard for the conservation of tropical rainforests. (許多組織致力於熱帶雨林的保育。)
+* Ideal (adj./n.) 理想的、完美的；理想
+  * The sunny weather today is ideal for a picnic in the park. (今天晴朗的天氣非常理想，適合在公園野餐。)
+  * It is not always easy to <mark style="color:blue;">**live up to one's high ideals**</mark>. (要實現一個人的高尚理想並不總是容易的。)
+* Necessarily (adv.) 必然地
+  * 常與 `not` 連用，表示「不一定」。
+  * A big house does not necessarily bring a sense of security. (大房子不一定會帶來安全感。)
+* Ponder (v.) 深思、沉思
+  * 指仔細地思考某事。常見語法為 `ponder (on/over/upon) sth`。
+  * He sat alone in the park to ponder his future career path. (他獨自坐在公園裡沉思他未來的職業道路。)
+
+</details>
+
+<details>
+
+<summary>作文百句 8 片語整理</summary>
+
+### 片語
+
+* Go on a field trip (to sp.) ... 進行校外教學、實地考察 (到某處)
+  * 注意 `go on` 後面接「活動」或，「行程」是固定用法。
+  * Our class will go on a field trip to the national park this Friday. (我們班這週五要進行一次國家公園校外教學。)
+* Take notes 做筆記
+  * Please take notes during the meeting. (請在會議期間做筆記。)
+* To be honest 老實說、坦白講
+  * 常見的同義表達還有 `Frankly speaking`, `To tell the truth`, `To be frank`, `Honestly`。
+  * To be honest, I don't like this movie. (老實說，我不喜歡這部電影。)
+* Take A as B 把 A 視為 B
+  * 與 `regard A as B`, `view A as B`, `think of A as B`, `consider A (to be) B` 意思相近。
+  * You should not take his silence as a sign of agreement. (你不應該把他的沉默視為同意的跡象。)
+* Tons of 大量的、許許多多的
+  * 後接複數名詞或不可數名詞皆可。
+  * I have tons of work to do before I can take a rest. (在我休息之前，我有大量的工作要做。)
+* Can't help but + VR 不禁、忍不住...
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-pian-yu-zheng-li)。
+* Instead of + Ving/N 而不是、代替
+  * 用來對比兩種不同的行為或選擇。
+  * Instead of staying home, we decided to go for a walk in the park. (我們決定去公園散步，而不是待在家裡。)
+* Be surrounded by ... 被...圍繞、環繞；處於...狀態或環境
+  * 指物理環境的包圍，也可用於抽象的氛圍。
+  * The small cottage is surrounded by colorful wildflowers in spring. (春天時，這座小木屋被五顏六色的野花環繞著。)
+  * She felt comforted to be surrounded by love and support. (她被愛和支持包圍，感到很安慰。)
+  * The project was surrounded by controversy from the beginning. (這個專案從一開始就充滿爭議。)
+* Make efforts 努力、盡力
+  * 常與 `to + VR` 連用，表示努力達成某事。
+  * We must make collective efforts to save our planet from pollution. (我們必須共同努力，保護我們的星球免受污染。)
+* Aim to VR 旨在、目標是...
+  * The new charity project aims to provide clean water for everyone. (這項新的慈善計畫旨在為每個人提供乾淨的飲水。)
+* Ponder (on/over/upon) sth 沉思、深思
+  * 用法與 `reflect on sth` 類似。
+  * She spent the whole night pondering on the difficult decision. (她花了整個晚上沉思那個艱難的決定。)
+
+</details>
+
+<details>
+
+<summary>作文百句 8 文法整理</summary>
+
+### 文法
+
+
+
+</details>
+
+<details>
+
+<summary>作文百句 8 寫作建議</summary>
+
+### 文章分析
+
+### 寫作補給站—
+
+### 寫作建議
+
+</details>
 
 ## 9.
 
