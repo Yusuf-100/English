@@ -1272,19 +1272,39 @@ She plays the piano, and she plays the violin, too.
 * It is critical that students <mark style="color:blue;">**(should) respect**</mark> each other. (學生「應該要」尊重...)
 {% endhint %}
 
-#### 假設語氣
+### 假設語氣
 
 假設語句最常見的結構為 `if ... (如果), ... (結果)`。我依照「如果」與「結果」兩個子句的不同時間點，將動詞的標準變化邏輯簡單整理成下表。
 
-<table><thead><tr><th width="215.99996948242188">假設的時間點</th><th width="165">如果子句的動詞</th><th>結果子句的動詞</th></tr></thead><tbody><tr><td>未來 (展望未來)</td><td>現在式</td><td>will/can/may + VR</td></tr><tr><td>現在 (與現在事實相反)</td><td>過去式 </td><td>would/could/might + VR</td></tr><tr><td>過去 (與過去事實相反)</td><td>過去完成式</td><td>would/could/might + have + p.p.</td></tr></tbody></table>
+<table><thead><tr><th width="215.99996948242188">假設的情境</th><th width="165">如果子句的動詞</th><th>結果子句的動詞</th></tr></thead><tbody><tr><td>第一類：預測未來</td><td>現在式</td><td>will/can/may + VR</td></tr><tr><td>第二類：與當下事實相反</td><td>過去式 </td><td>would/could/might + VR</td></tr><tr><td>第三類：與過去事實相反</td><td>過去完成式</td><td>would/could/might + have + p.p.</td></tr></tbody></table>
 
-以下是標準的假設語句結構。
+#### 第一類假設語氣—預測未來
 
-* **對未來的可能假設**
-  * `If + S + 現在式動詞 ..., S + will/can/may + VR`
-  * If it <mark style="color:blue;">**rains**</mark> tomorrow, we <mark style="color:blue;">**will stay**</mark> at home. (如果明天下雨，我們就會待在家。)
-  * If Mark <mark style="color:blue;">**finds**</mark> a true friend, he <mark style="color:blue;">**will be**</mark> much happier. (如果 Mark 找到一個真心的朋友，他會快樂得多。)
-* **與現在事實相反**
+此假設語氣的動詞變化非常符合直覺。結構為 `If S V ..., S will/can/may + VR ...`，是最基本的假設句型。過去式的變形為 `If S V-ed ..., S would/could/might + VR ...`。
+
+* If you <mark style="color:blue;">**sleep**</mark> now, you <mark style="color:blue;">**will wake**</mark> up early tomorrow.
+* When I watched the movie, I thought if I <mark style="color:blue;">**worked**</mark> hard from then on, I <mark style="color:blue;">**might be**</mark> able to make a fortune soon.&#x20;
+
+#### 第二、三類假設語氣—與事實相反
+
+{% hint style="warning" %}
+#### 時間軸
+
+#### <mark style="color:blue;">**過去的過去 ← 過去 ← 現在 ← 未來**</mark>
+
+書寫與事實相反的假設語氣時，一定要有時間軸的概念，並且須確定<mark style="color:blue;">**「書寫的事件」相對於「假設的事件」、「結果」的時間關係**</mark>。釐清後，動詞型態的變化邏輯都是<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>。
+
+用「拍照」的邏輯來說明。想像你手裡有一台相機，在主要動詞 (e.g., 笑、許願、看、思考) 發生的那一秒，你按下快門。現在，請思考「假設事件」與「結果」分別處於以下哪種情況。
+
+* 如果「假設事件」或「結果」是發生在「按下快門的那一秒」，不管你是現在按，還是十年前按，皆是與「按快門當下」的事實相反 → 動詞型態為「當下的過去」 → 使用<mark style="color:blue;">**過去式**</mark> (`were`, `knew`, `would/could/might + VR`)。
+* 如果「假設事件」或「結果」是發生在「按下快門之前」，不管你是現在按，還是十年前按，皆是與「過去」(比按快門那一秒「更早」) 的事實相反 → 動詞型態為「過去的過去」→ 使用<mark style="color:blue;">**過去完成式**</mark> (`had been`, `had known`, `would/could/might + have + p.p.`)。
+
+時間軸的概念非常重要，在閱讀接下來的內容前，請務必要弄清楚！一旦理解這個概念，就能更容易學會這些假設句型的書寫邏輯。
+{% endhint %}
+
+標準的第二、三類假設語句結構。
+
+* **與當下事實相反**
   * `If + S + 過去式動詞 (be動詞一律用were) ..., S + would/could/might + VR`
   * If I <mark style="color:blue;">**had**</mark> wings, I <mark style="color:blue;">**would fly**</mark> to your side immediately. (如果我有翅膀，我會立刻飛到你身邊。)
   * If Alana <mark style="color:blue;">**were**</mark> here, she <mark style="color:blue;">**would hug**</mark> you. (如果 Alana 在這，她會擁抱你。)
@@ -1293,11 +1313,11 @@ She plays the piano, and she plays the violin, too.
   * If you <mark style="color:blue;">**had told**</mark> me the truth earlier, I <mark style="color:blue;">**wouldn't have been**</mark> so angry. (如果你早點告訴我真相，我就不會那麼生氣了。)
   * If Mark <mark style="color:blue;">**had stood**</mark> up for himself, the bullies <mark style="color:blue;">**might have backed**</mark> down. (如果 Mark 當時有為自己挺身而出，那些霸凌者可能會退縮。)
 * **混合時態 (過去影響現在)**
-  * `If + S + had + p.p. ..., S + would/could/might + VR (now)`
+  * `If + S + had + p.p. ..., S + would/could/might + VR`
   * If I <mark style="color:blue;">**had finished**</mark> my homework yesterday, I <mark style="color:blue;">**could go**</mark> out with you now. (如果我昨天完成了功課，我現在就能跟你出門了。)
   * If he <mark style="color:blue;">**had taken**</mark> the doctor's advice, he <mark style="color:blue;">**wouldn't be**</mark> in the hospital today. (如果他當時有聽醫生的建議，他今天就不會躺在醫院裡了。)
 
-在很多情況下，我們也會使用假設語氣。
+在很多情況下，我們也會使用假設語氣。以下皆為與事實相反的假設語氣。
 
 * **若非 / 要不是 (`if` 引導)**
   * 與現在事實相反用 `if it were not for N, S + would/could/might + VR`；與過去事實相反用 `if it had not been for N, S + would/could/might + have + p.p.`；混合時態用 `if it had not been for N, S + would/could/might + VR`。
@@ -1323,7 +1343,7 @@ She plays the piano, and she plays the violin, too.
   * She looks as if she <mark style="color:blue;">**had seen**</mark> a ghost yesterday. (她看起來彷彿昨天見到了鬼一樣。)
 
 {% hint style="success" %}
-#### 小撇步—時間軸：<mark style="color:blue;">**過去的過去 ← 過去 ← 現在 ← 未來**</mark>
+#### 小撇步
 
 不論是哪種假設句型，動詞的變化邏輯都是<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>。
 
@@ -1335,7 +1355,7 @@ She plays the piano, and she plays the violin, too.
   * 當「假設事件」發生於未來 (接下來)，「如果」子句的時態是未來的過去 → 現在式。
   * 當「假設事件」發生於現在，「如果」子句的時態是現在的過去 → 過去式。
   * 當「假設事件」發生於過去，「如果」子句的時態是過去的過去 → 過去完成式。
-* 「結果」子句的動詞變化在於 <mark style="color:blue;">**`will/can/may`**</mark> 這個字，需根據<mark style="color:blue;">**「結果」發生的時間點，在時間軸上往回走一個層級**</mark>。
+* 「結果」子句的動詞變化在於 <mark style="color:blue;">**`will/can/may`**</mark>，需根據<mark style="color:blue;">**「結果」發生的時間點，在時間軸上往回走一個層級**</mark>。
   * 當「結果」發生在未來 (接下來)，「結果」子句的時態是未來的過去 → 現在式 (`will/may/can + VR`)。
   * 當「結果」發生在現在，「結果」子句的時態是現在的過去 → 過去式 (`would/could/might + VR`)。
   * 當「結果」發生在過去，「結果」子句的時態是過去的過去 → 過去完成式 (`would/could/might + have + p.p.`)。
@@ -1347,19 +1367,17 @@ She plays the piano, and she plays the violin, too.
 * 如果我一週前認真讀書，我昨天就能考高分 (「假設事件」發生在過去，「結果」與過去事實相反)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would have scored**</mark> high yesterday.
 * 如果我一週前認真讀書，我今天就能考高分 (「假設事件」發生在過去，「結果」與現在事實相反)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would**</mark> score high today.
 
-#### `Wish`, `if only`, `but for`, `without`, `as if` 等其他假設句型
+#### `Wish`, `if only`, `but for`, `without`, `as if` 等假設句型
 
 如果語感尚未建立起來，可以先將接續的句子用符合一般文法的方式書寫，之後再調整成假設語氣 (<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>) 即可。以下提供一些例子示範如何調整動詞型態，中括號 `[]` 框起來的部分是需調整的部分，<mark style="color:$danger;">**紅字**</mark>是需調整的動詞，<mark style="color:blue;">**藍字**</mark>是調整後的動詞型態。
 
-* 當時，那位女士對我微笑，彷彿我們認識：At that time, the lady smiled at me as if \[we <mark style="color:$danger;">**knew**</mark> each other]. → At that time, the lady smiled at me as if \[we <mark style="color:blue;">**had known**</mark> each other].
+* 那位女士對我微笑，彷彿我們之前認識：The lady smiles at me as if \[we <mark style="color:$danger;">**knew**</mark> each other before]. → The lady smiles at me as if \[we <mark style="color:blue;">**had known**</mark> each other before].
 * 要是他明天可以來這裡該也多好：If only \[he <mark style="color:$danger;">**will be**</mark> able to come here tomorrow]. → If only \[he <mark style="color:blue;">**would be**</mark> able to come here tomorrow].
-* 要不是他昨天的幫助，我當時就不會成功了：Without his help yesterday, \[I <mark style="color:$danger;">**wouldn't succeed**</mark>]. → Without his help yesterday, \[I <mark style="color:blue;">**wouldn't have succeeded**</mark>].
+* 要不是他的幫助，我當時就不會成功了：Without his help, \[I <mark style="color:$danger;">**wouldn't succeed**</mark> then]. → Without his help, \[I <mark style="color:blue;">**wouldn't have succeeded**</mark> then].
 * 我希望我年輕一些，這樣我就能參加這場活動了：I wish \[I <mark style="color:$danger;">**am**</mark> younger so that I <mark style="color:$danger;">**can participate**</mark> in this event]. → I wish \[I <mark style="color:blue;">**were**</mark> younger so that I <mark style="color:blue;">**could participate**</mark> in this event].
 * 要是我們早點聽 Alana 的建議就好了：If only \[we <mark style="color:$danger;">**took**</mark> Alana's advice earlier]. → If only \[we <mark style="color:blue;">**had taken**</mark> Alana's advice earlier].
 * 要不是這些噪音，這裡會是個完美的讀書地點：But for the noise, \[this <mark style="color:$danger;">**will be**</mark> a perfect place to study]. → But for the noise, \[this <mark style="color:blue;">**would be**</mark> a perfect place to study].
 * Bruce 急忙走到我面前，好像有什麼重要的事情要告訴我：Bruce rushes to me as if \[he <mark style="color:$danger;">**has**</mark> something important to tell me]. → Bruce rushes to me as if \[he <mark style="color:blue;">**had**</mark> something important to tell me].
-
-希望以上說明能讓大家活用假設句型，不再感到混亂。
 {% endhint %}
 
 {% hint style="info" %}
@@ -1567,7 +1585,89 @@ She plays the piano, and she plays the violin, too.
 
 ### 文法
 
+#### 假設語氣
 
+本文運用大量<mark style="color:blue;">**與現在事實相反**</mark>的假設語氣 (how I would feel if I lived ... / I would not ... / I would be surrounded and watched ...)。假設語氣的介紹詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)。
+
+文章中的事件發生在過去 (上週五)，大家可能會覺得應該用與過去事實相反的假設語氣。不過，關鍵在於當作者說 "I couldn't help but imagine ..." 時，雖然整件事發生在過去，但對他而言，<mark style="color:blue;">**在他開始想像的那一刻，那個被囚禁的狀態是當下的假設**</mark>。因此，書寫時，須採用<mark style="color:blue;">**與現在事實相反**</mark>的假設語氣。
+
+#### 列舉
+
+在英文寫作中，我們會根據<mark style="color:blue;">**對象數量**</mark>與<mark style="color:blue;">**是否為最後一個 (群)**</mark>來變換代名詞。
+
+* 複數對象的列舉 (一些...，另一些...)
+  * Some..., and others... 一些...，另一些... → 範圍不確定
+    * Some students like English, and others like math.
+  * Some..., and the others... 一些...，剩下的全部 → 範圍明確，指剩下的一整群
+    * There are ten apples. Some are red, and the others are green.
+  * Some..., others..., and still others... 一些...，另一些...，還有一些... → 多層次列舉
+    * `Still others` 在這裡強調還有更多未列出選項。這種用法表示列舉不止兩群，且<mark style="color:blue;">**不需指定是「最後一群」**</mark>。
+    * Some lay quite lifeless, others looked frightened, and still others seemed lonely.
+* 單數對象的列舉 (一個...，另一個...)
+  * One..., and the other... 一個...，另一個... → 限定兩者時使用
+    * I have two cats. One is purple, and the other is gold.
+  * One..., another... 一個...，另一個... → 非限定數量中的下一個
+    * One girl is drawing, another is reading, and some others are playing games.
+    * 可以一直接 `another`，但此時必須已知精確數量。
+      * I have six pens. One is white, another is blue, another is red, another is green, and the others are black.
+  * One..., another..., and still another... 一個...，另一個...，還有另一個... → 三個以上的接續列舉
+    * `Still another` 在這裡強調還有更多未列出選項。這種用法表示列舉不止兩項，且<mark style="color:blue;">**不需指定是「最後一個」**</mark>。
+    * One guest arrived early, another came on time, and still another was late.
+
+{% hint style="info" %}
+#### `The` 的用法
+
+列舉時，`the` 有「限定」的意思，代表了「<mark style="color:blue;">**封閉範圍**</mark>」。
+
+* 無 `the`：表示「剩下的還有一部分，我沒講完」。
+* 有 `the`：表示「剩下的全部，我講完了」。
+
+因此，當表示「最後一個 (`the other`)」、「最後一群 (`the others`)」、「剩下的 (`the rest`)」時，在前面都會有 <mark style="color:blue;">**`the`**</mark> 這個字。
+{% endhint %}
+
+{% hint style="info" %}
+#### 補充
+
+* `Others` = `Other + N`
+  * Some like cats, and others like dogs. = Some like cats, and other people like dogs.
+* `More` 的列舉
+  * 有時候我們不說 `another`，會說 `two more` 或 `three more`。
+  * I have one apple, and I want two more.
+{% endhint %}
+
+{% hint style="warning" %}
+#### 記得加入連接詞
+
+不論使用哪種枚舉方法，甚至是混合用法 (e.g. One..., and the others...)，在最後一次使用時，需要加入連接詞 `and`。
+
+* One of my friends lives in Taipei, another lives in Taichung, <mark style="color:blue;">**and**</mark> the rest live in Kaohsiung.
+* Some people like to travel, <mark style="color:blue;">**and**</mark> others prefer staying at home.
+* One boy is running, <mark style="color:blue;">**and**</mark> the others are sitting on the bench.
+* I saw four jackets. One is red, another is blue, another is yellow, <mark style="color:blue;">**and**</mark> the other is green.
+{% endhint %}
+
+#### Make + 受詞 (O) + 受詞補語 (OC)
+
+這種句型的核心邏輯是「使/讓某人 (物) 成為某種狀態」，有以下幾種用法：
+
+* `Make + O + Adj.` 使...處於某種狀態
+  * The news made me happy.
+  * This app makes learning English easy.
+* `Make + O + p.p.` 使...處於被動狀態
+  * 表示受詞「<mark style="color:blue;">**被如何對待**</mark>」，最常用於溝通或聲音表達。
+  * He raised his hand and made his voice heard in the meeting.
+  * She made herself understood in English despite her accent.
+* `Make + O + N.` 使...成為……
+  * That does not necessarily make it an ideal place.
+  * That decision made the situation a disaster.
+* `Make + O + VR` 強迫/命令某人做某事
+  * 此為使役動詞用法，具<mark style="color:blue;">**較強的強制意味**</mark>。使役動詞的強制性：`make` > `have` > `let`。
+  * My mom made me clean my room before I could go out.
+  * The teacher made the students stop talking immediately.
+* `Be made to VR` 被動語態
+  * 當使役動詞由主動句轉為被動語態時，<mark style="color:blue;">**原本省略的**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`to`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**必須還原**</mark>。
+  * They made me do it. → I was made <mark style="color:blue;">**to**</mark> do it by them.
+  * He was made <mark style="color:blue;">**to**</mark> wait for over an hour.
 
 </details>
 
@@ -1577,9 +1677,44 @@ She plays the piano, and she plays the violin, too.
 
 ### 文章分析
 
+這篇文章描述了從「期待郊遊」到「反思權利」的心境轉變。
+
+* 首段：交代人、事、時、地、物 (校外教學到動物園)，並用 `To be honest` 帶出最初的心態—這只是一次可以拍大量自拍的歡樂郊遊。
+* 第二段：開頭使用 `However` 進行強烈對比，心情由 `cheerful` 轉向嚴肅。透過精準的列舉 (`some..., others..., still others...`) 描繪動物的負面狀態，引發讀者同情。接著，運用大量假設語氣，將自己代入動物的角色，讓「失去自由」的恐懼感具象化。
+* 結尾：採取平衡報導的語氣，先承認動物園的保育功能，隨即使用 `but that does not necessarily make it...` 拋出反思，引導讀者思考動物權利。
+
 ### 寫作補給站—
 
+這裡提供一些在撰寫「反思」、「倡議」或描寫「內心轉折」時，能提升文章層次感與共鳴度的關鍵片語與句型。
+
+* 表達同情與不忍
+  * Put oneself in someone's shoes 設身處地為他人著想
+    * Before you judge the animals, try to put yourself in their shoes. (在你批判那些動物之前，試著設身處地為牠們著想。)
+  * Turn a blind eye to sth 對某事視而不見
+    * We should not turn a blind eye to the suffering of imprisoned creatures. (我們不應對被囚禁生物的痛苦視而不見。)
+  * It breaks one's heart to VR 使某人感到心碎、難過
+    * It breaks my heart to see the animals losing their freedom in small cages. (看到動物們在狹小的籠子裡失去自由，令我心碎。)
+* 探討自由與理想環境
+  * Far from ideal 一點也不理想、遠非理想
+    * The living conditions in many zoos are far from ideal for wild animals. (許多動物園的生存條件對野生動物來說遠非理想。)
+  * A fundamental right 一項基本權利
+    * Freedom of movement is a fundamental right for every living being. (行動自由是每個生物的一項基本權利。)
+  * Rob sb of sth 剝奪某人的某物
+    * 或者用 `deprive sb of sth`。
+    * Captivity often robs the creatures of their natural instincts and joy. (囚禁往往剝奪了生物的天性和快樂。)
+* 引發讀者深思的句型
+  * Lead sb to reflect on 促使某人重新考慮、反思...
+    * This experience led me to reflect on the true meaning of conservation. (這次經驗促使我反思保育的真正意義。)
+  * It is time for us to ponder 是我們該深思的時候了
+    * It is time for us to ponder whether zoos should exist in the future. (是我們該深思未來動物園是否應該存在的時候了。)
+  * What if ... ? 萬一...會怎樣？ (用於引導假設情境)
+    * What if we were the ones behind the bars, watched by strangers every day? (萬一我們是欄杆後的那個人，每天被陌生人注視著會怎樣？)
+
 ### 寫作建議
+
+* 運用「<mark style="color:blue;">**但是**</mark>」的力量：在描寫遊記或經驗時，試著在中間加入一個觀察點，用 `However` 或 `Suddenly` 帶出情緒轉向。
+* <mark style="color:blue;">**設身處地**</mark>：討論弱勢或受害者時，與其說「他們很可憐」，不如學習本文，使用大量假設語氣將讀者代入所描述的角色中，增加文章感染力。不過，此手法需有較高的文法基礎。
+* 先肯定對方的功勞，再指出不足之處，能讓你的立場看起來更理智、更有說服力。
 
 </details>
 
@@ -1587,6 +1722,153 @@ She plays the piano, and she plays the violin, too.
 
 1. Ask anyone, and they'll tell you I'm <mark style="color:blue;">**as amiable as can be**</mark>. That being said, there are a select few people who make me <mark style="color:blue;">**fly into a rage**</mark>, and Becky Chen is among them. <mark style="color:blue;">**Snobbish**</mark> and self-important, Becky <mark style="color:blue;">**looks down on**</mark> anyone who won't <mark style="color:blue;">**elevate**</mark> her status in life. That's why my heart <mark style="color:blue;">**sank**</mark> when our science teacher <mark style="color:blue;">**paired us up**</mark> for a presentation one day.
 2. I tried to be <mark style="color:blue;">**gracious**</mark> when I sat down next to Becky. <mark style="color:blue;">**In return**</mark>, she looked at me as one might regard a cockroach and immediately took out her phone, refusing to communicate or <mark style="color:blue;">**do her share**</mark> of the work. I <mark style="color:blue;">**eventually**</mark> had to tell her that she needed to <mark style="color:blue;">**contribute**</mark>, or I'd let the teacher know she had <mark style="color:blue;">**slacked off**</mark>, and she'd receive no credit. She <mark style="color:blue;">**reluctantly**</mark> wrote her part after that. It took patience to deal with her attitude, but I was glad I didn't <mark style="color:blue;">**lose my cool**</mark> and <mark style="color:blue;">**that**</mark> we were able to get the job done.
+
+<details>
+
+<summary>作文百句 9 單字整理</summary>
+
+### 單字
+
+* Amiable (adj.) (人) 和藹可親的、親切的
+  * Our new neighbor is so amiable that everyone in the building likes him. (我們的新鄰居非常親切，這棟樓的每個人都喜歡他。)
+* Rage (n.) 盛怒、狂怒
+  * 常用片語為 `fly into a rage` (突然大發雷霆)。
+  * He flew into a rage when he realized his computer had crashed again. (當他發現電腦再次當機時，他突然大發雷霆。)
+  * It is important to control your rage even when you feel mistreated. (即使感到受了委屈，控制自己的怒氣也很重要。)
+* Sink (v.) 下沉、沉沒
+  * 在本文中以 `my heart sank` 表示心沉了下去、感到失望或沮喪。
+  * My heart sank when I realized I had failed the driving test again. (當我意識到我再次沒通過駕照考試時，我的心沉了下去。)
+  * The heavy stone sank to the bottom of the clear lake. (重石沉到了清澈湖泊的底部。)
+* Snobbish (adj.) 勢利的、自命不凡的
+  * 常用於形容看不起身分地位比自己低的人。
+  * Her snobbish behavior made it difficult for her to make sincere friends. (她勢利的行為讓她很難交到真心的朋友。)
+* Self-important (adj.) 自以為是的、傲慢的
+  * The self-important manager refused to admit his own mistakes. (那位傲慢的經理拒絕承認自己的錯誤。)
+* Elevate (v.) 提升、提高
+  * 可以指物理上的升高，也可以指地位、心靈或品質的提升。
+  * Reading good books can help elevate your mind and spirit. (閱讀好書可以幫助提升你的思想與心靈。)
+* Status (n.) 地位、身分
+  * 指在社會、組織或群體中的等級或狀態。
+  * Many people work hard just to maintain a certain social status. (許多人努力工作只是為了維持某種社會地位。)
+  * What is the current status of the project we started last week? (我們上週開始的那個計畫目前的進展狀態如何？)
+* Presentation (n.) 簡報、報告、陳述
+  * 指在正式場合進行的說明或演示。
+  * She spent a lot of time preparing for her science presentation. (她花了很多時間準備她的科學報告。)
+* Gracious (adj.) 親切的有禮的、優雅的
+  * 特別指對地位較低的人或在困難情況下仍保持禮貌。
+  * She was gracious enough to forgive him for his rude comments. (她很有禮貌，原諒了他粗魯的言論。)
+  * Even in defeat, the athlete remained gracious to his opponent. (即使失敗，那位運動員對對手依然保持風度。)
+* Regard (v./n.) 看待、注視；尊重
+  * 常用於 `regard A as B` (將 A 視為 B)。
+  * Most people regard him as the best teacher in this school. (大多數人將他視為這所學校最優秀的老師。)
+  * You should show more regard for your parents' feelings. (你應該對父母的感受表現出更多的尊重。)
+* Cockroach (n.) 蟑螂
+  * 文中用來形容令人極度厭惡的人。
+  * Seeing a cockroach in the kitchen made her scream in terror. (看到廚房裡有蟑螂讓她驚恐地尖叫。)
+* Eventually (adv.) 終於、最後
+  * 相關詞彙有 `finally` (最後)、`at last` (終於)、`in the end` (最終)。
+  * It was a long journey, but we eventually reached our destination. (這是一段漫長的旅程，但我們最終到達了目的地。)
+  * If you keep practicing, you will eventually succeed in your career. (如果你持續練習，你終將在事業上取得成功。)
+* Contribute (v.) 貢獻、出力
+  * Each member of the team is expected to contribute their own ideas. (團隊的每個成員都被期待能貢獻自己的點子。)
+  * Regular exercise contributes to a healthier and longer life. (規律運動有助於更健康、更長壽的生活。)
+* Slack (v.) 偷懶、懈怠、打混
+  * 常用片語為 `slack off`。
+  * If you continue to slack off, you will lose your job soon. (如果你繼續偷懶，你很快就會失去工作。)
+* Credit (n.) 功勞、讚揚、信用；學分
+  * 在本文是指學校課程的學分。
+  * The course is worth two credits. (這門課有兩學分。)
+  * He deserves all the credit for the success of this project. (這個計畫的成功，功勞全歸功於他。)
+  * You should give your teammates some credit for their hard work. (你應該為隊友們的辛勤工作給予一些認可。)
+* Reluctantly (adv.) 勉強地、不情願地
+  * 反義詞為 `willingly`。
+  * He reluctantly agreed to help her with the chores on Sunday. (他週日很不情願地答應幫她做家事。)
+* Patience (n.) 耐心、忍耐力
+  * 形容詞為 `patient` (有耐心的)。
+  * Dealing with difficult customers requires a great deal of patience. (處理麻煩的客人的確需要極大的耐心。)
+* Attitude (n.) 態度、看法
+  * 常用語法為 `attitude towards...` (對...的態度)、`have a/an Adj attitude` (抱持...的態度)。
+  * Having a positive attitude can help you overcome many challenges. (擁有積極的態度可以幫助你克服許多挑戰。)
+  * His arrogant attitude towards the task led to its failure. (他對這項任務傲慢的態度導致了它的失敗。)
+
+</details>
+
+<details>
+
+<summary>作文百句 9 片語整理</summary>
+
+### 片語
+
+* As adj/adv as can be 極其...、盡可能地...
+  * 用法與 `as adj/adv as possible` 類似，但更能強調「程度之最」。
+  * The little girl was as happy as can be with her new toy. (那小女孩拿著她的新玩具，快樂得不得了。)
+  * He ran as fast as can be to catch the bus. (他跑得盡可能快地去趕公車。)
+* That being said 話雖如此、儘管如此
+  * This project is difficult. That being said, we must complete it on time. (這項企劃很困難。話雖如此，我們仍必須準時完成。)
+* A select few 極少數精選的...
+  * 後面接<mark style="color:blue;">**可數名詞**</mark>。通常帶有一種「挑剔過後」或「特定範圍」的感覺。`Select` 在這裡當形容詞，意思是「精選的」、「優越的」或「少數選定的」。
+  * 原文意境：並非每個人都能讓我生氣，只有「那極少數被挑中的人」(指 Becky 這種人) 才有本事讓我爆炸。
+  * Only a select few people were invited to the secret party. (只有極少數特定的人被邀請參加那場秘密派對。)
+* Fly into a rage 大發雷霆、勃然大怒
+  * My father flew into a rage when he saw the broken window. (我父親看到窗戶破了時大發雷霆。)
+* Look down on 輕視、看不起
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-pian-yu-zheng-li)。
+* Pair sb up (with sb) 將某人 (與某人) 配對、搭檔
+  * 常用於課堂或活動中分配夥伴。
+  * The coach paired the experienced players up with the beginners. (教練將經驗豐富的球員與初學者配對。)
+* In return 作為回報、作為回應
+  * I gave her some flowers, and in return, she gave me a warm smile. (我給了她一些花，作為回報，她給了我一個溫暖的微笑。)
+* Do one's share (of the work) 完成份內的工作、盡一份力
+  * If everyone does their share, we can finish early. (如果每個人都盡一份力，我們可以提早完成。)
+* Slack off 偷懶、打混、懈怠
+  * [單字整理](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-9-dan-zi-zheng-li)已經介紹過。
+* Lose one's cool 失去冷靜、沉不住氣
+  * `cool` 在此作為名詞，指冷靜的態度。
+  * It's important to keep your head and not lose your cool in a crisis. (在危機中保持清醒且不沉不住氣是很重要的。)
+* Get sth done 完成...、把...做好
+  * He is the kind of person who always finds a way to get the job done. (他是那種總能找到方法完成任務的人。)
+
+</details>
+
+<details>
+
+<summary>作文百句 9 文法整理</summary>
+
+### 文法
+
+* 分詞構句
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)。
+  * 原文：Snobbish and self-important, Becky looks down on anyone... (勢利且傲慢，Becky 看不起任何人……)
+    * `Because she is snobbish and self-important` → `Being snobbish and self-important` → `Snobbish and self-important`。
+  * 原文：...immediately took out her phone, refusing to communicate... (立刻拿出手機，並拒絕溝通……)
+    * `..., and she refused ...` → `..., refusing ...`。
+
+</details>
+
+<details>
+
+<summary>作文百句 9 寫作建議</summary>
+
+### 文章分析
+
+這篇文章成功建立了一個強烈的角色對比，並在情緒爆發的邊緣選擇了理性解決。
+
+* 強烈的性格對比：作者先定義自己是 `as amiable as can be`，隨即介紹 Becky 是 `snobbish and self-important`。這讓讀者一開始就站在作者這邊，並對接下來的衝突產生期待感。
+* 心境描寫：從 `heart sank` 的無奈，到嘗試 `be gracious`，最後 Becky 的態度引發了作者內心的憤怒。
+* 細節刻劃：Becky 看作者的眼神 `as one might regard a cockroach`，這個比喻極其生動，讓讀者的憤怒感與作者同步。
+* 理性解決：作者沒有選擇對罵，而是精準地抓住了對方的弱點—`receive no credit`。這展現了主角的成熟。此外，用規章與後果來說服對方，往往比情緒化地爭吵更有用。
+
+### 寫作補給站—
+
+### 寫作建議
+
+在描寫人際衝突時，可以參考以下建議：
+
+* <mark style="color:blue;">**情感具象化**</mark>：例如 `He looked at me as if I were a piece of trash.`。
+* 善用<mark style="color:blue;">**轉折詞**</mark>，豐富敘事層次：例如 `That being said` 或 `In return`。這能讓讀者的思緒跟著你的語氣起伏，而不是平鋪直敘。
+* 自我反思：在故事結尾可以像作者一樣加入一段自我反思，提升整篇文章的格調，從一場「抱怨」昇華為一次「自我成長」。
+
+</details>
 
 ## 10.
 
