@@ -1276,23 +1276,48 @@ She plays the piano, and she plays the violin, too.
 
 假設語句最常見的結構為 `if ... (如果), ... (結果)`。我依照「如果」與「結果」兩個子句的不同時間點，將動詞的標準變化邏輯簡單整理成下表。
 
-<table><thead><tr><th width="215.99996948242188">假設的情境</th><th width="165">如果子句的動詞</th><th>結果子句的動詞</th></tr></thead><tbody><tr><td>第一類：預測未來</td><td>現在式</td><td>will/can/may + VR</td></tr><tr><td>第二類：與當下事實相反</td><td>過去式 </td><td>would/could/might + VR</td></tr><tr><td>第三類：與過去事實相反</td><td>過去完成式</td><td>would/could/might + have + p.p.</td></tr></tbody></table>
+<table><thead><tr><th width="215.99996948242188">假設的情境</th><th width="165">如果子句的動詞</th><th>結果子句的動詞</th></tr></thead><tbody><tr><td>第零類：絕對事實</td><td>現在式</td><td>現在式</td></tr><tr><td>第一類：預測未來</td><td>現在式</td><td>will/can/may + VR</td></tr><tr><td>第二類：與當下事實相反</td><td>過去式 </td><td>would/could/might + VR</td></tr><tr><td>第三類：與過去事實相反</td><td>過去完成式</td><td>would/could/might + have + p.p.</td></tr></tbody></table>
+
+#### 第零類假設語氣—絕對事實
+
+當我們要描述<mark style="color:blue;">**科學事實**</mark>、<mark style="color:blue;">**習慣**</mark>、<mark style="color:blue;">**真理**</mark>或<mark style="color:blue;">**不變的規律**</mark>時，可以使用此種假設語氣。
+
+* 結構：`If + S + 現在式動詞, S + 現在式動詞`；過去式的變形為 `If + S + 過去式動詞, S + 過去式動詞`，但它的意義會轉向<mark style="color:blue;">**過去的規律或習慣**</mark>。
+* If you freeze water, it becomes solid. (如果你冷凍水，水就會變成固體。)&#x20;
+* In the past, if it rained, the basement flooded. (在過去，只要下雨，地下室就會淹水。)
+* If I was late for dinner, my parents got angry. (如果我晚餐遲到，我父母就會生氣。)
+
+如果是<mark style="color:blue;">**不變的科學真理**</mark> (e.g., 水結冰變固體)，即使你在寫過去的故事，通常還是會用<mark style="color:blue;">**現在式**</mark>來表達，因為那個真理到現在依然成立。
+
+* At that time, I learned that if you freeze water, it becomes solid. (當時我學到，如果你冷凍水，它就會變成固體。)
 
 #### 第一類假設語氣—預測未來
 
-此假設語氣的動詞變化非常符合直覺。結構為 `If S V ..., S will/can/may + VR ...`，是最基本的假設句型。過去式的變形為 `If S V-ed ..., S would/could/might + VR ...`。
+此假設語氣的動詞變化非常符合直覺，是最基本的假設句型。
 
+* 結構：`If + S + 現在式動詞, S + will/can/may + VR`；過去式的變形為 `If + S + 過去式動詞, S + would/could/might + VR`。
 * If you <mark style="color:blue;">**sleep**</mark> now, you <mark style="color:blue;">**will wake**</mark> up early tomorrow.
 * When I watched the movie, I thought if I <mark style="color:blue;">**worked**</mark> hard from then on, I <mark style="color:blue;">**might be**</mark> able to make a fortune soon.&#x20;
+
+{% hint style="info" %}
+#### 第零類假設語氣 vs. 第一類假設語氣
+
+如果將第零類假設語氣寫成第一類假設語氣，並不算錯，只是強調的意思稍微不同。
+
+* 第零類：強調的是「必然的規律」。這是一種恆久的性質。
+* 第一類：強調的是「這次的預測」。這是在描述某個特定動作產生的結果。
+* If you heat ice, it melts. (如果你加熱冰，它會融化 → 強調這是通用真理)
+* If you heat this ice, it will melt. (如果你加熱這塊冰，它將會融化 → 強調針對眼前的動作做預測)
+{% endhint %}
 
 #### 第二、三類假設語氣—與事實相反
 
 {% hint style="warning" %}
 #### 時間軸
 
-#### <mark style="color:blue;">**過去的過去 ← 過去 ← 現在 ← 未來**</mark>
+#### <mark style="color:blue;">**過去的過去 ← 過去 ← 當下 ← 未來**</mark>
 
-書寫與事實相反的假設語氣時，一定要有時間軸的概念，並且須確定<mark style="color:blue;">**「書寫的事件」相對於「假設的事件」、「結果」的時間關係**</mark>。釐清後，動詞型態的變化邏輯都是<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>。
+書寫與事實相反的假設語氣時，一定要有時間軸的概念，並且須確定<mark style="color:blue;">**「文章內容所處的時間」相對於「假設的事件」、「結果」的關係**</mark>。釐清後，動詞型態的變化邏輯都是<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>。
 
 用「拍照」的邏輯來說明。想像你手裡有一台相機，在主要動詞 (e.g., 笑、許願、看、思考) 發生的那一秒，你按下快門。現在，請思考「假設事件」與「結果」分別處於以下哪種情況。
 
@@ -1302,82 +1327,57 @@ She plays the piano, and she plays the violin, too.
 時間軸的概念非常重要，在閱讀接下來的內容前，請務必要弄清楚！一旦理解這個概念，就能更容易學會這些假設句型的書寫邏輯。
 {% endhint %}
 
-標準的第二、三類假設語句結構。
-
-* **與當下事實相反**
-  * `If + S + 過去式動詞 (be動詞一律用were) ..., S + would/could/might + VR`
+* **第二類假設語氣—與當下事實相反**
+  * 結構：`If + S + 過去式動詞 (be動詞一律用were), S + would/could/might + VR`
   * If I <mark style="color:blue;">**had**</mark> wings, I <mark style="color:blue;">**would fly**</mark> to your side immediately. (如果我有翅膀，我會立刻飛到你身邊。)
   * If Alana <mark style="color:blue;">**were**</mark> here, she <mark style="color:blue;">**would hug**</mark> you. (如果 Alana 在這，她會擁抱你。)
-* **與過去事實相反**
-  * `If + S + had + p.p. ..., S + would/could/might + have + p.p.`
+* **第三類假設語氣—與過去事實相反**
+  * 結構：`If + S + had + p.p., S + would/could/might + have + p.p.`
   * If you <mark style="color:blue;">**had told**</mark> me the truth earlier, I <mark style="color:blue;">**wouldn't have been**</mark> so angry. (如果你早點告訴我真相，我就不會那麼生氣了。)
   * If Mark <mark style="color:blue;">**had stood**</mark> up for himself, the bullies <mark style="color:blue;">**might have backed**</mark> down. (如果 Mark 當時有為自己挺身而出，那些霸凌者可能會退縮。)
-* **混合時態 (過去影響現在)**
-  * `If + S + had + p.p. ..., S + would/could/might + VR`
+* **混合版本 (過去影響現在)**
+  * 結構：`If + S + had + p.p., S + would/could/might + VR`
   * If I <mark style="color:blue;">**had finished**</mark> my homework yesterday, I <mark style="color:blue;">**could go**</mark> out with you now. (如果我昨天完成了功課，我現在就能跟你出門了。)
   * If he <mark style="color:blue;">**had taken**</mark> the doctor's advice, he <mark style="color:blue;">**wouldn't be**</mark> in the hospital today. (如果他當時有聽醫生的建議，他今天就不會躺在醫院裡了。)
-
-在很多情況下，我們也會使用假設語氣。以下皆為與事實相反的假設語氣。
-
 * **若非 / 要不是 (`if` 引導)**
   * 與現在事實相反用 `if it were not for N, S + would/could/might + VR`；與過去事實相反用 `if it had not been for N, S + would/could/might + have + p.p.`；混合時態用 `if it had not been for N, S + would/could/might + VR`。
   * If it <mark style="color:blue;">**weren't**</mark> for your support, I <mark style="color:blue;">**wouldn't be**</mark> so confident. (要不是有你的支持，我現在不會這麼有自信。)
   * If it <mark style="color:blue;">**had not been**</mark> for the heavy rain yesterday, we <mark style="color:blue;">**would have gone**</mark> hiking. (要不是昨天那場大雨，我們當時就去健行了。)
   * If it <mark style="color:blue;">**hadn't been**</mark> for your advice yesterday, he <mark style="color:blue;">**would be**</mark> in danger now. (如果不是你昨天的建議，他現在就危險了。)
-* **若非 / 要不是 (`but for N` / `without N`)**
-  * But for your timely help, I <mark style="color:blue;">**would have failed**</mark> the mission then. (要不是你及時的幫助，我當時就會任務失敗了。)
-  * Without the sun, there <mark style="color:blue;">**would be**</mark> no life on Earth. (如果沒有太陽，地球上就不會有生命。)
-* **願望 (`wish`)**
-  * 使用 `wish` 時，通常會用假設語氣；`hope` 則不會。
-    * I wish I <mark style="color:blue;">**were**</mark> taller so that I <mark style="color:blue;">**could reach**</mark> the top shelf. (我希望我能長高一點，這樣我就能碰到最上面的架子了。)
-    * I wish I <mark style="color:blue;">**had studied**</mark> harder for the final exam. (我希望我當時有為期末考更努力讀書。)
-* **要是...該有多好；但願 (`if only`)**
-  * If only I <mark style="color:blue;">**had known**</mark> your phone number then! (要是我當時知道你的電話號碼該有多好！)
-  * If only it <mark style="color:blue;">**would stop**</mark> snowing tomorrow! (但願明天能停止下雪。)
 * **絕對不可能發生 (`were to`)**
   * 通常指違背真理或極度不可能的事，「結果」的寫法一律用 `would/could/might + VR` 即可。
   * If the sun were to rise in the west, I <mark style="color:blue;">**would stop**</mark> loving you. (就算太陽從西邊升起，我也不會停止愛你。)
   * If I were to win the lottery tomorrow, I <mark style="color:blue;">**would buy**</mark> a castle for you. (萬一我明天中了樂透 (機率極低)，我會為你買一座城堡。)
-* **彷彿 (`as if / as though`)**
-  * He treats the stray dog as if it <mark style="color:blue;">**were**</mark> his own child. (他對待那隻流浪狗，彷彿那是他親生孩子一樣。)
-  * She looks as if she <mark style="color:blue;">**had seen**</mark> a ghost yesterday. (她看起來彷彿昨天見到了鬼一樣。)
 
 {% hint style="success" %}
-#### 小撇步
+#### 小撇步—如何書寫 `if` 引導的假設語氣
 
-不論是哪種假設句型，動詞的變化邏輯都是<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>。
+請回想剛才說明的「拍照」的邏輯。
 
-#### 標準句型、**若非 / 要不是 (`if` 引導)**
-
-結構為 `if ... (如果), ... (結果)`，分為「如果」子句與「結果」子句。
+標準假設語氣的結構為 `if ... (如果), ... (結果)`，分為「如果」子句與「結果」子句。
 
 * 「如果」子句的動詞變化，需根據<mark style="color:blue;">**「假設事件」發生的時間點，在時間軸上往回走一個層級**</mark>。
-  * 當「假設事件」發生於未來 (接下來)，「如果」子句的時態是未來的過去 → 現在式。
-  * 當「假設事件」發生於現在，「如果」子句的時態是現在的過去 → 過去式。
-  * 當「假設事件」發生於過去，「如果」子句的時態是過去的過去 → 過去完成式。
+  * 當「假設事件」發生在當下，動詞型態是當下的過去 → 過去式。
+  * 當「假設事件」發生在過去，動詞型態是過去的過去 → 過去完成式。
 * 「結果」子句的動詞變化在於 <mark style="color:blue;">**`will/can/may`**</mark>，需根據<mark style="color:blue;">**「結果」發生的時間點，在時間軸上往回走一個層級**</mark>。
-  * 當「結果」發生在未來 (接下來)，「結果」子句的時態是未來的過去 → 現在式 (`will/may/can + VR`)。
-  * 當「結果」發生在現在，「結果」子句的時態是現在的過去 → 過去式 (`would/could/might + VR`)。
-  * 當「結果」發生在過去，「結果」子句的時態是過去的過去 → 過去完成式 (`would/could/might + have + p.p.`)。
+  * 當「結果」發生在當下，動詞型態是是當下的過去 → 過去式 (`would/could/might + VR`)。
+  * 當「結果」發生在過去，動詞型態是是過去的過去 → 過去完成式 (`would/could/might + have + p.p.`)。
 
-只要注意「假設事件」與「結果」發生的時間點，並依照上述邏輯改變子句的動詞型態即可。
+只要注意<mark style="color:blue;">**「文章內容所處的時間」相對於「假設的事件」、「結果」的關係**</mark>，並依照上述邏輯改變子句的動詞型態即可。
 
-* 如果我認真讀書，我就能考高分 (「假設事件」發生在未來 (接下來)，「結果」發生在未來)：If I <mark style="color:blue;">**study**</mark> hard, I <mark style="color:blue;">**will score**</mark> high.
-* 如果我認真讀書，我今天就能考高分 (「假設事件」發生在現在，「結果」與現在事實相反)：If I <mark style="color:blue;">**studied**</mark> hard, I <mark style="color:blue;">**would score**</mark> high today.
-* 如果我一週前認真讀書，我昨天就能考高分 (「假設事件」發生在過去，「結果」與過去事實相反)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would have scored**</mark> high yesterday.
-* 如果我一週前認真讀書，我今天就能考高分 (「假設事件」發生在過去，「結果」與現在事實相反)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would**</mark> score high today.
+以下例子，「文章內容所處的時間」都是現在。
 
-#### `Wish`, `if only`, `but for`, `without`, `as if` 等假設句型
+* 如果我接下來認真讀書，我下次就能考高分 (「假設事件」發生在未來 (接下來)，「結果」發生在未來 → 第一類)：If I <mark style="color:blue;">**study**</mark> hard, I <mark style="color:blue;">**will score**</mark> high next time.
+* 如果我認真讀書，我這次就能考高分 (「假設事件」發生在當下，「結果」與當下事實相反 → 第二類)：If I <mark style="color:blue;">**studied**</mark> hard, I <mark style="color:blue;">**would score**</mark> high this time.
+* 如果我一週前認真讀書，我上次就能考高分 (「假設事件」發生在過去，「結果」與過去事實相反 → 第三類)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would have scored**</mark> high last time.
+* 如果我一週前認真讀書，我這次就能考高分 (「假設事件」發生在過去，「結果」與當下事實相反 → 混合版本)：If I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would**</mark> score high this time.
 
-如果語感尚未建立起來，可以先將接續的句子用符合一般文法的方式書寫，之後再調整成假設語氣 (<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>) 即可。以下提供一些例子示範如何調整動詞型態，中括號 `[]` 框起來的部分是需調整的部分，<mark style="color:$danger;">**紅字**</mark>是需調整的動詞，<mark style="color:blue;">**藍字**</mark>是調整後的動詞型態。
+以下例子，「文章內容所處的時間」都是過去。
 
-* 那位女士對我微笑，彷彿我們之前認識：The lady smiles at me as if \[we <mark style="color:$danger;">**knew**</mark> each other before]. → The lady smiles at me as if \[we <mark style="color:blue;">**had known**</mark> each other before].
-* 要是他明天可以來這裡該也多好：If only \[he <mark style="color:$danger;">**will be**</mark> able to come here tomorrow]. → If only \[he <mark style="color:blue;">**would be**</mark> able to come here tomorrow].
-* 要不是他的幫助，我當時就不會成功了：Without his help, \[I <mark style="color:$danger;">**wouldn't succeed**</mark> then]. → Without his help, \[I <mark style="color:blue;">**wouldn't have succeeded**</mark> then].
-* 我希望我年輕一些，這樣我就能參加這場活動了：I wish \[I <mark style="color:$danger;">**am**</mark> younger so that I <mark style="color:$danger;">**can participate**</mark> in this event]. → I wish \[I <mark style="color:blue;">**were**</mark> younger so that I <mark style="color:blue;">**could participate**</mark> in this event].
-* 要是我們早點聽 Alana 的建議就好了：If only \[we <mark style="color:$danger;">**took**</mark> Alana's advice earlier]. → If only \[we <mark style="color:blue;">**had taken**</mark> Alana's advice earlier].
-* 要不是這些噪音，這裡會是個完美的讀書地點：But for the noise, \[this <mark style="color:$danger;">**will be**</mark> a perfect place to study]. → But for the noise, \[this <mark style="color:blue;">**would be**</mark> a perfect place to study].
-* Bruce 急忙走到我面前，好像有什麼重要的事情要告訴我：Bruce rushes to me as if \[he <mark style="color:$danger;">**has**</mark> something important to tell me]. → Bruce rushes to me as if \[he <mark style="color:blue;">**had**</mark> something important to tell me].
+* 我想，如果我接下來認真讀書，我下次就能考高分 (「假設事件」發生在未來 (接下來)，「結果」發生在未來 → 第一類)：I thought if I <mark style="color:blue;">**studied**</mark> hard, I <mark style="color:blue;">**would score**</mark> high next time.
+* 我想，如果我認真讀書，我這次就能考高分 (「假設事件」發生在當下，「結果」與當下事實相反 → 第二類)：I thought if I <mark style="color:blue;">**studied**</mark> hard, I <mark style="color:blue;">**would score**</mark> high this time.
+* 我想，如果我一週前認真讀書，我上次就能考高分 (「假設事件」發生在過去，「結果」與過去事實相反 → 第三類)：I thought if I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would have scored**</mark> high last time.
+* 我想，如果我一週前認真讀書，我這次就能考高分 (「假設事件」發生在過去，「結果」與現在事實相反 → 混合版本)：I thought if I <mark style="color:blue;">**had studied**</mark> hard a week ago, I <mark style="color:blue;">**would**</mark> score this time.
 {% endhint %}
 
 {% hint style="info" %}
@@ -1395,6 +1395,44 @@ She plays the piano, and she plays the violin, too.
 * <mark style="color:$danger;">**錯誤範例**</mark>：Weren't it for your help... / Hadn't it been for your advice...
 * <mark style="color:blue;">**正確範例**</mark>：Were it not for your help... / Had it not been for your advice...
 {% endhint %}
+
+很多情況下，我們也會使用假設語氣。以下皆為與事實相反的假設語氣，且同樣遵守剛剛的<mark style="color:blue;">**時間軸**</mark>邏輯。
+
+* **若非 / 要不是 (`but for N` / `without N`)**
+  * But for your timely help, I <mark style="color:blue;">**would have failed**</mark> the mission then. (要不是你及時的幫助，我當時就會任務失敗了。)
+  * Without the sun, there <mark style="color:blue;">**would be**</mark> no life on Earth. (如果沒有太陽，地球上就不會有生命。)
+* **願望 (`wish`)**
+  * 使用 `wish` 時，通常會用假設語氣；`hope` 則不會。
+    * I wish I <mark style="color:blue;">**were**</mark> taller so that I <mark style="color:blue;">**could reach**</mark> the top shelf. (我希望我能長高一點，這樣我就能碰到最上面的架子了。)
+    * I wish yesterday I <mark style="color:blue;">**had studied**</mark> harder for the final exam. (我希望我昨天有為期末考更努力讀書。)
+* **要是...該有多好；但願 (`if only`)**
+  * If only I <mark style="color:blue;">**had known**</mark> your phone number then! (要是我當時知道你的電話號碼該有多好！)
+  * If only it <mark style="color:blue;">**would stop**</mark> snowing tomorrow! (但願明天能停止下雪。)
+* **彷彿 (`as if / as though`)**
+  * He treats the stray dog as if it <mark style="color:blue;">**were**</mark> his own child. (他對待那隻流浪狗，彷彿那是他親生孩子一樣。)
+  * She looks as if she <mark style="color:blue;">**had seen**</mark> a ghost yesterday. (她看起來彷彿昨天見到了鬼一樣。)
+
+{% hint style="success" %}
+#### 小撇步—如何書寫其他假設語氣
+
+請回想剛才說明的「拍照」的邏輯。
+
+思考<mark style="color:blue;">**「接續的句子」相對於「文章內容所處的時間」的關係**</mark>，並以符合該關係的文法書寫，之後<mark style="color:blue;">**在時間軸上往回走一個層級**</mark>即可。
+
+以下示範如何調整動詞型態。中括號 `[]` 框起來的部分是「接續的句子」，<mark style="color:$danger;">**紅字**</mark>是符合時間關係的動詞型態，<mark style="color:blue;">**藍字**</mark>是調整成假設語氣 (時間軸上往回一個層級) 後的動詞型態。
+
+* 要不是這些噪音，這裡會是個完美的讀書地點：But for the noise, \[this <mark style="color:$danger;">**will be**</mark> a perfect place to study]. → But for the noise, \[this <mark style="color:blue;">**would be**</mark> a perfect place to study].
+* 要不是他的幫助，我當時就不會成功了：Without his help, \[I <mark style="color:$danger;">**wouldn't succeed**</mark> then]. → Without his help, \[I <mark style="color:blue;">**wouldn't have succeeded**</mark> then].
+* 我希望我年輕一些，這樣我就能參加這場活動了：I wish \[I <mark style="color:$danger;">**am**</mark> younger so that I <mark style="color:$danger;">**can participate**</mark> in this event]. → I wish \[I <mark style="color:blue;">**were**</mark> younger so that I <mark style="color:blue;">**could participate**</mark> in this event].
+* 我希望我十年前長高一些，這樣我就能參加那場活動了：I wish \[I <mark style="color:$danger;">**were**</mark> taller ten years ago so that I <mark style="color:$danger;">**could participate**</mark> in that event]. → I wish \[I <mark style="color:blue;">**had been**</mark> taller ten years ago so that I <mark style="color:blue;">**could have participated**</mark> in that event].
+* 要是我們早點聽 Alana 的建議就好了：If only \[we <mark style="color:$danger;">**took**</mark> Alana's advice earlier]. → If only \[we <mark style="color:blue;">**had taken**</mark> Alana's advice earlier].
+* 要是他明天可以來這裡該也多好：If only \[he <mark style="color:$danger;">**will be**</mark> able to come here tomorrow]. → If only \[he <mark style="color:blue;">**would be**</mark> able to come here tomorrow].
+* Bruce 急忙走到我面前，好像有什麼重要的事情要告訴我：Bruce rushes to me as if \[he <mark style="color:$danger;">**has**</mark> something important to tell me]. → Bruce rushes to me as if \[he <mark style="color:blue;">**had**</mark> something important to tell me].
+* 那位女士對我微笑，彷彿我們認識：The lady smiled at me as if \[we <mark style="color:$danger;">**know**</mark> each other]. → The lady smiled at me as if \[we <mark style="color:blue;">**knew**</mark> each other].
+* 那位女士對我微笑，彷彿我們之前認識：The lady smiled at me as if \[we <mark style="color:$danger;">**knew**</mark> each other before]. → The lady smiled at me as if \[we <mark style="color:blue;">**had known**</mark> each other before].
+{% endhint %}
+
+假設語氣非常複雜，初學者容易感到時間線混亂，這是正常的現象。唯有多看、多寫，才能將語感建立起來，讓你在使用假設語氣時，能自然且正確地變換動詞型態。
 
 #### Should 的假設語氣
 
