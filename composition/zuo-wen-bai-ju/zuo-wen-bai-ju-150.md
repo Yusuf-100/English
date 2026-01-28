@@ -2387,9 +2387,63 @@ She plays the piano, and she plays the violin, too.
 
 ## 文章分析
 
-## 寫作補給站—
+這篇文章探討的是現代網路生態，結構遵循「現象觀察」→「負面批評」→「案例佐證」→「解決建議」的邏輯。
+
+* 前言：科技進步與社會現狀。
+  * 描述網路與智慧型手機的普及帶動了社群媒體與頻繁查看動態的習慣。
+  * 點出拍攝短片並上傳至 YouTube 已成為一種普遍的趨勢。
+* YouTuber 的角色與受歡迎的原因。
+  * 創作者透過分享經驗、教學、評論或趣味行為吸引觀眾。
+  * 成功的關鍵在於具備吸引力、幽默感或單純的娛樂價值。
+  * 強調網紅能在快節奏的網路世界中迅速抓住注意力並與觀眾互動。
+* 轉折：網路名人的負面衝擊與道德缺失。
+  * 作者明確表達對此現象的憂慮，指出部分名人的道德感低落。
+  * 抨擊為了流量而產生的煽情、猥褻或違法行為。
+  * 對不尊重他國文化、蓄意歧視卻獲得大量分享的現象感到沮喪。
+* 具體案例分析：香港案例的運用。
+  * 引用某網紅在香港機場批評當地英文程度並試圖尋找性工作者的案例。
+  * 描述該網紅受到媒體譴責後，展現出的傲慢與拒絕撤片的態度。
+* 結論：建立規範的必要性。
+  * 指出過多的追隨者容易使網紅產生自大心理。
+  * 呼籲制定更多法規或限制來確保網路名人的行為舉止得體。
+
+## 寫作補給站—與流量、社會影響相關的詞語
+
+* 描述網紅爆紅與網路現象的動態表達
+  * Be an overnight sensation 一夕成名
+    * 形容某人或某事物 (e.g., 電影、歌手、網路紅人) 在極短時間內突然獲得巨大的知名度並引起廣泛的注意與轟動。
+    * With a single creative video, many young people have become overnight sensations on social media.
+    * The movie became an overnight sensation after its release, receiving critical acclaim worldwide.
+  * Wield immense/enormous/considerable influence 發揮、擁有巨大影響力
+    * 常用於正式文體或新聞中，形容某人、組織或國家對他人或決策握有舉足輕重的掌控權。
+    * `wield` 原指「揮舞 (武器、工具)」，引申為「行使」力量或權力。
+    * Famous YouTubers wield immense influence over the opinions and behaviors of their followers.
+    * She wields considerable influence within the organization.
+  * Go viral 在網路上瘋傳
+    * 後面可以接上 `on 平台`。
+    * The YouTuber’s controversial clip went viral, sparking a huge debate on the Internet.
+    * This video has gone viral on Facebook.
+* 針對行為缺失與社會責任的批判
+  * Cross the moral line 越過道德底線
+    * Some creators cross the moral line by posting sensational content just to gain more views.
+  * A double-edged sword 雙面刃
+    * 常用來形容某事會帶來的利與弊。
+    * While social media connects us, it is a double-edged sword that can also spread discrimination.
+  * Strive for fame and wealth 爭名奪利
+    * 描述個人為達成名利雙收的目標，而付出巨大努力、奮鬥甚至冒險。
+    * In the race to strive for fame and wealth, some celebrities lose their sense of morality.
+* 呼籲行動與建立秩序的正式用詞
+  * Call for stricter oversight 呼籲更嚴格的監督
+    * Following the scandal, regulators called for stricter oversight of non-bank financial institutions.
+  * Adhere to professional ethics 遵守職業道德
+    * It is crucial for every YouTuber to adhere to professional ethics and respect people from all backgrounds.
 
 ## 寫作建議
+
+* 舉出<mark style="color:blue;">**實例**</mark>：當你在論述道德等抽象議題時，像文中一樣舉出具體的「香港案例」，能讓讀者更有共鳴且增加說服力。
+* 適當加入情感詞彙：例如 `worrying`, `depressing`，藉此引導讀者的情緒感受。
+* 強調<mark style="color:blue;">**因果邏輯**</mark>：可多利用 `in this way`, `therefore`, `as a result` 等詞語來連結「現象」與其帶來的「社會後果」。
+* 善用如 `as far as I am concerned`, `from my perspective` 等這種正式開頭帶出你的主觀立場，使其更具理性與權威感。
 
 </details>
 
@@ -2398,20 +2452,509 @@ She plays the piano, and she plays the violin, too.
 1. <mark style="color:blue;">**To Whom It May Concern,**</mark>\
    I am writing to <mark style="color:blue;">**apply to**</mark> National Taiwan University's <mark style="color:blue;">**undergraduate**</mark> program in the Department of Anthropology for the fall 2020 <mark style="color:blue;">**term**</mark>. I believe that my <mark style="color:blue;">**background**</mark> in, knowledge of, and <mark style="color:blue;">**passion for**</mark> the study of human cultures make me uniquely <mark style="color:blue;">**qualified**</mark> to <mark style="color:blue;">**be admitted to**</mark> your program.
 2. <mark style="color:blue;">**In particular**</mark>, I have <mark style="color:blue;">**nurtured**</mark> a <mark style="color:blue;">**lifelong**</mark> interest in the <mark style="color:blue;">**indigenous**</mark> cultures of Taiwan. My father's family is from the Atayal <mark style="color:blue;">**tribe**</mark>, and I was <mark style="color:blue;">**raised**</mark> with <mark style="color:blue;">**intimate**</mark> knowledge of and participation in Atayal culture from a young age. My relatives taught me to be proud of this part of my <mark style="color:blue;">**identity**</mark>.
-3. Once <mark style="color:blue;">**enrolled in**</mark> your program, my <mark style="color:blue;">**aim**</mark> will be not only to study Taiwan's <mark style="color:blue;">**indigenous**</mark> roots, but also to <mark style="color:blue;">**promote**</mark> our island's <mark style="color:blue;">**cultural diversity**</mark> both <mark style="color:blue;">**at home and abroad**</mark>. Your program attracts my interest because I know its teaching <mark style="color:blue;">**staff**</mark> and student body share the same goals. I hope my application <mark style="color:blue;">**demonstrates**</mark> that I am an <mark style="color:blue;">**ideal candidate**</mark> to join your program.\
+3. Once <mark style="color:blue;">**enrolled in**</mark> your program, I <mark style="color:blue;">**aim to**</mark> not only study Taiwan's <mark style="color:blue;">**indigenous**</mark> roots, but also <mark style="color:blue;">**promote**</mark> our island's <mark style="color:blue;">**cultural diversity**</mark> both <mark style="color:blue;">**at home and abroad**</mark>. Your program attracts my interest because I know its teaching <mark style="color:blue;">**staff**</mark> and student body share the same goals. I hope my application <mark style="color:blue;">**demonstrates**</mark> that I am an <mark style="color:blue;">**ideal candidate**</mark> to join your program.\
    <mark style="color:blue;">**Sincerely,**</mark>\
    Angus Yang
+
+<details>
+
+<summary>作文百句 12 單字整理</summary>
+
+## 單字
+
+* Apply (v.) 申請、報名
+  * 常見用法為 `apply to + 機構`。
+  * I decided to apply to National Taiwan University because of its reputation. (我因為台灣大學的聲譽而決定報考該校。)
+* Undergraduate (adj./n.) 大學部的、大學生
+  * Most undergraduate programs in Taiwan take four years to complete. (台灣大部分本科課程需要四年才能完成。)
+* Department (n.) 系、部、部門
+  * The Department of Anthropology offers fascinating courses on ancient civilizations. (人類學系開設了許多關於古代文明的精彩課程。)
+* Term (n.) 學期；術語；任期
+  * 在校園語境下通常指學期 (與 `semester` 通用)。
+  * The new term starts in February. (新學期在二月開始。)
+  * "Photosynthesis" is a scientific term. (「光合作用」是一個科學術語。)
+  * The president is serving his second term. (總統正在履行他的第二任期。)
+* Enroll (v.) 註冊、入學、招收
+  * `enroll` 強調行政手續的「加入」，而 `enter` 較口語化。
+  * You should enroll in the English class as soon as possible. (你應該盡快註冊這堂英文課。)
+* Passion (n.) 熱情、強烈愛好
+  * 常見用法為 `passion for sth`。
+  * His passion for music led him to study at a world-class conservatory. (他對音樂的熱情促使他進入世界一流音樂學院學習。)
+* Uniquely (adv.) 獨特地、唯一地、難以取代地
+  * 形容詞為 `unique`。
+  * This island is uniquely beautiful during the cherry blossom season. (櫻花盛開的季節，這座島嶼美得獨一無二。)
+* Qualified (adj.) 合格的、有資格的、勝任的
+  * 動詞為 `qualify`。
+  * She is highly qualified for the job. (她非常勝任這份工作。)
+  * You need to pass the test to qualify for the final competition. (你需要通過測試才能取得決賽資格。)
+  * `qualified` 還有「有條件的、有限制的」意思，例如 `qualified support` 指的是「有條件的支持」，請特別留意。
+* Candidate (n.) 申請人、候選人
+  * We are looking for the best candidate for the position. (我們正在尋找最適合這個職位的應徵者。)
+  * There are three candidates running for mayor. (有三位候選人競選市長。)
+* Anthropology (n.) 人類學
+  * 研究人類起源、行為、生理及文化發展的學問。
+  * Anthropology helps us understand the diversity of human societies throughout history. (人類學幫助我們了解人類社會在歷史上的多樣性。)
+* Indigenous (adj.) 本土的、原住民的
+  * The government is working hard to preserve the indigenous languages of the region. (政府正努力保護該地區的本土語言。)
+* Tribe (n.) 部落
+  * The Atayal tribe is known for its traditional weaving and facial tattoos. (泰雅族以其傳統編織技藝和紋面而聞名。)
+* Identity (n.) 身份；特性；認同
+  * Language is a crucial part of our cultural identity. (語言是我們文化認同的重要組成部分。)
+  * 動詞形為 `identify`，表「辨識」、「確認」、「認同」。`identify with` 表「認同」、「感同身受」。`identify A as B` 表「把 A 認定為 B」。
+    * The witness identified the suspect. (證人確認了嫌犯。)
+    * I can identify with the main character in this movie. (我能對這部電影的主角感同身受。)
+    * Scientists identified the fossil as a new species of dinosaur. (科學家將這塊化石認定為一種新的恐龍物種。)
+* Root (n.) 根、根源、源頭；方程式的根
+  * 當我們用<mark style="color:blue;">**複數**</mark>時，通常強調一個人的「家鄉背景」或「文化歸屬感」。
+  * He never forgot his roots after becoming famous. (他成名後從未忘記他的出身/根源。)
+  * Find the root of the equation. (求方程式的根。)
+  * 片語 `put down roots` 表「在某地定居、扎根」。
+    * After moving around for years, they decided to put down roots in Taipei. (四處搬遷多年後，他們決定在台北定居。)
+* Diversity (n.) 多樣性
+  * The <mark style="color:blue;">**cultural diversity**</mark> of the city makes it a vibrant place to live. (這座城市的文化多樣性使它成為一個充滿活力的居住地。)
+* Admit (v.)&#x20;
+  * 准許進入、錄取。常用被動型態 `be admitted to ...`，表示「被...錄取」。
+    * He was admitted to Harvard. (他被哈佛錄取了。)
+  * 承認。通常接 `V-ing` 或 `that 子句`。
+    * He admitted making a mistake. = He admitted that he made a mistake. (他承認犯了錯。)
+  * 容納
+    * This stadium admits 50,000 people. (這個體育場可容納五萬人。)
+* Nurture (v.) 培養、養育
+  * Teachers should try to nurture the curiosity of their students. (教師應該努力培養學生的好奇心。)
+* Intimate (adj.) 深入了解的、詳細的；親密的；私人的
+  * He has an intimate knowledge of the local history. (他對當地歷史有深入的了解。)
+  * We had an intimate dinner for two. (我們吃了頓親密的雙人晚餐。)
+  * She shared some intimate details of her life. (她分享了她生活中一些私人的細節。)
+* Promote (v.) 促進；推廣；晉升
+  * We are implementing new software to promote efficiency in our daily operations. (我們正在實施新的軟體以提升日常營運的效率。)
+  * The organization aims to promote environmental awareness worldwide. (該組織旨在向全球推廣環保意識。)
+  * 表「晉升」時，通常會用 `be promoted to + 職位` 的結構。
+    * He was promoted to manager last month. (他上個月被晉升為經理。)
+* Demonstrate (v.) 證明；展現、示範；示威遊行
+  * The results demonstrate the effectiveness of the new drug. (結果證明了這種新藥的療效。)
+  * The chef demonstrated how to cook the perfect steak. (主廚示範了如何烹飪完美的牛排。)
+  * Thousands of people gathered to demonstrate against the new law. (數千人聚集示威反對新法。)
+* lifelong (adj.) 終身的、一輩子的
+  * He has a lifelong interest in studying ancient history. (他對研究古代歷史有著終身的興趣。)
+* raise (v.) 撫養；舉起；增加
+  * I was raised by my grandparents in a small village. (我是在一個小村莊由祖父母撫養長大的。)
+  * Please raise your hand if you have any questions. (如果你有任何問題，請舉手。)
+* relative
+  * (n.) 親戚
+    * All my relatives gather together during the Lunar New Year. (我所有的親戚都會在農曆新年期間聚在一起。)
+  * (adj.) 相對的；相關的
+    * The success of the project is relative to the amount of effort we put in. (這項計畫的成功與我們投入的努力程度成正比/相關。)
+* program (n.)
+  * 學位課程；計畫
+    * She is applying for a master's program in London. (她正在申請倫敦的一個碩士學位課程。)
+  * 程式
+    * I'm learning how to write a computer program. (我正在學習如何寫電腦程式。)
+* aim (n./v.) 目標、旨在
+  * My primary aim in life is to help people in need. (我人生的主要目標是幫助有需要的人。)
+  * This new law <mark style="color:blue;">**aims to**</mark> reduce plastic waste. (這項新法旨在減少塑膠廢棄物。)
+* attract (v.) 吸引
+  * The bright lights of the city attract many young people. (城市閃爍的燈光吸引了許多青年。)
+* staff (n.) 全體職員、員工
+  * 指一個機構的所有工作人員，屬於<mark style="color:blue;">**集合名詞**</mark>，通常指一整群人。如果要表示「其中一員」，要說 `a staff member`，而不是單用 `a staff`。
+  * `medical staff` 指「醫護人員」；`office staff` 指「辦公室職員」。
+  * The school staff are very helpful and friendly. (學校全體教職員都非常樂於助人且友善。)
+* application (n.) 申請；應用；應用程式
+  * 平常我們說的 `app` 或 `App` 就是 `application` 的簡寫。
+  * The deadline for college applications is next Monday. (大學申請的截止日期是下週一。)
+  * The practical application of this theory is very important. (這個理論的實際應用非常重要。)
+  * I just downloaded a new language learning application. (我剛下載了一個新的語言學習應用程式。)
+
+</details>
+
+<details>
+
+<summary>作文百句 12 片語整理</summary>
+
+## 片語
+
+* To Whom It May Concern 敬啟者、致相關人士
+  * 這是在不知道收信人具體姓名時，最專業的開頭方式。
+  * 請注意<mark style="color:blue;">**每個單字的第一個字母都要大寫**</mark>。這整句話通常會獨立成行並置頂，但如果要寫進句子裡，它後面一定要跟著一個逗號或冒號，作為致意與正文的分隔。
+  * To Whom It May Concern, please find my application letter attached below. (敬啟者，請查閱下方附上的我的申請信。)
+* Nurture an interest in ... 培養對...的興趣
+  * It's important to nurture an interest in different cultures from a young age. (從小培養對不同文化的興趣是很重要的。)
+* Be raised with ... 在...的環境、教育下長大
+  * 強調成長過程中的文化薰陶。
+  * He was raised with a deep love for traditional Atayal music. (他在深愛傳統泰雅音樂的環境下被撫養長大。)
+* Be proud of N 以...為傲
+  * We should all be proud of the cultural diversity of our island. (我們都應該為我們島嶼的文化多樣性感到自豪。)
+
+</details>
+
+<details>
+
+<summary>作文百句 12 文法整理</summary>
+
+## 文法
+
+* 動詞後的 that 名詞子句
+  * `that` 在此引導一個完整的子句作為受詞。通常 `that` 可省略，但當連接的子句過長，或是在正式書信中，為了維持語氣與邏輯的嚴謹度，可能不會省略 `that`。
+  * 常接 `that` 子句的高頻動詞：
+    * 表達想法：`think`, `believe`, `imagine`, `suppose`
+    * 表達發現/證明：`find`, `demonstrate`, `show`, `realize`
+    * 表達希望/要求：`hope`, `suggest`, `insist`
+      * `suggest` 和 `insist` 在 `that` 子句中有特殊用法，未來遇到時會再介紹。
+  * I can't Imagine that you should say such a word. (我簡直無法想像你會說出這樣的話。)
+  * I think the party last night was pretty amazing. (我覺得昨晚的派對真是太棒了。)
+  * The results showed that you were correct. (結果證明你是對的。)
+  * I hope you can understand this. (我希望你能理解。)
+  * 當有兩個以上由 `and` 或 `but` 連結的 `that` 子句時，第二個 `that` 絕對不能省略，否則會產生歧義。這點在[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)提過。
+    * He told me (that) he was busy and <mark style="color:blue;">**that**</mark> I should wait. (他告訴我他很忙，而且 (也告訴我) 我應該等待。)
+* 平行結構
+  * 連接多個名詞、片語或子句時，須注意平行結構。
+  * 原文：`...my background in, knowledge of, and passion for the study...`。注意到每個名詞後面都帶有不同的介係詞 (`in`, `of`, `for`)，所以要全部寫出來。如果寫成 `...my background, knowledge, and passion for the study...`，這是錯誤的。
+
+</details>
+
+<details>
+
+<summary>作文百句 12 寫作建議</summary>
+
+## 文章分析、寫作建議
+
+這是一份學術申請信。作者明確指出他就讀人類學系的動機，並結合他的成長背景，表示自己是獨一無二的合格人選；除此之外，他還提出錄取後的抱負，將個人夢想與學校宗旨結合。書寫此類文件時，可以學習本文的架構。如此一來，既能充分展現你對該學科的熱愛，也能增加教授錄取你的意願。
+
+## 寫作補給站—求職、求學信可用的詞語
+
+* 展現個人優勢與契合度
+  * Be well-suited for ... / Be a good fit for ... 非常適合...
+    * I believe my previous experiences make me well-suited for your program. (我相信我之前的經驗讓我非常適合貴系的計畫。)
+  * Possess a strong foundation in ... 在...方面擁有深厚的基礎
+    * I possess a strong foundation in history, which will help my studies in anthropology. (我在歷史方面擁有深厚的基礎，這將有助於我的人類學研究。)
+* 表達具體抱負與貢獻
+  * Dedicate myself to V-ing/N 致力於...
+    * I plan to dedicate myself to the preservation of tribal languages. (我計畫致力於部落語言的保存。)
+  * Make a meaningful contribution to ... 對...做出有意義的貢獻
+    * I hope to make a meaningful contribution to the student body through my diverse background. (我希望能透過我的多元背景，為全體學生做出有意義的貢獻。)
+* 提升正式感的替換詞
+  * In light of N 鑑於...、考量到...
+  * In light of my Atayal roots, I have a unique perspective on social structures. (鑑於我的泰雅族根源，我對社會結構有著獨特的見解。)
+
+</details>
 
 ## 13.
 
 1. Jenny <mark style="color:blue;">**was**</mark> very <mark style="color:blue;">**fond of**</mark> fast food: hamburgers, fried chickens and French fries <mark style="color:blue;">**coupled with**</mark> a glass of coke were her favorite. She loved them so much that she often ate them for dinners. One day, she stood in front of a mirror and found many <mark style="color:blue;">**pimples**</mark> on her face. Besides, she also found that her uniforms looked very <mark style="color:blue;">**tight**</mark> on her. She had a sudden awakening that the fast food she had been eating was so <mark style="color:blue;">**greasy**</mark> and <mark style="color:blue;">**high-calorie**</mark> that it <mark style="color:blue;">**led to**</mark> the <mark style="color:blue;">**pimples**</mark> and <mark style="color:blue;">**weight gain**</mark>.
 2. She felt very upset about this. Especially, when she was <mark style="color:blue;">**in the presence of**</mark> the boy she <mark style="color:blue;">**had a crush on**</mark>, she felt extremely embarrassed and <mark style="color:blue;">**ill at ease**</mark>. <mark style="color:blue;">**With**</mark> this realization, Jenny decided to <mark style="color:blue;">**take regular exercise**</mark> so that she could lose weight as soon as possible. Moreover, she would eat light meals and cleanse her skin more often to help her skin <mark style="color:blue;">**go back to normal**</mark>. Right at this moment, she knew that she was <mark style="color:blue;">**what**</mark> she ate.
 
+<details>
+
+<summary>作文百句 13 單字整理</summary>
+
+## 單字
+
+* Fast food (n.) 速食
+  * 指製作迅速、標準化且通常可外帶的食物。速食常與 `junk food` (垃圾食物) 掛鉤。
+  * Many parents try to limit their children's intake of fast food. (許多父母試圖限制孩子攝取速食。)
+* Pimple (n.) 青春痘、粉刺
+  * Stress can sometimes cause pimples to break out on your skin. (壓力有時會導致你的皮膚長出青春痘。)
+* Tight (adj.) 緊身的；牢固的；時間緊迫；預算有限
+  * These jeans are so tight that I can barely breathe. (這件牛仔褲太緊了，我幾乎沒辦法呼吸。)
+  * My schedule is very tight. (我的行程非常緊湊)
+  * Money is a bit tight right now. (現在手頭有點緊)
+* Awakening (n.) 覺醒、體悟
+  * `A sudden awakening` 指突然間意識到某個事實。
+  * Moving to a new city was a real awakening for him. (搬到一個新城市對他來說是一個真正的體悟/覺醒。)
+* Greasy (adj.) 油膩的
+  * 形容食物含油量高，或是皮膚油油的。
+  * Too much greasy food is bad for your digestive system. (太多油膩的食物對你的消化系統有害。)
+* High-calorie (adj.) 高熱量的
+  * Many people try to avoid high-calorie snacks when dieting. (許多人在節食時會試圖避免高熱量的零食。)
+* Weight gain 體重增加、發胖
+  * 相對的詞是 `weight loss` (體重減輕)。
+  * The doctor warned him about the risks of rapid weight gain. (醫生警告他關於快速發胖的風險。)
+* Upset
+  * (adj.) 難過的、沮喪的；生氣的
+    * I was really upset when I lost my favorite pen. (當我弄丟心愛的筆時，我真的很難過。)
+    * I'm sorry to make you upset. (抱歉讓你生氣了。)
+  * (v.) 使...心煩；打翻；打亂
+    * Don't upset her. (別讓她心煩。)
+    * The dog upset the water bowl. (狗把水碗打翻了。)
+    * The rain upset our plans. (下雨打亂了我們的計畫。)
+* Crush (n.) 暗戀對象、迷戀
+  * `Have a crush on someone` 是最常見的用法。
+  * I've had a crush on him since the first day of high school. (從高一第一天開始，我就一直暗戀著他。)
+* Extremely (adv.) 極其、極端地
+  * She felt extremely embarrassed in the presence of her crush. (她在暗戀對象面前感到極度尷尬。)
+  * extreme
+    * (adj.)：極度的、偏激的、極端的。
+      * Swimming in this river is dangerous due to the extreme current. (因為水流極度湍急，在這條河游泳很危險。)
+      * Extreme weather conditions can cause significant damage to crops. (極端天氣狀況會對農作物造成重大損害。)
+    * (n.)：極端。
+      * He always goes from one extreme to another. (他總是從一個極端走向另一個極端。)
+* Realization (n.) 領悟、意識到
+  * The sudden realization of the truth shocked everyone. (突然領悟到真相讓每個人都感到震驚。)
+* Light (adj.)
+  * 清淡的 (飲食)
+    * 文中指油脂、調味較少的餐點。
+    * I'd like to have a light meal for lunch. (午餐我想吃份輕食。)
+  * 輕的 (重量)：
+    * This laptop is very light and easy to carry. (這台筆電很輕，方便攜帶。)
+  * 淺色的 (顏色)：
+    * I like that light blue shirt you are wearing. (我喜歡你穿的那件淺藍色襯衫。)
+* Cleanse (v.) 清潔、清洗
+  * 文中指 Jenny 清洗皮膚。這比 `wash` 更強調深層或徹底的清潔。
+  * You should cleanse your face thoroughly before going to bed. (你應該在睡覺前徹底清潔臉部。)
+* Right (adv.) 就在、正是
+  * 用於<mark style="color:blue;">**強調**</mark>時間、位置的精確性。
+  * I need to talk to you right now. (我現在馬上要跟你談談。)
+  * The keys were right here on the table. (鑰匙剛才就在桌上這裡。)
+  * `right` 還有「權利」、「右邊」或「正確的」等意思，但當副詞時多用於「精確、直接」的強調。
+
+</details>
+
+<details>
+
+<summary>作文百句 13 片語整理</summary>
+
+## 片語
+
+* Be fond of N/V-ing 喜愛...、愛好...
+  * She is very fond of eating chocolate after dinner. (她非常喜愛在晚餐後吃巧克力。)
+* Coupled with 加上、伴隨
+  * 描述兩件事物同時發生或結合在一起，通常表示它們共同產生了某種影響。
+  * High inflation, coupled with a lack of jobs, led to a crisis. (高通貨膨脹加上缺乏工作機會，導致了一場危機。)
+  * The high price, coupled with the poor quality, made it a bad deal. (高昂的價格加上低劣的品質，使這筆交易很不划算。)
+* In front of 在...前面
+  * The person standing in front of you is my teacher. (站在你前面的人是我的老師。)
+* Lead to N 導致...、引起...
+  * 表示某種原因造成了特定的結果。
+  * Lack of exercise may lead to obesity. (缺乏運動可能會導致肥胖。)
+  * 相似意思的片語有 `result in`, `contribute to`, `bring about`，或者直接用 `cause`。
+    * Result in
+      * 強調最後產生的結果。
+      * The heavy rain resulted in a sudden flood in the city. (這場大雨導致了城市突然淹水。)
+    * Contribute to
+      * 強調是原因之一，或是促成某種情況。
+      * Smoking can contribute to various heart diseases. (抽菸會導致各種心臟疾病。)
+    * Bring about
+      * 強調引起、帶來某種重大的改變。
+      * The new policy brought about a huge change in our school life. (這項新政策為我們的學校生活帶來了巨大的改變。)
+    * Cause
+      * A small spark can cause a forest fire. (星星之火，可以燎原。)
+* Upset about sth 對...感到難過或生氣
+  * He was really upset about the outcome. (他對結果非常失望。)
+* In the presence of 在...面前、有...在場
+  * 指在某個特定人物的身邊或視線範圍內。
+  * He feels very nervous in the presence of his boss. (他在老闆面前感到非常緊張。)
+* Ill at ease 不自在、心神不寧
+  * She felt ill at ease at the formal party because she didn't know anyone. (她在正式派對上感到很不自在，因為她誰都不認識。)
+* Take regular exercise 定期運動
+  * 也可以說 `do regular exercise`。但在強調「養成習慣」時，用 `take` 更好。
+  * To maintain a good figure, Jenny promised to take regular exercise twice a week. (為了保持好身材，Jenny 許諾每週定期運動兩次。)
+* So that 以便、為了
+  * 用於引導一個目的子句，說明做某件事的目標。通常後面會加上 `can`, `could`, `will`, `would` 等助動詞。
+  * He keeps a diary in English so that his writing skills can improve faster. (他用英文寫日記，以便他的寫作能力能進步得更快。)
+* As soon as possible 盡快
+  * 表達急迫性。縮寫為 `ASAP` 或 `asap`，但<mark style="color:blue;">**不建議在作文中使用**</mark>。
+  * 語氣較委婉的片語為 `at your earliest convenience` (在您方便時盡快)。
+  * Please reply to my email as soon as possible so we can start the project. (請盡快回覆我的郵件，以便我們開始這個計畫。)
+* Go back to normal 恢復正常
+  * 指事物重新回到原本、健康的狀態。
+  * After the exams finished, our lives finally went back to normal. (考試結束後，我們的生活終於恢復了正常。)
+* You are what you eat 人如其食
+  * 意指你攝取的營養與食物，最終會塑造你的身體素質、體型及健康水準，想要健康的身體就必須擇食健康食物。
+  * If you keep eating junk food, you'll feel tired all the time—remember, you are what you eat. (如果你一直吃垃圾食物，你會一直覺得累。記住，人如其食。)
+
+</details>
+
+<details>
+
+<summary>作文百句 13 文法整理</summary>
+
+## 文法
+
+* `has/have/had + been + V-ing` 完成進行式
+  * 強調在某個時間點之前，一直<mark style="color:blue;">**持續進行**</mark>的動作。
+  * 原文：...the fast food she had been eating was so greasy... → 她一直以來 (在發現長痘痘前) 持續在吃的速食是如此油膩...。
+  * I have been waiting for 2 straight hours. (我已經等了整整兩個小時了。) → 強調「持續」等，而且到現在還在繼續等。
+  * At that moment, he realized he had been doing the wrong thing all the time. (那一刻，他意識到自己一直以來都做錯了。)
+  * 關於完成式的介紹，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-1-wen-fa-zheng-li)。
+
+</details>
+
+<details>
+
+<summary>作文百句 13 寫作建議</summary>
+
+## 文章分析
+
+這篇文章在敘事節奏上遵循「成癮 → 覺醒 → 行動」的清晰弧線。作者巧妙地運用了生理細節 (如青春痘、緊繃的制服) 作為情緒轉折的觸媒，這比單純的說教更有感染力。另外，文中使用了 `had been eating` 這種完成進行式，精準地呈現 Jenny 過去那段漫長且不受控的飲食習慣，為後面的「突然覺醒」鋪陳了足夠的邏輯重量。
+
+文章在「行動過程」的部分，僅列出運動與輕食兩種方案，稍顯平淡。不過，文章的結尾將一個人的健康現狀與哲學名言 `You are what you eat` 結合，不僅收束了全文，更賦予了讀者深刻的反思空間，這個部分處理地極佳。
+
+## 寫作補給站—健康生活與體態管理
+
+在寫作中，若能運用更精確的營養學術語或生活風格描述，將能顯著提升文章的正式感。這裡提供一些可用的詞彙，幫助你在撰寫關於「自我管理」、「肥胖問題」或「飲食革命」等主題時，能有更豐富的表達手段。
+
+* Junk food (n.) 垃圾食物
+  * 比 `fast food` 更有<mark style="color:blue;">**負面**</mark>評價的意涵，指營養價值極低的食物。
+  * Reducing the consumption of junk food is the first step toward a healthy heart. (減少垃圾食物的攝取是邁向心臟健康的第一步。)
+* Metabolism (n.) 新陳代謝
+  * Taking regular exercise can help speed up your metabolism. (規律運動能幫助加速你的新陳代謝。)
+* Sedentary lifestyle (n. phr.) 久坐不動的生活型態
+  * 現代人發胖的主要原因之一，非常適合用在分析原因的段落。
+  * A sedentary lifestyle often contributes to rapid weight gain. (久坐不動的生活型態通常是導致快速發胖的原因之一。)
+* Balanced diet (n. phr.) 均衡飲食
+  * Eating a balanced diet ensures that your body gets all the necessary nutrients. (均衡飲食能確保你的身體獲得所有必要的營養素。)
+* N + intake (n. phr.) ...的攝取、攝取量
+  * 例如 `calorie intake` (熱量攝取)、`salt intake` (鹽分攝取)、`water intake` (水分攝取)、`high/low intake` (高/低攝取量)。在與飲食相關的文章中經常能看到這個用法。
+  * Monitoring your daily calorie intake is essential for losing weight. (監控每日熱量攝取對於減肥至關重要。)
+* Self-discipline (n.) 自律
+  * It takes a lot of self-discipline to resist the temptation of fast food. (抵抗素食的誘惑需要極大的自律。)
+
+## 寫作建議
+
+在撰寫這類「個人轉變」的文章時，關鍵在於如何展現「因果邏輯」與「情感共鳴」。建議大家多運用這篇文章展現出的對稱美學：當<mark style="color:blue;">**描述一個負面的習慣時，後續最好能對應一個正面的補救措施**</mark>。例如文中將「油膩速食」對比「清淡飲食」，將「長痘與發胖」對比「運動與清潔」。這種結構能讓你的文章邏輯非常嚴密，讓讀者能清晰看見主角的進步曲線。
+
+同時，要注意情境細節的營造。原文提到在「暗戀對象面前」感到不自在，這就是一種高級的描寫技巧，它將生理問題轉化為社交壓力，大幅增加了讀者的代入感。在練習時，請嘗試進一步描述事件帶來的「感受」。以下是針對本篇主題的一些具體寫作建議：
+
+* 強化程度描寫：可以運用 `so... that...` 句型來強調行為帶來的後果。
+* 善用<mark style="color:blue;">**情境副詞**</mark>：運用 `extremely` 或 `sudden` 等詞彙來捕捉情緒的轉折點。
+* 嘗試在結尾引用諺語或名言，能讓你的文章看起來更專業。
+
+</details>
+
 ## 14.
 
-1. One day, on his way to work, Andy got a <mark style="color:blue;">**news alert**</mark> on his phone. It warned him that milk supplies had been found to be <mark style="color:blue;">**contaminated**</mark> and that the milk on sale now was <mark style="color:blue;">**unfit**</mark> to <mark style="color:blue;">**consume**</mark>. <mark style="color:blue;">**On learning this**</mark>, Andy was <mark style="color:blue;">**stunned**</mark> and sent the message to several of his friends right away (= <mark style="color:blue;">**in no time**</mark>).
+1. One day, on his way to work, Andy got a <mark style="color:blue;">**news alert**</mark> on his phone. It warned him that milk supplies had been found to be <mark style="color:blue;">**contaminated**</mark> and that the milk on sale now was <mark style="color:blue;">**unfit**</mark> to <mark style="color:blue;">**consume**</mark>. <mark style="color:blue;">**On learning this**</mark>, Andy was <mark style="color:blue;">**stunned**</mark> and sent the message to several of his friends <mark style="color:blue;">**in no time**</mark>.
 2. They all felt shocked and helped <mark style="color:blue;">**pass the news along**</mark>. Soon, no one would <mark style="color:blue;">**dare**</mark> to buy milk. To get people to buy milk again, some supermarkets tried to lower its price by 50%, but it was <mark style="color:blue;">**in vain**</mark>. With the <mark style="color:blue;">**dairy industry**</mark> <mark style="color:blue;">**suffering**</mark> such a <mark style="color:blue;">**severe economic blow**</mark>, the government decided to <mark style="color:blue;">**step in**</mark>. The <mark style="color:blue;">**authorities**</mark> responsible for food safety announced that a full <mark style="color:blue;">**investigation**</mark> would take place and claimed that they would <mark style="color:blue;">**track down**</mark> the source of the problem.
 3. A lot of milk <mark style="color:blue;">**samples**</mark> were tested for <mark style="color:blue;">**contamination**</mark>, and the <mark style="color:blue;">**facilities**</mark> of every dairy farm were carefully <mark style="color:blue;">**inspected**</mark>. When the source of <mark style="color:blue;">**contamination**</mark> was found, the milk companies <mark style="color:blue;">**apologized**</mark>, <mark style="color:blue;">**assuring**</mark> the public <mark style="color:blue;">**of**</mark> their products' future safety. In time, people's confidence in milk was <mark style="color:blue;">**restored**</mark> and sales increased.
+
+<details>
+
+<summary>作文百句 14 單字整理</summary>
+
+## 單字
+
+* News alert (n. phr.) 新聞警報、快訊
+  * 複數型為 `news alerts`。
+  * Everyone checked their phones when a news alert about the upcoming typhoon popped up. (當關於即將到來的颱風快訊跳出來時，每個人都查看了手機。)
+* Contaminated (adj.) 受污染的
+  * 動詞為 `contaminate`。
+  * The local river became contaminated after the chemical factory leaked waste. (在化工廠洩漏廢料後，當地的河流受到了污染。)
+* Unfit (adj.) 不適宜的；不合格的
+  * 反義詞為 `fit`。
+  * The old bridge was declared unfit for heavy trucks due to structural damage. (由於結構損壞，這座舊橋被宣佈不適宜重型卡車通行。)
+* Consume (v.) 消耗；吃、喝
+  * These cars consume too much gasoline. (這些的汽車消耗太多汽油了。)
+  * It is important to check the expiration date before you consume any canned food. (在食用任何罐頭食品前，檢查有效日期是很重要的。)
+* Stunned (adj.) 大吃一驚的、目瞪口呆的
+  * The audience was stunned by the magician's final disappearing act. (觀眾被魔術師最後的消失表演驚呆了。)
+* Dairy (adj./n.) 乳製品的；酪農業
+  * 請勿與 `diary` (日記) 搞混。
+  * People with lactose intolerance should avoid most dairy products. (有乳糖不耐症的人應避免食用大多數乳製品。)
+* Blow (n.) 打擊；挫折
+  * Losing the final game was a big blow to the team's confidence. (輸掉決賽對該隊的信心是一個沉重的打擊。)
+* Authorities (n. pl.) 當局；官方
+  * `The authorities concerned` 表「有關當局」，這個詞相當好用。
+  * The health authorities are urging everyone to get vaccinated as soon as possible. (衛生當局正敦促每個人盡快接種疫苗。)
+* Investigation (n.) 調查
+  * 動詞為 `investigate`。
+  * The police have launched a thorough investigation into the car accident. (警方已對該起車禍展開全面調查。)
+* Claim (v.)
+  * 聲稱、主張
+    * 表示尚未證實的主張。
+    * The man claimed that he saw a UFO in the middle of the night. (那名男子聲稱他在半夜看見了不明飛行物。)
+  * 要求、索賠
+    * 常見用法為 `claim for sth`。
+    * You can claim for travel expenses after the business trip. (出差結束後，你可以申請差旅費報銷。)
+  * 奪走 (生命)
+    * 常在天災的報導或新聞中看到這個用法。
+    * The terrible earthquake claimed hundreds of lives in the small village. (那場可怕的地震奪走了那個小村莊數百人的生命。)
+* Sample (n.) 樣本、採樣
+  * The scientist collected soil samples to test for dangerous bacteria. (科學家收集了土壤樣本以檢驗是否有危險細菌。)
+* Facility (n.) 設施；設備
+  * The university provides excellent sports facilities for its students. (這所大學為學生提供優良的運動設施。)
+* Inspect (v.) 檢查；視察 (官方或權威機構的檢驗)
+  * The safety officer comes to inspect the elevators every month. (安全人員每個月都會來檢查電梯。)
+  * The health officer came to inspect the restaurant's kitchen for hygiene standards. (衛生官員來視察餐廳廚房，以確認衛生標準。)
+  * The general arrived to inspect the troops at the military base. (將軍抵達軍事基地視察部隊。)
+* Apologize (v.) 道歉
+  * 常見用法為 `apologize to sb for sth`。
+  * You should apologize to your sister for breaking her favorite doll. (你應該為弄壞妹妹最愛的娃娃向她道歉。)
+  * 名詞為 `apology`。常見用法有 `make/offer an apology to sb for sth` (道歉), `accept sb's apology` (接受道歉)。
+    * The company made a public apology to the consumers for the contaminated products. (該公司為受污染的產品向消費者公開道歉。)
+    * Alana finally accepted his apology after he gave her a tuna rice ball. (在得到他給的鮪魚飯糰後，Alana 終於接受了他的道歉。)
+* Assure (v.) 向...保證；使確信
+  * `assure` 的受詞一定是<mark style="color:blue;">**人**</mark>。常見用法有 `assure sb that + 子句` (向某人保證某事會發生), `assure sb of sth` (使某人確信某事)。
+  * I assure you that the investigation will be transparent and fair. (我向你保證調查將會是透明且公正的。)
+  * The pilot assured the passengers that the turbulence would end soon. (飛行員向乘客保證亂流很快就會結束。)
+  * They tried to assure him of their willingness to work. (他們盡力使他相信他們樂意工作。)
+* Restore (v.) 恢復秩序、和平；恢復健康；恢復信心
+  * The police were called to restore order after the protest became violent. (在抗議活動演變成暴力後，警方被傳喚來恢復秩序。)
+  * A long vacation in the mountains helped restore his health. (在山中長期度假有助於恢復他的健康。)
+  * The positive feedback from customers helped restore her confidence in the project. (來自客戶的正面回饋有助於恢復她對該計畫的信心。)
+
+## 以下明天檢查
+
+* Supply (n. / v.) 供應、補給
+  * 名詞用法：指供應量或補給品。
+    * 原文應用：Milk supplies had been found to be contaminated. (牛奶供應量被發現受到了污染。)
+    * 全新例句：Due to the heavy rain, the city's water supply was temporarily cut off. (由於大雨，這座城市的供水暫時中斷了。)
+  * 動詞用法：提供、供應某物給某人。
+    * 用法：supply someone with something。
+    * 全新例句：The charity group will supply the homeless with hot meals and warm clothes. (慈善團體將為無家可歸者提供熱餐與保暖衣物。)
+* Industry (n.) 工業、產業、勤奮
+  * 產業/工業意思：指某個特定的商業或製造領域。
+    * 原文應用：The dairy industry suffered a blow. (酪農業遭受了打擊。)
+    * 全新例句：The tourism industry has recovered quickly after the border reopened. (邊境重新開放後，觀光產業迅速恢復了。)
+  * 勤奮意思：指努力工作的品質。
+    * 全新例句：Her success in medical school was the result of both talent and industry. (她在醫學院的成功是天分與勤奮共同的結果。)
+* Economic vs. Economical：經濟大不同
+  * Economic (adj.)：經濟上的、與經濟相關的。
+    * 原文應用：A severe economic blow. (嚴重的經濟打擊。)
+    * 全新例句：Experts are discussing the economic impact of the new trade agreement. (專家們正在討論新貿易協定帶來的經濟影響。)
+  * Economical (adj.)：節省的、實惠的、省錢的。
+    * 全新例句：Buying a monthly pass is much more economical than paying for each ride. (買月票比每次乘車付費要實惠得多。)
+  * 快速口訣：帶有 `-ical` 的通常跟「個人省錢/划算」有關，沒有的跟「國家大事/大環境」有關。
+* Announce (v.) 宣佈、公告
+  * 語意：正式且公開地使大眾知道某事。
+  * 原文應用：The authorities announced that a full investigation would take place. (當局宣佈將會展開全面調查。)
+  * 全新例句：The school announced that tomorrow would be a holiday due to the festival. (學校宣佈明天因為節慶將放假一天。)
+* Source (n.) 來源、源頭
+  * 語意：事物產生的起源或出處。
+  * 原文應用：...track down the source of the problem. (……追查問題的源頭。)
+  * 全新例句：Oranges and lemons are excellent sources of Vitamin C. (柳橙和檸檬是維他命 C 的極佳來源。)
+
+</details>
+
+<details>
+
+<summary>作文百句 14 片語整理</summary>
+
+## 片語
+
+* In vain 徒勞無功
+  * 相似意思的片語還有 `to no avail`。
+  * We searched for the lost key all afternoon, but it was in vain. = We searched for the lost key all afternoon, but to no avail. (我們找了一下午遺失的鑰匙，但都徒勞無功。)
+
+</details>
+
+<details>
+
+<summary>作文百句 14 文法整理</summary>
+
+## 文法
+
+</details>
+
+<details>
+
+<summary>作文百句 14 寫作建議</summary>
+
+## 文章分析
+
+## 寫作補給站—
+
+## 寫作建議
+
+</details>
 
 ## 15.
 
