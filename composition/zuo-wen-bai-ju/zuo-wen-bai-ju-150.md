@@ -16,7 +16,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 1 單字整理</summary>
 
-### 單字
+## 單字
 
 * Ashtray (n.) 煙灰缸
   * 這是由 `ash` (灰) + `tray` (盤子) 組成的複合詞。
@@ -48,7 +48,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 1 片語整理</summary>
 
-### 片語
+## 片語
 
 * Turn out 的不同用法
   * It turns out that 子句 (S + V) 結果竟然是...、證明是...
@@ -77,7 +77,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 1 文法整理</summary>
 
-### 文法
+## 文法
 
 *   過去、現在、未來完成式
 
@@ -103,7 +103,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 1 寫作建議</summary>
 
-### 寫作建議
+## 寫作建議
 
 在寫「感悟類」作文時，可以挑選一個具體的物品作為核心，並描繪該物品的<mark style="color:blue;">**象徵意義 (Symbolism)**</mark>。透過描寫這個物品的變化，來反映人物的情感轉折。
 
@@ -121,7 +121,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 2 單字整理</summary>
 
-### 單字
+## 單字
 
 * Graduate (n.) 畢業生
   * 動詞 `graduate from + 學校` 表示從某校畢業。
@@ -177,7 +177,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 2 片語整理</summary>
 
-### 片語
+## 片語
 
 * Be responsible for sth (phr.) 為某事負責、是某事的原因
   * 在本文中意指「趨勢的成因」。
@@ -223,7 +223,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 2 文法整理</summary>
 
-### 文法
+## 文法
 
 * `Have/has + been + Ving` 現在完成進行式
   * 強調一個動作從過去開始，一直持續到現在，且通常暗示該動作仍會繼續下去。
@@ -252,7 +252,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 2 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇文章遵循了非常清晰的「總－分－總」結構：
 
@@ -265,7 +265,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 除此之外，作者將抽象論點與具體行為結合，不是只寫「出國會學到東西」，而是寫了 `interact with people who lead a different life, speak a new language, and embrace novel ideas.` 等具體內容，清楚呈現出國求學的優點，提升文章的層次。
 
-#### 寫作補給站—總結文章常用的片語
+## 寫作補給站—總結文章常用的片語
 
 * `In conclusion` / `To sum up` / `In summary` 總之、綜上所述
   * In conclusion, so long as money isn't an issue, I will surely choose to study overseas. (總之，只要錢不是問題，我一定會選擇出國留學。)
@@ -277,7 +277,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * `In short` / `In brief` 簡而言之
   * In short, pursuing a dream is never a waste of time. (簡而言之，追求夢想絕非浪費時間。)
 
-#### 寫作建議
+## 寫作建議
 
 針對這類「論述趨勢並表達個人意願」的題目，大家可以參考以下三點建議：
 
@@ -301,7 +301,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 3 單字整理</summary>
 
-### 單字
+## 單字
 
 * Rosy (adj.) 美好的、樂觀的
   * 由 `rose (玫瑰)` 演變而來，字面意思是玫瑰色的，常用於形容前景或生活美滿。
@@ -340,7 +340,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 3 片語整理</summary>
 
-### 片語
+## 片語
 
 * Hang out with sb 和某人一起鬼混、閒晃。
   * 形容非正式的聚會或打發時間。
@@ -372,7 +372,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 3 文法整理</summary>
 
-### 文法
+## 文法
 
 * `Will have + V-p.p.` 未來完成式 (Future Perfect)
   * 表達「在<mark style="color:blue;">**未來**</mark>某個時間點之前，某個動作已經完成」的狀態。
@@ -401,7 +401,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 3 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇「給自己未來小孩的一封信」的文章以「母親寫給未來孩子」的視角，成功地將個人的青春回憶與對未來的祝福串聯在一起。
 
@@ -409,7 +409,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * 情感真實性的建立：文章沒有一味地說「高中生活很棒」，而是坦誠地提到 `won't say everything is rosy` 以及 `feel overwhelmed`。這種先抑後揚的做法，能讓後面的鼓勵更顯真實。
 * 具體的細節描寫：透過 `hang out with friends`, `listen to great music` 等具體行為，勾勒出青少年的生活輪廓，比起空洞的形容詞更能引發共鳴。
 
-### 寫作補給站—書信與心靈成長常用語
+## 寫作補給站—書信與心靈成長常用語
 
 * 書信體的開頭與結尾語
   * By the time you receive this, ... 當你收到這封信時，...
@@ -424,7 +424,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * Follow your heart. 追隨你的內心。
   * Believe in your potential. 相信你的潛力。
 
-### 寫作建議
+## 寫作建議
 
 針對這類文章，大家可以參考以下建議：
 
@@ -445,7 +445,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 4 單字整理</summary>
 
-### 單字
+## 單字
 
 * Misunderstand (v.) 誤解、誤會
   * 常用於被動語態表示「被誤解」。
@@ -490,7 +490,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 4 片語整理</summary>
 
-### 片語
+## 片語
 
 * Hand in sth 繳交、交出
   * 通常指將作業、試卷或正式文件交給相關負責人。
@@ -523,7 +523,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 4 文法整理</summary>
 
-### 文法
+## 文法
 
 * 反身代名詞的強調用法
   * 在主詞後加上 `myself`, `himself` 等，用來強調「就是那個人」。
@@ -538,29 +538,34 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * 如果子句是否定句，有時可以與 `too... to...` (太...而不能...) 轉換，但要注意結構不同。
     * `He was so tired that he couldn't walk.` → `He was too tired to walk.`
 
-#### 關係代名詞、關係副詞、複合關係代名詞
+### 關係代名詞、關係副詞、複合關係代名詞
 
 底下把高中文法相當重要的關代、關副、複合關代一次講清楚。請大家一定要仔細閱讀，並且多看例句，並嘗試自己把兩句話合併，或是反過來操作。如此一來，可以讓文法的使用變得更加自然且直覺。
 
-* 關係代名詞：`who`, `whom`, `which`, `whose`, `that`
-  * 用來引導子句修飾前面的先行詞。選用哪個字，取決於先行詞的性質。
-  * 先行詞是人：用 `who` (主格)、`whom` (受格) 或 `that`。其中，`whom` 用於受格。
-    * I am talking to a teacher; the teacher is very kind. → The teacher _\[<mark style="color:blue;">**whom**</mark> I am talking to]_ is very kind. / I am talking to a teacher _\[<mark style="color:blue;">**who**</mark> is very kind]_.
-    * Students need to interact with people; they lead a different life. → Students need to interact with people _\[<mark style="color:blue;">**who**</mark> lead a different life]_. / The people _\[with <mark style="color:blue;">**whom**</mark> students need to interact]_ lead a different life.
-  * 先行詞是物：用 `which` 或 `that`。除非是<mark style="color:blue;">**擬人化**</mark>的寫作，否則不能用 `who`。
-    * Do you see the dog? The dog is running there → Do you see the dog _\[<mark style="color:blue;">**that**</mark> is running there]_?
-  * 先行詞是人的所有物：用 `whose`。
-    * I know a girl; her father is a pilot. → I know a girl _\[<mark style="color:blue;">**whose**</mark> father is a pilot]_.
-* 關係副詞：`when`, `where`
-  * 當先行詞是「時間」或「地點」，且<mark style="color:blue;">**子句結構完整**</mark>時使用。它們相當於「介係詞 + which」。
-  * `When` = `at/on/in which`
-    * I'll never forget the day; I first met you on that day. → I'll never forget the day _\[<mark style="color:blue;">**which**</mark> I first met you <mark style="color:blue;">**on**</mark>]_. → I'll never forget the day \[<mark style="color:blue;">**when**</mark> I first met you].
-  * `Where` = `at/in/to/from which`
-    * The place is beautiful; you live in that place. → The place _\[<mark style="color:blue;">**in which**</mark> you live]_ is beautiful. → The place _\[<mark style="color:blue;">**where**</mark> you live]_ is beautiful.
-* 複合關係代名詞：`what`
-  * 相當於 `the thing(s) which`。
-  * Do you understand <mark style="color:blue;">**the thing**</mark> _\[<mark style="color:blue;">**which**</mark> I say]_? → Do you understand _\[<mark style="color:blue;">**what**</mark> I say]_?
-  * <mark style="color:blue;">**The thing**</mark> _\[<mark style="color:blue;">**which**</mark> happened yesterday]_ was a tragedy. → _\[<mark style="color:blue;">**What**</mark> happened yesterday]_ was a tragedy.
+#### 關係代名詞：`who`, `whom`, `which`, `whose`, `that`
+
+* 用來引導子句修飾前面的先行詞。選用哪個字，取決於先行詞的性質。
+* 先行詞是人：用 `who` (主格)、`whom` (受格) 或 `that`。其中，`whom` 用於受格。
+  * I am talking to a teacher; the teacher is very kind. → The teacher _\[<mark style="color:blue;">**whom**</mark> I am talking to]_ is very kind. / I am talking to a teacher _\[<mark style="color:blue;">**who**</mark> is very kind]_.
+  * Students need to interact with people; they lead a different life. → Students need to interact with people _\[<mark style="color:blue;">**who**</mark> lead a different life]_. / The people _\[with <mark style="color:blue;">**whom**</mark> students need to interact]_ lead a different life.
+* 先行詞是物：用 `which` 或 `that`。除非是<mark style="color:blue;">**擬人化**</mark>的寫作，否則不能用 `who`。
+  * Do you see the dog? The dog is running there → Do you see the dog _\[<mark style="color:blue;">**that**</mark> is running there]_?
+* 先行詞是人的所有物：用 `whose`。
+  * I know a girl; her father is a pilot. → I know a girl _\[<mark style="color:blue;">**whose**</mark> father is a pilot]_.
+
+#### 關係副詞：`when`, `where`
+
+* 當先行詞是「時間」或「地點」，且<mark style="color:blue;">**子句結構完整**</mark>時使用。它們相當於「介係詞 + which」。
+* `When` = `at/on/in which`
+  * I'll never forget the day; I first met you on that day. → I'll never forget the day _\[<mark style="color:blue;">**which**</mark> I first met you <mark style="color:blue;">**on**</mark>]_. → I'll never forget the day \[<mark style="color:blue;">**when**</mark> I first met you].
+* `Where` = `at/in/to/from which`
+  * The place is beautiful; you live in that place. → The place _\[<mark style="color:blue;">**in which**</mark> you live]_ is beautiful. → The place _\[<mark style="color:blue;">**where**</mark> you live]_ is beautiful.
+
+#### 複合關係代名詞：`what`
+
+* 相當於 `the thing(s) which`。
+* Do you understand <mark style="color:blue;">**the thing**</mark> _\[<mark style="color:blue;">**which**</mark> I say]_? → Do you understand _\[<mark style="color:blue;">**what**</mark> I say]_?
+* <mark style="color:blue;">**The thing**</mark> _\[<mark style="color:blue;">**which**</mark> happened yesterday]_ was a tragedy. → _\[<mark style="color:blue;">**What**</mark> happened yesterday]_ was a tragedy.
 
 {% hint style="success" %}
 #### 小撇步
@@ -572,7 +577,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 不過，實用上還是以句意判斷為優先，真的難以判斷時，再用這個小撇步。另外，請特別注意，有些題目喜歡把介係詞放後面，例如 `The place ____ you live in is beautiful.`，許多人看到空格後面是完整句子就選了 `where`，但忽略 `live` 後面的 `in`，他是 `in (the place)` 的意思，所以空格應該填入 `which` 或 `that`。希望以上能幫大家解決關代、關副、複合關代這個高中文法的大難題。
 {% endhint %}
 
-#### 限定用法 vs. 非限定用法
+### 限定用法 vs. 非限定用法
 
 理解「關代、關副、複合關代」的基本內容後，讓我們再來看看這兩種用法。
 
@@ -595,7 +600,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 希望大家透過多看句子來理解限定、非限定的差異，不要硬背。另外，也可以透過中文翻譯的邏輯來推測應該使用哪種語法。
 {% endhint %}
 
-#### 分詞作為後置修飾語：`V-ing` vs. `V-ed`
+### 分詞作為後置修飾語：`V-ing` vs. `V-ed`
 
 這是由「關係代名詞子句」簡化而來的結構，也就是把 `關代+V` 簡化為 `V-ing` 或 `V-ed`。因此，強烈建議大家先把前面的內容讀熟，再來研究此文法，否則容易誤用。
 
@@ -625,7 +630,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 4 寫作建議</summary>
 
-#### 文章分析
+## 文章分析
 
 這篇文章是一篇標準的個人經驗敘事文。它不僅講述了一個事件，更重要的是它展現了從事件中獲得的「啟發」。
 
@@ -634,7 +639,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 * 轉折：第三段提到班導師的介入。幸運的是導師選擇相信，讓緊繃的情緒得到緩解。
 * 啟示：結尾引用導師的話—`Never do anything to arouse suspicion.`，並將此教訓延伸到現在的行為。
 
-#### 寫作補給站—關於「誤解與解釋」的片語
+## 寫作補給站—關於誤解與解釋的片語
 
 * 當你感到被誤解時
   * clear the air 澄清誤會
@@ -645,7 +650,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * a hard-earned lesson 得來不易的教訓/慘痛教訓
   * take something to heart 將某事銘記在心
 
-#### 寫作建議
+## 寫作建議
 
 1. 善用感官動詞營造<mark style="color:blue;">**畫面感**</mark>：可以學習原文使用 `thundered through the silent classroom` 或 `making every head turn in my direction`，以聲音與動作的結合讓讀者感同身受。
 2. 加入<mark style="color:blue;">**情緒**</mark>的層次變化：原文描述了從 `relax` 到 `shocked` 再到 `be very careful` 的情緒轉折。在寫經驗談時，寫出心情的起伏會比平舖直敘更有深度。
@@ -662,7 +667,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 5 單字整理</summary>
 
-### 單字
+## 單字
 
 * Public speaking (n. phr.) 公眾演講
 * Very (adj.) 正是、恰好是
@@ -723,7 +728,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 5 片語整理</summary>
 
-### 片語
+## 片語
 
 * At some point (in one's life) 在某個時刻、在生命中的某個階段
   * Everyone will face a difficult decision at some point in their life. (每個人在生命中的某個階段都會面臨艱難的抉擇。)
@@ -768,7 +773,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
 <summary>作文百句 5 文法整理</summary>
 
-### 文法
+## 文法
 
 * 否定副詞位於句首的倒裝
   * 當 `Not only`, `Never`, `Hardly` 等否定或半否定詞放在句首時，主句必須使用<mark style="color:blue;">**倒裝**</mark>語序 (助動詞/be動詞移至主詞前)。
@@ -791,7 +796,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * With the arrival of spring, the flowers started to bloom.
   * With so much work to do, I can't go out tonight.
 
-#### Not only A but (also) B 不僅 A，而且 B
+### Not only A but (also) B 不僅 A，而且 B
 
 <mark style="color:blue;">**對等連接**</mark>兩個性質相同的詞組或子句。`also` 常可省略，或將 `as well` 放在句尾。
 
@@ -815,7 +820,7 @@ She plays the piano, and she plays the violin, too.
 * 格式：`Not only + [助動詞/be動詞 + S1 + V1], but + [S2 + (also) V2].`
 * He speaks not only _\[<mark style="color:blue;">**English**</mark>]_ but also _\[<mark style="color:blue;">**French**</mark>]_. → Not only _\[<mark style="color:blue;">**does he speak**</mark>]_ English, but _\[<mark style="color:blue;">**he also speaks**</mark>]_ French. (此例句前面的 `[]` 表示對等連接的結構，後面的 `[]` 是強調倒裝與否)
 
-#### 分詞作為補語：`V-ing` vs. `V-ed`
+### 分詞作為補語：`V-ing` vs. `V-ed`
 
 用來描述主詞在進行主要動詞動作時的狀態。判斷使用 `V-ing` 或 `V-ed` 的邏輯與「關代簡化」有異曲同工之妙，重點都在於主詞與該分詞的「主被動關係」。
 
@@ -838,7 +843,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 5 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇「克服內在恐懼」的勵志敘事文採用了「問題→成因→對策→結果」的結構。
 
@@ -848,7 +853,7 @@ She plays the piano, and she plays the violin, too.
 * 對策：心理建設與實際練習。
 * 成果：以正向、自信的形象結尾，與開頭的恐懼形成強烈對比。
 
-### 寫作補給站—與克服挑戰、自我成長相關的詞語
+## 寫作補給站—與克服挑戰、自我成長相關的詞語
 
 與「缺乏自信」、「恐懼」相關的詞語：
 
@@ -880,7 +885,7 @@ She plays the piano, and she plays the violin, too.
 * A sense of accomplishment 成就感
   * Overcoming my fear gave me a great sense of accomplishment. (克服恐懼帶給我極大的成就感。)
 
-### 寫作建議
+## 寫作建議
 
 1. 善用<mark style="color:blue;">**對比**</mark>，展現成長。
 2. 將抽象情緒<mark style="color:blue;">**具象化**</mark>：可以學習原文使用 `strike me`, `take hold of me`, `freeze` 等動作動詞，讓讀者感覺到你的恐懼。
@@ -899,7 +904,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 6 單字整理</summary>
 
-### 單字
+## 單字
 
 * Exhausted (adj.) 筋疲力竭的
   * 形容極度疲勞，比 `tired` 強烈許多。
@@ -955,7 +960,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 6 片語整理</summary>
 
-### 片語
+## 片語
 
 * All day (long) 整天
   * He has been playing video games all day long. (他整天都在玩電動遊戲。)
@@ -982,7 +987,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 6 文法整理</summary>
 
-### 文法
+## 文法
 
 * `Adj/Adv/N + as/though + S + V` 雖然……但是……
   * 原本是 `Though + S + V + Adj/Adv/N`。若將形容詞、副詞或名詞置於句首，則句子需<mark style="color:blue;">**倒裝**</mark>。請注意，若使用名詞置首的倒裝寫法，則其前面<mark style="color:blue;">**不加冠詞**</mark>。使用倒裝寫法可以增加強調的意思。
@@ -990,7 +995,7 @@ She plays the piano, and she plays the violin, too.
   * Though he was tired, he continued his work. → <mark style="color:blue;">**Tired though he was**</mark>, he continued his work.
   * Though he is a student, he knows a lot about English. → <mark style="color:blue;">**Student as he is**</mark>, he knows a lot about English. (<mark style="color:$danger;">**錯誤範例**</mark>：A student as he is...)
 
-#### 一般分詞構句
+### 一般分詞構句
 
 * 當兩個句子以連接詞連接，且<mark style="color:blue;">**主詞相同**</mark>時，為了簡潔，可將次要子句簡化為分詞。
 * 變換步驟：
@@ -1031,7 +1036,7 @@ She plays the piano, and she plays the violin, too.
   * Taking everything into consideration, our plan was a success.
 {% endhint %}
 
-#### 獨立分詞構句
+### 獨立分詞構句
 
 當我們想要簡化句子，卻發現<mark style="color:blue;">**主詞不一致**</mark>時，就必須使用「獨立分詞構句」。
 
@@ -1076,7 +1081,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 6 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這是一篇幽默的敘事文，非常適合學習如何描寫生活中的尷尬瞬間。
 
@@ -1086,7 +1091,7 @@ She plays the piano, and she plays the violin, too.
 * 代價：沒車回家，被迫花大錢搭計程車。
 * 教訓：以發誓結尾，呼應題目核心。
 
-### 寫作補給站—交通工具相關片語
+## 寫作補給站—交通工具相關片語
 
 * Get on / Get off 上下大車 (公車、火車、飛機、捷運)
   * 指可以「<mark style="color:blue;">**站立**</mark>行走」的大型交通工具。
@@ -1109,7 +1114,7 @@ She plays the piano, and she plays the violin, too.
   * 常見於「請靠邊停車」的情境。
   * The police officer asked the driver to pull over. (警察要求駕駛靠邊停車。)
 
-### 寫作建議
+## 寫作建議
 
 1. 善用<mark style="color:blue;">**五感**</mark>描寫尷尬：不要只寫 "He was sleeping."。原文用了聽覺 (`snore`)、視覺與觸覺 (`drool`, `lean head against`)，這種細節會讓文章動起來。
 2. 活用分詞構句，增加節奏感：原文用了大量的分詞構句。在敘事文中，這能讓讀者感到動作是連續且緊湊的。
@@ -1127,7 +1132,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 7 單字整理</summary>
 
-### 單字
+## 單字
 
 * Bullying (n.) 霸凌、恃強凌弱
   * `Bullying` 強調的是「霸凌這個行為」；`bully` 當名詞時是指「霸凌者」。
@@ -1189,7 +1194,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 7 片語整理</summary>
 
-### 片語
+## 片語
 
 * Take place 發生、舉行
   * 通常指計畫好的事情或某種現象的產生。
@@ -1225,9 +1230,9 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 7 文法整理</summary>
 
-### 文法
+## 文法
 
-#### As ... as 同等程度比較
+### As ... as 同等程度比較
 
 用於表達兩者程度相同，或是在否定句中表達「不如...」。兩者的基本結構如下：
 
@@ -1248,7 +1253,7 @@ She plays the piano, and she plays the violin, too.
 * The movie was not so interesting as they said.
 * The test was as easy as I had hoped.
 
-#### 「必要性」形容詞與祈使語氣
+### 「必要性」形容詞與祈使語氣
 
 當表達某事是「必須、重要、迫切」時，`that` 子句會有特殊的動詞型態，結構為 `It is + [重要/必要 adj] + that + S + (should) + VR`。此句型常搭配的形容詞如下：
 
@@ -1434,7 +1439,7 @@ She plays the piano, and she plays the violin, too.
 
 假設語氣非常複雜，初學者容易感到時間線混亂，這是正常的現象。唯有多看、多寫，才能將語感建立起來，讓你在使用假設語氣時，能自然且正確地變換動詞型態。
 
-#### Should 的假設語氣
+### Should 的假設語氣
 
 {% hint style="warning" %}
 此假設語氣只管「<mark style="color:blue;">**未來**</mark>」的假設，不適用於與現在或過去事實相反的假設。
@@ -1471,7 +1476,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 7 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇文章是一封寫給老師的信，旨在描述 Mark 所遭受的霸凌，並促請老師採取行動。
 
@@ -1479,7 +1484,7 @@ She plays the piano, and she plays the violin, too.
 * 後果推測：運用「假設語氣」描述如果不處理，情況會如何惡化。這種寫法能有效地向讀者 (老師) 施加心理壓力，使其感到責任感。
 * 正式請求：結尾明確提出希望老師採取的具體行為，並運用「必要性」形容詞強調及時介入的重要性。
 
-### 寫作補給站—反映問題的優雅金句集
+## 寫作補給站—反映問題的優雅金句集
 
 這裡提供在撰寫反映信、求助信或建議信時，能提升專業感與說服力的關鍵片語與句型。
 
@@ -1499,7 +1504,7 @@ She plays the piano, and she plays the violin, too.
   * Thank you for your time and for everything you do for our class. (感謝您的時間，以及您為我們班所做的一切。)
   * I look forward to hearing from you regarding this concern. (我期待收到您針對這項擔憂的回覆。)
 
-### 寫作建議
+## 寫作建議
 
 大家可以參考本文的結構，將其運用在書信或是針對社會議題提出建言的作文。
 
@@ -1519,7 +1524,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 8 單字整理</summary>
 
-### 單字
+## 單字
 
 * Selfie (n.) 自拍
   * The tourist took a selfie in front of the famous statue. (這名遊客在那座著名的雕像前拍了一張自拍。)
@@ -1580,7 +1585,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 8 片語整理</summary>
 
-### 片語
+## 片語
 
 * Go on a field trip (to sp.) ... 進行校外教學、實地考察 (到某處)
   * 注意 `go on` 後面接「活動」或，「行程」是固定用法。
@@ -1621,15 +1626,15 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 8 文法整理</summary>
 
-### 文法
+## 文法
 
-#### 假設語氣
+### 假設語氣
 
 本文運用大量<mark style="color:blue;">**與現在事實相反**</mark>的假設語氣 (how I would feel if I lived ... / I would not ... / I would be surrounded and watched ...)。假設語氣的介紹詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)。
 
 文章中的事件發生在過去 (上週五)，大家可能會覺得應該用與過去事實相反的假設語氣。不過，關鍵在於當作者說 "I couldn't help but imagine ..." 時，雖然整件事發生在過去，但對他而言，<mark style="color:blue;">**在他開始想像的那一刻，那個被囚禁的狀態是當下的假設**</mark>。因此，書寫時，須採用<mark style="color:blue;">**與現在事實相反**</mark>的假設語氣。
 
-#### 列舉
+### 列舉
 
 在英文寫作中，我們會根據<mark style="color:blue;">**對象數量**</mark>與<mark style="color:blue;">**是否為最後一個 (群)**</mark>來變換代名詞。
 
@@ -1684,7 +1689,7 @@ She plays the piano, and she plays the violin, too.
 * I saw four jackets. One is red, another is blue, another is yellow, <mark style="color:blue;">**and**</mark> the other is green.
 {% endhint %}
 
-#### Make + 受詞 (O) + 受詞補語 (OC)
+### Make + 受詞 (O) + 受詞補語 (OC)
 
 這種句型的核心邏輯是「使/讓某人 (物) 成為某種狀態」，有以下幾種用法：
 
@@ -1713,7 +1718,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 8 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇文章描述了從「期待郊遊」到「反思權利」的心境轉變。
 
@@ -1721,7 +1726,7 @@ She plays the piano, and she plays the violin, too.
 * 第二段：開頭使用 `However` 進行強烈對比，心情由 `cheerful` 轉向嚴肅。透過精準的列舉 (`some..., others..., still others...`) 描繪動物的負面狀態，引發讀者同情。接著，運用大量假設語氣，將自己代入動物的角色，讓「失去自由」的恐懼感具象化。
 * 結尾：採取平衡報導的語氣，先承認動物園的保育功能，隨即使用 `but that does not necessarily make it...` 拋出反思，引導讀者思考動物權利。
 
-### 寫作補給站—
+## 寫作補給站—與反思、倡議相關的詞語
 
 這裡提供一些在撰寫「反思」、「倡議」或描寫「內心轉折」時，能提升文章層次感與共鳴度的關鍵片語與句型。
 
@@ -1748,7 +1753,7 @@ She plays the piano, and she plays the violin, too.
   * What if ... ? 萬一...會怎樣？ (用於引導假設情境)
     * What if we were the ones behind the bars, watched by strangers every day? (萬一我們是欄杆後的那個人，每天被陌生人注視著會怎樣？)
 
-### 寫作建議
+## 寫作建議
 
 * 運用「<mark style="color:blue;">**但是**</mark>」的力量：在描寫遊記或經驗時，試著在中間加入一個觀察點，用 `However` 或 `Suddenly` 帶出情緒轉向。
 * <mark style="color:blue;">**設身處地**</mark>：討論弱勢或受害者時，與其說「他們很可憐」，不如學習本文，使用大量假設語氣將讀者代入所描述的角色中，增加文章感染力。不過，此手法需有較高的文法基礎。
@@ -1765,7 +1770,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 9 單字整理</summary>
 
-### 單字
+## 單字
 
 * Amiable (adj.) (人) 和藹可親的、親切的
   * Our new neighbor is so amiable that everyone in the building likes him. (我們的新鄰居非常親切，這棟樓的每個人都喜歡他。)
@@ -1835,7 +1840,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 9 片語整理</summary>
 
-### 片語
+## 片語
 
 * As adj/adv as can be 極其...、盡可能地...
   * 用法與 `as adj/adv as possible` 類似，但更能強調「程度之最」。
@@ -1872,7 +1877,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 9 文法整理</summary>
 
-### 文法
+## 文法
 
 * 分詞構句
   * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)。
@@ -1887,7 +1892,7 @@ She plays the piano, and she plays the violin, too.
 
 <summary>作文百句 9 寫作建議</summary>
 
-### 文章分析
+## 文章分析
 
 這篇文章成功建立了一個強烈的角色對比，並在情緒爆發的邊緣選擇了理性解決。
 
@@ -1896,9 +1901,31 @@ She plays the piano, and she plays the violin, too.
 * 細節刻劃：Becky 看作者的眼神 `as one might regard a cockroach`，這個比喻極其生動，讓讀者的憤怒感與作者同步。
 * 理性解決：作者沒有選擇對罵，而是精準地抓住了對方的弱點—`receive no credit`。這展現了主角的成熟。此外，用規章與後果來說服對方，往往比情緒化地爭吵更有用。
 
-### 寫作補給站—
+## 寫作補給站—與衝突相關的片語
 
-### 寫作建議
+* 描寫負面行為與輕蔑
+  * Think the world of oneself 自命不凡、自我感覺良好
+    * Because she thinks the world of herself, she rarely listens to others' suggestions. (因為她自命不凡，她很少聽取別人的建議。)
+  * Treat someone like dirt 把某人看得一文不值
+    * No one likes him because he treats his assistants like dirt. (沒人喜歡他，因為他把助手看得一文不值。)
+  * Turn up one's nose at something 對某事嗤之以鼻、瞧不起
+    * She turned up her nose at the simple gift I bought for her. (她對我買給她的簡單禮物嗤之以鼻。)
+* 表達堅定立場與警告
+  * Put one's foot down 堅定立場、斷然拒絕
+    * I had to put my foot down and insist that she finish her part of the project. (我必須堅定立場，堅持要求她完成她那部分的計畫。)
+  * Call someone out on something 指責某人的錯誤、要求某人解釋
+    * You should call him out on his lazy attitude during the team meeting. (你應該在團隊會議上指責他那懶散的態度。)
+  * Give credit where it is due 給予應有的認可/功勞
+    * It is important to give credit where it is due to keep the team motivated. (給予應有的認可對於維持團隊動力非常重要。)
+* 維持風度與情緒克制
+  * Take the high road 採取高姿態、不與人計較
+    * Even though she was rude, I decided to take the high road and remain polite. (儘管她很粗魯，我決定採取高姿態並保持禮貌。)
+  * Keep one's head 保持冷靜、不驚慌失措
+    * You need to keep your head and solve the problem step by step. (你需要保持冷靜，一步步解決問題。)
+  * Bottle up one's emotions 壓抑、掩飾情緒
+    * It is not healthy to bottle up your anger all the time. (一直壓抑憤怒是不健康的。)
+
+## 寫作建議
 
 在描寫人際衝突時，可以參考以下建議：
 
@@ -1916,12 +1943,455 @@ She plays the piano, and she plays the violin, too.
 3. <mark style="color:blue;">**As the leader of our class cleanup team**</mark>, I would like all of you to help me keep our classroom clean and <mark style="color:blue;">**tidy**</mark>. All you have to do is <mark style="color:blue;">**take care**</mark> not to leave any trash or lunch <mark style="color:blue;">**leftovers**</mark> on the floor and properly <mark style="color:blue;">**sort out**</mark> your trash for recycling.
 4. If every one of us <mark style="color:blue;">**pitches in**</mark>, I'm sure we will make our classroom a better place for us to focus on our studies. By the way, I need some volunteers to <mark style="color:blue;">**assist**</mark> me in repainting the walls on the weekend. Contact me if any of you are interested. Let's work together to make our classroom the <mark style="color:blue;">**pride**</mark> of the school.
 
+<details>
+
+<summary>作文百句 10 單字整理</summary>
+
+## 單字
+
+* Discover (v.) 發現、發覺
+  * Scientists have discovered a new species of bird in the rainforest. (科學家在雨林中發現了一種新的鳥類。)
+* Litter (v.) 亂丟垃圾
+  * 文中以被動態 `be littered with` 表示「到處亂丟著...」。
+  * The park was littered with cigarette butts after the concert. (音樂會後，公園裡到處亂丟著煙蒂。)
+* Tissue (n.) 面紙、衛生紙
+  * She pulled a tissue from her bag to wipe her tears. (她從包裡拿出一張面紙擦眼淚。)
+* Empty (adj.) 空的；(v.) 倒空、使變空
+  * 在文中作為形容詞修飾塑料瓶。
+  * The room was completely empty except for a single chair. (除了一張椅子，房間裡完全是空的。)
+  * Please empty your pockets before putting your pants in the washing machine. (在把褲子丟進洗衣機前，請先清空口袋。)
+* Leftovers (n.) 剩菜剩飯
+  * 通常以<mark style="color:blue;">**複數形**</mark>呈現。
+  * We can heat up the leftovers from dinner for lunch tomorrow. (我們可以把晚餐的剩菜熱一下當明天的午餐。)
+* Figure (v.) 認為、想、估計；計算；(n.) 圖表；身材
+  * 在非正式語境中，表示「根據情況判斷後認為」。
+  * I figured you would be hungry, so I bought some snacks. (我猜你會餓，所以我買了一些點心。)
+  * We need to figure the total cost including tax. (我們需要計算包含稅金在內的總成本。)
+  * The figure indicates that unemployment is at an all-time low. (圖表顯示失業率已降至歷史新低。)
+  * She has an athletic figure because she exercises every day. (因為每天運動，她擁有健美的身材。)
+* Carelessly (adv.) 粗心地、不經意地
+  * 相反詞為 `carefully`。
+  * He carelessly left his umbrella on the bus. (他粗心地把傘忘在公車上了。)
+* Stain (n.) 汙漬、污點；(v.) 染色；汙辱
+  * There is a coffee stain on your white shirt. (你的白襯衫上有咖啡漬。)
+  * The red wine stained the expensive white carpet. (紅酒弄髒了那塊昂貴的白色地毯。)
+  * The scandal left a permanent stain on his reputation. (這場醜聞在他的名譽上留下了永久的汙點。)
+* Eyesore (n.) 礙眼的東西
+  * That abandoned building is a real eyesore in our neighborhood. (那棟廢棄建築在我們社區真是個礙眼的東西。)
+* Pigsty (n.) 豬圈
+  * 常用來形容極其髒亂的環境。
+  * Clean up your room! It's a complete pigsty in here. (把房間清理乾淨！這裡簡直就是個豬圈。)
+* Cleanup (n./adj.) 掃除、清理、掃除的
+  * 在文中作為形容詞修飾 `team`。此字也可以指「清除汙垢」或「事後的整理」。
+  * The neighborhood cleanup will start at 8 AM this Saturday. (社區環境清理將在本週六早上八點開始。)
+  * After the party, we spent two hours on the cleanup. (派對結束後，我們花了兩個小時進行清理。)
+* Tidy (adj.) 整潔的、井然有序的
+  * 也可以當動詞 `tidy up` (收拾)。
+  * She keeps her desk very tidy. (她把辦公桌保持得很整潔。)
+* Properly (adv.) 正確地、適當地、規矩地
+  * Please make sure you have closed the windows properly before leaving. (請確保在離開前已經正確地關好窗戶。)
+* Recycling (n.) 回收、資源回收
+  * The city encourages residents to participate in recycling programs. (這座城市鼓勵居民參與資源回收計畫。)
+* Volunteer (n.) 志工、自願者
+  * 也可以當動詞，表示「自願做某事」。
+  * Many volunteers helped out at the local animal shelter. (許多志工在當地的動物收容所幫忙。)
+* Assist (v.) 協助、幫助
+  * 比 `help` 更正式一點。
+  * The computer program can assist you in organizing your files. (這個電腦程式可以協助你整理檔案。)
+* Pride (n.) 驕傲、自豪、引以為傲的人/物；一群獅子
+  * The new library is the pride of our community. (這座新圖書館是我們社區的驕傲。)
+  * A pride of lions was resting under the large tree. (一群獅子正在大樹下休息。)
+
+</details>
+
+<details>
+
+<summary>作文百句 10 片語整理</summary>
+
+## 片語
+
+* Be littered with ... 亂丟著...、布滿...
+  * The beach was littered with plastic bags after the storm. (暴風雨後，海灘上布滿了塑膠袋。)
+* Throw ... away 把...扔掉
+  * Don't throw away those old newspapers; we can use them for recycling. (別把那些舊報紙扔掉；我們可以回收利用。)
+* On a daily basis 每天、日常地
+  * 比單純用 `daily` 或 `every day` 聽起來更正式。
+  * Exercise should be part of your life on a daily basis. (運動應該成為你日常生活的一部分。)
+* Turn ... into ... 把...變成...
+  * With some hard work, they turned the abandoned garden into a beautiful park. (透過努力，他們把廢棄的花園變成了美麗的公園。)
+* Take care not to + VR 小心不要...、注意不要...
+  * 常用於給予建議或叮嚀。
+  * Take care not to wake the baby when you enter the room. (進房時小心不要吵醒寶寶。)
+* Sort out ... 整理...、分類...
+  * 文中指垃圾分類，也可指整理思緒或解決問題。
+  * It took me hours to sort out all the old photos in the box. (我花了幾個小時才把箱子裡所有的舊照片整理好。)
+  * I need some time alone to sort out my thoughts before making a final decision. (在做最後決定前，我需要一點獨處的時間來整理思緒。)
+  * Don't worry, we will find a way to sort out this misunderstanding. (別擔心，我們會找到方法解決這個誤會的。)
+  * There are a few technical issues we need to sort out before the launch. (在發表之前，我們有幾個技術問題需要解決。)
+* Pitch in 投入、貢獻、參與 (尤其指團隊合作)
+  * If everyone pitches in, we can finish the cleanup in no time. (如果每個人都參與進來，我們很快就能完成清理工作。)
+* By the way 順帶一提、對了
+  * 用於在對話中切換話題或補充資訊。
+  * I'll see you tomorrow. By the way, don't forget to bring that book. (明天見。對了，別忘了帶那本書。)
+  * The food was delicious. By the way, who was the chef? (食物很好吃。順帶一提，主廚是誰？)
+* Assist someone in + Ving/N 協助某人做某事
+  * The AI can assist you in learning English more effectively. (AI 可以協助你更有效地學習英文。)
+
+</details>
+
+<details>
+
+<summary>作文百句 10 文法整理</summary>
+
+## 文法
+
+* Every one vs. everyone
+  * Every one：強調某個群體中的「<mark style="color:blue;">**每一個成員**</mark>」，後面通常會接 `of + 複數N`。
+    * Every one of the students has a tablet. (這群學生裡的「每一位」都有一台平板。)
+  * Everyone：一個單純的代名詞，意思等於 `every person`，指「<mark style="color:blue;">**所有人**</mark>」。
+    * Everyone enjoyed the party. (大家都玩得很開心。)
+
+### 對過去事實的推測
+
+這與之前學過的[假設語氣](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)不同，請小心。
+
+<table><thead><tr><th width="138">把握程度</th><th width="254">肯定用法 (肯定發生了)</th><th>否定用法 (肯定沒發生 / 可能沒發生)</th></tr></thead><tbody><tr><td>強烈</td><td>Must have + p.p.</td><td><mark style="color:blue;"><strong>Can't have + p.p.</strong></mark> (絕對不可能...)</td></tr><tr><td>中等</td><td>May have + p.p.</td><td>May not have + p.p. (可能沒...)</td></tr><tr><td>微弱</td><td>Might have + p.p.</td><td>Might not have + p.p. (或許沒...)</td></tr></tbody></table>
+
+{% hint style="warning" %}
+請注意，`Must have p.p.` 的反義詞是 `Can't have p.p.`，而非 `mustn't have p.p`。
+{% endhint %}
+
+* He looks very tired; he must have stayed up late last night. (他看起來很累；他昨晚一定熬夜了。)
+* He can't have seen me; I was hiding. (他絕對不可能看到我，我躲起來了。)
+* He might not have seen me. (他或許沒看到我吧。)
+
+{% hint style="info" %}
+#### Can't have p.p. vs. Couldn't have p.p.
+
+`Can't have p.p.` 通常感覺更為「直接且確定」。它是在現在這一刻，根據證據斬釘截鐵地說「過去絕對不可能發生」。；`Couldn't have p.p.` 則相對顯得「客氣或委婉」一點。因為 `could` 帶有一種假設語氣的距離感，讓語氣聽起來不是在指責，而是在進行一種邏輯上的推論。
+
+* You can't have forgotten my birthday! (你絕對不可能忘了我的生日吧 → 帶有驚訝或質疑)
+* He couldn't have done it on purpose. (他應該不可能是有意的 → 聽起來更像在幫對方找理由)
+
+不論是哪一個，本質上都是「對過去事實的<mark style="color:blue;">**強烈**</mark>否定推測」，只是語氣稍有不同。而 `may/might not have p.p.` 只是表達「可能沒做 (不確定)」，和 `can't/couldn't have p.p.` 意思還是不同。
+{% endhint %}
+
+### **As 的用法**
+
+* 作為介係詞，表「身為」，顯示身分。
+  * As your elder sister, I want you to be healthy.
+* 作為連接詞，表「原因」，相當於 `because` 或 `since`。
+  * As it was raining, we stayed indoors.
+* 作為連接詞，表「時間」，相當於 `while` 或 `when`，強調兩個動作同時發生。
+  * As I was sleeping, there was an earthquake.
+* 作為連接詞，表「如同、按照」。
+  * As I mentioned before, the test will be difficult.
+  * Please complete the task as you were instructed.
+  * 隨遇而安：<mark style="color:blue;">**Leave things as they are**</mark>. (讓事情保持原狀吧。)
+
+{% hint style="info" %}
+#### (Just) as ... so ... 正如...，...也...
+
+此句型的結構為 `(Just) as + 子句 A, so + (助動詞/Be動詞) + 主詞 B + 動詞 B.`，是一種非常高雅的修辭法，用來強調兩個看似不同的事物之間有著「極其相似」。
+
+* 常用於演說、文學創作、哲學論述，而且結構上會盡量講求對等對稱性，讓句子更美觀。
+* 後面的 `so` 子句通常會使用<mark style="color:blue;">**倒裝**</mark>來增加語氣的重量。
+* Just as the body needs food to grow, so does the mind need books to expand. (正如身體需要食物才能成長，心靈也需要書籍才能擴展。)
+* Just as every coin has two sides, so has every situation its pros and cons. (正如每枚硬幣都有兩面，每個處境也都有其優缺點。)
+* As water is essential to a fish, so is your love to me. (正如水對魚至關重要，你的愛對我也同樣如此。)
+* As iron is drawn to magnets, so are people drawn to Corey. (就像鐵會被磁鐵吸引一樣，人們也會被 Corey 吸引。)
+{% endhint %}
+
+### All + (that) + S + V ... + is + (to) VR/子句/名詞片語
+
+在這種結構中，`all` 代表的是 `the only thing`，因此在語法上被視為單數。無論後面接的是單數還是複數名詞，標準寫法一律使用 <mark style="color:blue;">**`is`**</mark>/<mark style="color:blue;">**`was`**</mark>。
+
+* 若主詞子句含有 "`do`" 家族 (`do`, `does`, `did`, `done`)，則 `to` 可以省略，但後面仍接<mark style="color:blue;">**原形動詞**</mark>。
+  * All I did was (to) clean the room. (我所做的唯一一件事就是清理房間。)
+  * All you have to do is (to) tell the truth. (你唯一要做的就是說實話。)
+* 若主詞子句不含 "`do`"，則通常<mark style="color:blue;">**不能省略**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`to`**</mark>，或者接一個名詞。
+  * All Alana wishes is to see you succeed. (Alana 唯一的願望就是看到你成功。)
+  * All she hopes is that you can stay with her forever. (她唯一的希望就是你能永遠陪著她。)
+  * All I'm saying is that we should be more careful. (我唯一想說的就是我們應該更小心一點。)
+  * All I want for Christmas is you. (我聖誕節唯一想要的就是你。)
+  * All I need is five minutes of your time. (我唯一需要的就是你的五分鐘。)
+
+</details>
+
+<details>
+
+<summary>作文百句 10 寫作建議</summary>
+
+## 文章分析
+
+這篇作文是標準的 Problem-Solution (問題-解決) 結構，且它在「抱怨」與「激勵」之間取得了很好的平衡。
+
+* 開門見山提出觀察：作者先用 `In recent weeks, I have discovered...` 點出問題，並列舉具體細節（`tissues`, `empty` ...），比只說「教室很髒」更有說服力。
+* 說明問題的嚴重性：不僅是地板，連牆壁也有汙漬。作者用了 `eyesore` 和 `pigsty` 這兩個強烈的字眼，喚起讀者的羞恥感與榮譽心。
+* 給出明確的行動指令：作者具體要求 `take care not to leave trash` 和 `sort out for recycling`。
+* 描繪願景與額外號召：用 `I'm sure we will make our classroom a better place` 給予正向鼓勵，並在結尾巧妙地加入一個徵求志工的訊息，展現領導者的行動力。
+
+## 寫作補給站—提升感召力的詞語
+
+原文這種「公共精神」與「積極號召」的文章，其核心在於「感召力」。以下提供撰寫這類文章時能使用的進階短語，讓你的公告從單純的「要求」昇華為「團隊榮譽」。
+
+* 表達責任與領導
+  * Rise to the occasion 挺身而出、應付挑戰
+    * I hope everyone can rise to the occasion and help clean up our campus. (我希望每個人都能挺身而出，幫忙清理校園。)
+  * Set an example 為人表率、立下榜樣
+    * As the leader, I will set an example by coming to school early to clean. (作為組長，我會以身作則，早點來學校清理。)
+  * Do one's bit 盡一份心力、履行職責
+    * If everyone does their bit, we will have a much cleaner classroom. (如果每個人都盡一份心力，我們就會有一個乾淨得多的教室。)
+* 強調集體力量與成果
+  * A collective effort 集體努力、共同努力
+    * Keeping the room tidy is a collective effort, not just the job of one person. (保持房間整潔是集體的努力，不只是某個人的工作。)
+  * Go a long way 很有幫助、大有裨益
+    * A small action like picking up a piece of paper can go a long way. (像撿起一張紙這樣的小舉動也能有很大的幫助。)
+  * Take pride in N 以...為榮、重視...
+    * We should all take pride in our learning environment. (我們都應該以我們的學習環境為榮。)
+* 營造氛圍與轉變
+  * A sense of belonging 歸屬感
+    * A clean classroom helps create a strong sense of belonging. (乾淨的教室有助於建立強烈的歸屬感。)
+  * Turn over a new leaf 改過自新、展開新的一頁
+    * It's time for us to turn over a new leaf and start caring about our surroundings. (是時候讓我們展開新的一頁，開始關心我們的環境了。)
+
+## 寫作建議
+
+書寫「呼籲性」作文或公告時，可以參考以下建議：
+
+* 使用「<mark style="color:blue;">**我們**</mark>」：即便垃圾是別人丟的，文章中多使用 `Our classroom`, `Every one of us`, `Let's work together`。這會讓聽眾覺得這不是在「被責備」，而是「大家一起變好」。
+* 善用<mark style="color:blue;">**對比**</mark>，並將理想與現實的情況<mark style="color:blue;">**具象化**</mark>，強烈的落差感會讓讀者產生更大的動力。
+* 對於過去的錯誤，用 `must/may/might have p.p.` 等推測語氣給對方留點面子；對於未來的計畫，用 `I'm sure we will` 等肯定語氣來建立信心。
+
+</details>
+
 ## 11.
 
 1. <mark style="color:blue;">**With the advance of**</mark> the Internet and smartphones, more and more people are using <mark style="color:blue;">**social networking media**</mark> and constantly checking their friends' <mark style="color:blue;">**updates**</mark>. Apart from that, there has been a trend of making <mark style="color:blue;">**film clips**</mark> and posting them on YouTube or other media. There, YouTubers or <mark style="color:blue;">**Internet celebrities**</mark> share their life experiences, teach what they know, <mark style="color:blue;">**comment on**</mark> politics or social <mark style="color:blue;">**phenomena**</mark> or simply do something crazy.
 2. They become popular when the audience find them attractive, humorous or simply <mark style="color:blue;">**entertaining**</mark>. In this <mark style="color:blue;">**fast-paced**</mark> Internet world, YouTubers or <mark style="color:blue;">**Internet celebrities**</mark> can <mark style="color:blue;">**grab**</mark> people's attention and interact with them well within a minute. In this way, viewers will <mark style="color:blue;">**subscribe to**</mark> their channels and continue to follow them.
 3. <mark style="color:blue;">**As far as I am concerned**</mark>, the <mark style="color:blue;">**impact**</mark> of YouTubers and Internet celebrities is worrying. Some of the Internet celebrities do not have <mark style="color:blue;">**a sense of morality**</mark>. They might do something <mark style="color:blue;">**obscene**</mark> or <mark style="color:blue;">**against**</mark> the law just to make their films <mark style="color:blue;">**sensational**</mark>. Other YouTubers may show no respect to people from other countries and <mark style="color:blue;">**deliberately**</mark> <mark style="color:blue;">**discriminate against**</mark> them. What's depressing is that such films <mark style="color:blue;">**should have been**</mark> "shared" a million times.
 4. Take a recent YouTube clip for example. In the film, the YouTuber visited Hong Kong. After he arrived at the airport, he kept <mark style="color:blue;">**criticizing**</mark> Chinese people's English proficiency and their behavior. He even stopped a passerby and asked where he could find a prostitute. When this YouTuber was <mark style="color:blue;">**condemned**</mark> in the TV media, not only did he feel no regret, but he also refused to <mark style="color:blue;">**take down**</mark> the film. It seems that YouTubers tend to feel <mark style="color:blue;">**conceited**</mark> when they have too many followers. Therefore, there should be more <mark style="color:blue;">**regulations**</mark> or <mark style="color:blue;">**restrictions**</mark> to make sure YouTubers and Internet celebrities behave properly.
+
+<details>
+
+<summary>作文百句 11 單字整理</summary>
+
+## 單字
+
+* Advance (n.) 進步、發展
+  * With the advance of medical technology, many diseases have become curable. (隨著醫療技術的進步，許多疾病已變得可以治癒。)
+* Constantly (adv.) 持續地、經常地
+  * She is constantly checking her phone for new messages. (她經常不停地查看手機是否有新訊息。)
+* Phenomenon (n.) 現象
+  * 複數形為 `phenomena`。
+  * Extreme weather phenomena are becoming more common due to climate change. (由於氣候變遷，極端天氣現象變得越來越普遍。)
+* Morality (n.) 道德、道德觀
+  * Standards of morality can vary from one culture to another. (道德標準在不同文化之間可能有所不同。)
+* Obscene (adj.) 猥褻的、淫穢的、令人厭惡的
+  * The store was fined for selling obscene publications. (這家店因販售淫穢出版品而被罰款。)
+* Sensational (adj.) 引起轟動的、聳動的
+  * 文中指為了流量而刻意誇大或煽情的內容。
+  * The newspaper was criticized for its sensational headlines. (這家報紙因其聳動的標題而受到批評。)
+* Deliberately (adv.) 故意地、蓄意地
+  * 同義詞有 `on purpose`, `intentionally`。
+  * I believe he deliberately kept the truth from us. (我相信他故意向我們隱瞞真相。)
+* Discriminate (v.) 歧視、區別對待
+  * 常用搭配為 `discriminate against sb`。
+  * It is illegal to discriminate against someone because of their race. (因種族而歧視某人是違法的。)
+* Proficiency (n.) 熟練、精通程度
+  * 常見搭配為 `proficiency in 語言/技能`。
+  * Her proficiency in English helped her get the job. (她精通英文的能力幫助她得到了這份工作。)
+* Condemn (v.) 譴責、責難
+  * 指官方或大眾對錯誤行為表示強烈的不滿。
+  * The international community condemned the terrorist attack. (國際社會譴責了這起恐怖攻擊。)
+* Conceited (adj.) 自大的、自負的
+  * Success made him conceited and difficult to work with. (成功使他變得自大且難以共事。)
+* Regulation (n.) 法規、規定
+  * 指由當局制定的<mark style="color:blue;">**正式規則**</mark>。
+  * New regulations have been introduced to control air pollution. (已經出了新的法規來控制大氣污染。)
+* Update (n.) 最新訊息、動態更新
+  * I spent the whole morning scrolling through my friends' latest updates on social media. (我花了一整個早上翻看朋友們在社群媒體上的最新動態。)
+* Attractive (adj.) 有吸引力的、迷人的
+  * 用來形容人、事物或想法能引起興趣或好感。
+  * The company's new product has a very attractive design. (這家公司的新產品設計非常有吸引力。)
+* Entertaining (adj.) 有趣的、娛樂性的
+  * 比單純的 `funny` 更有質感，強調「具有表演價值」的樂趣。
+  * The host's performance was so entertaining that nobody wanted to leave. (主持人的表演非常有娛樂性，以至於沒人想離開。)
+* Fast-paced (adj.) 節奏快速的
+  * Working in a fast-paced environment can be stressful but exciting. (在快節奏的環境下工作雖然壓力大，但也令人興奮。)
+* Impact (n.) 影響、衝擊
+  * 比 `effect` 更強調「瞬間的、重大的」影響力。
+  * The invention of the smartphone has had a profound impact on how we communicate. (智慧型手機的發明對我們的溝通方式產生了深遠的影響。)
+* Depressing (adj.) 令人沮喪的、令人消沉的
+  * The news about the global food crisis is quite depressing. (關於全球糧食危機的新聞相當令人沮喪。)
+* Criticize (v.) 批評、指責
+  * It's easy to criticize others, but much harder to offer constructive advice. (批評別人很容易，但提供建設性的建議就難得多了。)
+* Regret (v./n.) 遺憾、後悔
+  * 文中 `feel no regret` 指對自己的行為毫無悔意。
+  * To my great regret, I never had the chance to visit Paris with my grandmother. (非常遺憾的是，我從未有機會和奶奶一起去巴黎。)
+* Restriction (n.) 限制、約束
+  * 常與 `regulation` 並用，指法律上或規定上的限制作為。
+  * There are strict restrictions on the amount of liquid you can carry on a plane. (飛機上攜帶的液體量有嚴格的限制。)
+* Social networking media (n.) 社群網路媒體平台
+  * Many people are addicted to social networking media and check them every few minutes. (許多人沉迷於社交網絡，每隔幾分鐘就會查看一次。)
+* Film (v./n.) 拍攝、電影
+  * The director decided to film the scene in a traditional village to capture the old-world atmosphere. (導演決定在傳統村莊拍攝這場戲，捕捉古老的氛圍。)
+* Clip (n.) 短片、片段
+  * I watched a short YouTube clip of the concert this morning. (今天早上我在 YouTube 上看了一段演唱會的短片。)
+* Post (v./n.) 發布、貼文
+  * 在<mark style="color:blue;">**網路上**</mark>上傳內容或發表訊息。
+  * She always posts her travel photos on Instagram to share her joy with friends. (她總是把旅行照片發佈到 Instagram 上，與朋友分享她的喜悅。)
+* Celebrity (n.) 名人、名流
+  * 指在娛樂圈或其他領域享有高度知名度的人。
+  * The young actor became a global celebrity after the success of his latest movie. (這位年輕演員憑藉著最新電影的成功，成為了全球名人。)
+* YouTuber (n.) YouTube 創作者
+  * 專指在 YouTube 平台上製作並發布影片的人。<mark style="color:blue;">**請注意大寫字母的位置**</mark>。
+  * Being a professional YouTuber requires not only creativity but also consistent hard work. (成為專業的 YouTube 創作者不僅需要創造力，還需要持之以恆的努力。)
+* Politics (n.) 政治
+  * 指關於權力運作、政府決策及社會治理的事務。
+  * Students are encouraged to take an interest in local politics to better understand their society. (鼓勵學生關注當地政治，以便更好地了解他們的社會。)
+* Audience (n.) 觀眾、聽眾
+  * 指聚集在一起觀看表演或閱讀/觀看媒體內容的群體。
+  * The audience broke into applause at the end of the beautiful performance. (精彩的表演結束後，觀眾們爆發出熱烈的掌聲。)
+* Humorous (adj.) 幽默的
+  * The teacher's humorous way of explaining math made the class much more interesting. (老師用幽默的方式講數學，讓課堂變得更有趣了。)
+* Airport (n.) 機場
+  * We arrived at the airport three hours before our flight to ensure we had enough time for check-in. (為了確保有足夠的時間辦理登機手續，我們提前三個小時到達機場。)
+* Passerby (n.) 路人
+  * 指路過某處的人。注意複數形為 `passersby`。
+  * A kind passerby stopped to help the old lady cross the busy street. (一位好心的路人停下來幫助這位老太太穿過繁忙的街道。)
+  * Several passersby witnessed the accident and called for an ambulance. (幾位路人目睹了這起事故，並叫了救護車。)
+* Prostitute (n.) 妓女、性工作者
+  * The film mentioned that the YouTuber's search for a prostitute was widely condemned by the public. (影片中提到，這位 YouTuber 尋找妓女的行為受到了公眾的廣泛譴責。)
+
+</details>
+
+<details>
+
+<summary>作文百句 11 片語整理</summary>
+
+## 片語
+
+* With the advance of N 隨著...的進步
+  * 引出時代背景或科技變遷。
+  * With the advance of artificial intelligence, our lives have become much more convenient. (隨著人工智慧的進步，我們的生活變得更加便捷。)
+* Apart from that 除此之外
+  * 可以表示「除了... 還有 ... (含)」或「除了... 以外 (不含)」，依上下文的邏輯決定。用法相同的片語還有 `aside from that`。
+  * I have a lot of homework to do. Apart from that, I need to prepare for my music lesson. (我有很多作業要做。除此之外，我還要準備音樂課。)
+  * Apart from the salary, the company offers a good insurance plan. (除了薪水，公司還提供良好的保險。—兩者都有)
+  * Aside from John, everyone attended the meeting. (除了約翰，每個人都參加了會議。—約翰沒去)
+* A trend of N ...的趨勢、流行
+  * Recently, there has been a trend of people working from home instead of going to the office. (最近流行人們在家工作而不是去辦公室上班。)
+* Comment on N 對...發表評論/看法
+  * 強調針對特定主題進行意見表達。
+  * The actor refused to comment on his private life during the interview. (在採訪期間，這位演員拒絕就其私生活發表評論。)
+* Grab one's attention 吸引某人的注意力
+  * The colorful cover of the book was designed to grab the readers' attention. (這本書色彩鮮豔的封面設計旨在吸引讀者的注意力。)
+* Subscribe to N 訂閱...
+  * 現代社群平台必備，也可用於訂閱報章雜誌。
+  * Millions of people subscribe to his channel to watch his daily vlogs. (數百萬人訂閱他的頻道，觀看他的每日 vlog。)
+  * My grandfather has subscribed to the _New York Times_ for over thirty years. (我祖父訂閱《紐約時報》已經超過三十年了。)
+  * If you subscribe to our monthly fashion magazine, you will get a 20% discount. (如果你訂閱我們的時尚月刊，你將獲得八折優惠。)
+* As far as I am concerned 就我而言
+  * 在議論文中表達個人立場的經典進階句首。相似意思的詞如下：
+    * `In my opinion` / `in my view`
+    * `From my perspective` / `from my point of view`：強調個人視角。
+    * `To my mind`：較為正式。
+    * `If you ask me`：較為口語，常用於強調個人立場。
+    * `As I see it`：正如我所見，強調個人的觀察結果。
+  * As far as I am concerned, health is more important than wealth. (在我看來，健康比財富更重要。)
+* Against the law 違法
+  * Driving without a license is against the law in almost every country. (在幾乎所有國家，無照駕駛都是違法的。)
+* Take N for example 以...為例
+  * 引導具體例證時最穩定的說法。
+  * 這是一個獨立的祈使句，<mark style="color:blue;">**不能直接用逗號補充說明例子**</mark>，需用<mark style="color:blue;">**分號**</mark>或<mark style="color:blue;">**句號**</mark>。
+    * <mark style="color:$danger;">**錯誤範例**</mark>：Take Apple for example, it is a tech giant.
+    * <mark style="color:blue;">**正確範例**</mark>：Take Apple for example. It is a tech giant. = Take Apple for example; it is a tech giant.
+  * Many fruits are good for health. Take oranges for example; they are rich in vitamin C. (許多水果對健康有益。以柳橙為例，它們富含維生素C。)
+* Arrive at / in N 抵達
+  * 文章用 `arrived at the airport`。通常 `at` 接小地點 (車站、機場)，`in` 接大範圍 (城市、國家)。<mark style="color:blue;">**`Arrive home`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**不加介係詞**</mark>。
+  * We arrived in London on a rainy morning. (我們在一個雨天早晨抵達倫敦。)
+  * When will the team arrive in Taiwan? (這支隊伍什麼時候抵達台灣？)
+  * Please call me when you arrive at the station. (當你到達車站時請打給我。)
+  * The CEO arrived at the headquarters at 9 a.m. (執行長在九點抵達總部。)
+* Take down 撤下、移除 (數位或實體)；拆除 (建築)；記錄；拿下、擊敗
+  * 本文用法指「撤下影片」。
+  * The teacher asked me to take down the posters on the wall. (老師要求我取下牆上的海報。)
+  * The old warehouse was taken down to make room for a new park. (這座老舊倉庫被拆除了，以便為新公園騰出空間。)
+  * Please take down the notes while I'm speaking. (當我講話時請記下筆記。)
+  * The police managed to take down the criminal organization after months of investigation. (經過數月的調查，警方成功擊潰了該犯罪組織。)
+* Tend to VR 傾向於...、往往會...
+  * People tend to be more emotional when they are tired or stressed. (人們在疲憊或壓力大的時候往往更容易情緒化。)
+
+</details>
+
+<details>
+
+<summary>作文百句 11 文法整理</summary>
+
+## 文法
+
+* Not only ... but also ... 的倒裝
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)。
+  * 原文 `...not only did he feel ..., but he also refused ...` 即為 `he not only felt ... but also refused ...` 的倒裝。
+* It seems that ... 感覺上、看起來、似乎
+  * `It` 為虛主詞，引導後面的 `that` 子句，用來表達一種客觀的觀察或推論。可以改寫為 `Subject + seem + to VR`。
+  * It seems that YouTubers tend to feel conceited when ... = YouTubers seem to feel conceited when ...
+  * It seems that she is tired. = She seems to be tired.
+
+### Find 的用法
+
+* `Find + O + OC`
+  * 表「發現、覺得...如何」。`OC` (可為 `Adj`/`V-ing`/`p.p./N`) 用來修飾 `O` 的狀態。
+  * 原文：The audience find them attractive, humorous or simply entertaining.
+  * I find the book very useful for my research. (我覺得這本書對我的研究很有用。)
+  * I find him standing alone in the rain. (我發現他獨自站在雨中。)
+  * She found the window broken when she got home. (她回到家時發現窗戶被打破了。)
+* `Find + O + (to be) + Adj/N`
+  * 省略 `to be` 後就和上面的結構相等。保留 `to be` 則會帶有一種更正式、更像是在進行「判斷」的感覺。
+  * The jury found him (to be) innocent. (陪審團認定他是無辜的。)
+  * After talking to him, I found him (to be) a reliable person. (和他聊過後，我發現他是一個可靠的人。)
+* `Find it + Adj + to VR / that 子句`
+  * 當真正的受詞是「一件事 (不定詞)」時，我們會用 `it` 暫代位置。
+  * Many people find it difficult to balance work and life. (很多人發現要平衡工作與生活很困難。)
+  * I find it strange that he didn't call me back. (我覺得他沒回我電話這件事很奇怪。)
+* `Find (that) + 子句`
+  * 這個用法最單純，用來表達發現了一個客觀事實或狀況。
+  * Scientists found that the climate is changing faster than expected. (科學家發現氣候變遷的速度比預期快。)
+  * I found that I had left my wallet in the taxi. (我發覺我把錢包掉在計程車上了。)
+
+### Should 表「竟然」、「居然」的用法
+
+表示說話者對某事感到驚訝、意外或不可思議，通常帶有情緒色彩。最常見的結構為 `It is Adj that S should VR`；若是對過去事情感到意外，則使用 `should + have + p.p.`。
+
+* 原文的 `such films should have been "shared" ...` 表示這樣的影片「居然」已經被分享。因為整件事發生在過去，所以用完成式書寫。
+* I'm surprised that she should say such a thing. (我很驚訝她會說出這樣的話。)
+* He should cheat on the test, this is gonna make everyone's jaw drop. (他竟然在考試作弊，這肯定會讓所有人瞠目結舌。)
+* I am shocked that he should have failed the exam. (我很震驚他竟然考試不及格。)
+
+{% hint style="info" %}
+#### 表「過去本該做而未做」
+
+結構為 `should have + p.p.`，中翻英時很容易和單純的 `should + VR` 搞混，請特別留意。
+
+* 我本該更努力讀書的 → 語意為「<mark style="color:blue;">**過去該做而未做**</mark>」→ 用 `should have + p.p.` → I should have studied earlier.
+* 我應該要告訴你真相的 → 語意為「<mark style="color:blue;">**過去該做而未做**</mark>」→ 用 `should have + p.p.` → I should have told you the truth.
+* 我應該告訴你真相了 → 語意為「<mark style="color:blue;">**現在該做**</mark>」→ 用 `should VR` → I should tell you the truth.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 11 寫作建議</summary>
+
+## 文章分析
+
+## 寫作補給站—
+
+## 寫作建議
+
+</details>
 
 ## 12.
 
