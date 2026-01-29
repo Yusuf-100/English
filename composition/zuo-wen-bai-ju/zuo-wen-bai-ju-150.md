@@ -85,7 +85,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 
     * 文章中提到 `Now, my grandfather has quit smoking for more than one year.`，這裡用<mark style="color:blue;">**現在完成式**</mark>，表示從一年前開始到現在的狀態。
     * 但在提到禮物時說 `the ashtray I had given to him.`，這裡用<mark style="color:blue;">**過去完成式**</mark>，表示給禮物這個動作發生在戒菸成功之前。
-* Neither... nor... 既不...也不...
+* `Neither... nor...` 既不...也不...
   * 連接兩個否定對象。若連接主詞，動詞受 <mark style="color:blue;">**nor 之後的對象**</mark>影響。
   * Neither my parents nor my brother knows about my secret. (我父母和我弟都不知道我的秘密。→ 動詞隨 brother 用單數)
   * He neither eats meat nor drinks milk. (他既不吃肉也不喝牛奶。)
@@ -237,7 +237,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * 用來修飾前面的名詞 (先行詞)。若先行詞是人，用 `who` 或 `that`；若是物，用 `which` 或 `that`。動物或植物除了在擬人化的情境下可用 `who`，其他情況下仍用 `which`。
   * Students need to interact with people who lead a different life. (學生需要與過著不同生活的人互動)
   * Many companies favor those who attended an overseas university. (許多公司青睞那些就讀過海外大學的人)
-* Since 既然/因為
+* `Since` 既然/因為
   * 除了「自從」的意思，在本文中是當連接詞，表示「因為」或「既然」。
   * I think this would come naturally to me since I am an open-minded person. (我覺得這對我來說很自然，因為我是一個心胸開闊的人。)
   * Since we are all here, let's start the meeting. (既然我們都在這了，就開始開會吧。)
@@ -790,7 +790,7 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
   * 當動詞 (e.g., `remind`, `say`, `think`) 後面接兩個 `that` 引導的名詞子句時，<mark style="color:blue;">**第一個**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`that`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**可省略，但第二個**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`that`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**絕對不能省略**</mark>。
   * Reminding myself (that) I'd made full preparations and that I wasn't inferior to others.
   * He said (that) he was tired and that he wanted to go home.
-* With + 名詞 / 受格, S + V 隨著...、透過...
+* `With + 名詞 / 受格, S + V` 隨著...、透過...
   * 常放在句首作為副詞片語，表示原因、手段、伴隨情況或隨著某種狀態的發生。
   * With the above-mentioned approaches, I finally overcame my fear.
   * With the arrival of spring, the flowers started to bloom.
@@ -801,12 +801,13 @@ description: 想要寫出好的作文，就要多閱讀別人寫的文章，並�
 <mark style="color:blue;">**對等連接**</mark>兩個性質相同的詞組或子句。`also` 常可省略，或將 `as well` 放在句尾。
 
 * He is not only _\[<mark style="color:blue;">**a talented singer**</mark>]_ but also _\[<mark style="color:blue;">**a brilliant actor**</mark>]_.
+* She's not only _\[<mark style="color:blue;">**smart**</mark>]_ but also _\[<mark style="color:blue;">**beautiful**</mark>]_.
 * The fear would not only _\[<mark style="color:blue;">**strike**</mark>]_ me when I addressed large crowds, but it also _\[<mark style="color:blue;">**took**</mark>]_ hold of me in class.
 
 {% hint style="info" %}
 #### 對等結構的核心準則
 
-此句型的 A 與 B，<mark style="color:blue;">**詞性或語法結構必須完全相同**</mark>。如果 A 是名詞，B 也要是名詞；如果 A 是動詞片語，B 也必須是。很多人在書寫時常常忘記要用對等結構連接 A 與 B。請參考範例。
+此句型的 A 與 B，<mark style="color:blue;">**詞性或語法結構必須完全相同**</mark>。如果 A 是名詞，B 也必須是名詞；如果 A 是動詞片語，B 也必須是動詞片語；如果 A 是形容詞，B 也必須是形容詞。很多人在書寫時常常忘記要用對等結構連接 A 與 B。請參考範例。
 
 She plays the piano, and she plays the violin, too.
 
@@ -2331,10 +2332,10 @@ She plays the piano, and she plays the violin, too.
 
 ## 文法
 
-* Not only ... but also ... 的倒裝
+* `Not only ... but also ...` 的倒裝
   * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)。
   * 原文 `...not only did he feel ..., but he also refused ...` 即為 `he not only felt ... but also refused ...` 的倒裝。
-* It seems that ... 感覺上、看起來、似乎
+* `It seems that ...` 感覺上、看起來、似乎
   * `It` 為虛主詞，引導後面的 `that` 子句，用來表達一種客觀的觀察或推論。可以改寫為 `Subject + seem + to VR`。
   * It seems that YouTubers tend to feel conceited when ... = YouTubers seem to feel conceited when ...
   * It seems that she is tired. = She seems to be tired.
@@ -2543,6 +2544,7 @@ She plays the piano, and she plays the violin, too.
   * (n.) 親戚
     * All my relatives gather together during the Lunar New Year. (我所有的親戚都會在農曆新年期間聚在一起。)
   * (adj.) 相對的；相關的
+    * 副詞形為 `relatively`。
     * The success of the project is relative to the amount of effort we put in. (這項計畫的成功與我們投入的努力程度成正比/相關。)
 * program (n.)
   * 學位課程；計畫
@@ -2824,7 +2826,7 @@ She plays the piano, and she plays the violin, too.
 
 1. One day, on his way to work, Andy got a <mark style="color:blue;">**news alert**</mark> on his phone. It warned him that milk supplies had been found to be <mark style="color:blue;">**contaminated**</mark> and that the milk on sale now was <mark style="color:blue;">**unfit**</mark> to <mark style="color:blue;">**consume**</mark>. <mark style="color:blue;">**On learning this**</mark>, Andy was <mark style="color:blue;">**stunned**</mark> and sent the message to several of his friends <mark style="color:blue;">**in no time**</mark>.
 2. They all felt shocked and helped <mark style="color:blue;">**pass the news along**</mark>. Soon, no one would <mark style="color:blue;">**dare**</mark> to buy milk. To get people to buy milk again, some supermarkets tried to lower its price by 50%, but it was <mark style="color:blue;">**in vain**</mark>. With the <mark style="color:blue;">**dairy industry**</mark> <mark style="color:blue;">**suffering**</mark> such a <mark style="color:blue;">**severe economic blow**</mark>, the government decided to <mark style="color:blue;">**step in**</mark>. The <mark style="color:blue;">**authorities**</mark> responsible for food safety announced that a full <mark style="color:blue;">**investigation**</mark> would take place and claimed that they would <mark style="color:blue;">**track down**</mark> the source of the problem.
-3. A lot of milk <mark style="color:blue;">**samples**</mark> were tested for <mark style="color:blue;">**contamination**</mark>, and the <mark style="color:blue;">**facilities**</mark> of every dairy farm were carefully <mark style="color:blue;">**inspected**</mark>. When the source of <mark style="color:blue;">**contamination**</mark> was found, the milk companies <mark style="color:blue;">**apologized**</mark>, <mark style="color:blue;">**assuring**</mark> the public <mark style="color:blue;">**of**</mark> their products' future safety. In time, people's confidence in milk was <mark style="color:blue;">**restored**</mark> and sales increased.
+3. A lot of milk <mark style="color:blue;">**samples**</mark> were tested for <mark style="color:blue;">**contamination**</mark>, and the <mark style="color:blue;">**facilities**</mark> of every dairy farm were carefully <mark style="color:blue;">**inspected**</mark>. When the source of <mark style="color:blue;">**contamination**</mark> was found, the milk companies <mark style="color:blue;">**apologized**</mark>, <mark style="color:blue;">**assuring**</mark> the public <mark style="color:blue;">**of**</mark> their products' future safety. <mark style="color:blue;">**In time**</mark>, people's confidence in milk was <mark style="color:blue;">**restored**</mark> and sales increased.
 
 <details>
 
@@ -2835,6 +2837,12 @@ She plays the piano, and she plays the violin, too.
 * News alert (n. phr.) 新聞警報、快訊
   * 複數型為 `news alerts`。
   * Everyone checked their phones when a news alert about the upcoming typhoon popped up. (當關於即將到來的颱風快訊跳出來時，每個人都查看了手機。)
+* Supply
+  * (n.) 供應量；補給品。
+    * Due to the heavy rain, the city's water supply was temporarily cut off. (由於大雨，這座城市的供水暫時中斷了。)
+  * (v.) 提供、供應。
+    * 常見用法為 `supply sb with sth`。
+    * The charity group will supply the homeless with hot meals and warm clothes. (慈善團體將為無家可歸者提供熱餐與保暖衣物。)
 * Contaminated (adj.) 受污染的
   * 動詞為 `contaminate`。
   * The local river became contaminated after the chemical factory leaked waste. (在化工廠洩漏廢料後，當地的河流受到了污染。)
@@ -2849,11 +2857,21 @@ She plays the piano, and she plays the violin, too.
 * Dairy (adj./n.) 乳製品的；酪農業
   * 請勿與 `diary` (日記) 搞混。
   * People with lactose intolerance should avoid most dairy products. (有乳糖不耐症的人應避免食用大多數乳製品。)
+* Industry (n.) 工業、產業；勤奮
+  * The tourism industry has recovered quickly after the border reopened. (邊境重新開放後，觀光產業迅速恢復了。)
+  * Her success in medical school was the result of both talent and industry. (她在醫學院的成功是天分與勤奮共同的結果。)
+* Economic (adj.) 經濟上的、與經濟相關的。
+  * Experts are discussing the economic impact of the new trade agreement. (專家們正在討論新貿易協定帶來的經濟影響。)
+  * Economical (adj.) 節省的、實惠的、省錢的。
+    * Buying a monthly pass is much more economical than paying for each ride. (買月票比每次乘車付費要實惠得多。)
 * Blow (n.) 打擊；挫折
   * Losing the final game was a big blow to the team's confidence. (輸掉決賽對該隊的信心是一個沉重的打擊。)
 * Authorities (n. pl.) 當局；官方
   * `The authorities concerned` 表「有關當局」，這個詞相當好用。
   * The health authorities are urging everyone to get vaccinated as soon as possible. (衛生當局正敦促每個人盡快接種疫苗。)
+* Announce (v.) 宣佈、公告
+  * 正式且公開地使大眾知道某事。
+  * The school announced that tomorrow would be a holiday due to the festival. (學校宣佈明天因為節慶將放假一天。)
 * Investigation (n.) 調查
   * 動詞為 `investigate`。
   * The police have launched a thorough investigation into the car accident. (警方已對該起車禍展開全面調查。)
@@ -2867,6 +2885,8 @@ She plays the piano, and she plays the violin, too.
   * 奪走 (生命)
     * 常在天災的報導或新聞中看到這個用法。
     * The terrible earthquake claimed hundreds of lives in the small village. (那場可怕的地震奪走了那個小村莊數百人的生命。)
+* Source (n.) 來源、源頭
+  * Oranges and lemons are excellent sources of Vitamin C. (柳橙和檸檬是維他命 C 的極佳來源。)
 * Sample (n.) 樣本、採樣
   * The scientist collected soil samples to test for dangerous bacteria. (科學家收集了土壤樣本以檢驗是否有危險細菌。)
 * Facility (n.) 設施；設備
@@ -2891,37 +2911,6 @@ She plays the piano, and she plays the violin, too.
   * A long vacation in the mountains helped restore his health. (在山中長期度假有助於恢復他的健康。)
   * The positive feedback from customers helped restore her confidence in the project. (來自客戶的正面回饋有助於恢復她對該計畫的信心。)
 
-## 以下明天檢查
-
-* Supply (n. / v.) 供應、補給
-  * 名詞用法：指供應量或補給品。
-    * 原文應用：Milk supplies had been found to be contaminated. (牛奶供應量被發現受到了污染。)
-    * 全新例句：Due to the heavy rain, the city's water supply was temporarily cut off. (由於大雨，這座城市的供水暫時中斷了。)
-  * 動詞用法：提供、供應某物給某人。
-    * 用法：supply someone with something。
-    * 全新例句：The charity group will supply the homeless with hot meals and warm clothes. (慈善團體將為無家可歸者提供熱餐與保暖衣物。)
-* Industry (n.) 工業、產業、勤奮
-  * 產業/工業意思：指某個特定的商業或製造領域。
-    * 原文應用：The dairy industry suffered a blow. (酪農業遭受了打擊。)
-    * 全新例句：The tourism industry has recovered quickly after the border reopened. (邊境重新開放後，觀光產業迅速恢復了。)
-  * 勤奮意思：指努力工作的品質。
-    * 全新例句：Her success in medical school was the result of both talent and industry. (她在醫學院的成功是天分與勤奮共同的結果。)
-* Economic vs. Economical：經濟大不同
-  * Economic (adj.)：經濟上的、與經濟相關的。
-    * 原文應用：A severe economic blow. (嚴重的經濟打擊。)
-    * 全新例句：Experts are discussing the economic impact of the new trade agreement. (專家們正在討論新貿易協定帶來的經濟影響。)
-  * Economical (adj.)：節省的、實惠的、省錢的。
-    * 全新例句：Buying a monthly pass is much more economical than paying for each ride. (買月票比每次乘車付費要實惠得多。)
-  * 快速口訣：帶有 `-ical` 的通常跟「個人省錢/划算」有關，沒有的跟「國家大事/大環境」有關。
-* Announce (v.) 宣佈、公告
-  * 語意：正式且公開地使大眾知道某事。
-  * 原文應用：The authorities announced that a full investigation would take place. (當局宣佈將會展開全面調查。)
-  * 全新例句：The school announced that tomorrow would be a holiday due to the festival. (學校宣佈明天因為節慶將放假一天。)
-* Source (n.) 來源、源頭
-  * 語意：事物產生的起源或出處。
-  * 原文應用：...track down the source of the problem. (……追查問題的源頭。)
-  * 全新例句：Oranges and lemons are excellent sources of Vitamin C. (柳橙和檸檬是維他命 C 的極佳來源。)
-
 </details>
 
 <details>
@@ -2930,9 +2919,50 @@ She plays the piano, and she plays the violin, too.
 
 ## 片語
 
+* On one's way to... 在某人前往...的途中
+  * I ran into an old friend on my way to the library this morning. (今天早上在我去圖書館的途中，我巧遇了一位老朋友。)
+* On sale
+  * 特價中
+    * I bought this jacket while it was on sale for half price. (我在這件外套特價五折時買下了它。)
+  * 販售中
+    * The new iPhone will go on sale starting next Friday. (新款 iPhone 將於下週五開始販售。)
+  * `for sale` 表「待售中」，通常指房屋、車子等私人物品。
+    * It's not for sale. (這是非賣品。)
+* In no time 立刻、馬上
+  * 與 `right away` 意思相近。
+  * Don't worry, I'll be there in no time. (別擔心，我馬上就到。)
+* Pass sth along 傳遞；轉發
+  * Please pass this document along to the manager after you finish reading it. (你讀完後，請將這份文件轉交給經理。)
+* Lower the price by X% 降價了 X%。
+  * `by` 接的是「降價的幅度」。另一個常見的寫法是 `X% off`，表「減去多少」，例如 `20% off` 是打八折，`40% off` 是打六折。
+  * Discount (n./v.) 折扣、打折
+    * 當名詞使用時，常見用法為 `offer a X% discount on sth`。
+    * We offer a 10% discount on this towel. = We lower the towel's price by 10%. = 10% off. (所有商品我們提供 9 折優惠。)
+    * The store discounted all summer clothes by 30%. (這間店將所有夏裝打了七折。)
 * In vain 徒勞無功
   * 相似意思的片語還有 `to no avail`。
   * We searched for the lost key all afternoon, but it was in vain. = We searched for the lost key all afternoon, but to no avail. (我們找了一下午遺失的鑰匙，但都徒勞無功。)
+* Step in 介入、干預
+  * 通常指在困難或混亂的情況下，第三方 (如政府或權威機構) 出來處理。
+  * The teacher had to step in to stop the two students from fighting. (老師不得不介入以阻止那兩位學生打架。)
+* Track down 追蹤到；追查出
+  * 指經過一番努力搜尋後，找到了某人或某物的來源或位置。
+  * The police finally tracked down the thief in a small village. (警方終於在一個小村莊裡追查到了那名小偷。)
+* Assure someone of something 向某人保證某事
+  * 詳見剛才關於 `assure` 的[單字整理](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-dan-zi-zheng-li)。
+* In time
+  * (隨著時間流逝) 終於、最後
+    * You might feel sad now, but in time, you will feel better. (你現在可能覺得難過，但最後你會好起來的。)
+    * Don't worry; you will learn how to use this software in time. (別擔心；你最後一定會學會如何使用這套軟體的。)
+  * 及時
+    * 強調「<mark style="color:blue;">**來得及**</mark>」。
+    * We arrived at the station just in time to catch the last bus. (我們及時趕到車站，剛好趕上最後一班公車。)
+    * The ambulance arrived in time to save the old man's life. (救護車及時趕到，救了那位老先生一命。)
+  * On time 準時
+    * 強調「<mark style="color:blue;">**不遲到**</mark>」，符合約定時間。
+      * The train arrived exactly on time. (火車準時抵達。)
+      * Please make sure you submit your homework on time. (請確保你準時交作業。)
+      * Despite the heavy rain, she managed to arrive for the meeting on time. (儘管下大雨，她還是設法準時趕到會場開會。)
 
 </details>
 
@@ -2942,6 +2972,76 @@ She plays the piano, and she plays the violin, too.
 
 ## 文法
 
+* `With + 受詞 (O) + 受詞補語 (OC)`
+  * 用來描述一個附帶發生的情況或原因。補語可以是分詞、形容詞或介系詞片語。
+  * He was sitting there with his dog waiting outside. (他坐在那裡，狗在外面等著。)
+  * With his eyes closed, Andy tried to recall the news alert he had seen earlier. (閉著眼睛，Andy 試圖回想他之前看過的新聞快訊。)
+  * He slept with the window open. (他開著窗戶睡覺。)
+  * She came in with a book in her hand. (她手裡拿著書進來。)
+* 不定詞 (`to VR`) 放句首
+  * 用來強調做後續動作的目的。
+  * To get good grades, Tom studies every day. (為了獲得好成績，Tom 每天讀書。)
+  * To learn English well, you should practice speaking every day. (為了學好英文，你應該每天練習說。)
+
+### 各種表示「一...就...」的方法
+
+#### On/upon + V-ing, S + V
+
+* <mark style="color:blue;">**前後主詞需相同**</mark>。
+  * <mark style="color:$danger;">**錯誤範例**</mark>：On arriving home, it started raining outside. → 前面的主詞是人，但後面是天氣，兩者主詞不同。
+  * <mark style="color:blue;">**正確範例**</mark>：As soon as I arrived home, it started raining outside.
+* On arriving in Taipei, I will give you a call. (一到台北，我就會打電話給你。)
+* He saw a strange man on opening the door. (他一打開門，就看見一個陌生男子。)
+* She burst into tears upon hearing the news. (她一聽到這消息就哭了。)
+* Upon arriving at the station, she realized she had left her ticket at home. (一抵達車站，她就發現自己把票忘在家裡了。)
+
+#### As soon as / the moment + S + V, S + V
+
+* The earthquake started as soon as I received the alarm. (我剛收到警報，地震就開始了。)
+* He left as soon as he saw her. (他一看見她就離開了。)
+* The moment she finished the tuna rice ball, she felt much more energetic. (她一吃完鮪魚飯糰，就覺得更有活力了。)
+* The moment you arrive, please call me. (你一到就打給我。)
+
+#### S + had + no sooner + p.p. + than + S + Ved
+
+* 這是一個<mark style="color:blue;">**強調**</mark>「先後順序」的句型。
+* 倒裝寫法：`No sooner + had + S + p.p. + than + S + Ved`。
+* `no sooner` 所在的子句用<mark style="color:blue;">**過去完成式**</mark>，`than` 後面用<mark style="color:blue;">**過去簡單式**</mark>，並且<mark style="color:blue;">**一定要搭配**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`than`**</mark>，不能用 `when` 或 `before`。
+* He had no sooner finished his homework than he went out to play. (他剛完成作業就出去玩了。)
+* She had no sooner tasted the pineapple juice than her eyes brightened. (她剛嚐了一口鳳梨汁，眼睛就亮了起來。)
+* No sooner had I laid down on the bed than someone knocked on the door. (我一躺到床上，就有人敲門。)
+
+{% hint style="info" %}
+#### 注意事項
+
+`no sooner` 所在的子句描述的是<mark style="color:blue;">**先發生的事**</mark>，所以用過去完成式；`than` 後面描述的是<mark style="color:blue;">**後發生的事**</mark>，所以用過去簡單式。本句型主要用於描述<mark style="color:blue;">**過去**</mark>發生的兩件事緊接發生，若要應用於現在或未來，宜選用其他句型，例如 `as soon as`。
+
+以下兩句話的意思略有不同。使用此句型時一定要弄清楚事情的先後順序，才不會寫錯。
+
+* 我剛到車站，火車就開走了：No sooner had I arrived at the station than the train left.
+* 火車剛開走，我才到車站：No sooner had the train left than I arrived at the station.
+{% endhint %}
+
+#### S + had + hardly/scarcely + p.p. + when/before + S + Ved
+
+* 與 `no sooner... than...` 的結構相同，但連接詞改用 <mark style="color:blue;">**`when`**</mark> 或 <mark style="color:blue;">**`before`**</mark>，兩者意思相同。
+* 倒裝寫法：`Hardly/Scarcely + had + S + p.p. + when/before + S + Ved`。
+* The authorities had hardly announced the news when the public panicked. (當局一宣佈消息，大眾就陷入了恐慌。)
+* The fire alarm had scarcely gone off before the shoppers rushed out of the department store. (消防警報一響，顧客們就衝出了百貨公司。)
+* Scarcely had I closed my eyes before the phone rang. (我剛閉上眼睛，電話就響了。)
+* Hardly had I left home before it started to rain. (我剛出門就下雨了。)
+
+{% hint style="info" %}
+#### 注意事項
+
+與剛才相同，`hardly/scarcely` 所在的子句描述的是<mark style="color:blue;">**先發生的事**</mark>，所以用過去完成式；`when/before` 後面描述的是<mark style="color:blue;">**後發生的事**</mark>，所以用過去簡單式。本句型主要用於描述<mark style="color:blue;">**過去**</mark>發生的兩件事緊接發生，若要應用於現在或未來，宜選用其他句型，例如 `as soon as`。
+
+以下兩句話的意思略有不同。使用此句型時一定要弄清楚事情的先後順序，才不會寫錯。
+
+* 我剛到車站，火車就開走了：Hardly had I arrived at the station before the train left.
+* 火車剛開走，我才到車站：Hardly had the train left before I arrived at the station.
+{% endhint %}
+
 </details>
 
 <details>
@@ -2950,17 +3050,308 @@ She plays the piano, and she plays the violin, too.
 
 ## 文章分析
 
-## 寫作補給站—
+整篇文章遵循「發現問題」→「恐慌」→「官方介入」→「解決」的敘事邏輯，提供了一個完整的社會事件模型。作者利用「快訊」當作起點，捕捉了現代資訊傳遞的飛速特性。文章中段，作者將事件的影響從自己的即時反應，擴展到整個社會與經濟層面的衝擊，尤其是超市試圖降價卻徒勞無功的描寫，深刻揭示了當公眾健康受威脅時，單純的經濟手段難以挽回消費者的信心。在結尾的部分，作者除了描述「問題解決」，還強調了「信心恢復」，使文章的語調相對正面。
+
+## 寫作補給站—危機處理與公眾信任
+
+當文章主題涉及公眾利益受損 (如食安、環保或流行病) 時，除了描述事件經過，若能運用更正式的詞彙來探討危機的擴散、政府的介入手段以及機構如何挽回聲譽，將能大幅提升文章的深度與專業度。以下詞彙能幫助你寫出更具批判性與建設性的論述。
+
+* Crisis (n.) 危機；緊要關頭
+  * The government is facing a severe political crisis. (政府正面臨一場嚴重的政治危機。)
+* Widespread panic (n. phr.) 普遍的恐慌
+  * The news of the contaminated water caused widespread panic in the city. (受污染水源的消息在城市裡引發了普遍恐慌。)
+* Intervene (v.) 介入；干預
+  * 比 `step in` 更正式的用法，指權威機構為了阻止情況惡化而採取行動。
+  * The central bank decided to intervene in the currency market to stabilize the exchange rate. (中央銀行決定介入貨幣市場以穩定匯率。)
+* Transparent (adj.) 透明的；坦率的
+  * To restore public trust, the investigation process must be completely transparent. (為了恢復公眾信任，調查過程必須完全透明。)
+* Reputation (n.) 名譽；聲望
+  * It took the company years to rebuild its damaged reputation after the recall. (該公司花了數年時間才重建在召回事件後受損的名譽。)
+* Break out 爆發
+  * 通常指戰爭、疾病、火災或社會危機等<mark style="color:blue;">**負面事件**</mark>突然發生。
+  * The food safety scandal broke out overnight, leaving everyone in shock. (食安醜聞一夜之間爆發，讓每個人都感到震驚。)
+* Call for N 呼籲、要求
+  * 指公開要求某種行動或改變，常用於公眾或專家對政府的期待。
+  * Angry consumers called for a stricter inspection of all dairy products. (憤怒的消費者呼籲對所有乳製品進行更嚴格的檢查。)
+* Put an end to N 終結、結束
+  * 表示採取強力行動來終止某種不良的情況。
+  * The government implemented new laws to put an end to the contamination problem. (政府實施了新法律以終結污染問題。)
+* Make matters worse 使情況惡化、雪上加霜
+  * To make matters worse, some companies tried to hide the truth from the public. (更糟的是，有些公司試圖向大眾隱瞞真相。)
+* Take measures 採取措施 (以解決問題)
+  * 常用於正式公文或評論。
+  * Immediate measures must be taken to prevent similar incidents from happening again. (必須立即採取措施，以防止類似事件再次發生。)
+* In the face of N 面對
+  * 指面對困難、威脅或巨大的挑戰。
+  * In the face of the severe economic blow, many farmers worked together to restore their business. (面對嚴重的經濟打擊，許多農民共同努力恢復他們的事業。)
 
 ## 寫作建議
+
+書寫關於「社會危機」或「公共事件」的主題時，建議要展現事件的「規模感」。這篇文章是個很好的範例：它從 Andy 一個人的手機螢幕開始，逐步推向超市、酪農業，最後到政府當局。寫作時，可以多使用具正式感的詞彙，讓文字具備權威性。當要描述「政府採取行動」時，`the authorities concerned`, `step in` 等就相當實用，能精準傳達出干預與介入的姿態。
+
+此外，要注意文章中的時態演變，才能準確表示事件發生的先後順序。平常可以多練習描寫事情的細節，例如它如何被發現、調查、追蹤等，增加文章的細節。另外，還有一些地方可以注意：
+
+* 可使用 `With + O + OC` 來呈現複雜的背景原因與影響。
+* 用適當的情緒描寫來呈現公眾對事件的即時心理衝擊。
+* 從個人 → 群體 → 有關機構，用層次化的敘事結構，建立清晰的視角切換。
+* 活用專業術語，例如 `contaminated`、`investigation` 與 `assure`。
 
 </details>
 
 ## 15.
 
-1. <mark style="color:blue;">**Live-streaming**</mark> technology is a <mark style="color:blue;">**relatively**</mark> new part of our social media. <mark style="color:blue;">**Now that**</mark> almost everybody has a video camera on their phone or computer, it's easy for people to <mark style="color:blue;">**live-stream**</mark> themselves while doing any activity, like playing video games or having a meal. Some people don't want to <mark style="color:blue;">**broadcast**</mark> in this way, because they <mark style="color:blue;">**prefer to**</mark> keep things private and don't like others to see the details of their lives.
-2. For others, <mark style="color:blue;">**though**</mark>, it offers an amazing opportunity. It can help them earn some additional <mark style="color:blue;">**income**</mark> by having <mark style="color:blue;">**product placement**</mark> in their videos. It can even be some people's main job. The fact <mark style="color:blue;">**that**</mark> ordinary people can <mark style="color:blue;">**live-stream**</mark> themselves can be either good or bad at different times. On the <mark style="color:blue;">**positive**</mark> side of things, there's <mark style="color:blue;">**value**</mark> in the authenticity that <mark style="color:blue;">**live-streaming**</mark> offers. You can see into someone else's life and feel like you're communicating with a real person.
-3. <mark style="color:blue;">**On the other hand**</mark>, <mark style="color:blue;">**the lack of**</mark> <mark style="color:blue;">**oversight**</mark> can be a <mark style="color:blue;">**negative**</mark> when it leads to misleading or incorrect information being repeated and <mark style="color:blue;">**promoted**</mark>. <mark style="color:blue;">**Streamers**</mark> can <mark style="color:blue;">**resort to**</mark> outrageous or harmful behavior to attract more viewers, and they often have little or no <mark style="color:blue;">**supervision**</mark>. This behavior sometimes influences others to do <mark style="color:blue;">**risky**</mark> things. It seems that live-streaming is <mark style="color:blue;">**here to stay**</mark>, but whether it's good or bad <mark style="color:blue;">**is up to us**</mark> to use it responsibly.
+1. <mark style="color:blue;">**Livestreaming**</mark> technology is a <mark style="color:blue;">**relatively**</mark> new part of our social media. <mark style="color:blue;">**Now that**</mark> almost everybody has a video camera on their phone or computer, it's easy for people to <mark style="color:blue;">**livestream**</mark> themselves while doing any activity, like playing video games or having a meal. Some people don't want to <mark style="color:blue;">**broadcast**</mark> in this way, because they <mark style="color:blue;">**prefer to**</mark> keep things private and don't like others to see the details of their lives.
+2. For others, <mark style="color:blue;">**though**</mark>, it offers an amazing opportunity. It can help them earn some additional <mark style="color:blue;">**income**</mark> by having <mark style="color:blue;">**product placement**</mark> in their videos. It can even be some people's main job. The fact <mark style="color:blue;">**that**</mark> ordinary people can <mark style="color:blue;">**livestream**</mark> themselves can be either good or bad at different times. On the <mark style="color:blue;">**positive**</mark> side of things, there's <mark style="color:blue;">**value**</mark> in the authenticity that <mark style="color:blue;">**livestreaming**</mark> offers. You can see into someone else's life and feel like you're communicating with a real person.
+3. <mark style="color:blue;">**On the other hand**</mark>, <mark style="color:blue;">**the lack of**</mark> <mark style="color:blue;">**oversight**</mark> can be a <mark style="color:blue;">**negative**</mark> when it leads to misleading or incorrect information being repeated and <mark style="color:blue;">**promoted**</mark>. <mark style="color:blue;">**Streamers**</mark> can <mark style="color:blue;">**resort to**</mark> outrageous or harmful behavior to attract more viewers, and they often have little or no <mark style="color:blue;">**supervision**</mark>. This behavior sometimes influences others to do <mark style="color:blue;">**risky**</mark> things. It seems that livestreaming is <mark style="color:blue;">**here to stay**</mark>, but whether it's good or bad <mark style="color:blue;">**is up to us**</mark> to use it responsibly.
+
+<details>
+
+<summary>作文百句 15 單字整理</summary>
+
+## 單字
+
+* Livestream
+  * (v./n.) 直播
+    * She livestreams her gaming sessions every night.
+    * I missed your livestream yesterday.
+  * (adj.) 通常寫成 `livestreaming`, `live-streaming`，或直接用 `live`。
+    * We are using the latest livestreaming technology.
+  * 「直播主」怎麼說？
+    * Streamer：最通用的說法，指在各平台直播的人。
+    * Live streamer：更精確地強調是「即時」直播的人。
+    * Broadcaster：較正式，原文中也用到 `broadcast` 這個動詞。
+    * Content Creator：內容創作者（包含直播主、YouTuber 等）。
+* Broadcast (v./n.) 廣播；播送
+  * 將節目或資訊傳送到大眾的設備上，現在也常用於網路直播。
+  * Many young people choose to broadcast their daily lives to gain followers. (許多畢業生選擇直播他們的日常生活來獲得追隨者。)
+* Private (adj.) 私人的；私密的
+  * 反義詞為 `public`。
+  * She values her private space and rarely shares photos of her family. (她重視她的私人空間，很少分享家人的照片。)
+* Opportunity (n.) 機會
+  * Traveling abroad provides a great opportunity to learn about different cultures. (出國旅遊提供了一個了解不同文化的極好機會。)
+* Earn (v.) 賺取；贏得
+  * How much do you earn a month? (你一個月賺多少錢？)
+  * You have earned my respect with your hard work on these notes. (你為這些筆記付出的努力贏得了我的尊敬。)
+* Additional (adj.) 額外的
+  * The company provided additional training for the new employees. (公司為新員工提供了額外的培訓。)
+* Income (n.) 收入
+  * 通常指工作所得或投資獲得的金錢。
+  * Freelancing allows her to earn a steady income while working from home. (自由職業讓她在居家辦公的同時能賺取穩定的收入。)
+* Product placement (n. phr.) 置入性行銷
+  * 在影片、電影或直播中置入特定產品以達到宣傳效果。
+  * Subtle product placement in movies can be more effective than traditional ads. (電影中微妙的置入性行銷可能比傳統廣告更有效。)
+* Ordinary (adj.)&#x20;
+  * 平常的；普通的
+    * `ordinary people` 表「一般大眾」、「平民百姓」。
+    * The policy aims to improve the lives of ordinary people. (該政策旨在改善普通人的生活。)
+  * 平凡無奇的。
+    * It was just an ordinary day until I met you. (在遇見你之前，這原本只是平凡的一天。)
+* Positive
+  * (adj.) 正向的
+    * She has a very positive attitude. (她有非常積極的態度)
+  * (adj.) 確定的
+    * Are you positive that we should stop the cleaning process now? (你確定我們現在應該停止清潔工作嗎？)
+    * We still don't have a positive answer. (我們目前還沒有得到肯定的答覆。)
+  * (adj.) (檢測) 陽性的
+    * If you test positive for COVID-19, you should stay home. (如果你的新冠病毒檢測呈陽性，你應該待在家裡。)
+  * (adj.) (數學) 正值的
+    * Parameters can be positive or negative. (參數可以是正值或負值。)
+  * (n.) 優點、正向因素、肯定
+    * The survey results were a mix of positives and negatives. (調查結果有好有壞。)
+  * 反義詞為 `negative` (負面的；消極的；負值的；(n.) 缺點、負面因素、否定)。
+* Authenticity (n.) 真實性、可信度
+  * 指某物或某人展現出原始、未經修飾的真實特質。
+  * The authenticity of the historical documents was confirmed by experts. (這些歷史文件的真實性得到了專家的確認。)
+* Oversight (n.)
+  * 監督 (指對某項活動的正式管理)
+    * The lack of government oversight led to the environmental disaster. (政府監督的缺乏導致了這場環境災難。)
+  * 疏忽 (指不小心的遺漏)
+    * Leaving the door unlocked was a serious oversight on my part. (忘記鎖門是我的嚴重疏失。)
+* Misleading (adj.) 誤導的
+  * The advertisement was criticized for providing misleading information about the weight-loss pill. (該廣告因提供關於減肥藥的誤導性資訊而受到批評。)
+* Incorrect (adj.) 不正確的、錯誤的
+  * The news report was full of incorrect information about the scandal. (新聞報道中充斥著關於這起醜聞的錯誤訊息。)
+* Outrageous (adj.) 駭人聽聞的、不可理喻的；無法接受的、令人髮指的
+  * The streamer's outrageous behavior in the public park was recorded and reported. (該名直播主在公共公園的駭人行為被記錄並舉報了。)
+  * The prices at this restaurant are absolutely outrageous! (這家餐廳的價格簡直離譜！)
+  * The streamer's outrageous behavior led to his channel being banned. (該主播的出格行為導致其頻道被封鎖。)
+* Supervision (n.) 監督、管理
+  * Children should not be left in the swimming pool without adult supervision. (孩子們不應在沒有成人監督的情況下待在游泳池裡。)
+  * The laboratory experiments must be conducted under strict supervision. (實驗室的實驗必須在嚴格監督下進行。)
+* Influence (v./n.) 影響、感化
+  * 當動詞使用時，常見用法為 `influence sb to VR`；當名詞使用時，常見用法為 `have an influence on sb/sth`。
+  * His opinions and ideas have influenced the field of economics. (他的意見和想法已經影響了經濟學領域。)
+  * My parents had a major influence on my career choice. (父母對我的職業選擇產生了重大影響。)
+  * `Influencer` (n.) 網紅
+    * 指在社群媒體上擁有眾多粉絲、能引導消費或輿論的人。
+    * Many brands partner with influencers to promote their new products. (許多品牌會跟網紅合作宣傳新產品。)
+* Risky (adj.) 有風險的、危險的
+  * Investing all your money in a single company is a risky move. (將所有錢投資在單一公司是一個有風險的舉動。)
+* Responsibly (adv.) 負責任地
+  * 形容詞為 `responsible`。
+  * Parents must teach their kids how to use the internet responsibly. (父母必須教導孩子如何負責任地使用網路。)
+
+</details>
+
+<details>
+
+<summary>作文百句 15 片語整理</summary>
+
+## 片語
+
+* Now that 既然；由於
+  * 引導一個原因子句，通常表示某種情況已經發生，所以接下來會如何。
+  * Now that you have learned these words, you should use them properly. (既然你已經學會了這些單字，你就應該正確使用它們。)
+* Keep things private 保持私密
+  * `keep + 受詞 + 形容詞` 表示使某物維持某種狀態。
+  * It's important to keep your password private from others. (將你的密碼對他人保密是很重要的。)
+* On the positive side (of things) 從積極、正面的一面來看
+  * On the positive side, the rain helped the garden grow. (從正面來看，這場雨幫助了花園生長。)
+* Feel like
+  * `feel like + N/V-ing` 想要...、覺得想做...
+    * I feel like having a apple juice right now. (我現在好想喝一杯蘋果汁。)
+    * Do you feel like going for a walk after class? (你下課後想去散散步嗎？)
+    * Do you feel like a pizza? (你想要吃披薩嗎？)
+    * I feel like a cold beer. (我想要來杯冰啤酒。)
+  * `feel like + N` 感覺像...、摸起來像...
+    * 形容某種感覺、質地或身份的相似。
+    * It feels like silk. (摸起來像絲綢。)
+    * It feels like a dream. (感覺像在做夢。)
+    * He feels like a real person when he streams. (他直播時感覺像個真實的人。)
+  * `feel like + (that) 子句` 覺得好像...、給人的印象是...
+    * 表達某種主觀的看法或印象。
+    * `that` 基本上都會省略。
+    * I feel like this lesson is going to be very long. (我覺得這堂課似乎會變得很漫長。)
+    * I feel like it’s going to rain. (我覺得好像要下雨了。)
+    * He feels like I don't listen closely to what he says. (他感覺我沒有仔細在聽他說話。)
+* Communicate with sb 與...溝通、交流
+  * Technology makes communicating with people across the world easier. (科技讓與世界各地的人交流變得更容易。)
+* On the other hand 另一方面
+  * 用於對比兩個不同的觀點或情況，或者帶出另一個視角。
+  * 常與 `On the one hand` (一方面) 搭配使用，但並非強制。直接用 `On the other hand` 來引出反對意見或補充另一面也可。
+  * On the one hand, the internet is convenient. On the other hand, it can be dangerous. (一方面，網路十分便利；另一方面，它也危機四伏。)
+  * I like the dress; on the other hand, it's very expensive. (我喜歡這件裙子；另一方面，它非常昂貴。)
+  * I want to study abroad, but on the other hand, I would miss my family too much. (我想去留學，但另一方面，我會太想念我的家人。)
+* Resort to N 訴諸於...；採取 (不好的手段)
+  * 別無選擇或為了達成目的而不惜使用極端手段。
+  * Some students resort to cheating when they are under too much pressure. (有些學生在壓力過大時會訴諸作弊。)
+  * The company resorted to mass layoffs to save money. (該公司訴諸大規模裁員來節省資金。)
+* Be up to sb 由某人決定、取決於某人
+  * It's up to you to decide which movie we should watch. (由你決定我們應該看哪部電影。)
+
+</details>
+
+<details>
+
+<summary>作文百句 15 文法整理</summary>
+
+## 文法
+
+* `The fact that...` 某個事實...
+  * 由 `that` 引導的名詞子句，作為前面的抽象名詞 `fact` 的同位語。
+  * The fact that you chose me over Ran makes me feel like the luckiest person in the world. (你選擇我而不是Ran，這讓我覺得自己是世界上最幸運的人。)
+* `Either A or B` 不是 A 就是 B；兩者之一
+  * <mark style="color:blue;">**對等連接**</mark>兩個形容詞、名詞或動詞。
+  * We can either eat out or cook at home. (我們要麼出去吃，要麼在家做飯。)
+  * We can meet either at the cafe or at the library. (我們可以在咖啡廳或圖書館見面。)
+  * 當 `either A or B` 作為句子的主詞時，<mark style="color:blue;">**動詞的單複數要根據**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`B`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**來決定**</mark>。
+    * Either the students or the teacher <mark style="color:blue;">**is**</mark> going to the party. (學生們或老師中會有一個會去派對。) = Either the teacher or the students <mark style="color:blue;">**are**</mark> going to the party. (老師或學生們中會有一個會去派對。)
+  * 關於 `neither A nor B` 的介紹，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-1-wen-fa-zheng-li)。
+
+### Whether 的用法
+
+* 引導名詞子句，表「是否...」。
+  * 可以當動詞受詞、接在介系詞之後，或當主詞 (放句首)。
+  * I don't know whether he will come. (我不知道他是否會來。)
+  * It depends on whether it rains. (這取決於是否下雨。)
+  * Whether we can succeed depends on your effort. (我們是否能成功取決於你的努力。)
+* 搭配 `or not`，強調「是否...不」。
+  * `Whether` 可直接接 `or not`，或將 `or not` 放句尾。
+  * I wonder whether or not he likes it. = I wonder whether he likes it or not. (我不知道他喜不喜歡。)
+  * Whether you like it or not, you'll need to accept the result. (不管你喜不喜歡，你都必須接受這個結果。)
+* 搭配不定詞 `to VR`，表「是否要...」。
+  * 常用於決定或考慮後。
+  * I'm not sure whether to accept the job. (我不確定是否要接受這份工作。)
+  * Whether to stay or leave is for you to decide. (要留下還是離開由你決定。)
+* 引導副詞子句，表「不論...」、「不管...」。
+  * 此用法下，通常會與 `or` 連用。
+  * Whether it rains or shines, we will go. (無論下雨還是晴天，我們都會去。)
+  * Whether you agree or disagree, I will buy that dishwasher. (不管你同意與否，我都會買那台洗碗機。)
+
+{% hint style="info" %}
+#### Whether vs. If
+
+當 `whether` <mark style="color:blue;">**接在動詞 (如**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`know`**</mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`wonder`**</mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`ask`**</mark><mark style="color:blue;">**) 後面**</mark>時，`whether` 跟 `if` 通常可以互換，但請注意 <mark style="color:blue;">**`if`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**後面不能直接接**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`or not`**</mark>。
+
+* I wonder whether he likes it (or not). = I wonder whether or not he likes it. = I wonder <mark style="color:blue;">**if**</mark> he likes it (or not).
+* <mark style="color:$danger;">**錯誤範例**</mark>
+  * I wonder if or not he likes it. (`if` 後面不能直接接 `or not`)
+  * It depends on whether it rains. → It depends on if it rains. (原句的 `whether` 接在介係詞後面，不能替換成 `if`)
+  * Whether we can succeed depends on your effort. → If we can succeed depends on your effort. (原句的 `whether` 當主詞，不能替換成 `if`)
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 15 寫作建議</summary>
+
+## 文章分析
+
+這篇文章的結構很明確。
+
+* 第一段是背景介紹。
+  * 指出直播是一項相對較新的科技。
+  * 提到直播的便利性 (手機或電腦即可)。
+  * 點出人們的兩種態度—樂於分享 vs. 偏好私密。
+* 第二段描述正面影響。
+  * 機會：可以增加額外收入，甚至成為主業。
+  * 真實性：直播展現了真實的人與生活感，讓人感到是在與真人溝通。
+* 第三段描述負面影響與結論。
+  * 問題：缺乏監督導致資訊誤導。
+  * 行為面：直播主為了流量可能訴諸極端或有害的行為。
+  * 結論：直播會持續存在，但好壞取決於使用者是否負責任。
+
+## 寫作補給站—與直播和科技相關的詞語
+
+以下是從網路直播與科技發展延伸出的實用詞語。
+
+* Platform (n.) 平台 (指網站或應用程式)；月台；台階
+  * Choosing the right platform is the first step for a new streamer. (選擇正確的平台是新直播主的第一步。)
+  * Please stand behind the yellow line on the platform. (請站在月台上的黃線後方。)
+* Engagement (n.) 參與度、互動；訂婚；約定
+  * High engagement with viewers can lead to more income. (與觀眾的高互動可以帶來更多收入。)
+  * The couple announced their engagement on social media. (這對情侶在社群媒體上宣布了他們的訂婚。)
+* Monetize (v.) 變現 (如將流量轉化為金錢)
+  * Many influencers try to monetize their channels through ads. (許多網紅嘗試透過廣告將他們的頻道變現。)
+  * The company is looking for new ways to monetize their online content. (這家公司正尋求將其網路內容變現的新方法。)
+* Channel (n.) 頻道 (如 YouTube 頻道)；管道 (溝通方式)；海峽
+  * Her channel has reached over one million subscribers. (她的頻道已經達到超過一百萬名訂閱者。)
+  * You should use the proper channel to report the issue. (你應該使用適當的管道來舉報這個問題。)
+  * The English Channel separates Britain from France. (英吉利海峽將英國與法國隔開。)
+* Feed (n.) 動態消息
+  * My feed is mostly cat videos these days! (我現在的動態消息幾乎都是貓咪影片！)
+* In the digital age 在數位時代
+  * In the digital age, authenticity is highly valued by social media users. (在數位時代，真實性受到社群媒體使用者的度重視。)
+* Blur the line between... 模糊了...之間的界線
+  * 形容兩種原本不同的事物 (如公領域與私領域) 變得界線不清。
+  * Streaming often blurs the line between private life and public entertainment. (直播常模糊了私人生活與大眾娛樂之間的界線。)
+* The advent of... ...的到來、出現
+  * 常用於形容某種重大科技或時代的來臨。
+  * The advent of high-speed internet made livestreaming possible for everyone. (高速網路的出現讓每個人都能進行直播。)
+* Capture/attract sb's attention 吸引某人的注意
+  * Streamers sometimes resort to shocking behavior to capture the audience's attention. (直播主有時會訴諸令人震驚的行為來吸引觀眾的注意。)
+* Real-time interaction 即時互動、沒有延遲的交流
+  * The main charm of live-streaming is the real-time interaction with the host. (直播的主要魅力在於與主持人的即時互動。)
+
+## 寫作建議
+
+書寫一個新事物對生活的影響時，可以參考以下做法：
+
+* 善用<mark style="color:blue;">**對比**</mark>，如 `on the one hand...; on the other hand...` 就是很好用的結構。
+* 善用<mark style="color:blue;">**條件句**</mark>，表達「如果能...，就能 (更好)」。
+
+</details>
 
 ## 16.
 
