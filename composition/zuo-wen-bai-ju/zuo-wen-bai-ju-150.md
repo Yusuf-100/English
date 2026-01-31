@@ -3359,6 +3359,233 @@ She plays the piano, and she plays the violin, too.
 2. For me, <mark style="color:blue;">**there's no doubt**</mark> that Taiwanese students spend too long at school each day. Finnish students only spend five hours a day at school, yet their education system is <mark style="color:blue;">**highly praised**</mark>. This <mark style="color:blue;">**suggests**</mark> that students don't need to spend long hours at school to get a good education. What's more, longer hours mean Taiwanese students have less time for <mark style="color:blue;">**extracurricular activities**</mark>, such as sports or music.
 3. This <mark style="color:blue;">**robs**</mark> them <mark style="color:blue;">**of**</mark> the opportunity to develop interests outside of schoolwork. <mark style="color:blue;">**In addition**</mark>, long school hours <mark style="color:blue;">**likely**</mark> mean not only more tests but also more pressure for students. Both of these <mark style="color:blue;">**factors**</mark> could cause them to lose their <mark style="color:blue;">**enthusiasm for**</mark> learning. It's clear that Taiwan's education system <mark style="color:blue;">**still leaves much to be desired**</mark>.
 
+<details>
+
+<summary>作文百句 16 單字整理</summary>
+
+## 單字
+
+* Chart (n.) 圖表
+  * 如條形圖、圓餅圖、折線圖。
+  * This chart clearly illustrates the correlation between study hours and academic performance. (這張圖表清楚地說明了學習時數與學業表現之間的相關性。)
+* Amount (n.) 數量；金額
+  * 通常用於修飾<mark style="color:blue;">**不可數名詞**</mark>。若是可數名詞，通常使用 `number`。
+  * A large amount of money was spent on the new library project. (大量的金錢被花在新的圖書館計畫上。)
+* Per (prep.) 每、每一
+  * 用於表示比率或單位。常見用法為 `per + 單位` (如 `per day`, `per hour`)。
+  * Most people work 40 hours per week. (大多數人每週工作 40 小時。)
+  * The speed limit on this road is 60 kilometers per hour. (這條路的速限是每小時 60 公里。)
+* Various (adj.) 各種各樣的、不同的
+  * The museum displays various artifacts from ancient civilizations. (這間博物館展出各古代文明的各種文物。)
+  * Various reasons were given for the delay of the flight. (航班延誤被給予了各種不同的理由。)
+* Appear (v.) 似乎、好像；顯現
+  * 在本文中作為連綴動詞，後接 `that` 子句，表示「看起來……」、「似乎……」。
+  * It appears that the new policy will have a positive impact on the environment. (看來這項新政策將會對環境產生積極的影響。)
+  * 衍伸詞：`Appearance` (n.) 外貌、出現。
+* Respectively (adv.) 分別地、依次地
+  * 用於對應前面提到的多個對象或數據。
+  * John and Mary are 20 and 22 years old, respectively. (約翰和瑪麗分別是 20 歲和 22 歲。)
+* Average (n./adj.) 平均 (的)
+  * 片語 `on average` 表「平均而言」。
+  * On average, Taiwanese students spend more time in class than students in other countries. (平均而言，台灣學生在校上課的時間比其他國家的學生長。)
+  * The average temperature in summer has risen significantly over the past decade. (過去十年中，夏季的平均氣溫顯著上升。)
+* Doubt (n./v.) 懷疑、疑慮
+  * 作名詞時，常用於 `no doubt` (毫無疑問)。當指一般性抽象概念的「懷疑」時，通常為<mark style="color:blue;">**不可數**</mark> (如 no doubt)；若指具體的「疑慮」或「懷疑事項」，則為<mark style="color:blue;">**可數名詞**</mark> (如 `I have a few doubts.`)。
+  * 作動詞時，後接 `that` 子句或 `if/whether` 子句。
+  * I doubt that he will be able to finish the project on time. (我懷疑他是否能準時完成這項計畫。)
+  * There is some doubt about whether the strategy will work. (關於這項策略是否奏效存在一些疑慮。)
+* Education (n.) 教育
+  * 指受教的過程或系統。
+  * 相關變形：
+    * `Educate` (v.) 教育、教導。
+    * `Educated` (adj.) 受過教育的、有教養的。
+    * `Educational` (adj.) 教育的、具教育意義的。
+  * The government is investing more money in higher education. (政府正投入更多資金在高等教育中。)
+  * She was educated in England. (她在英國受的教育。)
+  * He is a highly educated professional. (他是一位受過高等教育的專業人士。)
+  * Watching documentaries can be a very educational experience. (觀看紀錄片可以是非常具教育意義的體驗。)
+* Highly (adv.) 高度地、非常、極其
+  * 常與形容詞搭配，強化程度。常見用法如 `highly praised` (深受讚譽)、`highly likely` (極有可能)、`highly competitive` (競爭激烈)、highly educated (受過高等教育的、高學歷的、知識水準高的)。
+  * This book comes highly recommended by many critics. (這本書深受許多評論家的極力推薦。)
+  * It is highly improbable that the two events are related. (這兩起事件極不可能有關聯。)
+* Praise (v./n.) 稱讚、讚揚
+  * 常見用法：`praise sb for sth` (因某事稱讚某人)。
+  * 與 `compliment` 意思相近。
+  * The teacher praised the students for their hard work and creativity. (老師稱讚學生們的辛勤努力與創意。)
+* Suggest (v.) 暗示、顯示；建議
+  * 在學術寫作或分析圖表時，常用來引導「研究/數據顯示」的結果。
+  * The research suggests that regular exercise can improve mental health. (研究顯示規律運動能增進心理健康。)
+  * 當表示「建議」時，<mark style="color:blue;">**後接**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`that`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**子句需使用**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`(should) + VR`**</mark>。
+    * <mark style="color:$danger;">**錯誤範例**</mark>：I suggest that Alana reads the notes.
+    * <mark style="color:blue;">**正確範例**</mark>：I suggest that Alana (should) read the notes.
+* Extracurricular (adj.) 課外的
+  * 由 `extra-` (額外的) + `curricular` (課程的) 組成。`curriculum` (複數為 `curricula`) 為名詞，表「課程」。
+  * Extracurricular activities, such as sports and music, play a vital role in students' development. (體育和音樂等課外活動在學生的發展中起著至關重要的作用。)
+* Rob (v.) 剝奪；搶劫
+  * 常見用法：`rob sb of sth` (剝奪某人的某物)。
+  * 近義詞：`deprive` (搭配用法為 `deprive sb of sth`)。
+  * Three guys robbed me of my cellphone. (三個人搶了我的手機。)
+  * Lack of sleep robs many students of their energy and focus. (睡眠不足剝奪了許多學生的精力和專注力。)
+* Schoolwork (n.) 學校作業、課業
+  * 指與學校課程相關的任務，包括家庭作業與課堂練習，通常為<mark style="color:blue;">**不可數名詞**</mark>。
+  * Jimmy is so busy with his schoolwork that he has no time for sports. (吉米忙於課業，以至於沒有時間運動。)
+  * Parents should help their children balance schoolwork and relaxation. (父母應該幫助孩子在課業與放鬆之間取得平衡。)
+* Likely (adj./adv.) 可能的
+  * 常見結構：`be likely to VR` 或 `It is likely that...`。
+  * It is likely that it will rain this afternoon, so don't forget your umbrella. (今天下午可能會下雨，所以別忘了帶傘。)
+  * It is very likely that she will stay here. (她很可能會留在這裡。)
+  * He will likely fail. (他大概會失敗。)
+* Pressure (n.) 壓力
+  * 可指物理壓力，或精神上的壓力。常見用法為 `under pressure` (在壓力下)。
+  * Students often face a lot of pressure from their parents and teachers. (學生經常面臨來自父母和老師的巨大壓力。)
+  * He works well under pressure and always meets his deadlines. (他在壓力下表現良好，總是能趕上截止日期。)
+* Enthusiasm (n.) 熱情、熱忱
+  * 常見用法：`enthusiasm for sth` (對某事的熱情)。
+  * `Enthusiastic` 為形容詞，表「熱情的、熱衷的、狂熱的」。
+  * Her enthusiasm for learning English inspired all of her classmates. (她對學習英文的熱忱激勵了所有的同學。)
+  * She is very enthusiastic about her new job.（她對新工作非常有熱忱。）
+* Desire (n./v.) 渴望、慾望
+  * 常見用法為 `desire for sth` 或 `desire to VR`。
+  * 作動詞時，語氣較 `want` 正式且強烈。
+  * She has a strong desire to travel the world and explore new cultures. (她有著強烈的慾望去環遊世界並探索新文化。)
+  * The new manager desires to improve the efficiency of the department. (新經理渴望提高部門的效率。)
+
+</details>
+
+<details>
+
+<summary>作文百句 16 片語整理</summary>
+
+## 片語
+
+* Spend time on N 在...花費時間
+  * Don't spend too much time on social media; focus on your goals. (別花太多時間在社群媒體上；專注於你的目標。)
+* In class 在上課中、課堂上
+  * 指處於「受課」的抽象狀態或活動中。注意：<mark style="color:blue;">**不加冠詞，不使用複數**</mark>。
+  * Students are expected to remain quiet and attentive in class. (學生在課堂上被要求保持安靜並專注。)
+  * I found it difficult to stay awake in class after a long night of gaming. (熬夜玩了一晚遊戲後，我覺得在課堂上很難保持清醒。)
+
+{% hint style="info" %}
+#### 有無冠詞的差異
+
+為什麼是 `in class` 而不是 `in classes` 或 `in the class`？
+
+當 `class` 前面沒有冠詞 (`a/the`) 且使用單數時，它指的不是「那一間教室」或「那一組學生」，而是「上課」這件事。故 `in class` 強調「正在上課中」這個動作；`in the class` 則是指「在那個特定的班級裡」或「在那個教室空間內」。其他相似用法如下：
+
+* `in school` (在學/上學中) vs. `in the school` (在學校建築物裡)
+* `in bed` (在睡覺、臥床中) vs. `on the bed` (在床鋪這個家具上)
+* `in hospital` (住院中、就醫中) vs. `in the hospital` (在醫院建築物裡)
+{% endhint %}
+
+{% hint style="info" %}
+#### 與課程、學校相關的片語
+
+* `Take / attend a class`: 修課、上課。
+* `Skip / cut class`: 翹課。
+* `Sign up for a course`: 報名課程。
+* `Drop a course`: 退選課程。
+* `Audit a course`: 旁聽課程。
+{% endhint %}
+
+* There's no doubt that + 子句 毫無疑問地...
+  * There's no doubt that technology has changed the way we communicate. (毫無疑問，科技改變了我們溝通的方式。)
+  * There's no doubt that Alana is the best student. (毫無疑問，Alana 是最好的學生。)
+* Highly praised 深受讚譽、廣受好評
+  * 用於形容某事物 (如制度、藝術品、表現) 獲得極高評價。
+  * The movie was highly praised by critics for its innovative storytelling. (這部電影因其創新的敘事方式而受到評論家的廣泛讚譽。)
+* What's more 此外、更重要的是
+  * 用來引出進一步的資訊或更有力的論點。
+  * Learning a new language improves your memory; what's more, it broadens your horizons. (學習外語能增強記憶力；此外，它還能開闊你的視野。)
+* Outside of sth 除了...之外；在...範圍、位置之外
+  * I don't know anyone here outside of you. (除了你，我不認識這裡的任何人。)
+  * Outside of a few minor technical issues, the presentation went well. (除了幾個小技術問題，報告很順利。)
+  * That subject is outside of my expertise. (那個主題超出了我的專業範圍。)
+  * Keep the box outside of the damp area. (把箱子放在潮濕區域之外。)
+* In addition 此外、而且
+  * 用以增加相同觀點的補充資訊。同 additionally，與 `what's more`, `furthermore`, `moreover` 意思相近。
+  * The hotel offers free breakfast; in addition, guests have access to the gym. (這間飯店提供免費早餐；此外，房客還可以使用健身房。)
+* Leave much to be desired 還有很大的進步空間、差強人意
+  * 委婉地表達某事物不夠理想、令人失望。
+  * Although the new app is functional, its user interface leaves much to be desired. (雖然這款新應用程式功能齊全，但其使用者介面還有很大的改進空間。)
+  * The overall quality of the product leaves much to be desired. (該產品的整體品質不盡人意。)
+
+</details>
+
+<details>
+
+<summary>作文百句 16 文法整理</summary>
+
+## 文法
+
+### 虛主詞 It 引導真主詞子句
+
+當主詞子句 (如 `that` 引導的名詞子句) 較長時，為了避免頭重腳輕，會使用 `it` 作為「虛主詞」，將真正的訊息主體放到後面。這在描述數據或表達結論時非常實用。此句型的結構為 `It + be 動詞/連綴動詞 + 形容詞/名詞 + that 子句`。
+
+* It appears that the price of gold will continue to rise throughout the year. (看來金價在今年內會持續上漲。)
+* It is clear that regular exercise significantly improves cardiovascular health. (很明顯地，規律運動能顯著增進心血管健康。)
+* It is a pity that you missed the party. (你錯過了派對真是遺憾。)
+* It is certain that he will win. (他一定會贏。)
+
+有些句子很常使用這種句型，例如以下：
+
+* `It is rumored that...` 據傳...
+* `It is believed that...` 人們相信...
+* `It is true that...` 這是真的...
+
+{% hint style="info" %}
+#### 當 `that` 子句做主詞時，<mark style="color:blue;">**`that`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**不能省略**</mark>。
+
+* It is clear that _\[regular exercise significantly improves cardiovascular health]_. = _\[<mark style="color:blue;">**That**</mark> regular exercise significantly improves cardiovascular health]_ is clear.
+* It is certain that _\[he will win]_. = _\[<mark style="color:blue;">**That**</mark> he will win]_ is certain.
+* It is a fact that _\[smoking causes cancer]_. = _\[<mark style="color:blue;">**That**</mark> smoking causes cancer]_ is a fact.
+* It is my belief that _\[education is the key to success]_. = _\[<mark style="color:blue;">**That**</mark> education is the key to success]_ is my belief.
+{% endhint %}
+
+### 指示代名詞 Those 的代換用法
+
+* 在進行比較時，為了避免重複提到已經出現過的複數名詞（本文中指 students），會使用 `those` 來代替。這是學術寫作中極為高級的對比技巧。如果是單數名詞，則使用 `that`。
+* 結構：`N1 (pl.) ... Comparison ... than those + 介系詞片語/形容詞子句`.
+* 例句：The problems faced by urban residents are quite different from those of rural people. (都市居民面臨的問題與鄉村居民面臨的問題截然不同。)
+* 例句：The results of the second experiment were more promising than those from the first one. (第二次實驗的結果比第一次的結果更有希望。)
+
+### While / Yet (對比連接詞的運用)
+
+* 說明：`while` 在此處作為連接詞，表示「而、然而」，用來對比兩個不同的事實。`yet` 則帶有更強烈的轉折意味，表「然而、儘管如此」。
+* 例句：The technology sector is booming, while the traditional manufacturing industry is declining. (科技產業正蓬勃發展，而傳統製造業則在衰退。)
+* 例句：He is very wealthy, yet he lives a very simple and humble life. (他非常富有，然而他過著非常簡單且謙遜的生活。)
+
+### Not only A but also B (不僅 A 而且 B)
+
+* 說明：連接兩個詞性對稱的構造（如名詞、形容詞、動詞片語或子句）。當 `Not only` 置於句首時，第一個子句必須進行「倒裝」。
+* 例句：The new smart home system is not only energy-efficient but also very easy to operate. (這套新的智慧家居系統不僅節能，而且操作非常容易。)
+* 例句：Not only did he win the marathon, but he also set a new world record. (他不僅贏得了馬拉松，還創下了新的世界紀錄。)
+
+### Subject-Verb Agreement with "Both of..." (主謂一致性)
+
+* 說明：`Both of + 複數名詞` 指「兩者都」，其後必須接「複數動詞」。這在處理多個因素（factors）或選擇時需特別注意。
+* 例句：Both of these factors play a crucial role in determining the outcome of the election. (這兩個因素在決定選舉結果中都扮演著至關重要的角色。)
+* 例句：Both of the applicants meet the requirements for the senior management position. (兩位應徵者都符合高階主管職位的要求。)
+
+</details>
+
+<details>
+
+<summary>作文百句 16 寫作建議</summary>
+
+## 文章分析
+
+
+
+## 寫作補給站—
+
+
+
+## 寫作建議
+
+
+
+</details>
+
 ## 17.
 
 1. Dear Mr. Chen,\
