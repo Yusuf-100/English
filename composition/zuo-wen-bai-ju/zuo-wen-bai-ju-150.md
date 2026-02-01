@@ -3517,7 +3517,12 @@ She plays the piano, and she plays the violin, too.
 
 ## 文法
 
-### 虛主詞 It 引導真主詞子句
+* `While` / `Yet` 作為對比連接詞
+  * `While` 在此處作為連接詞，表「而、然而」，用來對比兩個不同的事實。`Yet` 則帶有更強烈的轉折意味，表「然而、儘管如此」。
+  * The technology sector is booming, while the traditional manufacturing industry is declining. (科技產業正蓬勃發展，而傳統製造業則在衰退。)
+  * He is very wealthy, yet he lives a very simple and humble life. (他非常富有，然而他過著非常簡單且謙遜的生活。)
+
+### 虛主詞 `it` 引導真主詞子句
 
 當主詞子句 (如 `that` 引導的名詞子句) 較長時，為了避免頭重腳輕，會使用 `it` 作為「虛主詞」，將真正的訊息主體放到後面。這在描述數據或表達結論時非常實用。此句型的結構為 `It + be 動詞/連綴動詞 + 形容詞/名詞 + that 子句`。
 
@@ -3541,30 +3546,186 @@ She plays the piano, and she plays the violin, too.
 * It is my belief that _\[education is the key to success]_. = _\[<mark style="color:blue;">**That**</mark> education is the key to success]_ is my belief.
 {% endhint %}
 
-### 指示代名詞 Those 的代換用法
+### 指示代名詞與代名詞
 
-* 在進行比較時，為了避免重複提到已經出現過的複數名詞（本文中指 students），會使用 `those` 來代替。這是學術寫作中極為高級的對比技巧。如果是單數名詞，則使用 `that`。
-* 結構：`N1 (pl.) ... Comparison ... than those + 介系詞片語/形容詞子句`.
-* 例句：The problems faced by urban residents are quite different from those of rural people. (都市居民面臨的問題與鄉村居民面臨的問題截然不同。)
-* 例句：The results of the second experiment were more promising than those from the first one. (第二次實驗的結果比第一次的結果更有希望。)
+`This`, `that`, `these`, `those` 為指示代名詞。在空間或時間距離上，`this/these` 指<mark style="color:blue;">**較近**</mark>的東西；`that/those` 指<mark style="color:blue;">**較遠**</mark>的東西。
 
-### While / Yet (對比連接詞的運用)
+* This is an apple, and that is a guava. (這是一顆蘋果，而那是一顆芭樂。)
+* These are my books, and those are his books. (這些是我的書，而那些是他的書。)
+* Honesty, bravery, and wisdom. These are the qualities we admire. (誠實、勇敢和智慧，這些都是我們所欽佩的品質。)
+* We used to have many traditions, but those have been forgotten. (我們過去有很多傳統，但那些傳統都被遺忘了。)
 
-* 說明：`while` 在此處作為連接詞，表示「而、然而」，用來對比兩個不同的事實。`yet` 則帶有更強烈的轉折意味，表「然而、儘管如此」。
-* 例句：The technology sector is booming, while the traditional manufacturing industry is declining. (科技產業正蓬勃發展，而傳統製造業則在衰退。)
-* 例句：He is very wealthy, yet he lives a very simple and humble life. (他非常富有，然而他過著非常簡單且謙遜的生活。)
+除了上述，指示代名詞還有很多功能。
 
-### Not only A but also B (不僅 A 而且 B)
+#### 代換重複名詞
 
-* 說明：連接兩個詞性對稱的構造（如名詞、形容詞、動詞片語或子句）。當 `Not only` 置於句首時，第一個子句必須進行「倒裝」。
-* 例句：The new smart home system is not only energy-efficient but also very easy to operate. (這套新的智慧家居系統不僅節能，而且操作非常容易。)
-* 例句：Not only did he win the marathon, but he also set a new world record. (他不僅贏得了馬拉松，還創下了新的世界紀錄。)
+在此用法下，我們會用 `that` 或 `those`。`that` 代換前文出現過的<mark style="color:blue;">**單數或不可數名詞**</mark>；`those` 代換前文出現過的<mark style="color:blue;">**複數可數名詞**</mark>。
 
-### Subject-Verb Agreement with "Both of..." (主謂一致性)
+* The population of Tokyo is larger than that of Taipei. → `that` 指代 `the population`。
+* The result of the second experiment was more promising than that from the first one. → `that` 指代 `the result`。
+* The goals of this project are more ambitious than those of the previous one. → `those` 指代 `the goals`。
+* The problems faced by urban residents are quite different from those of rural people. → `those` 指代 `the problems`。
 
-* 說明：`Both of + 複數名詞` 指「兩者都」，其後必須接「複數動詞」。這在處理多個因素（factors）或選擇時需特別注意。
-* 例句：Both of these factors play a crucial role in determining the outcome of the election. (這兩個因素在決定選舉結果中都扮演著至關重要的角色。)
-* 例句：Both of the applicants meet the requirements for the senior management position. (兩位應徵者都符合高階主管職位的要求。)
+#### 引用「上一句話」或「整件事」
+
+* `This` 常用於指代「剛剛提到的整件事」或「即將要說出的內容」；`that` 常用於指代「過去發生過的事」、「對方剛剛說的話」。
+* He failed the exam again, and this/that made his parents very disappointed. → `this/that` 指代「他考試又不及格」這整件事。
+* He lost his keys, and this/that was why he was late. → `this/that` 指代「掉鑰匙」這整件事。
+* This is what I believe: everyone deserves a second chance. → `this` 預告了接下來要說的內容。
+* "I think we should cancel the trip." "That sounds like a good idea." → `that` 指代「剛剛說的事 (應該要取消旅行)」。
+
+{% hint style="info" %}
+`This` 和 `that` 都能指代某一整件事，但兩者的意義有些微差異。使用 `this` 會讓聽者覺得敘事者與事件的關係較近；使用 `that` 會讓聽者覺得敘事者與事件的關係較遠。
+
+另外，如果是要指代文章前面敘述的整個觀點或內容，建議用 `this`，如本文第二段中間 "This suggests that students..." 與第三段開頭 "This robs them of the..."。
+{% endhint %}
+
+#### 代名詞 `one/ones` 的用法&#x20;
+
+它們可以作為代名詞，用來指代「<mark style="color:blue;">**同類但不同個體**</mark>」的<mark style="color:blue;">**可數**</mark>名詞，`one` 為單數；`ones` 為複數。請注意，<mark style="color:blue;">**`one/ones`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**無法用於不可數名詞**</mark>。
+
+* I don't like this red pen. Do you have a blue one? → `one` 指代 `pen`。
+* This apple is bad. Give me a fresh one. → `one` 指代 `apple`。
+* These old books are boring. I prefer the new ones. → `ones` 指代 `books`。
+* I like small cars better than large ones. → `ones` 指代 `cars`。
+
+{% hint style="info" %}
+#### `One/ones` vs. `that/those`
+
+`One/ones` 用於代稱前面提過的「同類中非特定」的單或複數可數名詞 (類似 `a/an + N`)，通常前面會有形容詞修飾；`that/those` 用於代稱「特定」的單或複數名詞 (類似 `the + N`)，通常後方會有片語或子句修飾。多看幾次，就不會搞混。
+
+* I need a new phone. I'll buy a cheap one. → 泛指便宜的其中一支手機。
+* These apples are rotten. I'll take the fresh ones. → 泛指新鮮的那些。
+* The climate of Taiwan is warmer than that of Japan. → `that` = `the one` = `the climate`。
+* The books on the table are better than those on the shelf. → `those` = `the ones` = `the books`。
+{% endhint %}
+
+### `Both` 的用法
+
+`Both` 表「兩者都...」，後面只能接<mark style="color:blue;">**兩項**</mark>，且語氣須為<mark style="color:blue;">**肯定**</mark>。
+
+#### 當主詞
+
+* `Both of + 複數名詞` / `Both + 複數名詞`
+  * Both of these factors play a crucial role in determining the outcome of the election. = Both factors play a crucial role in determining the outcome of the election. (這兩個因素在決定選舉結果中都扮演著至關重要的角色。)
+  * Both of the applicants meet the requirements for the senior management position. = Both applicants meet the requirements for the senior management position. (兩位應徵者都符合高階主管職位的要求。)
+* `Both A and B  + 複數動詞`
+  * 請注意後面是接<mark style="color:blue;">**複數動詞**</mark>。
+  * Both _\[<mark style="color:blue;">**the students**</mark>]_ and _\[<mark style="color:blue;">**the teacher**</mark>]_ like the new classroom. (學生和老師都很喜歡這間新教室。)
+  * Both _\[<mark style="color:blue;">**English**</mark>]_ and _\[<mark style="color:blue;">**French**</mark>]_ are spoken here. (這裡英文和法文皆通。)
+
+#### 連接對等詞性 (名詞、形容詞、動詞等)
+
+關於對等詞性的介紹，詳見[此處](https://onlinelibrary.gitbook.io/english/composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150#dui-deng-jie-gou-de-he-xin-zhun-ze)。
+
+* Alana is both _\[<mark style="color:blue;">**kind**</mark>]_ and _\[<mark style="color:blue;">**generous**</mark>]_. (Alana 既親切又慷慨。)
+* I came both _\[<mark style="color:blue;">**to see**</mark> you]_ and _\[<mark style="color:blue;">**to congratulate**</mark> you]_. (我來一方面是看你，一方面要恭喜你。)
+* He can both _\[<mark style="color:blue;">**sing**</mark>]_ and _\[<mark style="color:blue;">**dance**</mark>]_. (他既會唱歌也會跳舞。)
+* He can speak both _\[<mark style="color:blue;">**English**</mark>]_ and _\[<mark style="color:blue;">**French**</mark>]_. (他英文和中文都會說。)
+
+{% hint style="info" %}
+#### `Neither A nor B`
+
+若要表達「兩者皆不...」，不能用 `both A and B are not ...`，須使用 `neither A nor B` 或 `neither of + 複數名詞`。
+
+使用 `neither A nor B` 時，`A` 和 `B` 須為<mark style="color:blue;">**對等結構**</mark>，且<mark style="color:blue;">**後續動詞的單複數由 B 決定**</mark>。
+
+* Neither _\[<mark style="color:blue;">**the teacher**</mark>]_ nor _\[<mark style="color:blue;">**the students**</mark>]_ <mark style="color:blue;">**like**</mark> the strict rules. (老師和學生都不喜歡那條嚴格的規定。) → `B` 為 `the students`，動詞用複數形 `like`。
+* Neither _\[<mark style="color:blue;">**my sister**</mark>]_ nor _\[<mark style="color:blue;">**I**</mark>]_ <mark style="color:blue;">**am**</mark> going to the party. (我姐姐和我都不去派對。) → `B` 為 `I`，動詞用 `am`。
+* She likes neither _\[<mark style="color:blue;">**butter**</mark>]_ nor _\[<mark style="color:blue;">**cheese**</mark>]_. (她既不喜歡奶油也不喜歡起司。)
+* He neither _\[<mark style="color:blue;">**called**</mark>]_ nor _\[<mark style="color:blue;">**wrote**</mark>]_ to me. (他既沒打電話也沒寫信給我。)
+* The food is neither _\[<mark style="color:blue;">**cheap**</mark>]_ nor _\[<mark style="color:blue;">**delicious**</mark>]_. (這食物既不便宜也不好吃。)
+
+使用 `neither of + 複數名詞` 時，若作為主詞，則後面用<mark style="color:blue;">**單數動詞**</mark>。
+
+* I like neither of them. (我兩者皆不喜歡。)
+* She invited two people, but I recognized neither of them. (她邀請了兩人，但我兩者都不認識。)
+* Neither of my parents <mark style="color:blue;">**likes**</mark> to go picnicking. (我的父母都不喜歡野餐。)
+* Neither of these <mark style="color:blue;">**is**</mark> what I want. (這兩個都不是我想要的。)
+{% endhint %}
+
+### 連綴動詞 (Linking Verbs)
+
+連綴動詞本身意義不完整，後方必須連接<mark style="color:blue;">**形容詞**</mark>或<mark style="color:blue;">**名詞**</mark>作為主詞補語，來補充說明主詞的狀態。
+
+#### 分類與常見動詞
+
+* 狀態動詞 (是...、似乎...)：`be`, `appear`, `seem`。
+* 持續狀態動詞 (保持)：`keep`, `remain`, `stay`。
+* 五感感官動詞 (感覺...)：<mark style="color:blue;">**`look`**</mark> (看起來), <mark style="color:blue;">**`sound`**</mark> (聽起來), <mark style="color:blue;">**`smell`**</mark> (聞起來), <mark style="color:blue;">**`taste`**</mark> (嚐起來), <mark style="color:blue;">**`feel`**</mark> (摸、感覺起來)。
+* 轉變動詞 (變得...)：`become`, `get`, `turn`, `grow`, `fall`。
+
+#### 句型與使用方法
+
+基本句型為 `S + 連綴動詞 + Adj/N`。
+
+{% hint style="info" %}
+<mark style="color:blue;">**感官連綴動詞**</mark>若要接名詞，必須加上 `like`，句型為 `S + 感官連綴動詞 + like + N`。
+{% endhint %}
+
+* That new dress looks stunning on you. (那件新洋裝穿在你身上看起來美極了。)
+* The music sounded familiar to me. (這音樂我聽起來很耳熟。)
+* This house has smelled <mark style="color:blue;">**like**</mark> lavender since we moved in. (自從我們搬進來，這房子就一直聞起來有薰衣草味。)
+* It tastes <mark style="color:blue;">**like**</mark> chicken. (這嚐起來像雞肉。)
+* I felt nervous before my first public speech. (在我第一次公開演講前我感到很緊張。)
+* Please remain seated until the plane stops completely. (在飛機完全停止前請保持在座位上。)
+* They stayed best friends even after moving to different cities. (即便搬到不同的城市，他們依然保持著最好的朋友關係。)
+* He became a famous scientist through years of hard work. (透過多年的努力他成為了一位著名的科學家。)
+* The weather got colder as autumn approached. (隨著秋天臨近天氣變得更冷了。)
+* The leaves turn yellow and brown in October. (十月時葉子會變黃變褐。)
+
+{% hint style="warning" %}
+#### 注意事項
+
+* 連綴動詞可根據情境改變時態。不過，連綴動詞<mark style="color:blue;">**沒有被動語態**</mark>。
+* <mark style="color:blue;">**感官連綴動詞僅可在少數情況下使用進行式**</mark>。當 `feel` 或 `look` 指「身體感受」或「外表顯現」時，偶爾會用進行式，強調「當下暫時」的生理感受或外在顯現，讓語氣顯得更具「即時性」或「暫時性」。
+  * I'm feeling lucky today, so I decided to buy a lottery ticket. (我覺得我今天運氣很好，所以我決定去買張樂透。)
+    * <mark style="color:blue;">**`I'm feeling lucky today`**</mark> 是一個常見的慣用語，意思是「我覺得我今天運氣會很好」或「我有種會走運的預感」。此處使用進行式 `am feeling` 強調這種「運氣感」是「今天限定」的暫時感覺。
+  * How are you feeling after the workout? (健身完後你感覺如何？) → 強調「當下」的生理狀態。
+  * She wasn't feeling very well this morning, so she stayed in bed. (她今天早上感到不太舒服，所以待在床上。) → 強調「早上當時」的生理狀態。
+  * You are looking particularly handsome in this suit today! (你今天穿這套西裝看起來特別帥！) → 強調「今天」這個特定時刻。
+  * The garden is looking beautiful after the rain. (雨後的花園看起來美極了。) → 強調「雨後」這個暫時的狀態。
+* 連綴動詞<mark style="color:blue;">**不能用副詞**</mark>修飾。
+  * <mark style="color:$danger;">**錯誤範例**</mark>：The soup tastes bitterly.
+  * <mark style="color:blue;">**正確範例**</mark>：The soup tastes bitter. / The soup tastes extremely bitter. → `extremely` 在此並非修飾 `taste`，而是修飾 `bitter`，表「超級地苦」。
+{% endhint %}
+
+### 虛擬語氣
+
+當主要動詞在句中有「建議、要求、命令、堅持」等意思時，常使用此句型，它的結構為 `S + suggest/command/order... + that + S + (should) +`` `<mark style="color:blue;">**`原形動詞 (VR)`**</mark>。由於 `that` 子句中的助動詞 `should` 常被省略，所以很容易會忘記要使用原形動詞，請特別留意。
+
+{% hint style="info" %}
+#### 相似用法的動詞
+
+* 建議：`suggest`, `advise`, `recommend`。
+* 要求：`ask`, `request`, `require`, `demand`, `urge`。
+* 命令：`order`, `command`。
+* 堅持：`insist`。
+{% endhint %}
+
+* 即便主詞是第三人稱單數或是過去式，子句動詞依然用原形。
+* 若要表示否定，則在原形動詞前加 `not`，即 `(should) not VR`。
+* The doctor suggested that he <mark style="color:blue;">**(should) stop**</mark> smoking immediately. (醫生建議他應該立刻戒菸。)
+* I advise that she <mark style="color:blue;">**(should) not go**</mark> there alone at night. (我建議她晚上不應該獨自去那裡。)
+* The teacher recommended that every student <mark style="color:blue;">**(should) read**</mark> this book. (老師建議每位學生都應該讀這本書。)
+* The boss asked that the task <mark style="color:blue;">**(should) be**</mark> finished by Friday. (老闆要求這項任務必須在週五前完成。)
+* The customer requested that the refund <mark style="color:blue;">**(should) be**</mark> processed immediately. (顧客要求退款必須立刻處理。)
+* They required that he <mark style="color:blue;">**(should) not reveal**</mark> the secret. (他們要求他不要透露秘密。)
+* We demand that the company <mark style="color:blue;">**(should) explain**</mark> what happened. (我們要求公司必須解釋發生了什麼事。)
+* The government urged that everyone <mark style="color:blue;">**(should) not go**</mark> outside during the storm. (政府敦促每個人在暴風雨期間都不該跑到室外。)
+* The general ordered that the troops <mark style="color:blue;">**(should) advance**</mark> at dawn. (將軍命令部隊必須在黎明時進攻。)
+* The law commands that all citizens <mark style="color:blue;">**(should) pay**</mark> taxes. (法律規定所有公民都必須納稅。)
+* I insist that she <mark style="color:blue;">**(should) be**</mark> present at the meeting. (我堅持她必須出席會議。)
+
+{% hint style="danger" %}
+#### 注意事項
+
+使用虛擬語氣的句子，通常都有「<mark style="color:blue;">**要求**</mark>」或「<mark style="color:blue;">**(叫大家) 應該、必須**</mark>」的意思。請一定要從句意判斷是否會用到此文法，因為使用上述動詞的句子，並非全部都是虛擬語氣。例如：
+
+* The evidence suggests that he <mark style="color:blue;">**is**</mark> innocent. (證據顯示他是清白的。) → 這裡的 `suggest` 意思為「暗示、顯示」，而非「建議」。
+* He insisted that he had seen a UFO last night. (他堅稱他昨晚看到了 UFO。) → 這裡的 `insist` 只表示他堅稱他的確...，而非表示要求。
+* He insisted that he <mark style="color:blue;">**was**</mark> innocent and that he <mark style="color:blue;">**(should) be**</mark> released immediately. (他堅持他是清白的，且堅持他應該要立刻被釋放。) → 第一個 `insist` 只表示他堅稱自己無罪；第二個 `insist` 為要求，表示他堅持自己應該被釋放。兩者意義不同，且只有後者是虛擬語氣。
+{% endhint %}
 
 </details>
 
@@ -3574,15 +3735,51 @@ She plays the piano, and she plays the violin, too.
 
 ## 文章分析
 
+本文是圖表分析與議論結合的範文。作者在第一段先以客觀數據切入，透過精確的比較 (如台灣與芬蘭、美、德的時數差異)，建立了一個清晰的基礎事實。這種「先敘後議」的手法能有效增加說服力。文章運用了 `respectively` 與 `on average` 等詞彙，讓數據的呈現既簡練又具學術感，成功地將複雜的圖表轉化為易讀的文字資訊。
 
+在進入議論部分時，作者巧妙地選取了「芬蘭教育系統」作為對比基準，這不僅強化了「長時數不代表高效率」的觀點，也為後續的抨擊提供了強而有力的論據。第二段與第三段的銜接流暢，從「課外活動的缺失」進一步延伸至「心理壓力的增加」與「學習熱忱的喪失」，層層遞進地揭示了現行體制的弊端。結尾以 `leaves much to be desired` 作結，語氣委婉卻力道十足，完美地總結了整篇的批判立場。
 
-## 寫作補給站—
+## 寫作補給站—教育體制與多元發展的平衡
 
+在探討學校時數與學生壓力時，若能將視野擴大到「全人教育」與「身心平衡」的領域，能讓文章顯得更有深度。現代教育不再僅僅強調學術成就，更多是在討論如何讓學生在競爭激烈的環境中，依然能保有自我探索的空間。以下提供相關的詞彙與句型補給，幫助你在撰寫關於「教育改革」、「課業壓力」或「學生福祉」等主題時，能更精確地表達想法。
 
+* Academic burden (n. phr.) 學業負擔
+  * 指學生因課業、考試或家長的高期望所背負的沉重壓力。
+  * The heavy academic burden has led many students to lose interest in learning. (沉重的學業負擔已導致許多學生對學習失去興趣。)
+* Competitive edge (n. phr.) 競爭優勢
+  * 指在競爭環境中 (如升學或職場) 優於他人的條件。
+  * Developing computer skills will give you a competitive edge in the modern job market. (培養電腦技能將使你在現代職場中擁有競爭優勢。)
+* Holistic education (n. phr.) 全人教育
+  * 強調不只是學科成績，而是身心、品格、社交等多方面的均衡發展。
+  * Many private schools claim to provide a holistic education that focuses on character building. (許多私立學校聲稱提供注重人格養成全人教育。)
+* Self-discovery (n.) 自我探索
+  * University is often a crucial period for self-discovery and personal growth. (大學時期通常是自我探索與個人成長的關鍵時期。)
+* Mental well-being (n. phr.) 心理健康、福祉
+  * Schools should prioritize students' mental well-being over high test scores. (學校應該優先考慮學生的心理健康，而非高考試分數。)
+* Burnout (n.) 倦怠、耗盡
+  * 指因長期處於高壓或過勞狀態，導致生理與心理上的徹底精疲力竭。
+  * Without proper rest, continuous studying can lead to academic burnout. (若無適當休息，持續讀書可能導致學業倦怠。)
+* Foster creativity (v. phr.) 培養創造力
+  * `Foster` 在此處表「培養 (能力或態度)」。
+  * Art and music classes are essential because they help foster creativity in children. (美術與音樂課至關重要，因為它們有助於培養孩童的創造力。)
+* Strike a balance between A and B 在 A 與 B 之間取得平衡
+  * It is essential for students to strike a balance between their studies and their personal lives. (對學生而言，在學業與個人生活之間取得平衡是至關重要的。)
+* Take ... into account 將...納入考量
+  * When designing the curriculum, educators should take students' mental health into account. (在設計課程時，教育者應該將學生的心理健康納入考量。)
+* It is of great importance to VR 做某事至關重要
+  * It is of great importance to provide students with more opportunities for extracurricular activities. (為學生提供更多課外活動的機會是至關重要的。)
+* At the expense of N 以...為代價
+  * High academic scores should not be achieved at the expense of students' health. (高學業成績不應以學生的健康為代價來達成。)
 
 ## 寫作建議
 
+撰寫圖表分析的作文時，切記<mark style="color:blue;">**不要只是單純地羅列數字**</mark>，應該將數據轉化為觀點的支撐。建議大家在描述數據後，立刻緊跟著一個「結論性」的句子，讓讀者明白這些數字背後的意義。此外，<mark style="color:blue;">**對比**</mark>是圖表寫作的靈魂，善用 `while`、`yet`、`whereas` 或 `in contrast` 等連結詞，能讓數據對比更具衝擊力。在表達個人觀點時，嘗試用 `There’s no doubt that...` 或 `It’s clear that...` 來強化語氣，這能讓你的論點看起來更有自信。
 
+以下是其他建議：
+
+* 不要只按照順序把圖表上的所有數字列出來。從「最高」、「最低」或「差距最大」的關鍵點切入，進行對比，並順勢帶出數據，能讓文章更流暢。
+* 善用指示代名詞 (`those`, `that`) 以避免名詞重複。
+* 表示「不喜歡某現象」時，嘗試用 `leaves much to be desired` 或 `needs urgent reform` 等正式片語來結尾，能增加文章的專業深度。
 
 </details>
 
