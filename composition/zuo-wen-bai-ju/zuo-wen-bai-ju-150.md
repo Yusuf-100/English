@@ -2336,7 +2336,7 @@ She plays the piano, and she plays the violin, too.
   * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)。
   * 原文 `...not only did he feel ..., but he also refused ...` 即為 `he not only felt ... but also refused ...` 的倒裝。
 * `It seems that ...` 感覺上、看起來、似乎
-  * `It` 為虛主詞，引導後面的 `that` 子句，用來表達一種客觀的觀察或推論。可以改寫為 `Subject + seem + to VR`。
+  * `It` 為虛主詞，引導後面的 `that` 子句，用來表達一種客觀的觀察或推論。可以改寫為 `S + seem + to VR`。
   * It seems that YouTubers tend to feel conceited when ... = YouTubers seem to feel conceited when ...
   * It seems that she is tired. = She seems to be tired.
 
@@ -3791,6 +3791,194 @@ She plays the piano, and she plays the violin, too.
 3. However, David may be under a lot of pressure at home, or he <mark style="color:blue;">**might have cheated**</mark> for some other reasons that I know nothing about. This is the first time I've witnessed him <mark style="color:blue;">**doing**</mark> this. Whatever the reason is, I think this kind of behavior should be <mark style="color:blue;">**curbed**</mark>, as it may have <mark style="color:blue;">**negative**</mark> <mark style="color:blue;">**consequences**</mark> for him. Perhaps you could talk with him, explain to him why his actions were wrong, and help him with any problems he may have.\
    &#x20;                                                                                                                                  <mark style="color:blue;">**Yours sincerely,**</mark>\
    &#x20;                                                                                                                                                     Linda
+
+<details>
+
+<summary>作文百句 17 單字整理</summary>
+
+## 單字
+
+* Cheat (v./n.) 作弊、欺騙
+  * 作為動詞時，常接介係詞 `on` 表示在某方面作弊 (如考試、感情)；作為名詞指欺騙行為或騙子。
+  * `Cheater` 指「作弊者」。
+  * David was caught cheating on the English test by using a hidden book. (大衛因使用藏起來的書在英文考試中作弊而被抓到。)
+  * The salesman cheated me. (推銷員騙了我。)
+  * That game was a cheat; he didn't play by the rules. (那場遊戲根本是騙局，他沒有遵守規則。)
+  * Athletes who break the rules to win are cheaters. (打破規則獲勝的運動員是作弊者。)
+* Intention (n.) 意圖、打算
+  * 指心中預想達成的目標或計畫。常見用法為 `with the intention of V-ing`。
+  * He studied abroad with the intention of improving his global perspective. (他出國留學的意圖是為了提升國際視野。)
+  * I have no intention of changing my mind about this project. (我無意改變對這項計畫的想法。)
+* Copy (v./n.) 複製、抄襲；副本
+  * 指製作與原物相同的東西。在電腦術語中常與 `paste` (貼上) 連用。
+  * I got in trouble for copying my friend's homework. (我因為抄襲我朋友的作業而惹上麻煩。)
+  * Please copy and paste the text into a new document. (請將這段文字複製並貼到新文件中。)
+  * Could you send me a copy of the email? (你可以寄給我那封郵件的副本嗎？)
+* Notice (v.) 注意到、察覺到
+  * Did you notice anything unusual about David's behavior yesterday? (你有注意到大衛昨天的行為有什麼異常嗎？)
+* Accuse (v.) 指控、控告
+  * 常見結構為 `accuse sb of sth` (指控某人某事)。
+  * It is dangerous to accuse someone without providing any solid evidence. (在沒有提供確鑿證據的情況下指控某人是危險的。)
+  * She accused him of stealing her ideas for the presentation. (她指控他偷竊了她簡報的點子。)
+* Deny (v.) 否認、拒絕
+  * 常見用法為 `deny + N/V-ing/that 子句` 和 `deny sb sth`。
+  * The suspect denied having any involvement in the scandal. (嫌犯否認與這起醜聞有任何牽連。)
+  * It cannot be denied that technology has changed our lives drastically. (不可否認，科技徹底改變了我們的生活。)
+* Sort (n.) 種類、類型；(v.) 分類、整理
+  * 在本文作為名詞，指行為的「種類」。
+  * 作為名詞使用時，`all sorts of 複數可數名詞` 表「各式各樣的...」。
+  * I've never met that sort of person before. (我以前從未遇過那種人。)
+  * This shop sells all sorts of things. (這家店賣各式各樣的東西。)
+  * We need to sort the laundry into different colors before washing. (我們需要在洗衣服前將衣物按不同顏色分類。)
+* Inform (v.) 通知、告知
+  * 常見用法為 `inform sb of sth`。
+  * The company failed to inform its customers of the change in policy. (公司未能告知客戶政策的變動。)
+* Responsibility (n.) 責任、義務
+  * 常見用法為 `take responsibility for sth` (對某事負責)。
+  * As a student, your primary responsibility is to focus on your studies. (身為學生，你首要的責任是專注於學業。)
+  * The manager accepted full responsibility for the department's failure. (經理為部門的失敗承擔了全部責任。)
+* Witness (v.) 目擊、見證；(n.) 目擊者、證人
+  * 指親眼看見某個事件 (通常是重大事件或犯罪) 發生。
+  * Several people witnessed the car accident on the busy intersection. (好幾個人在繁忙的十字路口目擊了那場車禍。)
+  * Technology has witnessed incredible growth over the past decade. (過去十年中，科技見證了驚人的成長。)
+  * She was a witness to the accident. (她是事故的目擊者。)
+* Curb (v.) 抑制、約束、限制
+  * 指控制某種<mark style="color:blue;">**不好**</mark>的趨勢、情感或行為。
+  * The government is taking measures to curb the rising inflation. (政府正採取措施以抑制不斷上升的通貨膨脹。)
+  * You should try to curb your temper during stressful discussions. (在充滿壓力的討論中，你應該試著克制自己的脾氣。)
+* Unbelievable (adj.) 難以置信的
+  * The view from the mountain top was absolutely unbelievable. (山頂的景色簡直令人難以置信。)
+* Sincerely (adv.) 誠摯地、由衷地
+  * I sincerely hope that everything goes well with your application. (我由衷希望您的申請一切順利。)
+  * He apologized sincerely for the misunderstanding he caused. (他對自己造成的誤解誠摯地道歉。)
+* Perhaps (adv.) 也許、可能
+  * 用於表達不確定性或可能性 (與 `maybe` 相似，但較正式)，或用於委婉地提出建議與請求。
+  * He will, perhaps, come tonight. (他今晚可能會來。)
+  * This is perhaps the most difficult decision I have ever made. (這可能是我做過最困難的決定。)
+
+</details>
+
+<details>
+
+<summary>作文百句 17 片語整理</summary>
+
+## 片語
+
+* I am writing to sb about sth 我寫信給某人是關於某事
+  * 這是常見的開頭，指透過<mark style="color:blue;">**書信**</mark>或<mark style="color:blue;">**郵件**</mark>向特定對象陳述某種情況或議題。
+  * I am writing to you about a serious security issue in our neighborhood. (我寫信給您是關於我們社區的一個嚴重安全問題。)
+* Refer to N 參考、查閱；提及
+  * 在本文中指作弊時「查閱」書籍。在學術寫作中也常指引用參考資料。
+  * You can refer to the user manual if you encounter any technical problems. (如果您遇到任何技術問題，可以參考使用者手冊。)
+  * Students are not allowed to refer to any dictionaries during the exam. (學生在考試期間不允許查閱任何字典。)
+  * The speaker referred to several recent studies in her presentation. (演講者在簡報中提到了幾項最近的研究。)
+* Take out sth 拿出、取出
+  * 表示將某物從抽屜、包包或隱藏處移出來。
+  * He took out his wallet and realized he didn't have enough cash. (他拿出錢包，意識到他沒有足夠的現金。)
+* With the intention of V-ing 意圖、打算做某事
+  * She stayed after class with the intention of asking the teacher a question. (她課後留下來，意圖向老師請教問題。)
+* Believe one's eyes 相信某人所看到的
+  * 常用於<mark style="color:blue;">**否定句**</mark> (`can't believe one's eyes`)，形容對眼前的景象感到極度震驚或不可置信。
+  * I couldn't believe my eyes when I saw the magical aurora for the first time. (當我第一次看到神奇的極光時，我簡直不敢相信自己的眼睛。)
+* Look around 環顧四周、察看
+  * 指向各個方向看以了解周圍環境，或在某個地方四處走動以進行觀察。
+  * She looked around the room before sitting down. (她在坐下前環視房間。)
+  * We had some time before the meeting, so we decided to look around the city. (我們在會議開始前還有點時間，所以決定在城市裡四處看看。)
+* Inform sb of sth 告知某人某事
+  * Please inform us of any changes to your contact information immediately. (若您的聯絡資訊有任何變動，請立即告知我們。)
+* Cheat on a test 考試作弊
+  * It is unfair to the rest of the class for a student to cheat on a test. (一名學生在考試中作弊對班上其他同學是不公平的。)
+* Take responsibility for sth 為某事負責
+  * Leaders should always be willing to take responsibility for their decisions. (領導者應該隨時願意為他們的決定承擔責任。)
+* The rest of 其餘的、剩下的
+  * 指群體中扣除已提到部分後剩下的所有成員或部分。
+  * While David was cheating, the rest of the class were working hard on the exam. (當大衛作弊時，班上其餘同學都在努力應考。)
+* Be under a lot of pressure 面臨巨大壓力
+  * Surgeons are often under a lot of pressure during complicated operations. (外科醫生在複雜的手術過程中往往面臨巨大的壓力。)
+* Witness sb V-ing 目擊某人正在做某事
+  * I have witnessed him doing this many times, but I was too afraid to speak up. (我目擊過他做這件事很多次，但我太害怕了不敢舉發。)
+* Help sb with sth 幫某人處理某事
+  * The professor offered to help me with my research paper over the weekend. (教授主動提出要在週末幫我處理我的研究論文。)
+
+</details>
+
+<details>
+
+<summary>作文百句 17 文法整理</summary>
+
+## 文法
+
+* 對過去事實的推測：這個句型的結構與變形，在[此處](https://onlinelibrary.gitbook.io/english/composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150#dui-guo-qu-shi-shi-de-tui-ce)已經詳細介紹過。
+* 虛受詞 `it` 的運用
+  * 當受詞是不定詞片語 (`to VR`) 且後面跟有受詞補語 (形容詞) 時，受詞通常會顯得過長。為了平衡句型，會使用 `it` 作為「虛受詞」佔位，並將真正的受詞 (不定詞片語) 搬到句尾。
+  * 結構：`S + make/find/consider + it + Adj + (for sb) + to VR`。
+  * Modern technology makes it easier to stay in touch with friends abroad. (現代科技使得與國外的朋友保持聯繫變得更容易。)
+  * I find it difficult to concentrate when the music is too loud. (當音樂太大聲時，我覺得很難集中注意力。)
+* `To have p.p.` 完成式不定詞
+  * 在 <mark style="color:blue;">**`seem`**</mark>, <mark style="color:blue;">**`appear`**</mark> 或某些形容詞後接不定詞時，若不定詞所描述的動作發生在主要動詞<mark style="color:blue;">**之前**</mark>，則必須使用 `to have + p.p.`，強調時序的先後。
+  * 結構：`S + seem/appear + to have + p.p.`。
+  * He seems to have lost his keys, as he has been searching his pockets for ten minutes. (他似乎丟了鑰匙，因為他已經掏口袋掏了十分鐘。)
+  * The building appears to have been abandoned for several years. (這棟建築似乎已經被廢棄好幾年了。)
+* `This is the first time (that) S + have/has p.p.` 這是第幾次...
+  * 當表達「這是第幾次做某事」時，從屬子句必須使用<mark style="color:blue;">**現在完成式**</mark>，因為這代表從過去到現在的經驗累積。若整件事發生在過去，則從屬子句必須使用<mark style="color:blue;">**過去完成式**</mark>。
+  * This is the first time that I have traveled to Japan by myself. (這是我第一次獨自去日本旅遊。)
+  * This is the third time he has failed the driving test this year. (這已經是他今年第三次駕照考試不及格了。)
+  * That was the second time that I had met him. (那是我第二次見到他。)
+* 關係代名詞當受格時的省略
+  * 當關係代名詞 (如 `which`, `that`, `whom`) 在形容詞子句中擔任<mark style="color:blue;">**受格**</mark>時，為了使句子更精簡流暢，通常會將其省略。不過，<mark style="color:blue;">**若關係子句中的介系詞放在關係代名詞之前，則不能省略**</mark>。
+  * 結構：`N + (that/which/whom) + S + V`。
+  * I have already returned the books (that) I borrowed from the library. (我已經歸還了從圖書館借來的書。)
+  * The library (which) I usually go to is three kilometers away from here. (我常去的圖書館離這裡三公里遠。)\
+    The library <mark style="color:blue;">**to which**</mark> I usually go is three kilometers away from here. → 這裡的 `which` 不可省略。
+  * The man (whom) I talked to was my teacher. (和我交談的人是我的老師。)\
+    The man <mark style="color:blue;">**to whom**</mark> I talked was my teacher. → 這裡的 whom 不可省略。
+
+### 感官動詞的受詞補語用法
+
+* 當感官動詞 (如 `witness`, `observe`, `watch`, `see`, `hear`, `feel`, `smell`, `taste`, `watch`, `notice`...) 後接受詞時，補語的型態決定了你看到的「完整度」。
+* `V + O + V-ing`：強調<mark style="color:blue;">**正在進行**</mark>的瞬間；`V + O + VR`：強調<mark style="color:blue;">**整個動作**</mark>。
+* I witnessed the artist painting a mural while I was walking home. (我回家路上目擊那位藝術家正在畫壁畫。)
+* I heard someone singing in the room. (我聽到有人正在房間唱歌。)
+* I saw her dancing. (我看到她正在跳舞。) → 強調進行中。\
+  I saw her dance. (我看到她跳舞。) → 強調全部過程。
+* I can smell something burning. (我聞到有東西燒焦了。)
+* He felt the house shake. (他感覺房子搖動。)
+* Did you notice anyone leave the house? (你注意有人離開嗎？)
+
+I heard my name <mark style="color:blue;">**called**</mark>. (我聽到我的名字被叫到。) → 名字是「被叫到」，用 `p.p.`。
+
+### 無論什麼
+
+* `Whatever` 引導的子句可以用來表示「無論什麼」，在句中擔任副詞功能，表讓步。
+* Whatever the outcome is, we must accept it with a positive attitude. (無論結果如何，我們都必須以積極的態度接受它。)
+* Whatever challenges you face, remember that I will always stand by you. (無論你面臨什麼挑戰，記住我會永遠支持你。)
+
+### 主觀評價語氣
+
+* 當 `It is + 形容詞` 引導的子句是用來表達說話者的「情緒評價」（如不可思議、震驚）時，子句中常使用 `would` 或 `should` 來加強語氣的轉折感或虛擬感。
+* 結構：`It is + shocking / unbelievable / strange + that + S + would + VR`.
+* It is surprising that she would change her mind at the last minute. (令人驚訝的是，她竟然會在最後一刻改變主意。)
+* It is unfortunate that such a brilliant student would fail the exam. (不幸的是，這麼優秀的學生竟然會考試不及格。)
+
+</details>
+
+<details>
+
+<summary>作文百句 17 寫作建議</summary>
+
+## 文章分析
+
+
+
+## 寫作補給站—
+
+
+
+## 寫作建議
+
+
+
+</details>
 
 ## 18.
 
