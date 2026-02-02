@@ -2366,6 +2366,7 @@ She plays the piano, and she plays the violin, too.
 表示說話者對某事感到驚訝、意外或不可思議，通常帶有情緒色彩。最常見的結構為 `It is Adj that S should VR`；若是對過去事情感到意外，則使用 `should + have + p.p.`。
 
 * 原文的 `such films should have been "shared" ...` 表示這樣的影片「居然」已經被分享。因為整件事發生在過去，所以用完成式書寫。
+* 針對其他「竟然」、「居然」的用法，請參考此處。
 * I'm surprised that she should say such a thing. (我很驚訝她會說出這樣的話。)
 * He should cheat on the test, this is gonna make everyone's jaw drop. (他竟然在考試作弊，這肯定會讓所有人瞠目結舌。)
 * I am shocked that he should have failed the exam. (我很震驚他竟然考試不及格。)
@@ -3915,10 +3916,13 @@ She plays the piano, and she plays the violin, too.
   * Modern technology makes it easier to stay in touch with friends abroad. (現代科技使得與國外的朋友保持聯繫變得更容易。)
   * I find it difficult to concentrate when the music is too loud. (當音樂太大聲時，我覺得很難集中注意力。)
 * `To have p.p.` 完成式不定詞
-  * 在 <mark style="color:blue;">**`seem`**</mark>, <mark style="color:blue;">**`appear`**</mark> 或某些形容詞後接不定詞時，若不定詞所描述的動作發生在主要動詞<mark style="color:blue;">**之前**</mark>，則必須使用 `to have + p.p.`，強調時序的先後。
-  * 結構：`S + seem/appear + to have + p.p.`。
+  * 在 <mark style="color:blue;">**`seem`**</mark>, <mark style="color:blue;">**`appear`**</mark> 或某些形容詞 (e.g., `sorry`, `glad`, `happy`, `relieved`, `proud`, `lucky`) 後接不定詞時，若不定詞所描述的動作發生在主要動詞<mark style="color:blue;">**之前**</mark>，則必須使用 `to have + p.p.`，強調時序的先後。
+  * 結構：`S + seem/appear/... + to have + p.p.`。
   * He seems to have lost his keys, as he has been searching his pockets for ten minutes. (他似乎丟了鑰匙，因為他已經掏口袋掏了十分鐘。)
   * The building appears to have been abandoned for several years. (這棟建築似乎已經被廢棄好幾年了。)
+  * I am sorry to have kept you waiting so long. (我很抱歉讓你等了這麼久。)
+  * She was relieved to have passed the difficult exam. (她慶幸自己通過了那場艱難的考試。)
+  * We are proud to have been part of this successful project. (我們為曾參與這項成功的計畫感到自豪。)
 * `This is the first time (that) S + have/has p.p.` 這是第幾次...
   * 當表達「這是第幾次做某事」時，從屬子句必須使用<mark style="color:blue;">**現在完成式**</mark>，因為這代表從過去到現在的經驗累積。若整件事發生在過去，則從屬子句必須使用<mark style="color:blue;">**過去完成式**</mark>。
   * This is the first time that I have traveled to Japan by myself. (這是我第一次獨自去日本旅遊。)
@@ -3932,33 +3936,217 @@ She plays the piano, and she plays the violin, too.
     The library <mark style="color:blue;">**to which**</mark> I usually go is three kilometers away from here. → 這裡的 `which` 不可省略。
   * The man (whom) I talked to was my teacher. (和我交談的人是我的老師。)\
     The man <mark style="color:blue;">**to whom**</mark> I talked was my teacher. → 這裡的 whom 不可省略。
+* 感官動詞的受詞補語用法
+  * 當感官動詞 (如 `witness`, `observe`, `watch`, `see`, `hear`, `feel`, `smell`, `taste`, `watch`, `notice`...) 後接受詞時，補語的型態決定了你看到的「完整度」。
+  * `V + O + V-ing`：強調<mark style="color:blue;">**正在進行**</mark>的瞬間；`V + O + VR`：強調<mark style="color:blue;">**整個動作**</mark>。
+  * I witnessed the artist painting a mural while I was walking home. (我回家路上目擊那位藝術家正在畫壁畫。)
+  * I heard someone singing in the room. (我聽到有人正在房間唱歌。)
+  * I saw her dancing. (我看到她正在跳舞。) → 強調進行中。\
+    I saw her dance. (我看到她跳舞。) → 強調全部過程。
+  * I can smell something burning. (我聞到有東西燒焦了。)
+  * He felt the house shake. (他感覺房子搖動。)
+  * Did you notice anyone leave the house? (你注意有人離開嗎？)
 
-### 感官動詞的受詞補語用法
+{% hint style="info" %}
+#### 被動用法
 
-* 當感官動詞 (如 `witness`, `observe`, `watch`, `see`, `hear`, `feel`, `smell`, `taste`, `watch`, `notice`...) 後接受詞時，補語的型態決定了你看到的「完整度」。
-* `V + O + V-ing`：強調<mark style="color:blue;">**正在進行**</mark>的瞬間；`V + O + VR`：強調<mark style="color:blue;">**整個動作**</mark>。
-* I witnessed the artist painting a mural while I was walking home. (我回家路上目擊那位藝術家正在畫壁畫。)
-* I heard someone singing in the room. (我聽到有人正在房間唱歌。)
-* I saw her dancing. (我看到她正在跳舞。) → 強調進行中。\
-  I saw her dance. (我看到她跳舞。) → 強調全部過程。
-* I can smell something burning. (我聞到有東西燒焦了。)
-* He felt the house shake. (他感覺房子搖動。)
-* Did you notice anyone leave the house? (你注意有人離開嗎？)
+當受詞與後面的動作是<mark style="color:blue;">**被動關係**</mark>時，補語使用過去分詞 (`p.p.`)。
 
-I heard my name <mark style="color:blue;">**called**</mark>. (我聽到我的名字被叫到。) → 名字是「被叫到」，用 `p.p.`。
+* I heard my name <mark style="color:blue;">**called**</mark> from the crowd. (我聽到我的名字在人群中被呼喊。)
+* We saw the house <mark style="color:blue;">**painted**</mark> white last week. (我們上週看見那棟房子被漆成白色。)
+* The boy felt his shoulder <mark style="color:blue;">**touched**</mark> by someone in the dark. (男孩感覺到他的肩膀在黑暗中被某人碰觸了。)
+* The researcher observed the liquid <mark style="color:blue;">**turned**</mark> into a gas. (研究人員觀察到液體轉化為氣體。)
+* She didn't notice her phone <mark style="color:blue;">**stolen**</mark> until she got home. (她直到回家才發現手機被偷了。)
+{% endhint %}
 
-### 無論什麼
+### 主觀情緒評價
 
-* `Whatever` 引導的子句可以用來表示「無論什麼」，在句中擔任副詞功能，表讓步。
-* Whatever the outcome is, we must accept it with a positive attitude. (無論結果如何，我們都必須以積極的態度接受它。)
-* Whatever challenges you face, remember that I will always stand by you. (無論你面臨什麼挑戰，記住我會永遠支持你。)
+當 `It is + 形容詞` 引導的子句是用來表達說話者的「情緒評價」(如不可思議、震驚) 時，子句中常使用 `should`/`would`/`could` 來加強語氣的轉折感或虛擬感。請注意，這裡的 `would`/`could` 並不是假設語氣，也不是單純的過去式。
 
-### 主觀評價語氣
+* 結構：`It is + 情緒Adj + that + S + should/would/could + VR`。
+* `Should` 在這裡有「竟然」的意思，帶出「<mark style="color:blue;">**怎麼會有這種事**</mark>」的感嘆。
+  * It is surprising that David <mark style="color:blue;">**should cheat**</mark>. → 強調「竟然會有」David 作弊這種事，帶著一種「不合常理」的震驚。
+  * It is shocking that they <mark style="color:blue;">**should cancel**</mark> the wedding a day before.
+  * It is strange that you <mark style="color:blue;">**should see**</mark> him at the airport yesterday.
+* `Would` 在這裡有「竟然會 (那樣做)、偏偏」的意思，帶出「<mark style="color:blue;">**...怎麼會這樣**</mark>」的感嘆。
+  * It is outrageous that she <mark style="color:blue;">**would make**</mark> such a decision. → 強調「竟然會 (有這個傾向去)」做出那個決定。
+  * It is frustrating that he <mark style="color:blue;">**would ignore**</mark> my messages on purpose.
+  * It is unbelievable that Ryan <mark style="color:blue;">**would forget**</mark> his keys at home.
+* `Could` 在這裡有「竟然有能力」的意思，帶出「<mark style="color:blue;">**...怎麼可能可以**</mark>」的感嘆。
+  * It is ridiculous that he <mark style="color:blue;">**could cheat**</mark> so boldly. → 強調「竟然 (有辦法、有能力)」作弊。
+  * It is incredible that she <mark style="color:blue;">**could run**</mark> a marathon without any training.
+  * It is amazing that technology <mark style="color:blue;">**could advance**</mark> so rapidly.
 
-* 當 `It is + 形容詞` 引導的子句是用來表達說話者的「情緒評價」（如不可思議、震驚）時，子句中常使用 `would` 或 `should` 來加強語氣的轉折感或虛擬感。
-* 結構：`It is + shocking / unbelievable / strange + that + S + would + VR`.
-* It is surprising that she would change her mind at the last minute. (令人驚訝的是，她竟然會在最後一刻改變主意。)
-* It is unfortunate that such a brilliant student would fail the exam. (不幸的是，這麼優秀的學生竟然會考試不及格。)
+{% hint style="success" %}
+在大多數的考題或寫作中，`should` 是最通用、最保險的「竟然」。不過，如果你有特別想強調的點，也可以根據情況調整成 `would`/`could`。
+
+`Should`/`would`/`could` 後面也可以接完成式 `have p.p`，表示某件事「竟然已經...」，更精準強調某特定事件已經發生。這點在[此處](https://onlinelibrary.gitbook.io/english/composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150#should-biao-jing-ran-ju-ran-de-yong-fa)曾經提過。
+{% endhint %}
+
+### `Wh-ever`/`However` 無論...；任何...
+
+這些字有兩種用法，一種是「副詞用法」，表「讓步」；另一種是「名詞用法」，當「主詞」或「受詞」使用。
+
+#### 讓步語法
+
+「讓步」在文法上指「即便某情況 (條件) 成立，主句的事實依然不會改變」，中文翻譯常寫成「無論 A 如何，B 都一樣」。當 `wh-ever` 用於讓步時，它引導的是一個副詞子句，常放在以下兩處：
+
+* 句首 (最常見，用來強調)：`Wh-ever + S + V, S + V`。
+* 句尾：`S + V + wh-ever + S + V` (通常中間不需要逗號隔開)。
+
+{% hint style="danger" %}
+#### However
+
+請留意，`however` 子句的寫法是 `however + adj/adv + S + V`；其他 `wh-ever` 子句的寫法都是 `wh-ever + S + V`。
+{% endhint %}
+
+下表列出了 `wh-ever` 家族的成員，在讓步語法的意義與替換。
+
+| 詞彙        | 意義        | 替換              |
+| --------- | --------- | --------------- |
+| Whatever  | 無論什麼      | no matter what  |
+| Whichever | 無論哪一個     | no matter which |
+| Whoever   | 無論是誰 (主格) | no matter who   |
+| Whomever  | 無論是誰 (受格) | no matter whom  |
+| Whenever  | 無論何時      | no matter when  |
+| Wherever  | 無論何地      | no matter where |
+| However   | 無論如何、多麼   | no matter how   |
+
+{% hint style="info" %}
+這裡的 `however` (無論如何、多麼)，和作為轉折的 `however` (然而) 不同，請勿搞混。
+{% endhint %}
+
+以下提供一些例句供大家參考，<mark style="color:blue;">**此處的**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`wh-ever`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**和**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`however`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**全都可以替換成**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`no matter wh-`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**或**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`no matter how`**</mark>，此處就不再列出。
+
+* Whatever you do, I will always support you. = I will always support you whatever you do. (無論你做什麼，我都會永遠支持你。)
+* Whichever road you take, it will lead you to the station. = It will lead you to the station whichever road you take. (無論你走哪條路，都會通往車站。)
+* <mark style="color:blue;">**Whoever**</mark> knocks on the door, don't open it. = Don't open the door <mark style="color:blue;">**whoever**</mark> knocks on it. (無論是誰敲門，都不要開。) → 這裡表「誰」敲門，「誰」作為主詞，故用 `whoever`。
+* <mark style="color:blue;">**Whomever**</mark> you see, don't open the door. = Don't open the door <mark style="color:blue;">**whomever**</mark> you see. (無論你看到誰，都不要開門。) → 這裡表你看到「誰」，「誰」作為受詞，故用 `whomever`。
+* Whenever I see this photo, I think of my childhood. = I think of my childhood whenever I see this photo. (無論何時看到這張照片，我都會想起童年。)
+* Wherever you go, I'll follow you. = I'll follow you wherever you go. (無論你去哪，我都會隨行。)
+* <mark style="color:blue;">**However hard**</mark> he tries, he can't solve the problem. = He can't solve the problem <mark style="color:blue;">**however hard**</mark> he tries. (無論他多麼努力，都解不開難題。)
+* <mark style="color:blue;">**However fast**</mark> he runs, he can't catch the bus. = He can't catch the bus <mark style="color:blue;">**however fast**</mark> he runs. (無論他跑得多快，都趕不上公車。)
+
+#### 名詞用法
+
+在這種用法下，整個 `wh-ever` 引導的子句就是一個名詞，作為主句的主詞或受詞。下表列出了 `wh-ever` 家族的成員，作為名詞的意義與替換。
+
+| 詞彙        | 意義           | 替換             |
+| --------- | ------------ | -------------- |
+| Whatever  | 任何...的事物     | anything that  |
+| Whichever | 任何一個...      | any one that   |
+| Whoever   | 任何...的人 (主格) | anyone who     |
+| Whomever  | 任何...的人 (受格) | anyone whom    |
+| Whenever  | 在任何...的時間    | any time that  |
+| Wherever  | 在任何...的地方    | any place that |
+| However   | 以任何...的方式    | any way that   |
+
+當 `wh-ever` 子句放在主句的動詞前面，即作為主詞使用。
+
+* Whatever happens today is part of the plan. = _\[Anything that]_ happens today is part of the plan. (今天發生的任何事都是計畫的一部分。)
+* Whichever you choose will be the right one. = _\[Any one that]_ you choose will be the right one. (你挑選的任何一個都會是正確的那個。)
+* Whoever wins the race will get a trophy. = _\[Anyone who]_ wins the race will get a trophy. (任何贏得比賽的人都會得到獎盃。)
+* Whomever you choose to dance with is fine. = _\[Anyone whom]_ you choose to dance with is fine. (你選擇和誰跳舞都行。)
+* Whenever suits you is fine with me. = _\[Any time that]_ suits you is fine with me. (任何適合你的時間對我來說都沒問題。)
+* Wherever you decide to stay will be our home. = _\[Any place at which]_ you decide to stay will be our home. (任何你決定留下來的地方，都會是我們的家。)
+* However you finish the job will be accepted. = _\[Any way in which]_ you finish the job will be accepted. (你完成這份工作的任何方式都會被接受。)
+
+當 `wh-ever` 子句放在主句的及物動詞或介系詞後面，即作為受詞使用。
+
+* You can eat whatever you want. = You can eat _\[anything that]_ you want. (你可以吃任何你想吃的東西。)
+* Take whichever you prefer. = Take _\[any one that]_ you prefer. (拿走任何一個你更喜歡的。)
+* I will give the book to <mark style="color:blue;">**whoever**</mark> needs it. = I will give the book to _\[<mark style="color:blue;">**anyone who**</mark>]_ needs it. (我會把這本書給任何需要它的人。) → 雖然是在介系詞 `to` 後面，但因為「任何...的人」<mark style="color:blue;">**在子句中擔任主詞**</mark>，所以用 `whoever`。
+* I will give the book to <mark style="color:blue;">**whomever**</mark> you study with. = I will give the book to _\[<mark style="color:blue;">**anyone whom**</mark>]_ you study with. (我會把這本書送給任何與你一起念書的人。) → 雖然是在介系詞 `to` 後面，但因為「任何...的人」<mark style="color:blue;">**在子句中擔任受詞**</mark>，所以用 `whomever`。
+* We can meet whenever is convenient for you. = We can meet _\[at any time that]_ is convenient for you. (我們可以在任何對你方便的時間見面。)
+* You may hide wherever you feel safe. = You may hide _\[in any place in which]_ you feel safe. (你可以躲在任何你覺得安全的地方。)
+* You can do it however you like. = You can do it _\[in any way that]_ you like. (你可以用任何你喜歡的方式做。)
+
+{% hint style="info" %}
+#### 替換 `wh-ever` 時的注意事項
+
+看到這裡，大家應該會有個疑問：為什麼把 `whenever`/`wherever` 拆開成 `any ... that` 後，會多出一些介係詞，但把 `whatever`/`whichever`/`whoever`/`whomever` 拆開時卻不會？
+
+`whenever`/`wherever` 是<mark style="color:blue;">**複合關係副詞**</mark>，我們可以把它們當成<mark style="color:blue;">**內建介係詞**</mark>，就像[關係副詞](https://onlinelibrary.gitbook.io/english/composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150#guan-xi-fu-ci-when-where)的 `when`/`where` 一樣。所以，任何跟它們有關的介係詞都要省略，但當我們<mark style="color:blue;">**把它們拆開時，就不能省略介係詞**</mark>了。而 `whatever`/`whichever`/`whoever`/`whomever` 是<mark style="color:blue;">**複合關係代名詞**</mark>，<mark style="color:blue;">**沒有內建介係詞**</mark>。所以，無論拆開與否，介係詞都要留著。
+
+只有在拆開 `whenever`/`wherever` (複合關係副詞) 時，才有可能多出一些介係詞，故以下僅列出與它們相關的例句與拆解。
+
+{% hint style="success" %}
+#### 懶人包
+
+本資訊欄的觀念很難說清楚或理解，只能多看例句。以下提供判斷的懶人包，如果滿足以下之一，則 `whenever`/`wherever` 拆開後，該部分不會新增介係詞。不過，強烈建議大家多看，而不是背誦懶人包。~~真的太難學的話，也可以乾脆不要拆開。~~
+
+* `whenever`/`wherever` 作為子句的主詞。
+* `whenever`/`wherever` 作為子句的受詞，但子句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
+* 「`whenever`/`wherever` 子句」作為主句的主詞。
+* 「`whenever`/`wherever` 子句」作為主句的主詞，但主句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
+{% endhint %}
+
+#### `Wherever`
+
+* Wherever you live is where I will be. = _\[Any place <mark style="color:blue;">**in**</mark> which]_ you live is where I will be. = _\[Any place <mark style="color:blue;">**where**</mark>]_ you live is where I will be.
+  * `live in a place`，所以拆開後 `in` 要現身。
+  * `in which` 可以進一步變成 `where`。
+* Wherever she finds becomes her new home. = _\[Any place that]_ she finds becomes her new home.
+  * `find a place`，所以拆開後不用新增介係詞。
+* We travel wherever we like. = We travel _\[<mark style="color:blue;">**to**</mark> any place that]_ we like.
+  * `travel to a place`，所以拆開後 `to` 要現身。
+  * `like a place`，所以拆開後不用新增介係詞。
+* I will go wherever you lead me. = I will go _\[<mark style="color:blue;">**to**</mark> any place <mark style="color:blue;">**to**</mark> which]_ you lead me. = I will go \[<mark style="color:blue;">**to**</mark> any place <mark style="color:blue;">**where**</mark>] you lead me.
+  * `go to a place`, `lead someone to a place`，所以拆開後 `to` 要現身。
+  * `to which` 可以進一步變成 `where`。
+* You can hide wherever you feel safe. = You can hide _\[<mark style="color:blue;">**in**</mark> any place <mark style="color:blue;">**in**</mark> which]_ you feel safe. = You can hide _\[<mark style="color:blue;">**in**</mark> any place <mark style="color:blue;">**where**</mark>]_ you feel safe.
+  * `hide in a place`, `feel safe in a place`，所以拆開後 `in` 要現身。
+  * `in which` 可以進一步變成 `where`。
+* The king claims wherever he conquers. = The king claims _\[any place that]_ he conquers.
+  * `claim a place`, `conquer a place`，所以拆開後不用新增介係詞。
+* Wherever you park will be fine with the guard. = _\[Any place <mark style="color:blue;">**in**</mark> which]_ you park will be fine with the guard. = _\[Any place <mark style="color:blue;">**where**</mark>]_ you park will be fine with the guard.
+  * `park in a place`，所以拆開後 `in` 要現身。
+  * `in which` 可以進一步變成 `where`。
+* Wherever is quiet enough will be my study room. = _\[Any place that]_ is quiet enough will be my study room.
+  * `wherever` 這個地點本身作為子句的主詞，所以拆開後不用新增介係詞。
+
+#### `Whenever`
+
+* Whenever suits you is perfect for the meeting. = _\[Any time that]_ suits you is perfect for the meeting.
+  * `whenever` 這個時間本身作為子句的主詞，所以拆開後不用新增介係詞。
+* Whenever he arrives will be the signal to start. = _\[Any time <mark style="color:blue;">**at**</mark> which]_ he arrives will be the signal to start. = _\[Any time <mark style="color:blue;">**when**</mark>]_ he arrives will be the signal to start.
+  * `arrive at a time`，所以拆開後 `at` 要現身。
+  * `at which` 可以進一步變成 `when`。
+* We can meet whenever is convenient for you. = We can meet _\[<mark style="color:blue;">**at**</mark> any time that]_ is convenient for you.
+  * `meet at a time`，所以拆開後 `at` 要現身。
+  * `whenever` 這個時間本身作為子句的主詞，所以拆開後不用新增介係詞。
+* Whenever the boss chooses will be the meeting time. = _\[Any time that]_ the boss chooses will be the meeting time.
+  * `choose a time`，所以拆開後不用新增介係詞。
+* You may leave whenever you finish your work. = You may leave _\[<mark style="color:blue;">**at**</mark> any time <mark style="color:blue;">**at**</mark> which]_ you finish your work. = You may leave _\[<mark style="color:blue;">**at**</mark> any time <mark style="color:blue;">**when**</mark>]_ you finish your work.
+  * `leave at a time`，所以拆開後 `at` 要現身。
+  * `at which` 可以進一步變成 `when`。
+* Whenever works for the team will be our deadline. = _\[Any time that]_ works for the team will be our deadline.
+  * `whenever` 這個時間本身作為子句的主詞，所以拆開後不用新增介係詞。
+* I will record whenever you specify. = I will record _\[<mark style="color:blue;">**at**</mark> any time that]_ you specify.
+  * `record at a time`，所以拆開後 `at` 要現身。
+  * `specify a time`，所以拆開後不用新增介係詞。
+* Whenever you prefer is best for our date. = _\[Any time that]_ you prefer is best for our date.
+  * `prefer a time`，所以拆開後不用新增介係詞。
+{% endhint %}
+
+#### 其他用法
+
+以下提供 `wh-ever` 的更多用法，如果在之後的文章中遇到，也會再解釋。
+
+* `Whatever`/`whichever` 可以當<mark style="color:blue;">**關係形容詞**</mark>，表「任何的」、「無論什麼樣的」，結構相當於 `any + 名詞 + that/which`。
+  * You can bring _\[whatever friend]_ you want. = You can bring _\[any friend that]_ you want.
+  * You may take _\[whichever seat]_ you prefer. = You may take _\[any seat that]_ you prefer.
+* `Whatever` 本身在列舉時可表示「...之類的」、「等等」，在其他情況下也有「隨便」、「無所謂」等意思。
+  * I like Asian food like Chinese, Thai, and whatever. (我喜歡亞洲料理，例如中式、泰式...。)
+  * "Do you want pizza or pasta?" "Whatever." (隨便啦。)
+  * "Don't you care about it?" "Whatever." (無所謂。)
+* `Whenever` 可以表示「<mark style="color:blue;">**每當...**</mark>」，相當於 `every time when ...`。
+  * I blush whenever I think about it. = I blush _\[every time when]_ I think about it.
+  * Whenever I go there, they seem to be asleep. = _\[Every time when]_ I go there, they seem to be asleep.
+* `Whenever` 本身可以表示「隨時、什麼時候都行」(我都可以) 或「隨便什麼時候」 (不確定的時間、延後時間)。
+  * "When shall we meet?" "Whenever!" (隨時都行。)
+  * Do it in a spare moment at the weekend or whenever. (在週末或其他空閒時間做都行。)
+  * I'm talking about last July or whenever it was. (我說的是去年7月或是隨便那時候啦。)
 
 </details>
 
