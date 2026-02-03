@@ -4174,6 +4174,296 @@ She plays the piano, and she plays the violin, too.
 
 ## 文章分析
 
+這篇文章的結構為「客觀觀察」→「心理掙扎」→「建設性建議」。作者以第一人稱的書信格式切入，開篇便直接描述作弊的細節 (如 `book he had on his knees`)，這種具體化的描寫瞬間建立了敘事的真實性與說服力。文中運用了情緒動詞與助動詞 (如 `couldn't believe`, `would cheat`)，將單純的舉報行為昇華為對學術責任感的深刻反思，使文章除了投訴，還探討了個人操守與壓力。不過，作者並未停留在指責，而是在第三段對動機進行推測 (如 `under a lot of pressure`)，這種平衡感展現了他的高度同理心。最後，文章收束於對行為的遏止與輔導建議，而非單純的要求懲罰，展現了作者希望能幫助同學的想法。
+
+## 寫作補給站—學術誠信與抉擇的考驗
+
+在撰寫關於「考試作弊」、「道德困境」等主題時，僅使用 `bad` 或 `wrong` 會讓文章顯得蒼白。若能描述心理的掙扎與行為的代價，將能賦予文章更多的重量。以下整理了實用的詞語。
+
+* Academic integrity (n. phr.) 學術誠信
+  * 指在學術環境中保持誠實的原則。
+  * Maintaining academic integrity is more important than achieving a high score. (維持學術誠信比獲得高分更重要。)
+* Succumb to N 屈服於...
+  * He succumbed to temptation and used a cheat sheet during the final exam. (他屈服於誘惑，在期末考時使用了作弊紙條。)
+* Moral dilemma (n. phr.) 道德困境
+  * David faced a moral dilemma: should he be honest or risk everything for a grade? (大衛面臨一個道德困境：他應該保持誠實，還是為了一個分數而冒險賭上一切？)
+* Short-sighted (adj.) 短視近利的
+  * Cheating is a short-sighted decision that can jeopardize one's entire future. (作弊是一個短視近利的決定，可能會危及一個人的整個未來。)
+* Confess (v.) 坦白、供認
+  * Eventually, David decided to confess his mistake to the teacher. (最終，大衛決定向老師坦白他的錯誤。)
+* At the expense of... 以...為代價
+  * One should never pursue success at the expense of their character. (一個人絕不應該以犧牲自己的人格為代價來追求成功。)
+
+## 寫作建議
+
+撰寫「舉報信」、「倫理探討」等文章時，平衡「正義感」與「客觀性」很重要。建議大家先詳盡描述觀察到的具體事實，而非直接進行人格攻擊。例如文中提到「大家都在努力讀書，而他卻不負責任」，這種對比能讓你的立場顯得更加公正且具有邏輯重量。此外，適時展現對違規者可能面臨之壓力的同情，能顯著提升文章的層次感，展現你全方位思考的能力，而不僅僅是情緒化的控訴。
+
+同時，要注意語氣的正式度與精確度。原文在提及行為後果時使用了 `negative consequences`，在提出建議時使用了 `perhaps` 等字眼，這類委婉語的運用能讓溝通顯得更有建設性。在練習寫作時，可以嘗試將抽象的道德判斷轉化為具體的行為描述。
+
+以下是針對本篇主題的其他建議：
+
+* 描述違規細節時，可運用具體的空間方位詞，增加敘事的臨場感，強化視覺證據。
+* 適時使用<mark style="color:blue;">**情緒評價**</mark>語氣表達看法，而非單純陳述事實，能清楚呈現你的觀點。
+* 可以思考如何將主角的「內在<mark style="color:blue;">**動機**</mark>」具象化。當你賦予主角一個合理的 (雖然不正確) 動機時，文章的衝突感會更真實。
+* 在文章末尾可以試著提出建設性的<mark style="color:blue;">**處理建議**</mark>，能展現你的格局。
+
+</details>
+
+## 18.
+
+1. I recently learned not to run from my mistakes. The night before <mark style="color:blue;">**a series of**</mark> important exams, I went to my room with the <mark style="color:blue;">**intention**</mark> of studying hard. Then, my brother came in with a new video game. It looked really <mark style="color:blue;">**thrilling**</mark>, so I decided to play it with him for a while. However, the time got away from me, and <mark style="color:blue;">**I didn't go to bed until late**</mark>.
+2. <mark style="color:blue;">**The**</mark> next morning, I felt tired and my head was <mark style="color:blue;">**spinning**</mark> as I took my exams. Though I'd studied <mark style="color:blue;">**on**</mark> other nights, <mark style="color:blue;">**lack of sleep**</mark> kept me from <mark style="color:blue;">**focusing on**</mark> the questions. When I got my grades for the exams, I was shocked. I'd received my poorest grades ever in every subject. <mark style="color:blue;">**Panicking**</mark>, I decided to hide the <mark style="color:blue;">**report card**</mark> in my clothes drawer.
+3. I thought <mark style="color:blue;">**as long as**</mark> my parents didn't find it, I'd be able to <mark style="color:blue;">**cover up**</mark> my poor performance. However, <mark style="color:blue;">**contrary to**</mark> my expectations, my <mark style="color:blue;">**homeroom teacher**</mark> called my parents and told them what had happened. My parents were <mark style="color:blue;">**furious**</mark> that I <mark style="color:blue;">**had hidden**</mark> my grades and punished me by taking away my <mark style="color:blue;">**allowance**</mark> for three months. I <mark style="color:blue;">**should have faced up to**</mark> my mistake at once and accepted the <mark style="color:blue;">**consequences**</mark>. I regret <mark style="color:blue;">**having hidden**</mark> things, as it only made matters <mark style="color:blue;">**worse**</mark>.
+
+<details>
+
+<summary>作文百句 18 單字整理</summary>
+
+## 單字
+
+* Thrilling (adj.) 扣人心弦的、令人興奮的、刺激的
+  * The roller coaster ride was truly thrilling. (雲霄飛車的體驗真的很刺激。)
+  * The movie has a thrilling plot that keeps you on the edge of your seat. (這部電影的情節扣人心弦，讓人自始至終感到緊張。)
+* Spinning (v./adj.) 暈頭轉向的、旋轉的
+  * 動詞原形為 `spin`。
+  * I felt my head spinning after riding the roller coaster. (坐完雲霄飛車後，我覺得頭暈目眩。)
+  * The ice skater was spinning rapidly on the ice. (溜冰選手在冰面上快速旋轉。)
+* Focus (v.) 集中 (注意力)、聚焦
+  * 常用結構為 `focus on + N/V-ing`。
+  * She found it hard to focus on her work because of the loud music. (因為音樂太大聲，她發現很難集中精神工作。)
+  * The meeting will focus on finding a solution to the budget problem. (會議將集中討論如何解決預算問題。)
+* Receive (v.) 收到、接收、得到
+  * 動作比 `get` 更正式，對象非常廣泛。常見對象包括 `grades` (成績)、`gifts` (禮物)、`education` (教育)、`treatment` (待遇/治療)、`information` (資訊)。
+  * I received a beautiful bouquet of flowers on my birthday. (我在生日那天收到了一束美麗的花。)
+  * They received a good education from a very young age. (他們從小就接受了良好的教育。)
+* Subject (n.) 科目、學科
+  * Mathematics is my favorite subject at school. (數學是我在學校最喜歡的科目。)
+* Panic (v./n.) 恐慌、驚慌
+  * 指在危急情況下突然感到的恐懼。注意進行式為 `panicking`；過去式為 `panicked`。
+  * Don't panic; everything will be fine. (別驚慌，一切都會沒事的。)
+  * There was a sense of panic in the crowd when the fire alarm went off. (當火警響起時，人群中充滿了恐慌感。)
+* Report card (n. phr.) 成績單
+  * 指學生每學期或考試後的正式學業紀錄單。
+  * My parents were proud when they saw my report card. (我父母看到我的成績單時感到很自豪。)
+* Drawer (n.) 抽屜
+  * 存放物品的滑動式盒子。常見搭配有 `clothes drawer` (衣櫃抽屜)、`desk drawer` (書桌抽屜)、`top drawer` (最上層抽屜)、`dresser drawer` (五斗櫃)。
+  * I found my missing keys at the bottom of the kitchen drawer. (我在廚房抽屜底部找到了失蹤的鑰匙。)
+  * Please put the clean socks back into the dresser drawer. (請把乾淨的襪子放回五斗櫃的抽屜裡。)
+* Performance (n.) 表現、成效
+  * 除了指「表演」，在學術或職場中多指「表現出的水準」。
+  * Her performance in the play was outstanding. (她在劇中的表現非常出色。)
+  * The manager evaluated the employees based on their monthly performance. (經理根據員工的月度表現進行評估。)
+* Contrary (adj./n.) 相反的、對立面
+  * 作為形容詞時，常用 `contrary to N` 表示「與...相反」。
+  * Contrary to popular belief, a shark is not always dangerous to humans. (與大眾觀念相反，鯊魚對人類並不總是危險的。)
+  * He said he was poor, but the contrary was true; he was actually quite wealthy. (他說他很窮，但事實恰恰相反；他其實相當富有。)
+* Expectation (n.) 期待、預期
+  * `live up to one's expectations` 表「達到...的預期」。
+  * The movie failed to <mark style="color:blue;">**live up to the audience's expectations**</mark>. (這部電影沒能達到觀眾的預期。)
+  * Our sales figures exceeded our expectations this year. (我們今年的銷售額超出了我們的預期。)
+* Furious (adj.) 狂怒的、極其憤怒的
+  * 憤怒程度遠高於 `angry`。常見用法為 `be furious with sb` 或 `be furious at sth`。
+  * She was furious when she found out her car had been stolen. (當她發現車子被偷時，她簡直氣炸了。)
+  * He was furious with himself for making such a stupid mistake. (他因為犯下如此愚蠢的錯誤而對自己感到狂怒。)
+* Punish (v.) 懲罰、處罰
+  * 常用結構為 `punish sb for sth` (因某事處罰某人) 或 `punish sb by + V-ing` (藉由...處罰某人)。
+  * My parents punished me for breaking the window by taking away my phone. (我父母因為我打破窗戶，沒收了我的手機作為懲罰。)
+  * Those who break the law will be severely punished. (違法者將受到嚴厲處罰。)
+* Allowance (n.) 零用錢、津貼；攝取量、限額
+  * I save most of my allowance to buy a new laptop. (我把大部分的零用錢存起來，準備買一台新筆電。)
+  * The company provides a housing allowance for employees. (公司提供員工住房津貼。)
+  * The basic calorie allowance is 2000 calories a day. (每日基本熱量攝取量是 2000 卡路里。)
+* Matter
+  * (n.) 事情、問題
+    * 常見用法為 `What's the matter?` (發生什麼事了？、怎麼了？)、`as a matter of fact` (事實上)。
+    * It's a private matter. (這是件私事。)
+    * As a matter of fact, I have already finished my homework. (事實上，我已經做完作業了。)
+  * (v.) 重要、有關係
+    * It doesn't matter what color you choose; I like them all. (你選什麼顏色都沒關係；我都喜歡。)
+    * Every small action matters when it comes to protecting the environment. (當涉及到保護環境時，每一個小行動都很重要。)
+
+</details>
+
+<details>
+
+<summary>作文百句 18 片語整理</summary>
+
+## 片語
+
+* Run from sth 逃避某事
+  * 通常指逃避責任、錯誤或現實。
+  * You cannot run from your responsibilities forever. (你不能永遠逃避你的責任。)
+  * Instead of running from his past, he decided to embrace it. (他決定擁抱他的過去，而不是逃避它。)
+* A series of 一系列的、一連串的
+  * 後方接<mark style="color:blue;">**複數可數名詞**</mark>，指接連發生的一組事件或事物。
+  * The scientist conducted a series of experiments to prove his theory. (科學家進行了一系列的實驗來證明他的理論。)
+  * A series of unfortunate events led to the cancellation of the concert. (一連串不幸的事件導致音樂會取消。)
+* A while 一段時間、一會兒
+  * 通常指一段不確定的短時間。常用於 `for a while`。
+  * I’m going to lie down for a while before dinner. (晚餐前我要躺一會兒。)
+  * It took a while for her to realize that she was in the wrong building. (她過了一段時間才意識到自己走錯了建築物。)
+* (Time) get away from sb (時間) 在不知不覺中流逝
+  * I’m sorry I’m late; the time just got away from me while I was reading. (抱歉我遲到了；我讀書讀到忘了時間。)
+  * We were having such a good time that the afternoon got away from us. (我們玩得太開心了，以至於下午的時間在不知不覺中溜走了。)
+* Take an exam 參加考試
+  * 更正式的用法為 `sit for an exam`。
+  * I have to take an entrance exam next Monday. (我下週一必須參加大會考。)
+  * Students are usually nervous before they take a final exam. (學生在參加期末考前通常會很緊張。)
+* Keep sb from V-ing 阻止、妨礙某人做某事
+  * The heavy snow kept us from driving to the mountains. (大雪讓我們無法開車前往山區。)
+  * Her lack of confidence kept her from applying for the job. (缺乏自信讓她不敢去應徵那份工作。)
+* Cover up sth 掩蓋、隱瞞某事
+  * 通常指企圖不讓人知道錯誤、罪行或真相。
+  * They tried to cover up the scandal, but the truth eventually came out. (他們企圖掩蓋這起醜聞，但真相最終還是曝光了。)
+  * It is often harder to cover up a lie than to tell the truth. (掩蓋謊言往往比說實話更難。)
+* Face up to sth 勇敢面對某事
+  * 指正視並處理困難、不愉快的事實或後果。
+  * It’s time to face up to the fact that our plan isn't working. (是時候面對我們的計畫行不通這個事實了。)
+  * He needs to face up to his mistakes and apologize to her. (他需要面對自己的錯誤並向她道歉。)
+* Contrary to sth 與...相反
+  * Contrary to the weather report, it didn't rain at all today. (與天氣預報相反，今天完全沒下雨。)
+  * He succeeded in the end, contrary to everyone's expectations. (與眾人的預期相反，他最後成功了。)
+* At once 立刻、馬上
+  * If you see a fire, call the emergency number at once. (如果你看到火災，立刻撥打緊急電話。)
+  * I recognized her voice at once when she called me. (她打電話給我時，我立刻就聽出了她的聲音。)
+
+</details>
+
+<details>
+
+<summary>作文百句 18 文法整理</summary>
+
+## 文法
+
+* 不定詞與動名詞的否定結構
+  * 不定詞的否定寫法為 `not + to V`，<mark style="color:blue;">**`not`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**必須放在**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`to`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**之前**</mark>。
+    * The doctor advised me not to stay up late. (醫生建議我不要熬夜。)
+    * It is important not to forget your keys. (不忘記鑰匙是很重要的。)
+  * 動名詞的否定寫法為 `not + V-ing`，<mark style="color:blue;">**`not`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**必須放在**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`V-ing`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**之前**</mark>。
+    * She regrets not having studied harder for the exam. (她後悔當時沒有更努力讀書。)
+    * He admitted not having done his homework. (他承認沒寫作業。)
+* `Not... until...` 直到...才...
+  * 強調<mark style="color:blue;">**某個動作是在某個特定時間點之後才發生**</mark>。
+  * 倒裝寫法為 `Not until + [時間/子句] + 助動詞 + S + V`。
+  * I didn't go to bed until late. = Not until late did I go to bed.
+  * I didn't realize my mistake until she pointed it out. = Not until she pointed it out did I realize my mistake. (直到她指出來，我才意識到我的錯誤。)
+  * He didn't arrive until the meeting was almost over. = Not until the meeting was almost over did he arrive. (直到會議快結束時，他才到達。)
+
+{% hint style="info" %}
+#### Until 直到...為止
+
+強調動作的<mark style="color:blue;">**持續**</mark>，表<mark style="color:blue;">**某個動作一直做到某個時間點才停止**</mark>，和上述語法的意思不同，請從語意區分兩者。
+
+* I stayed in the library until 10 p.m. (我待在圖書館直到晚上十點。)
+* She waited until he arrived. (她一直等，直到他到的那一刻。)
+* The shop is open until midnight. (店家一直營業到半夜。)
+{% endhint %}
+
+* `Should (not) have + p.p.` 對過去的遺憾與後悔
+  * `should have + p.p.` 是對「<mark style="color:blue;">**過去應做而未做的事**</mark>」感到遺憾或責備；`should not have + p.p.` 則是後悔「<mark style="color:blue;">**過去做了不該做的事**</mark>」。
+  * I should have brought an umbrella; it's raining now. (我當時應該帶傘的；現在下雨了。)
+  * You should have told me the truth earlier. (你當時應該早點告訴我真相的。)
+  * You shouldn't have said that to your mother. (你真不該對你母親說那種話。)
+  * We shouldn't have bought this expensive car. (我們真不該買這台昂貴的車。)
+* `As` 的用法
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-10-wen-fa-zheng-li)。
+  * `my head was spinning as I took my exams.`：此處的 `as` 表「當...」，相當於 `when`/`while`。
+  * `I regret ..., as it only made matters worse.`：此處的 `as` 表「因為」，相當於 `because`/`since`。
+
+</details>
+
+<details>
+
+<summary>作文百句 18 寫作建議</summary>
+
+## 文章分析
+
+這篇文章透過清晰的時序安排 (從考試前夜到考試當天，再到最後的揭發與反省)，將一個平凡的生活過失轉化為具教育意義的成長故事。在修辭的部分，作者運用了大量的狀態描寫，如 `intention of studying hard` 與後續 `poorest grades ever` 的強烈對比。文章最後一段，透過`contrary to my expectations` 引出真相大白的必然性，打破讀者對於「僥倖成功」的幻想，強化了文章的道德勸誡力量。
+
+## 寫作補給站—誠實與面對錯誤
+
+在撰寫關於「過錯」、「誠實」或「個人成長」的文章時，如果能跳脫出單純的「我錯了、我被罰了」的框架，進而討論「誠信」在人際關係中的價值，會讓文章的深度提升一個層次。以下提供一些實用的詞彙與表達方式，幫助你在描述心理掙扎與道德抉擇時更游刃有餘：
+
+* Integrity (n.) 正直、誠實
+  * Maintaining your integrity is more important than avoiding temporary punishment. (維持你的正直比躲避暫時的懲罰更重要。)
+* Deceive (v.) 欺騙
+  * Trying to deceive others often leads to <mark style="color:blue;">**a cycle of lies**</mark>. (試圖欺騙他人往往會導致謊言的惡性循環。)
+* Trustworthiness (n.) 值得信任、信譽
+  * Once you lie, you risk losing your trustworthiness in the eyes of others. (一旦你撒謊，你就有可能失去在他人眼中的信譽。)
+* Rectify (v.) 糾正、改正、補救
+  * 比 `correct` 更正式，指將錯誤的情況導向正確。
+  * It is not enough to apologize; you must take action to rectify the situation. (光道歉是不夠的；你必須採取行動來補救這個情況。)
+* Live with oneself 忍受良心的譴責
+  * 通常用於否定句，表示「問心無愧」。
+  * I couldn't live with myself if I kept the truth from my best friend. (如果我對我最好的朋友隱瞞真相，我的良心會感到不安。)
+* Own up to sth 坦白承認、主動承擔
+  * 指主動承認自己做的錯事。
+  * It takes courage to own up to your mistakes in front of your parents. (在父母面前主動承認錯誤需要很大的勇氣。)
+* Lesson learned (n. phr.) 學到的教訓、深刻體悟
+  * 常用於結尾，總結該事件對自己的意義。
+  * The incident was a hard lesson learned, reminding me that honesty is always the best policy. (這次事件是一個沉重的教訓，提醒我誠實始終是上策。)
+  * Documenting lessons learned is crucial for future projects. (記錄教訓對未來的專案至關重要。)
+* Atone for sth 補償、贖罪
+  * 指透過具體行動來彌補過去的過錯。
+  * He spent the entire summer doing community service to atone for his past mistakes. (他整個夏天都在做社區服務，以補償他過去的錯誤。)
+  * The country's leader has expressed a wish to atone for his actions in the past. (該國領導人已表示希望彌補他過去的行為。)
+  * She felt she had to atone for what she had done. (她覺得她必須為自己的所作所為贖罪。)
+
+## 寫作建議
+
+撰寫關於「錯誤與反省」的文章時，可以嘗試加強「感官細節」與「時間壓迫感」的描寫。例如，文中提到的 `head was spinning`，這種生理反應的具體化遠比單純說 `I was tired` 更能引起讀者共鳴。此外，若想要表達遺憾或後悔時，可以多運用 `should (not) have + p.p.` 這個句型。在結構方面，建議先交代錯誤的誘因 (如電動遊戲)，接著描述錯誤的擴大 (如隱瞞結果)，最後才是深刻的反思，這樣的安排能讓讀者的情緒隨之起伏。
+
+以下是其他建議：
+
+* 善用完成式，清楚標示過去事件的先後順序。
+* 多使用如 `furious`、`panicking`、`shocked` 等強烈的心理描寫詞彙，取代平淡的 `angry` 或 `scared`。
+* 善用<mark style="color:blue;">**條件句**</mark>做<mark style="color:blue;">**對比**</mark>：例如使用 `as long as` 或 `if... not...` 來展現主角的僥倖心理，這與最後的結局對比會更有張力。
+* 在文章最後，除了敘述懲罰、後果外，一定要加入<mark style="color:blue;">**反思**</mark>。
+
+</details>
+
+## 19.
+
+1. Many people have become so <mark style="color:blue;">**reliant on**</mark> social media that if their beloved apps <mark style="color:blue;">**crash**</mark>, they <mark style="color:blue;">**go nuts**</mark>. <mark style="color:blue;">**As far as I am concerned**</mark>, this is an unhealthy reaction that shows just how <mark style="color:blue;">**addicted to**</mark> social media they <mark style="color:blue;">**are**</mark>. It would be <mark style="color:blue;">**far**</mark> better if they were able to <mark style="color:blue;">**keep things in perspective**</mark>.
+2. That is, people should realize that in the grand scheme of things, <mark style="color:blue;">**losing access to**</mark> Facebook or Instagram is not a serious problem. Moreover, there are better things that people can <mark style="color:blue;">**occupy themselves with**</mark>, such as reading fiction or <mark style="color:blue;">**engaging in**</mark> a worthwhile hobby. While I'm not a <mark style="color:blue;">**social media addict**</mark>, I know people who are. <mark style="color:blue;">**Not having access to**</mark> Facebook or Instagram can seem like a major <mark style="color:blue;">**inconvenience**</mark> for them.
+3. Take my friend Linda for example. When Instagram was <mark style="color:blue;">**down**</mark> a few months ago, she lost it. It looked <mark style="color:blue;">**as if**</mark> her whole world <mark style="color:blue;">**had caved in**</mark>. <mark style="color:blue;">**Obviously**</mark>, it was a complete <mark style="color:blue;">**overreaction**</mark>. <mark style="color:blue;">**Essentially**</mark>, I would <mark style="color:blue;">**characterize**</mark> her problem as an <mark style="color:blue;">**obsession**</mark>. When an internet addiction starts to <mark style="color:blue;">**interfere**</mark> too much <mark style="color:blue;">**with**</mark> one's life, it is probably best for that person to <mark style="color:blue;">**seek**</mark> some help. After all, <mark style="color:blue;">**there's more to life than social media**</mark>.
+
+<details>
+
+<summary>作文百句 19 單字整理</summary>
+
+## 單字
+
+
+
+</details>
+
+<details>
+
+<summary>作文百句 19 片語整理</summary>
+
+## 片語
+
+
+
+</details>
+
+<details>
+
+<summary>作文百句 19 文法整理</summary>
+
+## 文法
+
+
+
+</details>
+
+<details>
+
+<summary>作文百句 19 寫作建議</summary>
+
+## 文章分析
+
 
 
 ## 寫作補給站—
@@ -4185,18 +4475,6 @@ She plays the piano, and she plays the violin, too.
 
 
 </details>
-
-## 18.
-
-1. I recently learned not to run from my mistakes. The night before <mark style="color:blue;">**a series of**</mark> important exams, I went to my room with the <mark style="color:blue;">**intention**</mark> of studying hard. Then, my brother came in with a new video game. It looked really <mark style="color:blue;">**thrilling**</mark>, so I decided to play it with him for a while. However, the time got away from me, and <mark style="color:blue;">**I didn't go to bed until late**</mark>.
-2. <mark style="color:blue;">**The**</mark> next morning, I felt tired and my head was <mark style="color:blue;">**spinning**</mark> as I took my exams. Though I'd studied <mark style="color:blue;">**on**</mark> other nights, <mark style="color:blue;">**lack of sleep**</mark> kept me from <mark style="color:blue;">**focusing on**</mark> the questions. When I got my grades for the exams, I was shocked. I'd received my poorest grades ever in every subject. <mark style="color:blue;">**Panicking**</mark>, I decided to hide the <mark style="color:blue;">**report card**</mark> in my clothes drawer.
-3. I thought <mark style="color:blue;">**as long as**</mark> my parents didn't find it, I'd be able to <mark style="color:blue;">**cover up**</mark> my poor performance. However, <mark style="color:blue;">**contrary to**</mark> my expectations, my <mark style="color:blue;">**homeroom teacher**</mark> called my parents and told them what had happened. My parents were <mark style="color:blue;">**furious**</mark> that I <mark style="color:blue;">**had hidden**</mark> my grades and punished me by taking away my <mark style="color:blue;">**allowance**</mark> for three months. I <mark style="color:blue;">**should have faced up to**</mark> my mistake at once and accepted the <mark style="color:blue;">**consequences**</mark>. I regret <mark style="color:blue;">**having hidden**</mark> things, as it only made matters <mark style="color:blue;">**worse**</mark>.
-
-## 19.
-
-1. Many people have become so <mark style="color:blue;">**reliant on**</mark> social media that if their beloved apps <mark style="color:blue;">**crash**</mark>, they <mark style="color:blue;">**go nuts**</mark>. <mark style="color:blue;">**As far as I am concerned**</mark>, this is an unhealthy reaction that shows just how <mark style="color:blue;">**addicted to**</mark> social media they <mark style="color:blue;">**are**</mark>. It would be <mark style="color:blue;">**far**</mark> better if they were able to <mark style="color:blue;">**keep things in perspective**</mark>.
-2. That is, people should realize that in the grand scheme of things, <mark style="color:blue;">**losing access to**</mark> Facebook or Instagram is not a serious problem. Moreover, there are better things that people can <mark style="color:blue;">**occupy themselves with**</mark>, such as reading fiction or <mark style="color:blue;">**engaging in**</mark> a worthwhile hobby. While I'm not a <mark style="color:blue;">**social media addict**</mark>, I know people who are. <mark style="color:blue;">**Not having access to**</mark> Facebook or Instagram can seem like a major <mark style="color:blue;">**inconvenience**</mark> for them.
-3. Take my friend Linda for example. When Instagram was <mark style="color:blue;">**down**</mark> a few months ago, she lost it. It looked <mark style="color:blue;">**as if**</mark> her whole world <mark style="color:blue;">**had caved in**</mark>. <mark style="color:blue;">**Obviously**</mark>, it was a complete <mark style="color:blue;">**overreaction**</mark>. <mark style="color:blue;">**Essentially**</mark>, I would <mark style="color:blue;">**characterize**</mark> her problem as an <mark style="color:blue;">**obsession**</mark>. When an internet addiction starts to <mark style="color:blue;">**interfere**</mark> too much <mark style="color:blue;">**with**</mark> one's life, it is probably best for that person to <mark style="color:blue;">**seek**</mark> some help. After all, <mark style="color:blue;">**there's more to life than social media**</mark>.
 
 ## 20.
 
