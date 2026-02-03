@@ -3581,7 +3581,7 @@ She plays the piano, and she plays the violin, too.
 另外，如果是要指代文章前面敘述的整個觀點或內容，建議用 `this`，如本文第二段中間 "This suggests that students..." 與第三段開頭 "This robs them of the..."。
 {% endhint %}
 
-#### 代名詞 `one/ones` 的用法&#x20;
+#### 代名詞 `one/ones` 的用法
 
 它們可以作為代名詞，用來指代「<mark style="color:blue;">**同類但不同個體**</mark>」的<mark style="color:blue;">**可數**</mark>名詞，`one` 為單數；`ones` 為複數。請注意，<mark style="color:blue;">**`one/ones`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**無法用於不可數名詞**</mark>。
 
@@ -4070,17 +4070,6 @@ She plays the piano, and she plays the violin, too.
 
 只有在拆開 `whenever`/`wherever` (複合關係副詞) 時，才有可能多出一些介係詞，故以下僅列出與它們相關的例句與拆解。
 
-{% hint style="success" %}
-#### 懶人包
-
-本資訊欄的觀念很難說清楚或理解，只能多看例句。以下提供判斷的懶人包，如果滿足以下之一，則 `whenever`/`wherever` 拆開後，該部分不會新增介係詞。不過，強烈建議大家多看，而不是背誦懶人包。~~真的太難學的話，也可以乾脆不要拆開。~~
-
-* `whenever`/`wherever` 作為子句的主詞。
-* `whenever`/`wherever` 作為子句的受詞，但子句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
-* 「`whenever`/`wherever` 子句」作為主句的主詞。
-* 「`whenever`/`wherever` 子句」作為主句的主詞，但主句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
-{% endhint %}
-
 #### `Wherever`
 
 * Wherever you live is where I will be. = _\[Any place <mark style="color:blue;">**in**</mark> which]_ you live is where I will be. = _\[Any place <mark style="color:blue;">**where**</mark>]_ you live is where I will be.
@@ -4127,6 +4116,17 @@ She plays the piano, and she plays the violin, too.
   * `specify a time`，所以拆開後不用新增介係詞。
 * Whenever you prefer is best for our date. = _\[Any time that]_ you prefer is best for our date.
   * `prefer a time`，所以拆開後不用新增介係詞。
+{% endhint %}
+
+{% hint style="success" %}
+#### 上方資訊欄的補充懶人包
+
+剛才的觀念很難說清楚或理解，只能多看例句。以下提供判斷的懶人包，如果滿足以下之一，則 `whenever`/`wherever` 拆開後，該部分不會新增介係詞。不過，強烈建議大家多看，而不是背誦懶人包。~~真的太難學的話，也可以乾脆不要拆開。~~
+
+* `whenever`/`wherever` 作為子句的主詞。
+* `whenever`/`wherever` 作為子句的受詞，但子句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
+* 「`whenever`/`wherever` 子句」作為主句的主詞。
+* 「`whenever`/`wherever` 子句」作為主句的主詞，但主句的動詞銜接時間、地點時不用加介係詞 (通常是及物動詞)。
 {% endhint %}
 
 {% hint style="warning" %}
