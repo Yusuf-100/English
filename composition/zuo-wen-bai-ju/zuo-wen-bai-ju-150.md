@@ -3997,7 +3997,7 @@ She plays the piano, and she plays the violin, too.
 {% hint style="danger" %}
 #### However
 
-請留意，`however` 子句的寫法是 `however + adj/adv + S + V`；其他 `wh-ever` 子句的寫法都是 `wh-ever + S + V`。
+請留意，`however` 子句的寫法是 `however + (adj/adv) + S + V`，若要用 `adj`/`adv` 表示 `V` 的狀態或程度，<mark style="color:blue;">**須放在**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`however`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**後面**</mark>，而不是 `V` 後面。其他 `wh-ever` 子句的寫法都是 `wh-ever + S + V`。
 {% endhint %}
 
 下表列出了 `wh-ever` 家族的成員，在讓步語法的意義與替換。
@@ -4024,7 +4024,7 @@ She plays the piano, and she plays the violin, too.
 * <mark style="color:blue;">**Whomever**</mark> you see, don't open the door. = Don't open the door <mark style="color:blue;">**whomever**</mark> you see. (無論你看到誰，都不要開門。) → 這裡表你看到「誰」，「誰」作為受詞，故用 `whomever`。
 * Whenever I see this photo, I think of my childhood. = I think of my childhood whenever I see this photo. (無論何時看到這張照片，我都會想起童年。)
 * Wherever you go, I'll follow you. = I'll follow you wherever you go. (無論你去哪，我都會隨行。)
-* <mark style="color:blue;">**However hard**</mark> he tries, he can't solve the problem. = He can't solve the problem <mark style="color:blue;">**however hard**</mark> he tries. (無論他多麼努力，都解不開難題。)
+* <mark style="color:blue;">**However hard**</mark> the problem is, he will solve it. = He can solve the problem <mark style="color:blue;">**however hard**</mark> it is. (無論問題多麼棘手，他都能解決。)
 * <mark style="color:blue;">**However fast**</mark> he runs, he can't catch the bus. = He can't catch the bus <mark style="color:blue;">**however fast**</mark> he runs. (無論他跑得多快，都趕不上公車。)
 
 #### 名詞用法
@@ -4127,6 +4127,24 @@ She plays the piano, and she plays the violin, too.
   * `specify a time`，所以拆開後不用新增介係詞。
 * Whenever you prefer is best for our date. = _\[Any time that]_ you prefer is best for our date.
   * `prefer a time`，所以拆開後不用新增介係詞。
+{% endhint %}
+
+{% hint style="warning" %}
+#### However
+
+`however` 在這裡與 `whenever`/`wherever` 相似，也是<mark style="color:blue;">**複合關係副詞**</mark>，故同樣內建介係詞。不過，他只自帶了 `in (any way)`，也只能這樣用。若主句或子句的動詞為<mark style="color:blue;">**不及物動詞**</mark>，且<mark style="color:blue;">**後面無法銜接**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`in the way`**</mark>，則無法用 `however` 寫，但<mark style="color:blue;">**可以拆開寫**</mark>。
+
+以下提供一些例句與拆解。不過，現在很少在這種情況使用 `however`，大多會改用 `in whatever way` 或 `the way + S + V`。因此，`however` 的這個用法請大家參考即可，不一定要完全弄清楚。
+
+* However you solve the problem is fine with me. = _\[Any way <mark style="color:blue;">**in**</mark> which]_ you solve the problem is fine with me.
+  * `solve the problem in a way`，所以拆開後 `in` 要現身。
+* You can cook the steak however you like. = You can cook the steak _\[<mark style="color:blue;">**in**</mark> any way that]_ you like.
+  * `cook in a way`，所以拆開後 `in` 要現身。
+  * `like a way`，所以拆開後不用新增介係詞。
+* (<mark style="color:$danger;">**錯誤範例**</mark>) You can cook the steak however you are good.\
+  (<mark style="color:blue;">**正確範例**</mark>) You can cook the steak \[<mark style="color:blue;">**in**</mark> any way <mark style="color:blue;">**at**</mark> which] you are good.
+  * `cook in a way`, `good at a way`，所以拆開後 `in`, `at` 要現身。
+  * `however` 只內建了 `in`，而且這裡的「擅長」要用 `good at`，而不是 `good in a way`，所以不能用 `however`，但如果拆開寫就可以。
 {% endhint %}
 
 #### 其他用法
