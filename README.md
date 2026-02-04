@@ -12,16 +12,28 @@ Author: Yusuf 100
 
 畢業後，我終於有充足時間更新這個網頁。我很感謝國中與高中的英文老師。你們的自製講義、單字本、雜誌、翻譯書、週段考卷，與從高二開始的每週一作文，讓我的英文程度能在不補習的情況下，從高一寫學測模考僅有50幾，提升到高三學測90幾的滿級分，並通過全民英檢中高級複試。雖然我已離開校園，大學科系也非教育相關，但我希望老師們的教學可以傳承下去，讓更多人受惠，所以我決定整理在國高中學到的東西，放在這裡，除了幫助所有想要學習高中英文的同學外，也可以留作紀念，感謝老師們的培育！
 
-<a href="https://discord.gg/gkVjnqzeFr" class="button primary" data-icon="book-open">Discord 讀書群</a>
+如果這裡對你有幫助的話，就和大家分享這個網站吧！若對本網頁有任何建議，可以加入我的 **Discord 群組**，在裡面 @ 我即可。另外，也邀請大家到我的高中選修化學教學網站看看！
 
-{% hint style="info" %}
-歡迎追蹤我～喜歡這個網站的話歡迎跟大家分享～也邀請大家到我的選修化學教學網站看看～
+<a href="https://discord.gg/gkVjnqzeFr" class="button primary" data-icon="book-open">Discord 讀書群</a><a href="https://hackmd.io/@Yusuf100/chemistry-1" class="button primary" data-icon="book-open">高中選修化學一</a><a href="https://hackmd.io/@Yusuf100/chemistry-2" class="button primary" data-icon="book-open">高中選修化學二</a>
 
-* [Discord Server](https://discord.gg/gkVjnqzeFr) (450+成員，課業討論、遊戲、閒聊)。若對本網頁有任何建議，歡迎加入群組後@我反應
-* 高中選修化學：[選修化學一](https://hackmd.io/@Yusuf100/chemistry-1)、[選修化學二](https://hackmd.io/@Yusuf100/chemistry-2)
-* [YouTube](https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp) (主要是遊戲的影片)
-* [IG](https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D\&utm_source=qr)
-{% endhint %}
+<a href="https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp" class="button primary" data-icon="gamepad-modern">YouTube</a><a href="https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D&#x26;utm_source=qr" class="button primary" data-icon="envira">IG</a>
+
+{% updates format="full" %}
+{% update date="2026-02-04" %}
+## No. 647 更新
+
+#### 更新作文百句
+
+* 補上 Topic 11 文法索引到 Topic 17 文法的連結。
+* 新增 Topic 17 文法整理、寫作建議。
+* 新增 Topic 18 單字、片語、文法整理、寫作建議。
+
+#### 更新首頁
+
+* 將資訊欄內的連結改成互動式按鈕。
+* 新增「更新」欄。
+{% endupdate %}
+{% endupdates %}
 
 ***
 

@@ -1434,8 +1434,8 @@ She plays the piano, and she plays the violin, too.
 * 要是我們早點聽 Alana 的建議就好了：If only \[we <mark style="color:$danger;">**took**</mark> Alana's advice earlier]. → If only \[we <mark style="color:blue;">**had taken**</mark> Alana's advice earlier].
 * 要是他明天可以來這裡該也多好：If only \[he <mark style="color:$danger;">**will be**</mark> able to come here tomorrow]. → If only \[he <mark style="color:blue;">**would be**</mark> able to come here tomorrow].
 * Bruce 急忙走到我面前，好像有什麼重要的事情要告訴我：Bruce rushes to me as if \[he <mark style="color:$danger;">**has**</mark> something important to tell me]. → Bruce rushes to me as if \[he <mark style="color:blue;">**had**</mark> something important to tell me].
-* 那位女士對我微笑，彷彿我們認識：The lady smiled at me as if \[we <mark style="color:$danger;">**know**</mark> each other]. → The lady smiled at me as if \[we <mark style="color:blue;">**knew**</mark> each other].
-* 那位女士對我微笑，彷彿我們之前認識：The lady smiled at me as if \[we <mark style="color:$danger;">**knew**</mark> each other before]. → The lady smiled at me as if \[we <mark style="color:blue;">**had known**</mark> each other before].
+* 當時，那位女士對我微笑，彷彿我們認識：At that time, the lady smiled at me as if \[we <mark style="color:$danger;">**know**</mark> each other]. → At that time, the lady smiled at me as if \[we <mark style="color:blue;">**knew**</mark> each other].
+* 當時，那位女士對我微笑，彷彿我們之前認識：At that time, the lady smiled at me as if \[we <mark style="color:$danger;">**knew**</mark> each other before]. → At that time, the lady smiled at me as if \[we <mark style="color:blue;">**had known**</mark> each other before].
 {% endhint %}
 
 假設語氣非常複雜，初學者容易感到時間線混亂，這是正常的現象。唯有多看、多寫，才能將語感建立起來，讓你在使用假設語氣時，能自然且正確地變換動詞型態。
@@ -3519,7 +3519,7 @@ She plays the piano, and she plays the violin, too.
 ## 文法
 
 * `While` / `Yet` 作為對比連接詞
-  * `While` 在此處作為連接詞，表「而、然而」，用來對比兩個不同的事實。`Yet` 則帶有更強烈的轉折意味，表「然而、儘管如此」。
+  * `While` 在這裡作為連接詞，表「而、然而」，用來對比兩個不同的事實，在此用法下可以與 `whereas` 互換，但 `whereas` 的語氣比 `while` 更正式且對比感更強；`Yet` 則帶有較強烈的轉折意味，表「然而、儘管如此」。
   * The technology sector is booming, while the traditional manufacturing industry is declining. (科技產業正蓬勃發展，而傳統製造業則在衰退。)
   * He is very wealthy, yet he lives a very simple and humble life. (他非常富有，然而他過著非常簡單且謙遜的生活。)
 
@@ -4434,7 +4434,132 @@ She plays the piano, and she plays the violin, too.
 
 ## 單字
 
-
+* Reliant (adj.) 依賴的、依靠的
+  * 常見用法為 `be reliant on sb/sth`。同義詞有 `dependent`。
+  * The company is heavily reliant on export markets for its survival. (這間公司的生存嚴重依賴出口市場。)
+  * We have become so reliant on technology that we feel lost without our smartphones. (我們已經變得如此依賴科技，以至於沒有智慧型手機就會感到不知所措。)
+* Beloved (adj.) 鍾愛的、深愛的
+  * He gave his beloved wife a ring for their anniversary. (他在週年紀念日給了他深愛的妻子一只戒指。)
+* Crash (v./n.) 當機；崩潰；撞擊
+  * 在資訊科技領域，指程式或系統突然停止運行。
+  * My computer crashed just as I was about to save my important work. (我的電腦就在我正要存檔重要工作時當機了。)
+  * He crashed his car into a tree. (他開車撞上樹。)
+  * I heard a loud crash in the kitchen. (我聽到廚房有轟隆巨響)
+  * The 1929 stock market crash was devastating. (1929 年的股市崩盤是毀滅性的。)
+* Addicted (adj.) 上癮的、沈溺的
+  * 常見用法為 `be addicted to sth`。名詞有 `addiction` (成癮)；`addict` 指「成癮者」。
+  * It is frightening how quickly young children can become addicted to video games. (年輕孩童這麼快就對電子遊戲成癮，這點真的很嚇人。)
+  * He is addicted to caffeine and cannot function without three cups of coffee a day. (他對咖啡因成癮，一天沒喝三杯咖啡就無法正常運作。)
+  * She is a real shopping addict. (她真的是個購物狂。)
+* Perspective (n.) 觀點、看法；洞察力
+  * `put/keep things in perspective` 指「以客觀、合理的角度看待事情」；from one's perspective 指「從某人的角度來看、依某人的觀點」。
+  * Traveling to different countries helps you gain a broader perspective on life. (去不同國家旅行有助於你獲得更寬廣的人生觀。)
+  * He has a unique perspective on the world. (他對世界有獨特的看法。)
+  * From my perspective, this is the best solution. (從我的角度來看，這是最好的解決方案。)
+* Realize (v.)
+  * 了解、意識到
+    * I didn't realize how late it was until the sun started to set. (直到太陽開始下山，我才意識到已經這麼晚了。)
+  * 實現目標或夢想
+    * It took her years of hard work to realize her dream of becoming a pilot. (她花了多年的努力才實現了成為飛行員的夢想。)
+* Grand (adj.) 宏偉的、重大的、總括的
+  * 常見用法有 `in the grand scheme of N`，表「從長遠來看」或「就大局而言」。
+  * The hotel has a grand entrance with a crystal chandelier. (這間飯店有一個帶著水晶吊燈的宏偉入口。)
+  * Our daily problems seem small in the grand scheme of the universe. (在宇宙的大局中，我們日常的問題顯得很渺小。)
+* Scheme
+  * (n.) 計畫、方案
+    * The government has launched a new scheme to help young people find jobs. (政府啟動了一項幫助年輕人找工作的新方案。)
+  * (v.) 密謀、策劃 (通常指<mark style="color:blue;">**不好**</mark>的事)。
+    * They were scheming to take over the company. (他們正密謀接管公司。)
+* Access
+  * (n.) 使用權、途徑、通道。
+    * 常見用法為 `access to N`。
+    * Students have access to the library 24 hours a day. (學生一天 24 小時都可以使用圖書館。)
+    * Everyone should have equal access to information. (人人皆有平等取得資訊的途徑。)
+    * The main access to the building is at the side. (大樓主入口在側面。)
+  * (v.) 存取、進入
+    * 常見用法為 `access N`。
+    * You need a password to access your bank account online. (你需要密碼才能在線上存取你的銀行帳戶。)
+    * Technology has changed the way we access information. (科技改變了我們獲取資訊的方式。)
+* Serious (adj.) 嚴重的；認真的；嚴肅的
+  * The doctor said her illness was not serious, but she needed to rest. (醫生說她的病不嚴重，但她需要休息。)
+  * Are you serious about quitting your job? (你是認真想要辭職嗎？)
+  * He is a serious person. (他是個嚴肅的人。)
+* Occupy (v.) 佔用、使忙碌、佔領
+  * `occupy oneself with sth` 指「使自己忙於某事」。
+  * She occupied herself with gardening to keep from thinking about her problems. (她忙於園藝，以免去想她的問題。)
+  * The study of ancient history occupies most of his free time. (研究古代歷史佔據了他大部分的空閒時間。)
+* Fiction (n.) 小說、虛構的故事
+  * 視為「虛構故事的總稱」，為<mark style="color:blue;">**不可數**</mark>名詞。
+  * I prefer reading fiction to non-fiction because it allows me to escape reality. (比起非小說類，我更喜歡讀小說，因為它讓我能逃避現實。)
+  * The story he told was pure fiction. (他講的故事純屬虛構。)
+* Engage (v.) 參與、從事、吸引
+  * `engage in sth` 指參加某項活動。
+  * It is beneficial for students to engage in extracurricular activities. (學生參與課外活動是有益的。)
+  * Many companies are now engaging in social media marketing to reach younger audiences. (許多公司現在正從事社群媒體行銷，以接觸年輕受眾。)
+* Worthwhile (adj.) 值得的、值得花時間的
+  * Volunteering at the animal shelter is a worthwhile experience. (在動物收容所當志工是一次值得的經歷。)
+  * Is it worthwhile to drive three hours just for a 20-minute meeting? (只為了 20 分鐘的會議開三小時車值得嗎？)
+* Hobby (n.) 嗜好、興趣
+  * 指為了娛樂或放鬆而主動從事的活動 (如集郵、畫畫)。`habit` 指長期養成且難以改變的習慣 (如咬手指、早起)。
+  * My main hobby is playing the piano. (我的主要嗜好是彈鋼琴。)
+  * Biting your nails is a bad habit that is hard to break. (咬指甲是一個很難改掉的壞習慣。)
+* Major
+  * (adj.) 主要的、重大的
+    * The city is facing a major water shortage this summer. (這個城市今年夏天正面臨重大的缺水問題。)
+  * (n.) 大學的主修
+    * My major is English Literature, but I also take some business classes. (我的主修是英國文學，但我也有修一些商務課。)
+  * (v.) 主修
+    * 常見用法為 `major in N`。
+    * She decided to major in computer science to pursue a career in tech. (她決定主修電腦科學以追求科技業的職涯。)
+* Inconvenience (n.) 不便、麻煩
+  * The train delay caused a great deal of inconvenience to the commuters. (火車延誤給通勤者帶來了很大的不便。)
+  * I apologize for any inconvenience my late arrival may have caused you. (我為我的遲到可能給您帶來的任何不便深表歉意。)
+* Down (adj.) (系統) 停止運作、故障
+  * The website has been down for maintenance since this morning. (網站從今天早上開始就因為維護而停止運作。)
+  * Is the office Wi-Fi down again? I can't send any emails. (辦公室的 Wi-Fi 又斷了嗎？我發不出任何郵件。)
+* Cave (v.) 倒塌；屈服、讓步
+  * 表倒塌時，常見用法為 `cave in`；表「屈服、讓步」時，常寫成 `cave in (to sth)`。
+    * The roof of the old house caved in after the heavy snowfall. (大雪過後，那間老房子的屋頂塌陷了。)
+    * The company finally caved in to the demands after days of protest. (經過幾天的抗議，公司終於屈服於這些要求。)
+* Obviously (adv.) 明顯地、顯然地
+  * 形容詞為 `obvious`。
+  * She was obviously upset about the news. (她顯然對這個消息感到很難過。)
+  * It was obvious that he was lying to us. (很明顯他在對我們撒謊。)
+* Complete
+  * (adj.) 完全的、完美的
+    * The project was a complete success. (這項計畫獲得了徹底的成功。)
+  * (v.) 完成
+    * You must complete the application form before the deadline. (你必須在截止日期前完成申請表。)
+* Overreaction (n.) 過度反應
+  * 動詞形為 `overreact`。兩者都可以接 `to N` 表「對...的過度反應」。
+  * His anger was a total overreaction to such a small mistake. (他的憤怒對這麼小的錯誤來說完全是反應過度。)
+  * Try not to overreact to criticism. (盡量不要對批評反應過度。)
+* Essentially (adv.) 本質上、基本上
+  * 形容詞為 `essential`，表「必要的」、「不可或缺的」，常見用法為 `essential to/for N`。
+  * The two plans are essentially the same. (這兩個計畫本質上是一樣的。)
+  * Hard work is essential for success. (努力對成功是必要的。)
+* Characterize (v.) 描述...的特性、歸納為
+  * 指說明某人或某事物的典型特徵。常見用法有 `A characterize B` (A 是 B 的特徵), `B is characterized by A` (B 以 A 為特色、被刻畫為 A), `characterize A as B` (將 A 描述、歸類為 B)。
+  * The current economic climate is characterized by high inflation and slow growth. (當前的經濟氣候以高通膨和慢成長為特徵。)
+  * She characterized the meeting as a productive and positive experience. (她將這次會議歸類為一次富有成效且正向的體驗。)
+* Obsession (n.) 執著、癡迷
+  * 動詞為 `obsess`，常見用法為 `be obsessed with N`。
+  * His obsession with cleanliness makes it difficult for him to stay in hotels. (他對清潔的癡迷使他很難住在飯店裡。)
+  * Fitness has become a national obsession in recent years. (健身在近年來已成為一種全民癡迷的現象。)
+* Interfere (v.) 干擾、妨礙、管閒事
+  * 常見用法為 `interfere with sth`。
+  * Excessive noise can interfere with your ability to concentrate on your studies. (過度的噪音會干擾你集中精神讀書的能力。)
+  * I try not to interfere with my children's choices, even if I disagree with them. (即使我不認同，我仍試著不干擾我孩子的選擇。)
+* Probably (adv.) 很可能、大概
+  * 形容詞為 `probable`，反義詞為 `improbable`。
+  * `probable`/`probably` 的語氣較強，可能性較高，常基於證據或邏輯推論；`possible`/`possibly` 表示有機會發生，但不強調機率高低。
+  * It will probably rain this afternoon; the sky is very dark. (下午很可能會下雨；天空很黑。)
+  * It's possible to fly to the moon. (飛到月球是可能的。)
+  * Improbable as it seems, it's true. (這雖然看起來不大可能，但卻是真的。)
+* Seek (v.) 尋求、尋找、請求
+  * 過去式與過去分詞為 `sought`。常見用法為 `seek N`。
+  * You should seek professional advice before making such a major investment. (在進行如此重大的投資前，你應該尋求專業建議。)
+  * The company is seeking new ways to improve customer satisfaction. (公司正在尋求改善客戶滿意度的新方法。)
 
 </details>
 
@@ -4444,7 +4569,71 @@ She plays the piano, and she plays the violin, too.
 
 ## 片語
 
+* Be reliant on N/V-ing 依賴、依靠某物
+  * Small businesses are often reliant on local customers to stay in business. (小型企業的生存往往依賴當地的顧客。)
+* Go nuts 抓狂、發瘋
+  * 與 `go crazy` 意思相近。
+  * If I don't get some sleep soon, I'm going to go nuts. (如果我不趕快睡一覺，我快要抓狂了。)
+  * My mom will go nuts when she sees this messy room. (我媽看到這間亂糟糟的房間一定會抓狂。)
+* Be addicted to N/V-ing 對某事成癮、沉迷於某事
+  * 可用於毒品、嗜好或行為。
+  * Many teenagers are addicted to playing online games for hours every day. (許多青少年沉迷於每天玩好幾個小時的網路遊戲。)
+  * She is addicted to chocolate. (她很愛吃巧克力。)
+  * Many people become addicted to drugs in prison. (許多人在監獄中染上毒癮。)
+* Keep things in perspective 以客觀、整體的角度看待事情
+  * Reading about history helps me keep my own problems in perspective. (閱讀歷史有助於我以客觀的角度看待自己的問題。)
+* That is (to say) 也就是說、換句話說
+  * 用於解釋、釐清或更具體地說明剛才提過的內容。
+  * She is a polyglot; that is to say, she can speak many languages fluently. (她是一個通曉多種語言的人；也就是說，她能流利地說多種語言。)
+  * The deadline is Friday; that is, you have only three days left. (截止日期是週五；換句話說，你只剩下三天了。)
+* In the grand scheme of things 就大局而言、長遠來看
+  * A small mistake like this won't matter much in the grand scheme of things. (像這樣的一個小錯誤，從大局來看並沒什麼大不了。)
+  * In the grand scheme of things, life happens in a blink of an eye. (從宏觀的角度來看，生命一眨眼就溜走了。)
+* Access to N 使用某物的權利或管道
+  * 這裡的 access 為名詞。片語的前面常接 `have` (有) / `lose` (失去) / `gain` (取得)。
+  * The book gives readers an access to new ideas. (這本書為讀者提供了接觸新觀念的途徑。)
+  * You have full access to this room. (你可以自由進入這間房間。)
+  * I lost access to my email account because I forgot the password. (因為忘記密碼，我失去了登入電子郵件帳戶的權限。)
+* Occupy oneself with N/V-ing 使自己忙於某事
+  * 與 `sb be occupied with N/V-ing` 意思相同。
+  * During the long flight, she occupied herself with solving crossword puzzles. (在長途飛行中，她忙於解填字遊戲以打發時間。)
+  * I have been fully occupied with planning my daughter's wedding. (我完全忙於規劃我女兒的婚禮。)
+* Engage in N/-Ving 參加、從事、捲入某事
+  * Students are encouraged to engage in extracurricular activities. (學生被鼓勵參與課外活動。)
+  * She often engages in volunteer work. (她經常參與志工工作。)
+  * They are engaged in a dispute. (他們正陷入爭論。)
+* Lose it 情緒失控、崩潰
+  * She lost it when she heard the news and couldn't stop crying. (她聽到消息後崩潰了，哭個不停。)
+  * I was so tired that I just lost it. (我太累了，直接崩潰抓狂。)
 
+{% hint style="warning" %}
+#### 易混淆片語
+
+* `Lose oneself` 表「迷失自我」，指失去對自己身份的認知或迷路。
+  * In that toxic relationship, I completely lost myself. (在那段不健康的關係中，我完全迷失了自我。)
+  * I could easily lose myself in this city. (我很容易迷失在這座城市裡。)
+* `Lose oneself in sth` 表「沉浸於、專注於 (讀書、工作、音樂等)」。
+  * She lost herself in the music. (她沉浸在音樂中。)
+  * I often lose myself in daydreams. (我經常沉浸在白日夢中。)
+{% endhint %}
+
+* Cave in 塌陷、崩潰
+  * 詳細[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-19-dan-zi-zheng-li)的單字介紹。
+* Characterize A as B 將 A 描述、歸類為 B
+  * The critics characterized the film as a masterpiece of modern cinema. (評論家將這部電影描述為現代影壇的傑作。)
+  * She characterized her opponent's comments as unfair and misleading. (她將對手的評論歸類為不公平且具誤導性的。)
+* Interfere with N 干擾、妨礙某事
+  * Noise interfered with our conversation. (噪音干擾了我們的對話。)
+  * Don't let your personal problems interfere with your professional work. (不要讓你的私人問題干擾你的專業工作。)
+* Seek help 尋求幫助
+  * If you are feeling depressed, you should seek help from a therapist. (如果你感到憂鬱，你應該向心理治療師尋求幫助。)
+* There's more to life than sth 生活中還有比...更重要的事、生活中不只有...
+  * 用於提醒他人不要過度執著於某一件事情，要放眼全局。
+  * There's more to life than work. (生活中不只有工作。)
+  * There's more to life than staying at home. (外面的世界很大，不要只待在家。)
+  * 不侷限於 `life`，這個片語也可以指某人或某事隱藏著未被察覺的特質、潛力，表「...不僅僅是外表所見那樣」。
+    * There's more to him than I thought. (他比我想像中更有內涵。)
+    * There's more to this project than just coding. (這個專案不只是寫程式而已，還有更多層面。)
 
 </details>
 
@@ -4454,7 +4643,45 @@ She plays the piano, and she plays the violin, too.
 
 ## 文法
 
-
+* 假設語氣
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)。
+  * 第一段，It would be far better if they were able to...，這是與現在事實相反的假設，故採用 `were` 和 `would + VR`。
+  * 第三段，It looked as if her whole world had caved in.，作者想表達的是，當時的 Linda，看起來彷彿她的世界已經崩塌，因此用 `had caved in`。
+* 比較級的修飾語
+  * <mark style="color:blue;">**不能用**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`very`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**修飾比較級**</mark>，必須使用特定的副詞來強調「程度上的差異」。
+    * 大幅度差異：`far`, `much`, `a lot`, `way`。
+    * 小幅度差異：`a little`, `a bit`, `slightly`。
+    * 更...：`even` (甚至更...), `still` (還要更...)。
+  * Using a professional dictionary is far _\[more effective]_ than guessing. (使用專業字典比用猜的有成效得多。)
+  * She feels much _\[better]_ after taking a long nap. (睡了個長覺後，她覺得好多了。)
+  * The question was a little bit harder than I expected. (這個問題比我想像的要難一些。)
+  * This topic is even _\[more complicated]_ than the previous one. (這個主題甚至比前一個還要複雜。)
+* `Seem` 的用法
+  * `seem` 是[連綴動詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)，表「看起來...、似乎...」，常見用法有 `seem + adj.`, `seem + to VR`, `seem like + N`, `it seems (that) + 子句`。
+  * You seem tired. (你似乎累了。)
+  * He seems to know the secret. (他似乎知道那個秘密。)
+  * She seems to be enjoying her new hobby. (她似乎很享受她的新嗜好。)
+  * It seems like a good idea. (這似乎是個好主意。)
+  * This problem seemed like a minor issue at first. (這個問題起初似乎只是個小問題。)
+  * It seems that the server is down. (似乎伺服器斷線了。)
+  * It seemed that Linda lost her mind when the app crashed. (當 App 崩潰時，琳達似乎失去了理智。)
+* `While ..., ...` 雖然...
+  * 在這個用法下，意思與 `although` 相似。
+  * `while` 的其他用法在[第十](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-10-wen-fa-zheng-li)與第[十六](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)篇的文法有提及。
+  * While I understand your point, I still disagree with the conclusion. (雖然我理解你的觀點，但我仍不認同這個結論。)
+  * While she is good at English, her brother excels in math. (雖然她擅長英文，但她哥哥在數學方面表現優異。)
+* `After all` 的用法&#x20;
+  * 依照上下文，`after all` 主要分為兩種意思：
+    * 表「畢竟...」。
+      * 當你想引出一個顯而易見的理由來支持之前的論點或勸慰他人時使用，例如本文即是這個用法。
+      * You should be kind to him; he's your brother after all. (你應該對他好一點，畢竟他是你弟弟。)
+      * I'm not surprised the app crashed; after all, it hasn't been updated for years. (我不驚訝 App 會崩潰；畢竟，它已經好幾年沒更新了。)
+      * There's no need to panic. After all, it's just a minor technical issue. (沒必要恐慌。畢竟，這只是一個小的技術問題。)
+    * 表「終究...」、「到底是...」。
+      * 當事情的結果與之前的疑慮、計畫或預期<mark style="color:blue;">**不同**</mark>時使用，強調「最後的結果」。通常放在句尾。
+      * I didn't want to go, but I went after all. (我本來不想去，但終究還是去了。)
+      * It looked like it would rain, but the sun came out after all. (看起來快下雨了，但太陽最終還是出來了。)
+      * I thought I wouldn't be able to come, but I managed to make it after all. (我以為我來不了，但我終究還是趕到了。)
 
 </details>
 
@@ -4464,22 +4691,52 @@ She plays the piano, and she plays the violin, too.
 
 ## 文章分析
 
+本文開篇即點出社群媒體成癮的普遍現象，並運用 `go nuts` 說明現代人心理狀態的脆弱。在第二段，作者用 `moreover` 將議題提升到人生價值觀的層次，提出了「尋找更有意義嗜好」的正面解方。第三段引用實證，以朋友的極端例子 (`world had caved in`) 作為警示，最後以富有哲理的 `there’s more to life than social media` 結尾，再次表明自己的立場。
 
+## 寫作補給站 — 社群媒體與心理健康
 
-## 寫作補給站—
-
-
+* Fear of missing out (FOMO) (n. phr.) 錯失恐懼症
+  * 專指怕漏掉社群媒體上任何訊息的焦慮感。
+  * FOMO drives many people to check their phones every few minutes, leading to severe anxiety. (錯失恐懼症驅使許多人每隔幾分鐘就檢查手機，導致嚴重的焦慮。)
+* Validation (n.) 認可；證實；驗證
+  * Many teens rely on social media for constant validation from strangers. (許多青少年依賴社群媒體，以獲得來自陌生人的持續認可。)
+  * The bank said my debit card isn't working due to a validation error. (銀行說我的金融卡無法使用，是因為驗證錯誤。)
+  * We need to perform data validation before processing the report. (我們在處理報告前需要執行資料驗證。)
+* Doomscrolling (n.) 無止盡地滑動<mark style="color:blue;">**負面訊息**</mark>
+  * 花很多時間看你的電腦屏幕或手機，並閱讀<mark style="color:blue;">**壞消息**</mark>的報道。
+  * Doomscrolling before bed can negatively impact your sleep quality and mental health. (睡前無止盡地滑動負面訊息會對睡眠品質與心理健康造成負面影響。)
+* Digital detox (n. phr.) 數位排毒
+  * 指一段時間內完全不使用電子產品。
+  * A weekend digital detox can help refresh your mind and reduce stress. (週末進行數位排毒能幫助提振精神並減輕壓力。)
+* Meaningful connection (n. phr.) 有意義的連結
+  * 指現實生活中面對面、有深度的交流。
+  * We should prioritize meaningful connections over digital likes. (我們應該優先考慮有意義的連結，而非數位世界裡的讚。)
+* Detrimental (adj.) 有害的、不利的
+  * 比 `bad` 或 `harmful` 更正式。
+  * Excessive social media use has a detrimental effect on academic performance. (過度使用社群媒體對學業表現有不利的影響。)
+* Distort (v.) 扭曲、歪曲
+  * Filters and edited photos often distort our perception of natural beauty. (濾鏡與修圖過的照片常會扭曲我們對自然美的認知。)
+* Be/feel detached from reality (覺得) 與現實脫節
+  * 指過度沉溺虛擬世界而忽略現實生活。
+  * Spending too much time online can make one feel detached from reality. (花太多時間在網路上會讓人感到與現實脫節。)
+* Be mindful of N 注意、留意 (某事)
+  * Being mindful of how much time we spend online is essential for digital wellbeing. (留意我們在網路上花多少時間，對於數位健康至關重要。)
+  * Be mindful of your manners. (注意你的舉止。)
 
 ## 寫作建議
 
+針對「科技成癮」或「現代生活壓力」這類的主題，可以嘗試把握以下幾點策略，以提升文章的深度與共鳴感：
 
+* 多運用<mark style="color:blue;">**誇飾**</mark>與對比法，如原文使用 `go nuts` 或 `world had caved in`，能具象化心理層面的崩潰感，使讀者感受到某現象的嚴重性。
+* 分析現象的可能成因，再帶出現況，會使文章更有因果邏輯。
+* 提供建議時，應提出具體的替代方案，讓文章更有說服力。
 
 </details>
 
 ## 20.
 
 1. This year, my friends and I went camping <mark style="color:blue;">**in celebration of**</mark> Jenny's birthday. We went into the woods to find our <mark style="color:blue;">**campsite**</mark> and <mark style="color:blue;">**set up**</mark> our tents. The night was dark except for the <mark style="color:blue;">**dim**</mark> light of the moon. Ken started to tell a story he had heard about these woods ─ the ghost of a woman who had gotten lost in them still <mark style="color:blue;">**wandered**</mark> between the trees at night.
-2. She would <mark style="color:blue;">**drag**</mark> hikers deep into the woods, and they would never be seen again. The story <mark style="color:blue;">**sent shivers down our spines**</mark>. Suddenly, Ken <mark style="color:blue;">**switched of**</mark>**f** his flashlight. Everything was <mark style="color:blue;">**swallowed**</mark> by darkness. <mark style="color:blue;">**Terrified**</mark>, Jenny <mark style="color:blue;">**screamed at the top of her lungs**</mark>!
+2. She would <mark style="color:blue;">**drag**</mark> hikers deep into the woods, and they would never be seen again. The story <mark style="color:blue;">**sent shivers down our spines**</mark>. Suddenly, Ken <mark style="color:blue;">**switched off**</mark> his flashlight. Everything was <mark style="color:blue;">**swallowed**</mark> by darkness. <mark style="color:blue;">**Terrified**</mark>, Jenny <mark style="color:blue;">**screamed at the top of her lungs**</mark>!
 3. <mark style="color:blue;">**Before long**</mark>, Ken turned his flashlight back on. George and I had brought out the presents while it was dark. We started to sing "Happy Birthday" to Jenny. She was <mark style="color:blue;">**taken aback**</mark> at first, but she <mark style="color:blue;">**was relieved**</mark> that it was just a <mark style="color:blue;">**harmless prank**</mark>. We were sure she would never forget this birthday.
 
 ## 21.
