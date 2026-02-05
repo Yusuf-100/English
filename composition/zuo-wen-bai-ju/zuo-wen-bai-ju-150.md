@@ -4735,9 +4735,211 @@ She plays the piano, and she plays the violin, too.
 
 ## 20.
 
-1. This year, my friends and I went camping <mark style="color:blue;">**in celebration of**</mark> Jenny's birthday. We went into the woods to find our <mark style="color:blue;">**campsite**</mark> and <mark style="color:blue;">**set up**</mark> our tents. The night was dark except for the <mark style="color:blue;">**dim**</mark> light of the moon. Ken started to tell a story he had heard about these woods ─ the ghost of a woman who had gotten lost in them still <mark style="color:blue;">**wandered**</mark> between the trees at night.
+1. This year, my friends and I went camping <mark style="color:blue;">**in celebration of**</mark> Jenny's birthday. We went into the woods to find our <mark style="color:blue;">**campsite**</mark> and <mark style="color:blue;">**set up**</mark> our tents. The night was dark except for the <mark style="color:blue;">**dim**</mark> light of the moon. Ken started to tell a story he had heard about these woods—the ghost of a woman who had gotten lost in them still <mark style="color:blue;">**wandered**</mark> between the trees at night.
 2. She would <mark style="color:blue;">**drag**</mark> hikers deep into the woods, and they would never be seen again. The story <mark style="color:blue;">**sent shivers down our spines**</mark>. Suddenly, Ken <mark style="color:blue;">**switched off**</mark> his flashlight. Everything was <mark style="color:blue;">**swallowed**</mark> by darkness. <mark style="color:blue;">**Terrified**</mark>, Jenny <mark style="color:blue;">**screamed at the top of her lungs**</mark>!
 3. <mark style="color:blue;">**Before long**</mark>, Ken turned his flashlight back on. George and I had brought out the presents while it was dark. We started to sing "Happy Birthday" to Jenny. She was <mark style="color:blue;">**taken aback**</mark> at first, but she <mark style="color:blue;">**was relieved**</mark> that it was just a <mark style="color:blue;">**harmless prank**</mark>. We were sure she would never forget this birthday.
+
+<details>
+
+<summary>作文百句 20 單字整理</summary>
+
+## 單字
+
+* Camp
+  * (v.) 露營
+    * We decided to camp near the river to enjoy the sound of flowing water. (我們決定在河邊露營，以享受流水聲。)
+  * (n.) 營地、營隊
+    * 常用搭配為 `go camping` (去露營)。
+    * The children are excited about going camping this weekend. (孩子們對這週末去露營感到很興奮。)
+    * This summer camp offers various activities like swimming and hiking. (這個夏令營提供游泳和健行等各種活動。)
+* Celebration (n.) 慶祝、慶典
+  * 常見用法為 `in celebration of N/V-ing`，表「為了...而慶祝」。動詞形為 `celebrate`。
+  * The annual celebration attracts thousands of tourists to the city. (一年一度的慶典吸引了成千上萬的遊客來到這座城市。)
+  * We held a big party in celebration of our team's victory. (我們舉行了一個大型派對來慶祝我們團隊的勝利。)
+* Woods (n.) 森林、樹林
+  * 此意思下，通常用<mark style="color:blue;">**複數形**</mark>，面積通常比 `forest` 小一些。
+  * We took a long walk through the woods to collect some dry branches. (我們在樹林裡走了很久，為了收集一些乾枝。)
+  * It's easy to get lost in these thick woods if you don't follow the path. (如果不遵循路徑，在這些茂密的樹林中很容易迷路。)
+* Campsite (n.) 營地、露營地點
+  * The campsite we chose had a breathtaking view of the lake. (我們選擇的營地擁有令人驚嘆的湖景。)
+* Tent (n.) 帳篷
+  * 常見用法為 `set up / pitch a tent` (搭帳篷) 與 `strike a tent` (拆帳篷)。
+  * It took us nearly an hour to pitch the large tent in the dark. (我們花了將近一個小時才在黑暗中搭好那個大帳篷。)
+  * The rain started to leak through the top of our tent during the night. (夜裡雨水開始從我們帳篷的頂部滲漏進來。)
+* Dim (adj.) 微暗的、暗淡的
+  * 形容光線不足，也可以隱喻前景不樂觀或記憶模糊。
+  * The dim light of the candles created a romantic atmosphere. (蠟燭微弱的光芒營造出一種浪漫的氣氛。)
+  * His memory of the accident was getting dim as time passed. (隨著時間流逝，他對那場事故的記憶正變得模糊。)
+  * The team has a dim view of the future. (這團隊對未來抱持悲觀態度。)
+* Wander (v.) 漫遊、閒逛、徘徊
+  * We spent the entire afternoon wandering around the old town. (我們整個下午都在舊城區四處漫遊。)
+  * The lost child was seen wandering the streets alone. (有人看到那個走失的孩子獨自一人在街上遊蕩。)
+* Drag (v.) 拖曳、慢吞吞地移動
+  * 指費力地拉動某物，在口語也可形容事情進展緩慢且令人厭煩。
+  * The cat dragged its favorite toy under the sofa. (貓把牠最愛的玩具拖到了沙發下面。)
+  * I don't want to drag this meeting on any longer than necessary. (我不想讓這個會議拖得比必要的還久。)
+* Hiker (n.) 健行者、徒步旅行者
+  * 動詞形為 `hike` (長途健行)。
+  * The mountain trail is very popular among experienced hikers. (這條山路在經驗豐富的健行者中非常受歡迎。)
+* Shiver (n.) 戰慄、發抖
+  * A cold shiver ran down her back when she saw the shadow. (當她看到那個陰影時，背後感到一陣冷顫。)
+  * The sound of the wind gave me a shiver. (風聲讓我打了一個冷顫。)
+* Spine (n.) 脊椎、脊柱
+  * Stretching can help relieve the pressure on your spine. (伸展運動有助於緩解脊椎的壓力。)
+* Switch
+  * (v.) 開關；切換
+    * 常見用法為 `switch on/off`。
+    * Please switch off the lights before you leave the room. (離開房間前請關燈。)
+    * She decided to switch her major from history to computer science. (她決定將專業從歷史轉為計算機科學。)
+  * (n.) 電源開關
+    * I can't find the light switch in this dark hallway. (我在這昏暗的走廊裡找不到電燈開關。)
+* Flashlight (n.) 手電筒
+  * 英式英語常用 `torch`。
+  * Luckily, I had a flashlight in my bag when the power went out. (幸好停電時我包包裡有一支手電筒。)
+* Swallow (v.) 吞嚥、吞沒
+  * 在文學中常用於擬人化，描述被黑暗、雲霧等完全包圍。
+  * You should swallow the pill with plenty of water. (你應該配大量的水吞下藥丸。)
+  * The heavy fog swallowed the entire mountain peak in seconds. (濃霧在幾秒鐘內就吞沒了整個山頭。)
+* Darkness (n.) 黑暗、陰暗
+  * The cat's eyes glowed brightly in the absolute darkness. (貓的眼睛在完全的黑暗中閃閃發光。)
+* Terrified (adj.) 恐懼的、極度害怕的
+  * 常見用法為 `be terrified of N/V-ing`，表「害怕...」。動詞形為 `terrify`。
+  * I am terrified of losing you. (我好害怕失去你。)
+  * The kids were terrified by the loud thunder. (孩子們被巨大的雷聲嚇壞了。)
+* Scream (v./n.) 尖叫
+  * 當名詞時，常用 `let out a scream` 表「尖叫」。
+  * She couldn't help but scream when she stepped on a snail. (她踩到蝸牛時不禁尖叫了起來。)
+  * People were screaming in excitement during the concert. (在演唱會期間，人們興奮地尖叫著。)
+  * I heard a scream of pain. (我聽到了痛苦的尖叫聲。)
+  * She let out a piercing scream. (她發出了一聲刺耳的尖叫。)
+* Lung (n.) 肺、肺部
+  * Smoking can cause serious damage to your lungs over time. (隨著時間推移，吸煙會對你的肺部造成嚴重損害。)
+* Aback (adv.) 向後、朝後
+  * 極少單獨使用，幾乎只用在 `be taken aback (by N)` 這個片語中，表「嚇了一跳」或「感到震驚」。
+* Relieved (adj.) 寬慰的、放心的
+  * 名詞形為 `relief`。
+  * I felt so relieved when I finally found my keys. (當我終於找到鑰匙時，我感到如釋重負。)
+  * He was relieved to see that his exam results were good. (看到考試成績很好，他鬆了一口氣。)
+* Harmless (adj.) 無害的
+  * Most spiders in this area are completely harmless to humans. (這個地區的大多數蜘蛛對人類是完全無害的。)
+* Prank (n.) 惡作劇
+  * 通常指為了好玩而對某人做的玩笑行為，帶有戲弄性質但非惡意，多半是無傷大雅的玩笑。常見用法為 `play a prank on sb`。
+  * I don't think that cruel prank was very funny. (我不覺得那個殘酷的惡作劇很好笑。)
+  * The students played a prank on their teacher on April Fools' Day. (學生們在愚人節那天對老師開了個惡作劇。)
+
+</details>
+
+<details>
+
+<summary>作文百句 20 片語整理</summary>
+
+## 片語
+
+* Go camping 去露營
+  * `go + V-ing` 的常見用法。
+  * We plan to go camping in the national park this weekend. (我們計劃這週末去國家公園露營。)
+  * My parents used to go camping every summer when they were young. (我的父母年輕時每年夏天都會去露營。)
+* In celebration of N/V-ing 慶祝某事
+  * We held a grand banquet in celebration of our 10th anniversary. (我們舉辦了一場盛大的宴會來慶祝我們的十週年紀念。)
+  * A special monument was built in celebration of the city's liberation. (為了慶祝這座城市的解放，建造了一座特別的紀念碑。)
+* Set up sth 搭起、建立、安裝
+  * 在本文中指「搭帳篷」。也可指建立組織、安裝軟體或設置陷阱。
+  * It took the rescue team several hours to set up a temporary hospital. (救援隊花了幾個小時才搭起一座臨時醫院。)
+  * I need to set up my new computer and install some necessary programs. (我需要安裝我的新電腦並安裝一些必要的程式。)
+* Send shivers down one's spine 令某人背脊發涼、毛骨悚然
+  * 可以替換為 `send a chill down one's spine`。
+  * The creepy music in the horror movie sent shivers down my spine. (恐怖電影裡毛骨悚然的音樂讓我背脊發涼。)
+  * Hearing the news of the tragic accident sent shivers down everyone's spine. (聽到那場慘烈事故的消息讓每個人都感到毛骨悚然。)
+* Switch off sth 關掉、切換
+  * 常用於電器設備的開關。也可指「分心」或「停止思考」。
+  * Remember to switch off the air conditioner when you leave the house. (離開家時記得關掉冷氣。)
+  * Sometimes I just need to switch off and relax after a long day of work. (有時候在漫長的一天工作後，我只需要停止思考並好好放鬆。)
+* Scream at the top of one's lungs 聲嘶力竭地尖叫
+  * The fans were screaming at the top of their lungs when the superstar appeared. (當超級巨星出現時，粉絲們聲嘶力竭地尖叫。)
+  * She got trapped in the elevator and screamed at the top of her lungs for help. (她被困在電梯裡，大聲呼救。)
+* Before long 不久之後
+  * 等同於 `soon` 或 `in a short time`。
+  * Don't worry, the medicine will start to work before long. (別擔心，藥效不久之後就會開始發揮作用。)
+  * Before long, the rainy season will be over and summer will arrive. (不久之後，雨季就會結束，夏天就要來了。)
+* Turn on/off 開啟/關掉 (電器等)
+  * 最普遍的開關動詞，原意與「轉動」開關有關。
+  * 與 `switch on/off` 在多數現代語境下可互換。不過，`switch` 更強調「切換開關」的動作，常用於有明確開關按鈕的設備。在描述「突然的切換」時，`switch` 會比 `turn` 更有畫面感。
+  * Please turn on the fan; it’s getting a bit stuffy in here. (請打開電風扇；這裡變得有點悶熱。)
+  * Don't forget to turn off the oven after you finish baking. (烤完東西後別忘了關掉烤箱。)
+* Bring out sth 拿出、取出、帶出來
+  * 同 `bring sth out`。此片語也可用於指「出版 (產品、書)」或「激發出 (潛能)」。
+  * <mark style="color:blue;">**當受詞為代名詞 (e.g., it) 時，不能寫 bring out sth，須使用 bring sth out 的結構**</mark>。
+  * The waiter brought out a large tray of appetizers for our table. (服務生為我們這桌端出了一大盤開胃菜。)
+  * George brought the presents out while the lights were still off. (喬治在燈還關著的時候把禮物拿了出來。)
+  * The company is bringing out a new model next month. (公司下個月將推出一款新機型。)
+  * A good teacher knows how to bring out the best in every student. (一位好老師知道如何激發出每個學生最好的一面。)
+* Be taken aback 嚇了一跳、感到吃驚
+  * <mark style="color:blue;">**被動用法**</mark>。常接 `by/at N`，表達因為某事出乎意料而感到震驚。
+  * She was quite taken aback to see her ex-boyfriend at the wedding. (在婚禮上看到前男友讓她感到相當震驚。)
+  * I was taken aback by her sudden request for a divorce. (她突然提出離婚要求，讓我嚇了一跳。)
+  * He was quite taken aback at how much the city had changed. (他對這座城市的變化之大感到相當震驚。)
+* Be relieved 感到寬慰、鬆了一口氣
+  * 後方常接 `to V` 或 `that 子句`。
+  * I was relieved to hear that my grandmother's surgery was successful. (聽到我祖母的手術很成功，我鬆了一口氣。)
+  * We were relieved that the storm didn't cause any serious damage. (暴風雨沒有造成任何嚴重的損失，我們感到很欣慰。)
+
+</details>
+
+<details>
+
+<summary>作文百句 20 文法整理</summary>
+
+## 文法
+
+### `Except` vs. `except for` 除了... 之外 (不含)
+
+`except` 用於<mark style="color:blue;">**同類項目**</mark>的剔除，通常前面會有 `all`, `every`, `no`, `any`, `whole` 等強調全體的詞彙；`except for` 則用於「整體中的一小部分瑕疵」，通常<mark style="color:blue;">**例外與整體的性質不同**</mark>。此外，`except` 通常只放句中；`except for` 則可放句首或句中。
+
+* I like all fruits except apples. → 水果是整體，蘋果是同類中的剔除。
+* All the students passed the exam except Kevin. → 凱文是學生中的一個，性質相同。
+* The room was clean except for a few crumbs. → 房間是整體，麵包屑是異類的瑕疵。
+* Your essay is excellent except for a few minor spelling mistakes. → 文章是整體，拼字錯誤是其中的瑕疵，性質不同。
+* I have finished all my homework except the last math problem. (除了最後一題數學題，我已經做完所有的功課了。)
+* She had no money except what she earned from her part-time job. (她除了兼職賺來的錢之外，沒有其他錢了。)
+* I didn't tell anyone except my sister about the surprise party. (除了我姐姐，我沒告訴任何人關於驚喜派對的事。)
+* Except for the rain, the trip was fun. (除了下雨之外，旅程很有趣。)
+* Except for the noise of the traffic, it’s a very peaceful neighborhood. (除了交通噪音外，這是一個非常寧靜的社區。)
+* The room was completely silent except for the ticking of the old clock. (除了老時鐘的滴答聲外，房間裡一片死寂。)
+
+</details>
+
+<details>
+
+<summary>作文百句 20 補充資料</summary>
+
+這裡提供一些與本文主題相關的詞彙。
+
+* Campfire (n.) 營火
+  * Gathering around the campfire and sharing ghost stories is a classic camping tradition. (聚集在營火旁分享鬼故事是經典的露營傳統。)
+* Wilderness (n.) 荒野、大自然
+  * 更強調那種「無人煙、原始」的環境。
+  * The hikers spent three days lost in the vast wilderness before being found. (健行者在被發現之前，在廣大的荒野中迷路了三天。)
+* Eerie (adj.) 怪異的、令人毛骨悚然的
+  * 形容「超自然」或「讓人感到不安」的安靜或氣氛。
+  * An eerie silence filled the woods after the campfire went out. (營火熄滅後，樹林裡瀰漫著一種令人毛骨悚然的寧靜。)
+* Goosebumps (n.) 雞皮疙瘩
+  * 請注意要加 `s`。常用用法為 `give someone goosebumps` 或 `get goosebumps`，表「起雞皮疙瘩」。
+  * The ghost story Ken told was so scary that it gave everyone goosebumps. (阿肯講的鬼故事太可怕了，讓每個人都起了雞皮疙瘩。)
+* Practical joke (n. phr.) 整人惡作劇
+  * 指透過具體動作或安排來捉弄人的行為。與 `prank` 意思相近。常見用法為 `play/pull a practical joke on sb`。
+  * Playing a practical joke on a friend's birthday can make the celebration unforgettable. (在朋友生日時玩個整人惡作劇可以讓慶祝活動令人難忘。)
+  * The students pulled a harmless practical joke on their teacher. (學生們對老師做了一個無傷大雅的惡作劇。)
+* Sleeping bag (n.) 睡袋
+  * Make sure to pack a thick sleeping bag because it gets very cold in the mountains at night. (記得帶一個厚的睡袋，因為山上的晚上會變得很冷。)
+* Spooky (adj.) 幽靈般的、陰森的
+  * 形容環境、聲音或氣氛帶有神祕且讓人不安的感覺，常用於鬼故事背景。
+  * That abandoned house on the corner looks really spooky at night. (轉角那間廢棄的房子在晚上看起來真的很陰森。)
+* Fall for sth 上當、信以為真
+  * `sth` 通常是「謊言」、「假象」、「騙局」。指某人完全相信了編造的故事或陷阱。
+  * I can't believe you fell for that trick. (我真不敢相信你竟然上了那個當。)
+  * He is so naive that he always falls for their stories. (他太天真了，總是信了他們的鬼話。)
+
+</details>
 
 ## 21.
 
@@ -4745,6 +4947,288 @@ She plays the piano, and she plays the violin, too.
 2. Still, whether we should use euthanasia to help these people end their <mark style="color:blue;">**suffering**</mark> remains a <mark style="color:blue;">**highly controversial**</mark> topic. While <mark style="color:blue;">**being sympathetic to**</mark> their pain, we must also <mark style="color:blue;">**do our utmost**</mark> to <mark style="color:blue;">**ensure**</mark> they <mark style="color:blue;">**seek**</mark> professional care before making any <mark style="color:blue;">**irreversible**</mark> decisions.
 3. I'm not <mark style="color:blue;">**against**</mark> the idea of legal euthanasia, but I think it should <mark style="color:blue;">**serve as**</mark> a <mark style="color:blue;">**last resort**</mark> <mark style="color:blue;">**to**</mark> finally escape pain that cannot be cured. <mark style="color:blue;">**For one thing**</mark>, <mark style="color:blue;">**tight**</mark> restrictions should be established so that we can make sure that those who receive euthanasia are people who are truly <mark style="color:blue;">**irremediable**</mark>.
 4. <mark style="color:blue;">**For another**</mark>, people who <mark style="color:blue;">**seek**</mark> euthanasia must <mark style="color:blue;">**go through**</mark> a series of careful steps with the assistance of a medical expert to ensure it is what they sincerely want. If euthanasia were too quick and easy, it could <mark style="color:blue;">**end up being abused**</mark> as the "<mark style="color:blue;">**easy way out**</mark>" which people might choose without careful thought.
+
+<details>
+
+<summary>作文百句 21 單字整理</summary>
+
+## 單字
+
+* Severe (adj.) 嚴重的、劇烈的
+  * 常用於形容情況、疾病、天氣或痛苦。
+  * The patients with severe depression often require a combination of medication and therapy. (嚴重憂鬱症的患者通常需要藥物與治療的結合。)
+  * The region was hit by a severe storm, causing widespread power outages. (該地區遭受嚴重風暴襲擊，導致大規模停電。)
+* Depression (n.) 沮喪；憂鬱症；(經濟) 不景氣
+  * Clinical depression is a serious mental health condition that affects how you feel and think. (臨床憂鬱症是一種嚴重的心理健康狀況，會影響你的感受與思考。)
+  * The economic depression led to high unemployment rates across the country. (經濟大蕭條導致全國失業率攀升。)
+* Euthanasia (n.) 安樂死
+  * Euthanasia remains one of the most complex ethical issues in modern medicine. (安樂死仍是現代醫學中最倫理複雜的議題之一。)
+* Agony (n.) 極大痛苦、苦惱
+  * 強調生理或心理上極度的折磨。常見用法為 `in agony`。
+  * He lay on the ground in agony after the accident. (事故發生後，他痛苦地躺在地上。)
+  * The family waited in agony for any news of the missing child. (家人在極度痛苦中等待失蹤孩子的任何消息。)
+* Persistent (adj.) 持續的、執著的
+  * 動詞形為 `persist`。
+  * She consulted a doctor because of a persistent cough that lasted for weeks. (因為持續數週的咳嗽，她去諮詢了醫生。)
+  * His persistent efforts finally led to a breakthrough in the research. (他不懈的努力最終導致了研究的突破。)
+* Unbearable (adj.) 無法忍受的
+  * The heat in the small room became unbearable after the fan broke. (電風扇壞了之後，小房間裡的熱氣變得讓人無法忍受。)
+  * The emotional pain of losing her home was almost unbearable. (失去家園的情緒痛苦幾乎讓她無法忍受。)
+* Frustrating (adj.) 令人沮喪的、惱人的
+  * It’s frustrating when you work hard on something and don't see any results. (當你努力做某事卻看不到任何成果時，是很令人沮喪的。)
+  * Dealing with slow internet is extremely frustrating when you are in a hurry. (當你趕時間時，處理慢速網路非常令人煩躁。)
+* Struggle (v./n.) 掙扎、奮鬥、鬥爭
+  * (v.) 掙扎、奮鬥、鬥爭
+    * 作動詞時，常見用法為 `struggle to V` (努力去做...), `struggle against N` (對抗逆境), `struggle for sth` (為…奮鬥、爭取), `struggle with sth` (努力克服、對抗...)。
+    * The young mother is struggling to balance her career and family life. (這位年輕母親正努力在事業與家庭生活中取得平衡。)
+    * Many small businesses are struggling against the economic downturn. (許多小企業正在與經濟衰退作鬥爭。)
+    * The people struggled for freedom. (人民爭取自由。)
+    * He is struggling with math. (他很努力克服數學。)
+  * (n.) 掙扎、奮鬥、鬥爭
+    * It was a long struggle to success. (那是通往成功的漫長奮鬥。)
+* Invisible (adj.) 看不見的、隱形的
+  * 反義詞為 `visible`。
+  * Stars are invisible during the day because of the bright sunlight. (白天因為燦爛的陽光，星星是看不見的。)
+  * Many mental illnesses are invisible to others, but they are very real to the patient. (許多心理疾病對他人來說是看不見的，但對患者來說卻是非常真實的。)
+* Long-standing (adj.) 長期的、由來已久的
+  * The two countries have a long-standing dispute over the border. (這兩國在邊界問題上有著長期的爭議。)
+  * This is a long-standing tradition in our family that dates back centuries. (這是我們家族中一個可以追溯到幾個世紀前的悠久傳統。)
+* Aspect (n.) 層面、方面
+  * We need to consider every aspect of the problem before making a decision. (在做決定之前，我們需要考慮問題的各個層面。)
+  * The historical aspect of the city is what attracts most tourists. (這座城市的歷史層面是吸引大多數遊客的地方。)
+* Suffering (n.) 痛苦、折磨、受難
+  * 通常指長期的生理或心理痛苦。
+  * The charity aims to reduce the suffering of children living in poverty. (該慈善機構旨在減輕生活貧困兒童的痛苦。)
+  * Her silent suffering was finally recognized by her family. (她默默承受的痛苦終於被家人察覺。)
+* Remain
+  * (v.) 保持 (某種狀態)
+    * 此意思下當[連綴動詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)使用。
+    * Despite the chaos, she managed to remain calm. (儘管一片混亂，她還是努力保持冷靜。)
+  * (v.) 留在原地、剩下
+    * `remain to be + p.p.` 表「尚待...」。
+    * Only a few soldiers remained on the battlefield after the retreat. (撤退後只有少數士兵留在戰場上。)
+    * There remained one last piece of cake. (還剩最後一塊蛋糕。)
+    * That remains to be seen. (這還有待觀察。)
+    * A lot of work remains to be done. (許多工作尚待完成。)
+* Controversial (adj.) 有爭議的
+  * 由名詞 `controversy` 演變而來。
+  * The government's new tax policy has become a controversial topic. (政府的新稅收政策已成為一個具爭議的話題。)
+* Sympathetic (adj.) 同情的、有同情心的
+  * 常見用法為 `be sympathetic to/towards sb/sth`。
+  * He was very sympathetic to my situation and offered to help. (他對我的處境深感同情，並主動提出幫助。)
+  * The audience was sympathetic towards the protagonist's tragic background. (觀眾對主角悲慘的背景深感同情。)
+* Utmost
+  * (n.) 最大限度、竭盡全力
+    * 常用於片語 `do one's utmost` (竭盡所能)。
+    * I will do my utmost to ensure that the task is completed on time. (我會竭盡所能確保任務準時完成。)
+  * (adj.) 極度的、最大的
+    * This experimental project is of the utmost importance to our company. (這個實驗計畫對我們公司來說至關重要。)
+    * I have the utmost respect for her. (我極度尊敬她。)
+* Ensure (v.) 確保、保證
+  * 常見用法為 `ensure N`, `ensure that ...`。與 `assure` (詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-dan-zi-zheng-li)) 的用法不同，`ensure` 後不直接接人。
+  * Please ensure that all the windows are closed before you leave the house. (請確保離開家前所有的窗戶都已關上。)
+  * The law was passed to ensure equal rights for all citizens. (法律的通過是為了確保所有公民的平等權利。)
+* Irreversible (adj.) 不可逆的、無法挽回的
+  * Smoking can cause irreversible damage to your lungs. (吸煙會對你的肺部造成不可逆的損害。)
+  * Once the contract is signed, the decision is irreversible. (一旦合約簽署，該決定就無法挽回了。)
+* Against (prep.) 反對、對抗、逆著
+  * `be against the idea` 表示「反對這項提議」。反義詞為 `for` (贊成)。
+  * Are you for or against the new proposal for increasing taxes? (你是贊成還是反對增加稅收的新提案？)
+* Legal (adj.) 法律的、合法的
+  * 反義詞為 `illegal`。
+  * You should seek legal advice before you sign such an important contract. (在簽署如此重要的合約前，你應該尋求法律建議。)
+  * In some countries, it is legal to turn right at a red light. (在某些國家，紅燈右轉是合法的。)
+* Serve (v.) 服務；服役；擔任；起...作用
+  * This company has been serving customers for 50 years. (這家公司為客戶服務了 50 年。)
+  * He served in the army for twenty years before retiring. (他在退伍前在軍隊服役了二十年。)
+* Resort (n.) 訴諸、最後手段
+  * `last resort` 指在所有其他方法都失敗後，採取的最終途徑。
+  * 亦可作為動詞使用，常見用法為 `resort to N`，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-15-pian-yu-zheng-li)。
+  * I don't want to use violence except as a final resort. (除非作為最後手段，否則我不想使用暴力。)
+  * We had to cancel the trip as a last resort due to the safety warning. (由於安全警告，我們不得不取消行程，這是萬不得已的做法。)
+* Escape (v.) 逃脫、逃避、遺漏
+  * `escape from N` 指從一個原本困住或限制你的環境或狀態中<mark style="color:blue;">**逃離**</mark>出來；`escape N` 則指<mark style="color:blue;">**避開**</mark>不好的事物。兩者的語意不同。
+  * They managed to escape from the burning building just in time. (他們設法及時從燃燒的建築中逃脫。)
+  * The dog escaped from the backyard. (狗從後院逃走了。)
+  * Reading novels is a great way for me to escape from the stress of reality. (讀小說是我逃避現實壓力的一種好方法。)
+  * She was lucky to escape injury. (她很幸運地沒有受傷。)
+  * He managed to escape doing his homework. (他設法逃避做作業。)
+* Cure (v./n.) 治癒、治療
+  * 常搭配 `cure sb of sth`。與 `treat` (治療過程) 不同，`cure` 強調「<mark style="color:blue;">**治好**</mark>」的結果。
+  * Doctors are still searching for a way to cure the common cold. (醫生們仍在尋找治癒普通感冒的方法。)
+  * The new treatment successfully cured him of his chronic back pain. (新療法成功治癒了他的慢性背痛。)
+  * There's no known cure for this disease. (這種病沒有已知的治癒方法。)
+* Tight (adj.) 緊的、嚴密的、嚴格的
+  * `tight` 的其他意思，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-13-dan-zi-zheng-li)。
+  * The government has imposed tight restrictions on international travel. (政府對國際旅遊實施了嚴格的限制。)
+  * Make sure the lid is tight so the liquid doesn't leak out. (確保蓋子蓋緊，這樣液體才不會漏出來。)
+* Establish (v.) 建立、設立、確立
+  * 用於建立機構、法律、規則或長期的關係。
+  * The school was established in 1950 by a group of passionate educators. (這所學校由一群充滿熱情的教育家於 1950 年創立。)
+  * It takes years to establish a reputation for quality and reliability. (建立品質與可靠性的聲譽需要多年的時間。)
+* Truly (adv.) 真實地、真正地、確實地
+  * I am truly grateful for all the help you have given me. (我真的很感激你給我的所有幫助。)
+  * Only a truly brave person would risk their life for a stranger. (只有真正勇敢的人才會為陌生人冒生命危險。)
+* Irremediable (adj.) 無法治癒的、不治的
+  * 反義詞為 `remediable`。
+  * The project had several irremediable flaws. (這個專案有幾個無法補救的缺陷。)
+  * The damage to the ancient painting was deemed irremediable by the experts. (專家認為這幅古畫的損壞已無法修復。)
+* Assistance (n.) 協助、援助
+  * 比 `help` 更正式。常用搭配 `with the assistance of`。
+  * The elderly woman needs medical assistance to perform daily tasks. (這位老婦人需要醫療協助才能完成日常工作。)
+  * The project was completed with the assistance of a local firm. (該項目在一家當地公司的協助下完成。)
+* Medical (adj.) 醫療的、醫學的
+  * You should seek medical attention if the symptoms persist. (如果症狀持續，你應該尋求醫療救助。)
+* Expert (n./adj.) 專家；專門的
+  * 常搭配 `an expert in/on sth`。
+  * She is a leading expert on climate change and its impact on the ocean. (她是氣候變遷及其對海洋影響方面的頂尖專家。)
+  * You should get an expert opinion before you invest all your money. (在投入所有資金前，你應該徵求專家意見。)
+* Abuse (v. & n.) 濫用、虐待、辱罵
+  * `substance abuse` 表「藥物、物質濫用」。
+  * He was accused of using his position to abuse his power for personal gain. (他被指控利用職務之便濫用權力謀取私利。)
+  * Some internet users use social media to abuse and bully others anonymously. (一些網路使用者利用社交媒體匿名辱罵和欺凌他人。)
+  * Drug abuse is a serious problem. (藥物濫用是一個嚴重的問題。)
+
+</details>
+
+<details>
+
+<summary>作文百句 21 片語整理</summary>
+
+## 片語
+
+* Cope with 應付、處理 (難題)
+  * 與 `handle` 或 `deal with` 意思相近。
+  * It’s hard for her to cope with the sudden loss of her job. (對她來說，應付突然失去工作的打擊是很困難的。)
+  * Some people use meditation to help them cope with daily stress. (有些人利用冥想來幫助他們應付日常壓力。)
+* Struggle against N 與...奮鬥、對抗
+  * The activists have been struggling against racial discrimination for decades. (積極分子幾十年來一直在與種族歧視作鬥爭。)
+  * In the movie, the hero struggles against his own inner demons. (在電影中，英雄與他內心的惡魔搏鬥。)
+* Spin out of control 失去控制、陷入混亂
+  * After the scandal broke, the celebrity's career started to spin out of control. (醜聞爆發後，這位名人的事業開始失控。)
+  * The demonstration quickly spun out of control, leading to violent clashes. (遊行很快就失控了，導致了暴力衝突。)
+* Be sympathetic to/towards sb/sth 對...表示同情、理解
+  * The teacher was very sympathetic to the student's personal problems. (老師對學生的個人問題深表同情。)
+  * Most people are sympathetic to the plight of refugees fleeing war. (大多數人對逃離戰爭的難民境遇表示同情。)
+* Do one's utmost 竭盡所能、全力以赴
+  * I will do my utmost to finish the project before the deadline. (我會竭盡全力在截止日期前完成這項專案。)
+  * The doctors did their utmost to save the patient's life. (醫生們竭盡所能挽救病人的性命。)
+* Serve as 充當、作為...之用
+  * This sofa can also serve as a guest bed when needed. (需要時，這沙發也可以充當客床。)
+  * The high walls serve as a barrier to keep unwanted visitors out. (高牆起到了阻擋不速之客的作用。)
+  * The old lighthouse now serves as a museum for local history. (這座舊燈塔現在作為當地歷史博物館之用。)
+* Make sure 確保、確認
+  * 常用結構為 `make sure (that) + 子句` 或 `make sure of + N`。
+  * Please make sure that you have turned off all the lights before leaving. (請確保離開前已經關掉所有的燈。)
+  * I need to make sure of the flight time before I head to the airport. (去機場前我需要確認一下班機時間。)
+* Go through 經歷 (苦難)；進行 (程序)
+  * She went through a difficult divorce last year. (她去年經歷了一場艱難的離婚。)
+  * All passengers must go through security checks before boarding. (所有乘客登機前都必須經過安全檢查。)
+* End up V-ing 最後...、結果是...、落得...的下場
+  * If you keep spending money like this, you will end up being broke. (如果你繼續這樣花錢，最後會落得破產的下場。)
+  * The new law was intended to protect people, but it ended up being abused by criminals. (這項新法本意是保護人民，結果卻落得被罪犯濫用的下場。)
+* Easy way out 省事的解脫、捷徑 (通常帶<mark style="color:blue;">**貶義**</mark>)
+  * 形容在面對困境時，不選擇努力克服，而是選擇逃避或採取最簡便的解決辦法。常見搭配為 `take the easy way out`。
+  * Quitting the job seems like an easy way out, but it doesn't solve your financial problems. (辭職似乎是個省事的解脫，但這解決不了你的經濟問題。)
+  * Don't just take the easy way out; try to face the challenge head-on. (不要只求走捷徑，試著正面迎接挑戰。)
+
+</details>
+
+<details>
+
+<summary>作文百句 21 文法整理</summary>
+
+## 文法
+
+* `There is nothing more + Adj. + than N/V-ing` 沒有什麼比...更...的了
+  * For those in constant pain, there is nothing more desirable than a peaceful end to their suffering. (對於那些身處持續痛苦中的人來說，沒有什麼比平靜地結束痛苦更令人嚮往的了。)
+  * There's nothing more exciting than seeing my favorite singer in person. (沒有什麼比親眼看到我最喜歡的歌手更令人興奮了。)
+  * There's nothing more important than family. (沒有什麼比家人更重要了。)
+* `Would rather + VR (+ than VR)` 寧願...也不願...
+  * 注意這裡是用 <mark style="color:blue;">**`would`**</mark> 而不是 `will`，且都是接<mark style="color:blue;">**原形動詞**</mark>。
+  * If it keeps raining, I would rather go home. (如果一直下雨，我寧願回家算了)。
+  * I would rather stay up all night studying than fail my final exam. (我寧願通宵讀書也不願期末考不及格。)
+  * They would rather die than surrender. (他們寧願死也不願投降。)
+
+{% hint style="info" %}
+#### `Prefer`
+
+`prefer` 表「較喜歡」或「寧願」，也有類似的用法，但句型結構完全不同。
+
+* `prefer + N/V-ing + (to + N/V-ing)` 比起...更喜歡...
+  * 注意這裡的連接詞是 <mark style="color:blue;">**`to`**</mark> 而非 `than`，且都是接 `N/V-ing`。
+  * Some people prefer a vegetarian diet, while others prefer a meat-based diet. (有些人更喜歡素食，而其他人更喜歡肉食。)
+  * I prefer coffee to tea. (比起茶，我更喜歡咖啡。)
+  * He prefers a quiet evening at home to going out to clubs. (比起去夜店，他更喜歡在家安靜的晚上。)
+* `prefer + to VR (+ rather than + VR)` 寧願...也不願...
+  * 注意這裡是用 <mark style="color:blue;">**`rather than`**</mark>，且前面是 `to VR`，後面是 `VR`。
+  * I prefer to eat at home. (我比較想在家裡吃。)
+  * He prefers to keep his problems to himself rather than bother his friends. (他寧願把問題藏在心裡也不願打擾朋友。)
+  * She prefers to walk rather than take the bus. (她寧願走路也不坐公車。)
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 21 補充資料</summary>
+
+## 文章分析
+
+本文採取「現象陳述」→「倫理平衡」→「具體方案」的結構。作者首先透過 `invisible enemy` 與 `long-standing` 等修辭，具象化憂鬱症患者難以言說的 `agony`，博取讀者的情感認同。隨即，文章轉向理性討論，平衡了「同情」與「謹慎」兩大面向，避免了單一立場的偏頗。
+
+在細節處理上，作者運用 `For one thing` 與 `For another` 的平行結構，清晰列舉出安樂死若要合法化所需的嚴格門檻。特別是結尾提到的 `easy way out`，精準指出該議題的核心憂慮——濫用的風險，能更進一步引發讀者思考。
+
+## 寫作補給站—醫療倫理與生命尊嚴
+
+這裡提供一些與本文主題相關的詞彙。
+
+* Dignity (n.) 尊嚴
+  * 指受人尊重且保有自我價值的狀態。在「死亡權」的討論中，`die with dignity` (尊嚴死) 是核心論點。
+  * Every individual has the right to live and die with dignity, regardless of their health status. (每個人都有權尊嚴地生活與死去，無論其健康狀況如何。)
+  * The hospice program focuses on maintaining the patient's dignity during their final days. (安寧療護計畫專注於在患者最後的日子裡維護其尊嚴。)
+* Autonomy (n.) 自主權、自治權
+  * 除了指個人的自主權，這個字也可以指政治上的自治。
+  * Respecting a person's autonomy means allowing them to make their own life choices. (尊重一個人的自主權意味著允許他們做出自己的生活選擇。)
+  * Teachers should encourage student autonomy. (教師應鼓勵學生的自主性。)
+  * Demonstrators demanded immediate autonomy for their region. (示威者要求立即實現該地區的自治。)
+* Compassion (n.) 憐憫、同理心
+  * 比 `sympathy` (同情) 更進階，指在同理他人的痛苦後，進一步產生希望對方更好、並有意願採取行動去幫助的想法。
+  * Nurses show great compassion when caring for patients who are in extreme pain. (護理師在照顧極度疼痛的患者時，展現了極大的同情心。)
+  * Compassion is the foundation of any discussion regarding end-of-life choices. (同情心是任何關於臨終選擇討論的基礎。)
+* Terminal illness (n. phr.) 末期疾病、不治之症
+  * Patients diagnosed with a terminal illness often face difficult decisions regarding their end-of-life care. (診斷出患有末期疾病的患者，通常面臨關於臨終照護的艱難決定。)
+* Ethical dilemma (n. phr.) 倫理困境、道德兩難
+  * Doctors often find themselves in an ethical dilemma when medical resources are limited. (當醫療資源有限時，醫生經常發現自己陷入倫理困境。)
+* Quality of life (n. phr.) 生活品質
+  * 用來衡量一個人身心健康狀況與生活滿意度的標準。
+  * In many cases, the goal of medicine shifts from extending life to improving the quality of life. (在許多情況下，醫學的目標從延長生命轉向提高生活品質。)
+  * Chronic pain can severely diminish a person's quality of life and mental well-being. (慢性疼痛會嚴重削弱一個人的生活品質與心理健康。)
+* Palliative care (n. phr.) 姑息治療、安寧療護
+  * 專注於緩解症狀和提高生活品質，而非治癒疾病的醫療照護。
+  * Palliative care can significantly improve the quality of life for those with chronic illnesses. (姑息治療可以顯著提高慢性病患者的生活品質。)
+  * The goal of palliative care is to provide physical, emotional, and spiritual support to patients. (姑息治療的目標是為患者提供生理、情感和精神上的支持。)
+* Social stigma (n. phr.) 社會烙印、社會汙名
+  * 指社會對某些特質 (如心理疾病) 的負面看法，會阻礙患者尋求協助。
+  * Education is key to reducing the social stigma attached to depression and anxiety. (教育是減少對憂鬱和焦慮的社會烙印的關鍵。)
+  * Many patients suffer more from social stigma than from the symptoms of the disease itself. (許多患者遭受社會汙名的痛苦，更甚於疾病症狀本身。)
+* Informed consent (n. phr.) 知情同意
+  * 法律與醫療專業術語，指在充分了解風險與後果後所做出的正式同意。
+  * Obtaining informed consent is a critical step in any medical procedure or research. (獲得知情同意是任何醫療程序或研究中的關鍵步驟。)
+  * Patients must be given all the necessary information to provide truly informed consent. (必須提供患者所有必要的資訊，以便他們提供真正的知情同意。)
+* End-of-life choice (n. phr.) 臨終選擇
+  * 專指一個人在生命接近終點時，對於醫療照護方式 (e.g., 是否插管、是否接受安寧療護、安樂死等) 所做的自主決定。
+  * Making an end-of-life choice early can ensure that one's final days are spent according to their own wishes. (提早做出臨終選擇可以確保一個人在最後的日子裡能按照自己的意願度過。)
+  * The ethical debate over end-of-life choices often centers on the balance between medical intervention and the patient's right to die with dignity. (關於臨終選擇的倫理辯論，通常圍繞在醫療干預與病患尊嚴死權利之間的平衡。)
+
+## 寫作建議
+
+* 兩面論證：可以使用 `While` 引導的讓步子句，讓論點看起來更成熟、更具批判性思維，而不是盲目支持。
+* 提出解決方案或限制條件時，可以使用 `For one thing... For another...` 或 `First... Furthermore...` 等，將你的論點依序列出。
+
+
+
+</details>
 
 ## 22.
 

@@ -19,19 +19,10 @@ Author: Yusuf 100
 <a href="https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp" class="button primary" data-icon="gamepad-modern">YouTube</a><a href="https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D&#x26;utm_source=qr" class="button primary" data-icon="envira">IG</a>
 
 {% updates format="full" %}
-{% update date="2026-02-04" %}
-## No. 647 更新
+{% update date="2026-02-06" %}
+## No. 648 更新
 
-#### 更新作文百句
-
-* 補上 Topic 11 文法索引到 Topic 17 文法的連結。
-* 新增 Topic 17 文法整理、寫作建議。
-* 新增 Topic 18 單字、片語、文法整理、寫作建議。
-
-#### 更新首頁
-
-* 將資訊欄內的連結改成互動式按鈕。
-* 新增「更新」欄。
+新增 Topic 19、20、21 的單字、片語、文法整理、補充資料。
 {% endupdate %}
 {% endupdates %}
 
