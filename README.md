@@ -18,14 +18,6 @@ Author: Yusuf 100
 
 <a href="https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp" class="button primary" data-icon="gamepad-modern">YouTube</a><a href="https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D&#x26;utm_source=qr" class="button primary" data-icon="envira">IG</a>
 
-{% updates format="full" %}
-{% update date="2026-02-06" %}
-## No. 648 更新
-
-新增 Topic 19、20、21 的單字、片語、文法整理、補充資料。
-{% endupdate %}
-{% endupdates %}
-
 ***
 
 ## 高一上學期 - 學習成果

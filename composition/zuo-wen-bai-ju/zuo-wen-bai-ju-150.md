@@ -5235,11 +5235,386 @@ She plays the piano, and she plays the violin, too.
 1. Last Sunday, my dad drove us to our local supermarket to <mark style="color:blue;">**pick up some groceries**</mark>. Although shopping is a <mark style="color:blue;">**routine affair**</mark>, this outing was quite memorable and <mark style="color:blue;">**dramatic**</mark>. The drama actually <mark style="color:blue;">**unfolded**</mark> before we even entered the supermarket. After we parked our car, we were shocked to find that there was an <mark style="color:blue;">**infant**</mark> left alone in the back seat of the car next to ours. She was <mark style="color:blue;">**crying her eyes out**</mark> and <mark style="color:blue;">**screaming at the top of her lungs**</mark>.
 2. <mark style="color:blue;">**Worried about**</mark> the safety of the infant, my dad tried to open the door, but it was locked, so my mom called the police immediately. Five minutes later, a police officer arrived. <mark style="color:blue;">**Seeing**</mark> that the infant's face had started to turn red, he decided to break the window and get the baby out. When the mother returned to the car, she was surprised to see that people gathered around her car and <mark style="color:blue;">**that**</mark> her car window was broken. The police officer <mark style="color:blue;">**reprimanded**</mark> her and warned her that she should never leave her baby <mark style="color:blue;">**unattended**</mark> in the car, especially <mark style="color:blue;">**on**</mark> a hot day <mark style="color:blue;">**with**</mark> the windows closed. He even gave her a <mark style="color:blue;">**ticket**</mark>. After this <mark style="color:blue;">**incident**</mark>, I believe the mother will never make such an <mark style="color:blue;">**appalling**</mark> mistake again.
 
+<details>
+
+<summary>作文百句 22 單字整理</summary>
+
+## 單字
+
+* Local
+  * (adj.) 當地的、本地的
+    * We love to eat at local restaurants to experience the authentic culture of the city. (我們喜歡在當地餐廳用餐，以體驗這座城市真正的文化。)
+    * The local high school is famous for its outstanding basketball team. (當地的這所高中以其優秀的籃球隊聞名。)
+  * (n.) 當地居民
+    * 常用複數 `locals`。
+    * The locals were very friendly and gave us directions to the hidden waterfall. (當地人非常友善，並告訴我們通往隱藏瀑布的方向。)
+* Groceries (n.) 食品雜貨
+  * 通常以<mark style="color:blue;">**複數**</mark>形式出現，指在超市或商店購買的食物與生活用品。
+  * My dad usually helps my mom carry the heavy bags of groceries into the kitchen. (我爸爸通常會幫我媽媽把沉重的食品雜貨提到廚房。)
+  * The price of groceries has been rising steadily over the past few months. (過去幾個月來，食品雜貨的價格一直在穩定上漲。)
+* Routine
+  * (adj.) 慣例的、例行的
+    * Checking my emails has become a routine part of my morning. (查看電子郵件已成為我早晨例行的一部分。)
+    * The doctor performed a routine check-up to ensure that everything was normal. (醫生進行了例行檢查，以確保一切正常。)
+  * (adj.) 平常的、乏味的
+    * Life can become a bit routine. (生活可能會變得有點平淡無奇。)
+    * My job is so routine and boring. (我的工作非常的一成不變而且乏味。)
+  * (n.) 例行公事、慣例、日常瑣事
+    * Brushing my teeth is part of my <mark style="color:blue;">**daily routine**</mark>. (刷牙是我的日常作息之一。)
+    * I'm trying to incorporate exercise into my routine. (我正試著把運動納入我的日常生活中。)
+* Affair (n.) 事務、事件、事情、婚外情
+  * 指發生的一系列事件，或者指某人的私事。
+  * The annual garden party was a grand affair attended by many local celebrities. (一年一度的花園派對是一場盛大的活動，有許多當地名人參加。)
+  * I prefer to keep my private affairs away from my professional life. (我傾向於將私事與職業生活分開。)
+  * Sorting out the family's financial affairs took several weeks. (整理家族的財務事務花了幾週時間。)
+  * She discovered that her husband was having an affair. (她發現她丈夫外遇了。)
+* Memorable (adj.) 值得紀念的、難忘的
+  * Our trip to the mountains was a truly memorable experience for the whole family. (我們去山上的那次旅行對全家人來說真的是一次難忘的經歷。)
+  * It was a memorable day when I finally graduated from university. (當我終於從大學畢業時，那是個值得紀念的日子。)
+* Dramatic (adj.) 戲劇性的、引人注目的
+  * 形容情節跌宕起伏，或變化非常顯著。
+  * The story took a dramatic turn when the long-lost brother suddenly appeared. (當失散多年的兄弟突然出現時，故事發生了戲劇性的轉折。)
+  * The mountain scenery was so dramatic that we couldn't stop taking pictures. (山景是如此引人注目，以至於我們不停地拍照。)
+  * There has been a dramatic increase in the number of people working from home. (在家工作的人數有了顯著的增加。) → 形容數據大幅變化。
+* Unfold (v.) 展開、呈現、顯示
+  * 原指展開摺疊的東西，引申為故事、情節或計畫的發展。
+  * As the sun rose, the beautiful landscape began to unfold before our eyes. (隨著太陽升起，美麗的景色開始在我們眼前展開。)
+  * We watched the mystery unfold as the detective gathered more clues. (隨著偵探收集到更多線索，我們看著謎團逐漸展開。)
+  * Let's wait and see how the situation unfolds before making a final decision. (在做最終決定之前，讓我們拭目以待情勢如何發展。)
+* Enter (v.) 進入；參加；輸入
+  * You should knock on the door before you enter someone's private office. (進入別人的私人辦公室前，你應該先敲門。)
+  * Hundreds of athletes from around the world have entered the marathon this year. (今年有來自世界各地的數百名運動員參加了這場馬拉松。)
+  * Please enter your password to log in to your account. (請輸入你的密碼以登入你的帳戶。)
+* Park
+  * (n.) 公園
+    * We spent a relaxing afternoon having a picnic in the national park. (我們在國家公園野餐，度過了一個放鬆的下午。)
+  * (v.) 停車
+    * It’s usually very difficult to find a place to park in the city center during rush hour. (在尖峰時段，通常很難在市中心找到停車位。)
+* Infant (n.) 嬰兒、幼兒
+  * 指一歲以下的嬰孩，語氣比 `baby` 更正式。
+  * The hospital has a special unit for the care of newborn infants. (醫院有一個專門照顧新生兒的單位。)
+* Alone (adj./adv.) 獨自的、單獨的
+  * 強調<mark style="color:blue;">**只有一個人**</mark>的狀態。與 `lonely` (孤單的，強調<mark style="color:blue;">**心理感受**</mark>) 不同。
+  * I prefer to study alone in the library because it’s much quieter there. (我更喜歡獨自在圖書館讀書，因為那裡安靜得多。)
+  * He finished the work alone. (他獨自完成了工作。)
+  * She likes being alone. (她喜歡獨處。)
+* Immediately (adv.) 立即地、馬上
+  * 形容詞為 `immediate`。
+  * If you feel any pain, you should notify the nurse immediately. (如果你感到任何疼痛，你應該立即通知護理師。)
+  * I realized my mistake immediately after I sent the email. (寄出郵件後我立即意識到了我的錯誤。)
+* Return
+  * (v./n.) 回來；歸還；回報
+    * When do you plan to return from your business trip to London? (你計畫什麼時候從倫敦的出差中回來？)
+    * Please remember to return the library books before the due date. (請記得在截止日期前歸還圖書館的書。)
+    * I helped him with his project, and he returned the favor by buying me lunch. (我幫他做專案，而他請我吃午餐來回報我的恩情。)
+    * His return was unexpected. (他的歸來出乎意料。)
+    * Alana gave her boyfriend a present, and her boyfriend gave her a kiss in return. (Alana 送禮物，男友回送一個吻。)
+  * (n.) 收益
+    * The investors are expecting a high return on their investment this year. (投資者期望今年能從他們的投資中獲得高收益。)
+    * The project yielded a high rate of return. (該專案產生了高回報率。)
+* Gather (v.) 聚集、收集、逐漸增加
+  * A crowd of people gathered outside the supermarket to see what was happening. (一群人聚集在超市外，想看看發生了什麼事。)
+  * We need to gather more evidence before we can make a final judgment. (在做出最終判斷之前，我們需要收集更多證據。)
+  * The storm clouds began to gather in the sky, and it started to get dark. (雷雨雲開始在天空中聚集，天色開始變暗。)
+* Reprimand (v.) 訓誡、斥責
+  * The officer reprimanded the driver for speeding in a school zone. (警官斥責該司機在學校區域超速。)
+  * The teacher reprimanded the students for talking during the lecture. (老師斥責學生在講座期間說話。)
+* Unattended (adj.) 無人看管的、無人照料的
+  * Never leave your bags unattended while you are at the airport. (在機場時，絕對不要讓你的行李無人看管。)
+  * The fire was left unattended and quickly spread to the nearby trees. (火源處於無人看管的狀態，並迅速蔓延到附近的樹木。)
+* Especially (adv.) 尤其、特別是
+  * I love all kinds of music, especially classical and jazz. (我喜歡各種音樂，尤其是古典樂和爵士樂。)
+  * The traffic is always heavy in the morning, especially on Mondays. (早晨交通總是很擁擠，尤其是週一。)
+* Ticket (n.) 罰單；票券
+  * I got a <mark style="color:blue;">**parking ticket**</mark> because I stayed in the spot for too long. (因為我在那個位置待太久，我收到了一張停車罰單。)
+  * He had to pay a heavy fine after receiving a <mark style="color:blue;">**speeding ticket**</mark>. (在收到超速罰單後，他不得不支付一大筆罰款。)
+  * I lost my train ticket. (我弄丟了火車票。)
+* Incident (n.) 事件
+  * 泛指任何發生、值得注意的事件、情況或插曲。`accident` 則特指未經計畫、非故意發生，且導致人身傷害、財產損失或不良後果的不幸事件。
+  * She wrote a detailed report about the incident to her supervisor. (她向主管寫了一份關於該事件的詳細報告。)
+  * We want to avoid any further incidents that might damage our reputation. (我們希望避免任何可能損害我們聲譽的進一步事件。)
+  * He had a car accident. (他發生了車禍。)
+* Appalling (adj.) 令人震驚的、糟糕的
+  * The living conditions in the refugee camp were truly appalling. (難民營的生活條件真的很糟糕。)
+  * It is appalling that such a mistake was made by a professional. (一個專業人士犯下這樣的錯誤，真是令人震驚。)
+
+</details>
+
+<details>
+
+<summary>作文百句 22 片語整理</summary>
+
+## 片語
+
+* Drive sb to + place 開車載某人去某地
+  * Can you drive me to the airport tomorrow morning? I have an early flight. (你明天早上能開車載我去機場嗎？我有早班飛機。)
+  * She drives her children to school every day before going to work. (她每天上班前都會開車送孩子去學校。)
+* Pick up sth 購買、接送、拿起
+  * I need to pick up some milk on my way home from work. (我下班回家的路上需要順便買些牛奶。)
+  * Could you pick up the kids from school this afternoon? (你今天下午能去學校接孩子嗎？)
+  * He picked up the newspaper that was lying on the front porch. (他拾起了放在前廊報紙。)
+* Cry one's eyes out 嚎啕大哭、哭得很傷心
+  * The little girl cried her eyes out after she lost her favorite doll. (小女孩丟了她最愛的娃娃後，嚎啕大哭。)
+  * I cried my eyes out when I watched that tragic movie last night. (昨晚看那部悲劇電影時，我哭得很傷心。)
+* Be worried about sb/sth 擔心...
+  * My parents are worried about my safety when I travel alone. (當我獨自旅行時，我的父母很擔心我的安全。)
+  * We are worried about the impact of the new policy on small businesses. (我們擔心新政策對小企業的影響。)
+* Call the police/ambulance 打電話叫警察/救護車
+  * Someone please call an ambulance! There has been a serious accident. (誰來叫一下救護車！發生了嚴重的事故。)
+  * You should <mark style="color:blue;">**call the fire department**</mark> if you smell smoke in the hallway. (如果你在走廊聞到煙味，你應該打電話給消防隊。)
+* Gather around N 聚集在...周圍
+  * The children gathered around the storyteller to hear the exciting legend. (孩子們聚集在說書人周圍，聽著興奮的傳說。)
+
+</details>
+
+<details>
+
+<summary>作文百句 22 文法整理</summary>
+
+## 文法
+
+* `leave + O + OC` 使...保持在...狀態、留下...&#x20;
+  * 描述使某人/某事保持在某種狀態，與底下的 `with + O + OC` 意思略有不同。受詞補語可以是形容詞、分詞 (`V-ing`/`p.p.`) 或介係詞片語。分詞的主被動判斷方式與分詞構句相同。
+  * He left the room <mark style="color:blue;">**empty**</mark>. (他讓房間空著。)
+  * Don't leave the light <mark style="color:blue;">**on**</mark> when you go out. (出門時不要讓燈開著。)
+  * I'm sorry for leaving you <mark style="color:blue;">**alone**</mark> for so long. (對不起，讓你一個人待了這麼久。)
+  * She left him <mark style="color:blue;">**crying**</mark> after the argument. (爭吵後她讓他哭泣。)
+  * The movie was so boring that it left me <mark style="color:blue;">**feeling**</mark> frustrated. (這部電影太無聊了，讓我感到很沮喪。)
+  * He left the work <mark style="color:blue;">**unfinished**</mark>. (他把工作留下沒完成。)
+  * He left his keys <mark style="color:blue;">**on the table**</mark>. (他把鑰匙忘在桌子上了。)
+* `with + O +  OC` 帶著...、在...的情況下
+  * 描述某事發生時的同時狀況。受詞補語可以是形容詞、分詞 (`V-ing`/`p.p.`) 或介係詞片語。分詞的主被動判斷方式與分詞構句相同。
+  * ...especially on a hot day with the windows <mark style="color:blue;">**closed**</mark>. → 窗戶「被關上」，所以用 `p.p.`。
+  * It's strange that he sleeps with his eyes <mark style="color:blue;">**open**</mark>. (他睡覺時眼睛是睜開的，這很奇怪。) → <mark style="color:blue;">**`open`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**可以直接當形容詞使用，但**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`close`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**不行**</mark>。
+  * Don't speak with your mouth <mark style="color:blue;">**full**</mark>. (不要嘴裡含著東西說話。)
+  * He sleeps with the light <mark style="color:blue;">**on**</mark>. (他在燈開著的情況下睡覺。)
+  * The boy ran toward his mother with tears <mark style="color:blue;">**running**</mark> down his face. (男孩淚流滿面地跑向母親。)
+  * He left the room with the door <mark style="color:blue;">**locked**</mark>. (他鎖上門離開了房間。)
+  * We walked along the beach with our shoes <mark style="color:blue;">**off**</mark>. (我們脫了鞋在沙灘上走。)
+  * He was lying on the bed with a book <mark style="color:blue;">**in his hand**</mark>. (他躺在床上，手裡拿著一本書。)
+
+</details>
+
+<details>
+
+<summary>作文百句 22 補充資料</summary>
+
+以下提供一些與本文主題相關的詞彙。
+
+* Heatstroke (n.) 中暑、熱衰竭
+  * Leaving a child in a hot car can lead to a fatal heatstroke within minutes. (將小孩留在悶熱的車內，可能會在幾分鐘內導致致命的中暑。)
+  * Symptoms of heatstroke include high body temperature and a rapid pulse. (中暑的症狀包括體溫升高與脈搏加速。)
+* Bystander (n.) 旁觀者、目擊者
+  * 指在現場看到事件發生但未直接參與的人。
+  * The bystanders provided crucial information to the police after the accident. (事故發生後，旁觀者向警方提供了關鍵資訊。)
+  * Don't just be a passive bystander; try to help if it’s safe to do so. (不要只當一個被動的旁觀者；如果安全的話，試著伸出援手。)
+* Neglect (v./n.) 疏忽、忽略、怠慢
+  * She has been neglecting her health recently. (她最近疏忽了健康。)
+  * He was accused of neglecting his duties. (他被控疏忽職守。)
+  * He lost his job because of his constant neglect of official duties. (他因為一直疏忽公務而失去了工作。)
+  * The historical building fell into decay due to years of neglect. (這座歷史建築因為多年的疏忽而陷入頹敗。)
+* Reckless (adj.) 魯莽的、不顧後果的
+  * The driver was arrested for <mark style="color:blue;">**reckless driving**</mark> on the highway. (該司機因為在高速公路上魯莽駕駛而被捕。)
+  * It was reckless of him to go mountain climbing during a typhoon. (他在颱風天去登山真是太魯莽了。)
+* Emergency exit (n. phr.) 緊急出口
+  * Please locate the nearest emergency exit as soon as you enter the building. (一進入建築物，請立即確認最近的緊急出口位置。)
+  * The emergency exit was blocked by boxes, which is a serious safety violation. (緊急出口被箱子堵住了，這是一個嚴重的安全違規。)
+* First aid (n. phr.) 急救
+  * 指在專業醫療人員到達前所做的初步救助。
+  * Knowing basic first aid can help you save a life in a critical moment. (了解基本的急救知識能幫助你在關鍵時刻挽救生命。)
+  * Every car should be equipped with a simple <mark style="color:blue;">**first aid kit**</mark>. (每輛車都應該配備一個簡單的急救箱。)
+* On the verge of N/V-ing 處於...的邊緣、差點就要...
+  * The infant was on the verge of losing consciousness due to the heat. (嬰兒因為高熱差點就要失去知覺了。)
+  * The two countries are on the verge of war after the border incident. (邊境事件後，兩國正處於戰爭邊緣。)
+* Take action 採取行動
+  * We need to take action immediately to solve the pollution problem. (我們需要立即採取行動來解決污染問題。)
+  * If the manager doesn't take action, the situation will get worse. (如果經理不採取行動，情況會變得更糟。)
+
+</details>
+
 ## 23.
 
-1. <mark style="color:blue;">**It is not uncommon**</mark> for high school students to <mark style="color:blue;">**take on**</mark> part-time jobs to earn a bit of cash. As the <mark style="color:blue;">**bar graph demonstrates**</mark>, many students—<mark style="color:blue;">**roughly**</mark> 50%—prefer to work either at a restaurant or at a business owned by a family member. A <mark style="color:blue;">**significant**</mark> number also choose to work at cram schools or do some type of <mark style="color:blue;">**delivery**</mark> work.
-2. The <mark style="color:blue;">**least attractive**</mark> option for teens, <mark style="color:blue;">**judging**</mark> from the <mark style="color:blue;">**survey**</mark> results, is working at a convenience store. If I <mark style="color:blue;">**were to**</mark> take a part-time job, I would <mark style="color:blue;">**opt to**</mark> work at my family's business. Bosses can be very <mark style="color:blue;">**demanding**</mark> and may not care about their <mark style="color:blue;">**staff**</mark> much, <mark style="color:blue;">**whereas**</mark> my family would look out for my <mark style="color:blue;">**best interests**</mark>.
-3. I believe I would receive a fair <mark style="color:blue;">**wage**</mark> and learn a lot by working with my relatives. In addition, I know they wouldn't make me do anything that might <mark style="color:blue;">**threaten**</mark> my safety. Thus, <mark style="color:blue;">**in terms of**</mark> what type of part-time job I would <mark style="color:blue;">**pursue**</mark>, my choice <mark style="color:blue;">**coincides with**</mark> those made by many other high-schoolers.
+1. <mark style="color:blue;">**It is not uncommon**</mark> for high school students to <mark style="color:blue;">**take on**</mark> part-time jobs to earn a bit of cash. As the <mark style="color:blue;">**bar graph demonstrates**</mark>, many students—<mark style="color:blue;">**roughly**</mark> 50%—prefer to work either at a restaurant or at a business owned by a family member. A <mark style="color:blue;">**significant**</mark> number also choose to work at cram schools or do some type of <mark style="color:blue;">**delivery**</mark> work. The <mark style="color:blue;">**least attractive**</mark> option for teens, <mark style="color:blue;">**judging**</mark> from the <mark style="color:blue;">**survey**</mark> results, is working at a convenience store.&#x20;
+2. If I <mark style="color:blue;">**were to**</mark> take a part-time job, I would <mark style="color:blue;">**opt to**</mark> work at my family's business. Bosses can be very <mark style="color:blue;">**demanding**</mark> and may not care about their <mark style="color:blue;">**staff**</mark> much, <mark style="color:blue;">**whereas**</mark> my family would look out for my <mark style="color:blue;">**best interests**</mark>. I believe I would receive a fair <mark style="color:blue;">**wage**</mark> and learn a lot by working with my relatives. In addition, I know they wouldn't make me do anything that might <mark style="color:blue;">**threaten**</mark> my safety. Thus, <mark style="color:blue;">**in terms of**</mark> what type of part-time job I would <mark style="color:blue;">**pursue**</mark>, my choice <mark style="color:blue;">**coincides with**</mark> those made by many other high-schoolers.
+
+<details>
+
+<summary>作文百句 23 單字整理</summary>
+
+## 單字
+
+* Uncommon (adj.) 不尋常的、罕見的
+  * 反義詞為 `common`。
+  * It is not uncommon for college students to stay up all night during final exams. (大學生在期末考期間通宵讀書並不罕見。)
+  * Finding someone who speaks five languages fluently is quite uncommon in this small town. (在這個小鎮，要找到流利說五種語言的人相當罕見。)
+* Part-time (adj./adv.) 兼職的、部分時間的
+  * 與 `full-time` (全職的) 相對。
+  * She works part-time as a librarian while pursuing her master's degree. (她在攻讀碩士學位期間兼職擔任圖書管理員。)
+  * It can be difficult to balance a part-time job with heavy schoolwork. (要在兼職工作與繁重的學業之間取得平衡可能很困難。)
+* Cash (n.) 現金
+  * 指實體的紙鈔或硬幣。常見用法為 `earn some cash` (賺點零用錢) 或 `pay in cash` (付現)。
+  * I don't have much cash in my wallet, so I need to go to the ATM. (我錢包裡現金不多，所以我需要去自動提款機。)
+  * Many local shops offer a discount if you choose to pay in cash. (如果你選擇付現，許多當地商店會提供折扣。)
+* Bar graph (n.) 長條圖、條形圖
+  * Looking at the bar graph, we can see that sales reached their peak in December. (看著長條圖，我們可以看到銷量在十二月達到了頂峰。)
+* Demonstrate (v.) 顯示；證明；示範
+  * The latest survey results demonstrate a significant change in consumer behavior. (最新的調查結果顯示了消費者行為的顯著變化。)
+  * His actions demonstrate his commitment to improving the community's safety. (他的行動證明了他對改善社區安全的承諾。)
+  * Our chemistry teacher demonstrated the experiment before we tried it ourselves. (我們的化學老師在我們親自動手前，先示範了那個實驗。)
+* Roughly (adv.) 大約、大致上
+  * 同義詞有 `approximately`。
+  * There were roughly three hundred people attending the international conference. (大約有三百人參加了這場國際會議。)
+  * The project will take roughly six months to complete, according to the manager. (根據經理的說法，這項計畫大約需要六個月才能完成。)
+* Significant (adj.) 顯著的、重大的、意義深遠的
+  * The new medicine has made a significant difference in the patient's recovery. (這種新藥對患者的康復產生了顯著的影響。)
+  * She played a significant role in organizing the annual charity event. (她在組織年度慈善活動中扮演了重大的角色。)
+  * There was a significant increase in the number of tourists visiting the island last year. (去年造訪該島的遊客人數有了顯著增加。)
+* Delivery (n.) 外送、遞送
+  * 動詞形為 `deliver`。
+  * With the rise of technology, <mark style="color:blue;">**food delivery**</mark> has become a very popular part-time job. (隨著科技的興起，外送食物已成為非常受歡迎的兼職工作。)
+  * The courier service guarantees the delivery of your package within 24 hours. (快遞服務保證在 24 小時內送達您的包裹。)
+* Judge (v.) 判斷、評斷
+  * 常用搭配 `judging from...` (由...來判斷)。
+  * It is unfair to judge a person's character based solely on their appearance. (僅憑外表來判斷一個人的品格是不公平的。)
+  * Judging from her expression, she is very angry. (從她的表情看來，她很生氣。)
+* Survey (n./v.) 調查
+  * 當名詞時，常見用法為 `conduct a survery`。
+  * The survey results show that most people are satisfied with the new public park. (調查結果顯示，大多數人對新公園感到滿意。)
+  * We are conducting a survey to understand the shopping habits of teenagers. (我們正在進行一項調查，以了解青少年的購物習慣。)
+  * The researchers surveyed the attitudes of 2,500 college students. (研究人員調查了 2500 名大學生的態度。)
+* Opt (v.) 選擇
+  * 常見用法為 `opt for N` 或 `opt to  VR`。
+  * After graduating from high school, he opted for a gap year to travel the world. (高中畢業後，他選擇休學一年去環遊世界。)
+  * Employees may opt to work at home. (員工可以選擇在家工作。)
+* Demanding (adj.) 嚴苛的、費力的；要求高的
+  * Raising a newborn baby is an extremely demanding task for young parents. (對年輕父母來說，撫養新生兒是一項極其費力的任務。)
+  * Some bosses can be very demanding and may not care about their staff's well-being. (有些老闆可能非常苛求，可能不在乎員工的身心健康。)
+* Whereas (conj.) 然而、但是、反之
+  * 用來引導與前句形成對比的子句。可以替換為 `while`，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)。
+  * Some people prefer to live in the city, whereas others like the peace of the countryside. (有些人偏好住在城市，而其他人則喜歡鄉村的寧靜。)
+  * He is very shy and quiet, whereas his twin brother is extremely outgoing. (他非常害羞且安靜，而他的雙胞胎哥哥則非常外向。)
+* Interest (n.) 利益、好處、權益
+  * The lawyer's job is to protect the financial interests of his clients. (律師的工作是保護其客戶的財務利益。)
+  * They merged the two companies because it was in the best interest of the shareholders. (他們合併了這兩家公司，因為這符合股東的最佳利益。)
+* Fair (adj.) 公平的、公正的、合理的
+  * Every student should have a fair chance to participate in the school play. (每個學生都應該有公平的機會參加學校話劇。)
+  * It is only fair that everyone contributes to the group project. (每個人都為小組計畫做出貢獻才是公平的。)
+* Wage (n.) 工資、薪水
+  * 通常指藍領階級、打工族以時、日、週計算的工資；`salary` 則通常指白領、專業人士的固定月薪或年薪，數額不因工作時數改變。兩者皆為可數名詞。
+  * The workers are demanding a higher hourly wage to cope with inflation. (工人們要求更高的時薪以應付通貨膨脹。)
+  * The government is considering raising the <mark style="color:blue;">**minimum wage**</mark>. (政府正在考慮提高最低工資。)
+  * She receives a high salary as a software engineer. (她作為軟體工程師領取高薪。)
+* Thus (adv.) 因此、從而、如此
+  * 同義詞有 `therefore`。
+  * He studied extremely hard; thus, he achieved a perfect score on the exam. (他學習非常努力；因此，他在考試中獲得了滿分。)
+  * The new law reduces taxes, thus encouraging more people to start businesses. (新法降低了稅收，從而鼓勵更多人創業。)
+* Coincide (v.) 符合、巧合、同時發生
+  * 指兩件事在時間上重疊，或是在想法、選擇上一致。常見用法為 `coincide with N`。
+  * Our opinions on the new policy coincide, so we should work together. (我們對新政策的意見一致，所以我們應該合作。)
+  * Her birthday happens to coincide with the national holiday this year. (她的生日今年碰巧與國定假日重疊。)
+
+</details>
+
+<details>
+
+<summary>作文百句 23 片語整理</summary>
+
+## 片語
+
+* A bit of N 少量...
+  * 通常接<mark style="color:blue;">**不可數名詞**</mark>。
+  * Can I have a bit of sugar? (可以給我一點糖嗎？)
+  * I have a bit of work to do. (我有一點工作要做。)
+  * If you want to earn a bit of cash, you can try selling your old clothes online. (如果你想賺點小錢，可以試著在網路上賣舊衣服。)
+* Judging from N 從...判斷、由...來看
+  * Judging from the survey results, convenience stores are not popular among teens. (由調查結果判斷，便利商店在青少年中並不受歡迎。)
+  * Judging from the dark clouds, it’s going to rain soon. (從烏雲來看，快要下雨了。)
+* Look out for one's best interests 替某人的最佳利益著想
+  * You need a lawyer who will look out for your best interests during the negotiation. (在談判過程中，你需要一位會替你的最佳利益著想的律師。)
+  * I trust him because I know he is looking out for my best interests. (我信任他，因為我知道他在替我的最佳利益著想。)
+* In terms of N 就...而言、在...方面
+  * The new laptop is great in terms of performance, but it’s quite expensive. (這台新筆記型電腦在性能方面很棒，但相當昂貴。)
+  * In terms of population, China and India are the largest countries in the world. (就人口而言，中國和印度是世界上最大國家。)
+* Coincide with 與...相符、與...巧合、重疊
+  * 指觀點一致，或兩件事在時間上碰巧同時發生。
+  * The festival was planned to coincide with the full moon. (這個節慶被安排在碰巧與滿月重疊的時間。)
+  * It’s a pity that my vacation doesn't coincide with yours. (可惜我的假期與你的沒對上。)
+
+</details>
+
+<details>
+
+<summary>作文百句 23 文法整理</summary>
+
+## 文法
+
+* `It is not uncommon for sth to VR` 雙重否定句型
+  * 比起直接說 `It is common`，這種寫法能讓語氣顯得更客觀、更有層次感。
+  * It is not uncommon for students to feel anxious before a major exam. (學生在大考前感到焦慮是很常見的事。)
+  * It is not uncommon for modern couples to meet through dating apps. (現代情侶透過交友軟體認識並不罕見。)
+  * It is not uncommon for successful people to have experienced many failures. (成功人士經歷過許多失敗是很平常的。)
+* `Were to` 的假設語氣
+  * 描述一個極不可能發生或純粹假設的未來狀況。假設語氣的介紹詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)。
+  * If the sun were to rise in the west, I would change my mind. (如果太陽從西邊升起，我也許會改變心意。—表示絕不可能)
+  * If we were to lose the contract, the company would be in serious trouble. (萬一我們失去那份合約，公司將會陷入困境。)
+
+</details>
+
+<details>
+
+<summary>作文百句 23 補充資料</summary>
+
+## 寫作補給站—圖表作文與數據描述
+
+以下補充一些與圖表作文或數據比較相關的詞語。
+
+* Majority / minority (n.) 多數 / 少數
+  * 更強調的方式為 `a vast majority of` (絕大多數) 或 `a tiny minority of` (極少數)。
+  * The majority of high school students prefer working in local restaurants. (大多數高中生偏好在當地的餐廳工作。)
+  * Only a small minority of the survey participants expressed dissatisfaction with the new policy. (只有極少數的受訪者對新政策表示不滿。)
+  * While the majority opt for stability, a growing minority are choosing more adventurous career paths. (雖然大多數人選擇穩定，但有越來越多的人選擇更具冒險精神的職涯道路。)
+* Fluctuate (v.) 波動、起伏
+  * 指數據在某個範圍內上下變動，常用於描述折線圖中的不穩定趨勢。名詞形為 `fluctuation`。
+  * The number of students taking on delivery work has fluctuated significantly over the past five years. (在過去五年中，從事外送工作的學生人數出現了顯著的波動。)
+  * Market prices often fluctuate according to changes in supply and demand. (市場價格經常根據供需變化而波動。)
+  * We noticed a slight fluctuation in the percentage of teenagers working at convenience stores last month. (我們注意到上個月在便利商店工作的青少年百分比有輕微的波動。)
+* Account for + 數據 佔據...
+  * Restaurant jobs account for nearly one-third of the teenagers' career preferences. (餐廳工作佔了青少年職業偏好的近三分之一。)
+  * In the current market, online delivery services account for a significant portion of the economy. (在當前市場中，線上外送服務佔了經濟的顯著部分。)
+  * Foreign students account for 15% of the total population at this university. (外籍學生佔了這所大學總人數的 15%。)
+* In comparison with N 與...相比
+  * 也可以寫成 `in contrast with N`, `compared with N`。
+  * In comparison with last year, this year's sales figures have shown a dramatic increase. (與去年相比，今年的銷售數據顯示出顯著的增長。)
+  * The air quality in the countryside is much better in comparison with big cities. (與大城市相比，鄉村的空氣品質好得多。)
+* By contrast 相比之下
+  * 和 `in comparison with N` 意思相同。
+  * The first group showed a positive response; by contrast, the second group remained indifferent. (第一組表現出積極的回應；相比之下，第二組則保持冷淡。)
+  * Many teens enjoy social jobs; by contrast, some prefer solitary tasks like data entry. (許多青少年喜歡社交型工作；相比之下，有些人則偏好如數據輸入之類的單獨任務。)
+* As the graph demonstrates 如圖表所示
+  * `graph` 可替換成任意一種圖表類型或數據調查方式；`demonstrates` 可替換成 `indicates`, `shows` 或 `illustrates` 等單字。
+  * As the bar graph demonstrates, working at a restaurant remains the most popular option. (如長條圖所示，在餐廳工作依然是最受歡迎的選項。)
+  * As the latest data indicates, regular exercise can significantly lower stress levels. (如最新數據顯示，規律運動能顯著降低壓力水準。)
+* Reach a peak of + 數據 達到...的巔峰
+  * The popularity of part-time jobs reached a peak of 60% during the summer vacation. (兼職工作的受歡迎程度在暑假期間達到了 60% 的巔峰。)
+  * The company's stock price reached a peak of $150 per share before the market crashed. (在市場崩盤前，該公司的股價達到了每股 150 美元的最高點。)
+* Followed by N 其次是...；緊接著是...
+  * 用於描述數據的排序，接在最高或前一項數據之後。
+  * Restaurant work is the most popular choice, followed by jobs at cram schools. (餐廳工作是最受歡迎的選擇，其次是補習班的工作。)
+  * The leading cause of stress is work, followed by financial problems and health issues. (壓力的首要原因是工作，緊接著是財務問題和健康問題。)
+* There is a significant difference between A and B in terms of N 在...方面，A 與 B 之間有顯著差異
+  * There is a significant difference between working for family and working for a large corporation in terms of flexibility. (在靈活性方面，為家人工作與在大型企業工作之間有著顯著的差異。)
+  * There is a significant difference between the two groups in terms of their spending habits. (在消費習慣方面，這兩組之間存在著顯著差異。)
+  * There is a significant difference between online learning and traditional classrooms in terms of student engagement. (在學生參與度方面，線上學習與傳統教室之間有顯著差異。)
+* The primary reason behind this trend ... 這股趨勢背後的主要原因...
+  * 後面可接 `is ...`, `lies in N` (在於...), `can be attributed to N` (可歸因於...) 等。
+  * The primary reason behind this trend is the high cost of living in big cities. (這股趨勢背後的主要原因是城市生活的高昂成本。)
+  * The primary reason behind this trend might be that technological advances have made remote work more accessible. (這股趨勢背後的主要原因可能是科技進步使得遠距辦公變得更加容易。)
+  * The primary reason behind this trend lies in the changing social values of the younger generation. (這股趨勢背後的主要原因在於年輕一代不斷變化的社會價值觀。)
+  * The primary reason behind this trend lies in the government’s new education policy. (這股趨勢背後的主要原因在於政府的新教育政策。)
+  * This trend can be primarily attributed to the increasing awareness of environmental protection. (這股趨勢主要可歸因於環保意識的提高。)
+  * This trend can be primarily attributed to the influence of social media on teenagers. (這股趨勢主要可歸因於社群媒體對青少年的影響。)
+
+</details>
 
 ## 24.
 
