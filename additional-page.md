@@ -50,7 +50,7 @@ hidden: true
 
 <details>
 
-<summary>作文百句 26 單字整理</summary>
+<summary>作文百句 27 單字整理</summary>
 
 ## 單字
 
@@ -60,7 +60,7 @@ hidden: true
 
 <details>
 
-<summary>作文百句 26 片語整理</summary>
+<summary>作文百句 27 片語整理</summary>
 
 ## 片語
 
@@ -70,7 +70,7 @@ hidden: true
 
 <details>
 
-<summary>作文百句 26 文法整理</summary>
+<summary>作文百句 27 文法整理</summary>
 
 ## 文法
 
@@ -80,7 +80,7 @@ hidden: true
 
 <details>
 
-<summary>作文百句 26 補充資料</summary>
+<summary>作文百句 27 補充資料</summary>
 
 
 

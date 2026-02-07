@@ -6105,6 +6105,261 @@ Indoors (adv.) 在室內、往室內
 2. I shared it on my own Facebook page, but <mark style="color:blue;">**no sooner had I done so than people pointed out**</mark> the story was obviously false. I felt embarrassed, and since then I've followed the <mark style="color:blue;">**motto**</mark> that I <mark style="color:blue;">**cannot be too careful**</mark> when it comes to online information.
 3. There are several ways to <mark style="color:blue;">**spot**</mark> fake news. First, consider the <mark style="color:blue;">**source**</mark>. If the <mark style="color:blue;">**article**</mark> doesn't come from a real or <mark style="color:blue;">**reliable**</mark> news site, it's likely fake. You can also use the Internet to search for the author's name to find out whether they're a real <mark style="color:blue;">**journalist**</mark>. If you have any doubts about a story, don't share it online. What's more, if you see other people sharing fake news, you can leave a <mark style="color:blue;">**comment**</mark> with <mark style="color:blue;">**proof**</mark> that it's fake. In these ways, you can <mark style="color:blue;">**prevent**</mark> fake news <mark style="color:blue;">**from**</mark> spreading.
 
+<details>
+
+<summary>作文百句 26 單字整理</summary>
+
+## 單字
+
+* Mislead (v.) 誤導、使誤入歧途
+  * 詞源為 `mis-` (錯誤) + `lead` (引導)。常用結構為 `mislead sb into Ving` (誤導某人去做某事)。其過去式與過去分詞為 `misled`。
+  * The advertisement was criticized for trying to mislead consumers into buying low-quality products. (這則廣告因試圖誤導消費者購買低品質產品而受到批評。)
+  * Don't let his friendly appearance mislead you; he is actually a very cunning businessman. (不要讓他的友好外表誤導你；他實際上是一個非常狡猾的商人。)
+* Genuine (adj.) 真正的、真誠的、非偽造的
+  * We were surprised to find out that the diamond ring was not genuine but a cheap imitation. (我們驚訝地發現那枚鑽石戒指不是真的，而是廉價的仿製品。)
+  * He showed genuine concern for his friend's health and visited him in the hospital every day. (他對朋友的健康表示出真誠的關心，每天都去醫院探望他。)
+* Fool
+  * (v.) 愚弄、欺騙
+    * `fool around` 表「胡鬧」、「浪費時間」。
+    * I was completely fooled by his professional appearance and didn't realize he was a scammer. (我完全被他專業的外表給騙了，沒意識到他是個詐騙犯。)
+    * Don't fool around with your health; you should see a doctor if the pain continues. (不要拿你的健康開玩笑；如果疼痛持續，你應該去看醫生。)
+  * (n.) 傻瓜、笨蛋
+    * `make a fool of oneself` 表「出洋相」、「鬧笑話」。
+    * He felt like a fool after realizing that everyone else knew about the surprise party except him. (在意識到除了他之外每個人都知道驚喜派對後，他覺得自己像個傻瓜。)
+* Article (n.) 報導；文章；條目；冠詞
+  * I read an interesting article in the magazine about how to improve memory through diet. (我在雜誌上讀到一篇關於如何透過飲食提高記憶力的有趣文章。)
+  * The lawyer pointed out that the third article of the contract was unclear and needed to be revised. (律師指出合約的第三條款不明確，需要修訂。)
+* Allege (v.) 聲稱、斷言、宣稱
+  * 指在沒有提供確鑿證據的情況下宣稱某事。在新聞報導中常用於描述指控。常見用法為 `allege + that 子句` (聲稱...), `be alleged + to VR` (被指控...)。形容詞為 `alleged`，表「涉嫌的」。
+  * The employees alleged that they were forced to work long hours without any extra pay. (員工們聲稱他們被迫在沒有加班費的情況下長時間工作。)
+  * She is alleged to have stolen the money. (她被指控偷了錢。)
+  * It is alleged that the company has been dumping toxic waste into the river for years. (據稱該公司多年來一直向河中傾倒有毒廢棄物。)
+* Politician (n.) 政治人物、政客
+  * The young politician promised to lower taxes and improve public transportation during his campaign. (那位年輕的政治家在競選期間承諾降低稅收並改善大眾運輸。)
+  * Many people are tired of politicians who make empty promises but never take any real action. (許多人對那些開出空頭支票卻從不採取實際行動的政客感到厭倦。)
+* Bribe (n./v.) 賄賂、收買
+  * 當名詞時，常與 `offer` (提供), `take`/`accept` (接受、收受) 連用。
+  * The official was arrested for accepting bribes from a construction company. (該官員因接受一家建築公司的賄賂而被捕。)
+  * The detective refused to take a bribe and continued his investigation into the corruption case. (偵探拒絕收受賄賂，並繼續調查這起腐敗案。)
+  * He tried to bribe the guard to let him enter the building after hours. (他試圖賄賂警衛，以便在下班後進入大樓。)
+* Motto (n.) 座右銘、格言、口號
+  * "Work hard and stay humble" has always been my personal motto in life. (「努力工作並保持謙遜」一直是我個人的人生座右銘。)
+  * Following his motto of "Never Give Up," he eventually succeeded after many failures. (遵循他「永不放棄」的座右銘，他在多次失敗後最終取得了成功。)
+* Spot
+  * (v.) 看見、發現、辨認出
+    * It can be difficult to spot a fake designer handbag if you don't know what to look for. (如果你不知道要注意什麼，可能很難辨認出仿冒的名牌手提包。)
+    * The expert was able to spot the error in the financial report within minutes. (專家能夠在幾分鐘內發現財務報告中的錯誤。)
+  * (n.) 斑點、地點
+    * This is the perfect spot for a picnic because it has a beautiful view of the lake. (這裡是野餐的完美地點，因為它有美麗的湖景。)
+* Consider (v.) 考慮、認為、思考
+  * 常用結構包括 `consider + V-ing` (考慮做某事) 以及 `consider A (to be) N/adj` (認為 A ...)。
+  * You should carefully consider the source of any news before you share it online. (在網路上分享任何新聞之前，你應該仔細考慮其來源。)
+  * We are considering moving to a new apartment that is closer to the city center. (我們正在考慮搬到一個離市中心更近的新公寓。)
+  * Many people consider him (to be) the greatest journalist of his generation. (許多人認為他是他那一代最偉大的記者。)
+  * `consideration` (n.) 考慮、體貼
+    * 常見用法為 `take sth into consideration` (將...納入考量)。
+    * Time is an important consideration in this case. (時間在這個案件中是一個重要的考量因素。)
+    * Please take my feelings into consideration before you make the final decision. (在你做最後決定前，請考慮一下我的感受。)
+  * `considerable` (adj.) 相當多的、重要的
+    * There has been a considerable increase in sales. (銷售額有了顯著的增長。)
+    * He is a considerable figure in the company. (他是公司裡相當重要的人物。)
+  * `considerate` (adj.) 體貼的、細心的
+    * It was very considerate of you to help her move. (你幫她搬家真是太體貼了。)
+    * He's always been considerate towards his colleagues. (他對同事總是很體貼。)
+* Reliable (adj.) 可靠的、可信賴的
+  * 動詞形為 `rely` (依賴)。
+  * My old car is not very reliable, so I'm thinking of buying a new one before winter. (我的舊車不太可靠，所以我考慮在入冬前買一輛新車。)
+  * The weather forecast is usually reliable, but it's always good to have an umbrella just in case. (天氣預報通常是可靠的，但隨身帶把傘以防萬一總是好的。)
+* Site (n.) 網站；地點、場所
+  * 與 `place` 相比，`site` 更常用於指稱「特定用途」的場所，如 `construction site` (建築工地), `historic site` (歷史古蹟)。
+  * This site is restricted to authorized personnel only due to safety concerns. (由於安全考量，此場所僅限授權人員進入。)
+  * The company is looking for a suitable site to build its new headquarters. (公司正在尋找合適的地點來建造新總部。)
+* Journalist (n.) 記者、新聞工作者
+  * The journalist traveled to the war zone to report on the latest developments. (記者前往戰區報導最新的進展。)
+  * He has won several awards for his outstanding work as an investigative journalist. (他因其作為調查記者的卓越表現而獲得了多個獎項。)
+* Proof (n.) 證明、證據
+  * `proof` 表「證據、證明」時，通常是不可數名詞；在數學或特定邏輯情境中，表示具體的「證明步驟、過程」時才可數，複數為 `proofs`。動詞形為 `prove` (證明)。
+  * Do you have any proof that you were at home when the crime was committed? (你有任何證明你在犯罪發生時待在家裡的證據嗎？)
+  * If you want to claim a refund, you must provide the original receipt as proof of purchase. (如果你想申請退款，你必須提供原始收據作為購買證明。)
+  * There are three different proofs for this theorem. (這條定理有三種不同的證明。)
+* Comment (n./v.) 評論、意見；發表評論
+  * 常見用法為 `make a comment on/about N` 或 `comment on/about N`；`no comment` 表「無可奉告」，常用於拒絕回答媒體提問。
+  * His rude comments about her presentation made her feel very discouraged. (他對她簡報的粗魯評論讓她感到非常沮喪。)
+  * I'd like to make a comment on the new policy. (我想對這項新政策發表評論。)
+  * The professor declined to comment on the ongoing investigation until all the facts were clear. (在所有事實釐清之前，教授拒絕就正在進行的調查發表評論。)
+* Prevent (v.) 預防；阻止；妨礙
+  * 常見用法為 `prevent N`, `prevent sb/sth from V-ing` (阻止某人/某事做某事)。名詞形為 `prevention`；形容詞為 `preventive`。
+  * Regular exercise and a balanced diet can help prevent many chronic diseases. (規律運動和均衡飲食有助於預防許多慢性疾病。)
+  * The heavy snow prevented the plane from taking off on time. (大雪阻止了飛機準時起飛。)
+* Spread (v./n.) 傳播、展開、散布；擴散、抹醬
+  * 三態同形：`spread` → `spread` → `spread`。`spread one's wings` 表「展翅高飛」、「嘗試新事物」。
+  * False information tends to spread much faster than the truth on the Internet. (在網路上，錯誤資訊的傳播速度往往比真相快得多。)
+  * She spread the tablecloth over the grass before we started our picnic. (在我們開始野餐前，她把桌巾鋪在草地上。)
+  * He decided to spread his wings and move to London to start a new career. (他決定展翅高飛，搬到倫敦開啟新的職業生涯。)
+  * The sudden spread of the virus led to a nationwide lockdown. (病毒的突然擴散導致了全國性的封鎖。)
+
+</details>
+
+<details>
+
+<summary>作文百句 26 片語整理</summary>
+
+## 片語
+
+* Mislead sb into V-ing/N 誤導某人做某事、使某人誤信某事
+  * The deceptive advertisement misled thousands of people into buying the useless product. (那則具誤導性的廣告誤導了數千人去購買那個沒用的產品。)
+  * He tried to mislead the investors into believing that the company was highly profitable. (他試圖誤導投資者相信該公司非常有獲利能力。)
+  * The false evidence misled the police into a wrong conclusion. (假證據誤導警方得出錯誤的結論。)
+* Generally speaking 一般而言
+  * 引導一個普遍的情況或概括性的結論，常置於<mark style="color:blue;">**句首**</mark>。
+  * Generally speaking, students who read more books tend to have a wider vocabulary. (一般而言，閱讀更多書籍的學生往往擁有更廣的字彙量。)
+  * Generally speaking, the weather in Taiwan is quite humid during the summer months. (一般而言，台灣夏季月份的天氣相當潮濕。)
+* Point out 指出、提醒、說明
+  * 後面通常接 `N` 或 `that 子句`。
+  * My sister pointed out the fake news site to me before I shared the post. (在我分享貼文前，我姐姐對我指出了那個假新聞網站。)
+  * It is important to point out the flaws in the logic of this argument. (指出這項論點邏輯中的缺陷是很重要的。)
+  * The editor pointed out that the article contained several factual errors about the bribe. (編輯指出該報導包含好幾處關於賄賂的錯誤事實。)
+  * My friend pointed out that I had a small stain on my shirt before I went on stage. (在我上台前，我的朋友提醒我襯衫上有個小污漬。)
+* Follow the motto 遵循座右銘
+  * 除了 `follow`，還可以用 `live by` (以此格言生活)、`adopt` (採用)、`stick to` (堅持) 等動詞來搭配。
+  * I have always followed the motto that "Honesty is the best policy" in my daily life. (我在日常生活中一直遵循「誠實至上」這句座右銘。)
+  * He lives by the motto "Never Give Up," which helped him overcome many challenges. (他以此座右銘「永不放棄」來生活，這幫助他克服了許多挑戰。)
+  * Our company has adopted the motto of "Quality First" to ensure customer satisfaction. (我們公司採用了「品質第一」的口語，以確保客戶滿意。)
+  * Even in hard times, he stuck to his personal motto. (即使在艱難時刻，他仍堅持自己的座右銘。)
+* Cannot be too careful 再怎麼小心也不為過
+  * 用來強調某事 (如安全、隱私) 的重要性，即使做到極致也不嫌多。
+  * You cannot be too careful when sharing personal information with strangers online. (在網路上與陌生人分享個人資訊時，再怎麼小心也不為過。)
+  * We cannot be too careful about hygiene when there is a flu outbreak. (當流感爆發時，我們對衛生再怎麼小心也不為過。)
+* When it comes to N/V-ing 說到...、關於...、涉及到...
+  * 用於帶出一個特定的主題。
+  * When it comes to playing the piano, my little sister is a true prodigy. (說到彈鋼琴，我小妹是個真正的天才。)
+  * He is a very reliable person, especially when it comes to managing money. (他是一個非常可靠的人，特別是在管理金錢方面。)
+  * When it comes to pets, I love dogs more than cats. (說到寵物，我喜歡狗更勝於貓。)
+* Search for 搜尋、尋找
+  * `search for + N` 的重點在於「尋找的目標物」；`search + 地點/範圍` 的重點在於「搜尋的場所」；`search + 地點 + for + N` 表「在某地搜尋某物」。
+  * He searched for a reliable news source to verify the information. (他尋找一個可靠的新聞來源以核實資訊。)
+  * The police searched the entire building but found no evidence of the bribe. (警察搜尋了整棟大樓，但沒發現賄賂的證據。)
+  * I searched my pockets for the car keys, but they were missing. (我搜尋口袋尋找車鑰匙，但它們不見了。)
+* Leave a comment 留言、發表評論
+  * I decided to leave a comment about my own experience on the travel blog. (我決定在旅遊部落格上留下關於我自己經驗的評論。)
+  * Don't forget to leave a comment on the video if you enjoyed the content! (如果你喜歡這段內容，別忘了在影片下留言！)
+* In + 方法 以...方式
+  * In this way, we can save a lot of money on electricity every month. (以此方式，我們每月可以在電費上省下很多錢。)
+  * He explained the process in a simple way. (他用簡單的方式解釋了這個過程。)
+
+{% hint style="info" %}
+`in a way` 表「在某種程度上」、「某方面來說」，可置於句首、句中或句尾。
+
+* In a way, it's a good idea, but it has its drawbacks. (在某種程度上，這是一個好主意，但也有缺點。)
+* Good service, in a way, sells our products. (在某種程度上，優質的服務可以促進產品的銷售。)
+* I suppose I should be grateful, in a way. (我認為在某種程度上我應該表示感謝。)
+{% endhint %}
+
+* Prevent sb/sth from V-ing 阻止...免於...
+  * Wearing a seatbelt can prevent you from being seriously injured in a car accident. (繫安全帶可以防止你在車禍中受重傷。)
+
+</details>
+
+<details>
+
+<summary>作文百句 26 文法整理</summary>
+
+## 文法
+
+* `No sooner ... than ...`
+  * 用於過去發生的事，表示「一...就...」。詳細介紹請參考[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-wen-fa-zheng-li)。
+  * 文中 `no sooner had I done so than people pointed out...` = `I had no sooner done so than people pointed out...` (我剛做完就有人指出...)
+
+### 雙重否定
+
+字面意思是「不能太過...」。此強調寫法可用來表示「<mark style="color:blue;">**無論做得多極致都不算過分**</mark>」，也就是「越...越好」或「再怎麼...也不為過」。除了 `cannot be too + Adj.`，也可以使用 `cannot + over-V` (如 `cannot overemphasize`) 來達成同樣的效果。以下提供大量使用此文法的例句。
+
+* You <mark style="color:blue;">**cannot be too careful**</mark> when driving on a slippery road during a storm. (在暴風雨中行駛於濕滑路面時，再怎麼小心也不為過。)
+* We <mark style="color:blue;">**cannot be too cautious**</mark> about sharing our private passwords with others. (對於與他人分享私人密碼，我們再怎麼謹慎也不為過。)
+* One <mark style="color:blue;">**cannot be too watchful**</mark> when walking alone in a dark alley at night. (深夜獨自走在黑暗巷弄時，再怎麼警覺也不為過。)
+* The importance of environmental protection <mark style="color:blue;">**cannot be overemphasized**</mark>. (環境保護的重要性再怎麼強調也不為過。)
+* We <mark style="color:blue;">**cannot value our friendship too much**</mark>, as it is the most precious thing in our lives. (我們再怎麼重視這份友誼也不為過，因為它是我們生命中最珍貴的東西。)
+* The health of our children <mark style="color:blue;">**cannot be too highly regarded**</mark> by the government. (政府對孩童健康的重視再怎麼高也不為過。)
+* You <mark style="color:blue;">**cannot be too polite**</mark> when you are asking someone for a great favor. (當你請求別人幫大忙時，再怎麼禮貌也不為過。)
+* A scientist <mark style="color:blue;">**cannot be too rigorous**</mark> when analyzing the data of an experiment. (科學家在分析實驗數據時，再怎麼嚴謹也不為過。)
+* We <mark style="color:blue;">**cannot be too patient**</mark> when teaching elderly people how to use new technology. (在教導長者如何使用新科技時，再怎麼有耐心都不為過。)
+* You <mark style="color:blue;">**cannot be too picky**</mark> about the quality of the water you drink every day. (對於每天飲用的水質，你再怎麼挑剔都不為過。)
+* One <mark style="color:blue;">**cannot take too many precautions**</mark> against the spread of infectious diseases. (對於預防傳染病的傳播，再怎麼多做預防措施也不為過。)
+* We <mark style="color:blue;">**cannot be too prepared**</mark> for the upcoming natural disasters. (對於即將到來的自然災害，我們再怎麼準備充分也不為過。)
+
+</details>
+
+<details>
+
+<summary>作文百句 26 補充資料</summary>
+
+## 文章分析
+
+本文首段並非直接定義假新聞，而是先從假新聞的本質 (誤導) 切入，隨即引入作者自己被騙的真實案例。這種從客觀定義到主觀經歷的轉換，能迅速拉近與讀者的距離，讓讀者意識到自己也可能受騙。
+
+第二段，作者細膩地描寫了自己分享假新聞後的尷尬情緒，並透過 `no sooner...than...` 這個高級倒裝句型，強化「一分享就被識破」的戲劇性。這段經歷直接引出了作者的座右銘：「再怎麼小心也不為過」，為後續的解決方案提供了強而有力的動機支撐。
+
+最後一段，作者以 `First`、`also`、`What's more` 等連接詞，列舉了「檢查來源」、「搜尋作者」、「附證評論」等三種具體行動，讓讀者能了解遇到假新聞時該如何應對，並防止假新聞繼續傳播。
+
+## 寫作補給站
+
+以下提供與本文主題相關的一些詞彙。
+
+* Verify (v.) 證實、核實
+  * 比 `check` 更正式，指透過證據或調查來確定某事的真實性。名詞形為 `verification`。
+  * The news agency refused to publish the report until they could verify the informant's claims. (通訊社在能證實線人的說法之前，拒絕發布該報導。)
+  * Users are encouraged to verify the authenticity of photos before sharing them online. (鼓勵用戶在網路上分享照片前，先核實其真實性。)
+* Manipulate (v.) 操縱、控制
+  * 指為了自身利益，以不正當手段影響或控制他人、數據或輿論，有<mark style="color:blue;">**負面含意**</mark>。
+  * Fake news is often used to manipulate public opinion during major elections. (假新聞常用於在大選期間操縱公眾輿論。)
+  * It is alarming how easily people’s emotions can be manipulated by viral videos. (人們的情緒如此容易被病毒式影片操縱，這令人擔憂。)
+* Circulate (v.) 傳播、流通、循環
+  * 可用來描述謠言、資訊、空氣、血液、文件的傳遞。名詞形為 `circulation`。
+  * A rumor started to circulate that the company was going bankrupt. (公司即將破產的謠言開始傳開。)
+  * The fake image circulated widely on X before being flagged as manipulated. (那張假圖片在被標記為經過操縱之前，在 X 上廣泛傳播。)
+  * Open a window to allow the air to circulate. (打開窗戶讓空氣流通。)
+  * Blood circulates through the body. (血液在體內循環。)
+  * Circulate the document among the team. (將文件在團隊中傳閱。)
+* Clickbait (n./adj./v.) 點擊誘餌、標題黨內容
+  * 詞源來自 `click` (點擊) + `bait` (魚餌)。指那些利用誇張、聳動或具誤導性的標題與縮圖，吸引用戶點擊連結以賺取流量的內容。作為名詞時，通常為<mark style="color:blue;">**不可數名詞**</mark>。
+  * Don't click on that link; it's clearly clickbait designed to steal your personal information. (別點那個連結；那顯然是為了竊取你個人資訊而設計的點擊誘餌。)
+  * The article's clickbait title promised a secret to eternal youth, but it was just an ad for vitamins. (這篇文章的標題黨標題承諾了永保青春的祕訣，但其實只是維他命廣告。)
+  * Stop clickbaiting your readers with fake news. (別再用假新聞釣讀者的魚了。)
+* Rage bait (n.) 憤怒誘餌、騙憤內容
+  * 詞源來自 `rage` (憤怒) + `bait` (魚餌)。這是一種比 `clickbait` 更具攻擊性的手段，特指為了引發大眾憤怒、爭論或反感而刻意製作的內容，因為憤怒往往能帶來最高的分享率與留言互動。通常為<mark style="color:blue;">**不可數名詞**</mark>。
+  * 動詞形為 `rage-bait`。
+  * Social media algorithms often promote rage bait because it keeps users arguing in the comments section for hours. (社群媒體演算法常推廣騙憤內容，因為它能讓用戶在評論區爭論數小時。)
+  * Experienced Internet users can easily spot rage bait and choose to ignore it instead of reacting. (經驗豐富的網路用戶能輕易辨認出騙憤內容，並選擇無視而非做出反應。)
+  * She posted an unpopular opinion just to rage-bait her followers. (她發了一條不受歡迎的觀點，只是為了要釣怒她的追蹤者。)
+* Media literacy (n. phr.) 媒體識讀能力
+  * `literacy` 表「讀寫能力、識字率」，是指一個人具備讀寫文字、理解及表達簡單句子的基本能力。
+  * Improving media literacy is essential for citizens to distinguish between facts and propaganda. (提升媒體識讀能力是公民辨別事實與政治宣傳的關鍵。)
+  * Schools should incorporate media literacy into their curriculum to help students navigate the Internet safely. (學校應將媒體識讀納入課程，以幫助學生安全地使用網路。)
+* Fact-check (v./n.) 事實查核
+  * You should fact-check the story with multiple reliable sources before believing it. (在相信那個故事之前，你應該用多個可靠來源進行事實查核。)
+  * The independent fact-check revealed that the statistics used in the speech were highly inaccurate. (獨立的事實查核顯示，演講中所使用的數據極其不準確。)
+* Confirmation bias (n. phr.) 確認偏誤
+  * 指人們傾向於尋找、解釋或記住與自己既有觀點相符的資訊。
+  * Confirmation bias makes people more likely to believe fake news that supports their political views. (確認偏誤讓人們更容易相信支持其政治觀點的假新聞。)
+  * To be a critical thinker, one must be aware of their own confirmation bias. (要成為具備批判性思考的人，必須意識到自己的確認偏誤。)
+* Echo chamber (n. phr.) 同溫層、回聲室效應
+  * Social media algorithms often trap users in an echo chamber, reinforcing their existing beliefs. (社群媒體演算法常將用戶困在同溫層中，強化他們既有的信念。)
+  * Stepping out of your echo chamber is the first step toward understanding different perspectives. (走出同溫層是理解不同觀點的第一步。)
+* Critical thinking (n. phr.) 批判性思考
+  * Developing critical thinking skills is the best defense against being misled by online misinformation. (培養批判性思考能力是防止被網路錯誤資訊誤導的最佳防線。)
+  * The professor encouraged students to apply critical thinking to every article they read. (教授鼓勵學生對他們閱讀的每一篇文章應用批判性思考。)
+* Out of context 斷章取義、脫離語境
+  * 指截取部分言論而忽略其背景，導致原意被歪曲。
+  * The candidate complained that his remarks were taken out of context by the media. (候選人抱怨他的言論被媒體斷章取義了。)
+  * Sharing a quote out of context can lead to serious misunderstandings and false accusations. (斷章取義地分享引言可能會導致嚴重的誤解和虛假指控。)
+
+## 寫作建議
+
+* 試著從一個與主題相關的<mark style="color:blue;">**個人經歷**</mark>開啟文章，能更容易引起讀者共鳴。
+* 提出解方時，可以從最基礎的「個人防範」開始，進階到「積極查核」，最後昇華到「社會責任」。這種<mark style="color:blue;">**由己及人**</mark>的層次感能讓你的論述更具廣度。
+
+</details>
+
 ## 27.
 
 1. Many people in Taiwan visit fortune-tellers <mark style="color:blue;">**with a view to**</mark> <mark style="color:blue;">**finding**</mark> out what the future <mark style="color:blue;">**holds**</mark> for them. Others, however, don't believe in this kind of thing. I think one reason for its <mark style="color:blue;">**popularity**</mark> is that it can provide some guidance when someone is <mark style="color:blue;">**anxious about**</mark> their future or has a <mark style="color:blue;">**crucial**</mark> decision to make.
