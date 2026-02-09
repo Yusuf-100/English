@@ -6362,9 +6362,219 @@ Indoors (adv.) 在室內、往室內
 
 ## 27.
 
-1. Many people in Taiwan visit fortune-tellers <mark style="color:blue;">**with a view to**</mark> <mark style="color:blue;">**finding**</mark> out what the future <mark style="color:blue;">**holds**</mark> for them. Others, however, don't believe in this kind of thing. I think one reason for its <mark style="color:blue;">**popularity**</mark> is that it can provide some guidance when someone is <mark style="color:blue;">**anxious about**</mark> their future or has a <mark style="color:blue;">**crucial**</mark> decision to make.
+1. Many people in Taiwan visit fortune tellers <mark style="color:blue;">**with a view to**</mark> <mark style="color:blue;">**finding**</mark> out what the future <mark style="color:blue;">**holds**</mark> for them. Others, however, don't believe in this kind of thing. I think one reason for its <mark style="color:blue;">**popularity**</mark> is that it can provide some guidance when someone is <mark style="color:blue;">**anxious about**</mark> their future or has a <mark style="color:blue;">**crucial**</mark> decision to make.
 2. Another reason is that it works as a kind of <mark style="color:blue;">**counseling**</mark> service. People can go there to talk about the choices or difficulties they <mark style="color:blue;">**are confronted with**</mark> and receive not only <mark style="color:blue;">**comfort**</mark> but also a <mark style="color:blue;">**positive response**</mark> that makes them feel they could make the right decision. If I am faced with a <mark style="color:blue;">**dilemma concerning**</mark> my future after high school, I may visit a fortune teller.
 3. <mark style="color:blue;">**For one thing**</mark>, I am <mark style="color:blue;">**curious about**</mark> how fortune telling works, and I want to know whether there is really someone who might know things about me and <mark style="color:blue;">**predict**</mark> my future accurately. <mark style="color:blue;">**For another**</mark>, talking to the fortune teller about my problem might help me find a solution myself. Getting my fortune <mark style="color:blue;">**told**</mark> doesn't <mark style="color:blue;">**commit**</mark> me <mark style="color:blue;">**to**</mark> anything, so <mark style="color:blue;">**there's no harm**</mark> in listening to another person's opinion as I try to make up my mind.
+
+<details>
+
+<summary>作文百句 27 單字整理</summary>
+
+## 單字
+
+* Fortune teller (n.) 算命師
+  * `fortune telling` (n.) 表「算命」。
+  * The fortune teller gazed into the crystal ball and began to predict my future. (算命師凝視著水晶球，開始預測我的未來。)
+  * Many people consider fortune telling a way to find peace of mind when facing uncertainty. (許多人認為算命是在面對不確定性時尋求內心平靜的一種方式。)
+* Popularity (n.) 受歡迎、流行、普及
+  * 形容詞為 `popular`。
+  * The unexpected popularity of the new mobile game surprised the developers. (這款新手機遊戲出乎意料的受歡迎程度讓開發者感到驚訝。)
+  * The popularity of cycling as a hobby has increased significantly over the past few years. (騎單車作為一種愛好的普及程度在過去幾年裡顯著增加。)
+* Guidance (n.) 指導、引導、諮詢
+  * The teacher provided valuable guidance to the students during the college application process. (老師在大學申請過程中為學生提供了寶貴的指導。)
+  * When I feel lost in my career, I often seek guidance from experienced mentors. (當我在職涯中感到迷惘時，我常向經驗豐富的導師尋求引導。)
+* Anxious (adj.) 焦慮的、憂慮的、渴望的
+  * 常見搭配為 `be anxious about` (對...感到焦慮) 或 `be anxious to VR` (渴望做某事)。
+  * She felt very anxious about the results of her medical checkup. (她對自己的體檢結果感到非常焦慮。)
+  * The candidate was anxious to impress the interviewers with his professional skills. (那位應徵者渴望用他的專業技能給面試官留下深刻印象。)
+* Crucial (adj.) 至關重要的、關鍵的
+  * 語氣比 `important` 更強烈。
+  * Making the right choice at this crucial moment will determine the success of the entire project. (在這個關鍵時刻做出正確的選擇將決定整個專案的成敗。)
+  * It is crucial to stay calm and focused when you are dealing with an emergency. (處理緊急情況時，保持冷靜和專注是至關重要的。)
+* Counseling (n.) 諮商、建議
+  * 動詞形為 `counsel`。常用於心理諮商或專業建議服務。
+  * The university offers free psychological counseling services for all students. (這所大學為所有學生提供免費的心理諮商服務。)
+  * Career counseling can help individuals identify their strengths and find suitable job paths. (職涯諮商能幫助個人識別自己的優勢並找到合適的職業道路。)
+* Service (n./v.) 服務、服役、維修；維護、保養
+  * (n.) 服務；服役；維修、保養
+    * `customer service` 表「客戶服務」，`in service` 表「在使用中」、「在服役中」。
+    * The hotel is famous for its excellent service and friendly staff. (這家飯店以其卓越的服務和友好的員工而聞名。)
+    * There is a regular bus service to the city. (有定期前往市區的公車班次。)
+    * He decided to join the military service right after graduating from college. (他決定大學畢業後立即去服兵役。)
+  * (v.) 維護、保養
+    * 常用於機械或車輛的保養。
+    * You should have your car serviced regularly to ensure its safety on the road. (你應該定期保養你的車，以確保其在道路上的安全。)
+* Difficulty (n.) 困難、難點、困境
+  * 常見用法為 `have difficulty (in) Ving` 或 `have difficulty with sth` (做某事有困難)。複數形 `difficulties` 常指生活中的各種艱辛。
+  * I had great difficulty in understanding the complex grammar rules of this chapter. (我在理解這一章複雜的文法規則方面有很大的困難。)
+  * The company is facing serious financial difficulties due to the global economic crisis. (由於全球經濟危機，該公司正面臨嚴重的財務困境。)
+* Confront (v.) 面對、對抗、面臨
+  * 常用於被動語態 `be confronted with`，表示「面臨 (困難、挑戰)」。
+  * We must confront the problem directly instead of trying to avoid it. (我們必須直接面對問題，而不是試圖逃避。)
+  * The small business was confronted with a serious financial crisis during the pandemic. (那家小企業在疫情期間面臨了嚴重的財務危機。)
+* Comfort
+  * (n.) 安慰、慰藉；舒適
+    * 常見用法為 `take comfort in sth` (從某事中獲得慰藉)。`comfort food` 表「(難過或焦慮時食用的) 安慰食品、開心食品」。
+    * It brought her great comfort to know that her friends were supporting her. (知道朋友們在支持她，給了她莫大的安慰。)
+    * The soft pillows and warm blankets provided a lot of comfort on the cold night. (柔軟的枕頭和溫暖的毯子在寒冷的夜晚提供了許多舒適感。)
+    * I take comfort in knowing that I did my best. (我從知道我已盡力這點得到安慰。)
+    * Chicken soup has acquired the reputation of a folk remedy for colds and flus, and in many countries is considered a comfort food. (雞湯一直被認為是治療感冒和流感的民間偏方，在許多國家也被視為一種撫慰人心的食物。)
+  * (v.) 安慰；使舒適
+    * He tried to comfort his younger sister after she failed her driving test. (他在妹妹駕照考試不及格後試圖安慰她。)
+    * He comforted his back with soft cushions. (他用軟墊讓背部感覺舒適。)
+* Dilemma (n.) 兩難、困境
+  * 常見用法為 `face a dilemma`, `be in a dilemma`。
+  * He faced a difficult dilemma between taking a high-paying job and following his passion for art. (他在接受一份高薪工作與追求對藝術的熱情之間面臨著艱難的抉擇。)
+  * The government is in a dilemma about whether to raise taxes or cut public spending. (政府在是否加稅或削減公共支出方面陷入了進退兩難的局面。)
+* Concerning (prep.) 關於、涉及
+  * 相當於 `about` 或 `regarding`，但語氣較正式。
+  * The manager held a meeting to discuss some issues concerning the new company policy. (經理召開會議討論一些關於公司新政策的問題。)
+  * If you have any questions concerning your order, please contact our customer service team. (如果您有任何關於訂單的問題，請聯繫我們的客服團隊。)
+* Curious (adj.) 好奇的、古怪的
+  * 常見用法為 `be curious about sth` (對...感到好奇) 或 `be curious to know` (渴望知道)。
+  * 名詞形為 `curiosity`，表「好奇心」。常見用法為 `out of curiosity` (出於好奇), `satisfy one's curiosity` (滿足好奇心)。
+  * <mark style="color:blue;">**`Curiosity killed the cat.`**</mark> (好奇心殺死一隻貓) 表「過分好奇、愛管閒事或冒不必要的風險，會給自己帶來災禍」
+  * Children are naturally curious about the world around them. (孩子們天生對周遭的世界感到好奇。)
+  * I was curious to know why he decided to quit his high-paying job. (我很想知道他為什麼決定辭去高薪工作。)
+  * It was a curious coincidence that we met in a foreign country after ten years. (十年後我們在國外相遇，這是一個古怪的巧合。)
+  * I asked him the question out of curiosity. (我出於好奇問了他那個問題。)
+  * He did that because he wanted to satisfy his curiosity. (他這樣做是因為他想滿足自己的好奇心。)
+  * "I'm going to check what's in that locked room." "Don't. Curiosity killed the cat." (「我要去檢查那個鎖著的房間裡有什麼。」「別去。別太好奇。」)
+* Predict (v.) 預測、預言
+  * 名詞形為 `prediction`。
+  * It is difficult to predict exactly how the stock market will perform next month. (很難準確預測下個月股市的表現會如何。)
+  * Economists predict that the inflation rate will continue to rise throughout the year. (經濟學家預測通貨膨脹率在全年將持續上升。)
+* Accurately (adv.) 準確地、精確地
+  * 形容詞為 `accurate`。
+  * The scientist recorded the temperature of the chemical reaction accurately. (科學家精確地記錄了化學反應的溫度。)
+  * It is important to translate the original text accurately to avoid any misunderstandings. (準確地翻譯原文以避免任何誤解是很重要的。)
+* Solution (n.) 解答、解決方案；溶液
+  * 常見用法為 `solution to a problem` (問題的解決方案)。
+  * There is no easy solution to the problem of global warming. (全球暖化問題沒有簡單的解決方案。)
+  * After hours of discussion, they finally came up with a creative solution. (經過數小時的討論，他們終於提出了一個有創意的解決方案。)
+  * To perform the experiment, you need to prepare a salt solution first. (為了進行實驗，你需要先準備鹽溶液。)
+* Commit
+  * (v.) 承諾、投入、致力於
+    * 常見用法為 `commit sb/oneself to N/Ving`。名詞形為 `commitment`。
+    * He is not ready to commit to a serious relationship at this moment. (他現在還沒準備好要投入一段認真的感情。)
+    * The government has committed millions of dollars to improving public healthcare. (政府已撥款數百萬美元致力於改善公共醫療。)
+  * (v.) 犯 (罪)
+    * 常見用法為 `commit a crime`。
+    * He was sent to prison after he committed a series of bank robberies. (他在犯下一系列銀行搶案後被送進了監獄。)
+* Harm (n./v.) 傷害、損害、危害
+  * `do harm to sb/sth` 表「對...造成傷害」。形容詞為 `harmful`。
+  * The scandal did a lot of harm to the actor’s professional reputation. (那起醜聞對這位演員的職業聲譽造成了很大損害。)
+  * I meant no harm by my comments; I was just trying to be honest. (我的評論沒有惡意；我只是想誠實一點。)
+  * Pollution from factories is harming the environment and the local wildlife. (工廠污染正在傷害環境和當地的野生動物。)
+
+</details>
+
+<details>
+
+<summary>作文百句 27 片語整理</summary>
+
+## 片語
+
+* With a view to V-ing/N 為了...、以...為目的
+  * The government implemented the new policy with a view to reducing the unemployment rate. (政府實施新政策是為了降低失業率。)
+  * He moved to the city with a view to better career opportunities. (他搬到這座城市是為了尋求更好的職涯機會。)
+* Sth hold for N 某事為...準備著、某事在未來等待著...
+  * 表達某種結果、經歷或事情正被「握在手中」，尚未揭曉。如文中的 `... what the future holds for them` 表「未來會如何」。
+  * Who knows what the new year holds for us? (誰知道新的一年為我們準備了什麼？)
+  * I wonder what the next chapter of my life holds for me. (我想知道我人生的下一個篇章會為我帶來什麼。)
+  * No one can truly predict what the future holds for the global economy. (沒有人能真正預測全球經濟的未來會如何。)
+
+{% hint style="info" %}
+#### Have sth in store (for N) 為...準備著...、即將發生...
+
+可以把剛才的 `hold for` 替換成這個片語。
+
+* I think life has some great surprises in store for you. (我覺得生活為你準備了一些巨大的驚喜。)
+* We don't know what the weather has in store for our picnic tomorrow. (我們不知道明天的天氣會為我們的野餐帶來什麼變化。)
+* Be prepared, because the boss has a difficult task in store for the team. (做好準備，因為老闆為團隊準備了一項艱鉅的任務。)
+{% endhint %}
+
+* Believe in sth/sb 相信...的存在；信仰...；信任...
+  * 與單純的 `believe` (相信某人說的話) 不同，`believe in` 強調對某種價值、存在或能力的深層信念。
+  * Do you believe in God? (你相信上帝存在嗎？)
+  * You have to believe in yourself if you want to succeed in this competitive world. (如果你想在這個競爭激烈的世界取得成功，你必須相信自己。)
+* Be faced/confronted with 面臨...、遭遇...、面對...
+  * `confronted with` 通常語氣稍強，帶有一種「被迫正面交鋒」的感覺。
+  * Every day we are faced with many choices. (我們每天都要面對許多的抉擇。)
+  * The company was confronted with unexpected legal issues during the merger. (公司在合併過程中遭遇了意想不到的法律問題。)
+* Commit sb to sth/Ving 使某人承擔義務、使某人承諾做某事；致力於...
+  * 表前兩種意思時，在法律或合約語境中極為常用。
+  * Signing this contract will commit you to working with the company for three years. (簽署這份合約將使你承諾為公司工作三年。)
+  * The new law will commit the government to reducing carbon emissions by 50%. (新法律將使政府承擔起將碳排放量減少 50% 的義務。)
+  * She committed herself to learning Spanish. (她致力於學習西班牙語。)
+* There is no harm in N/V-ing 做某事也無妨、無傷大雅
+  * 用於建議某種行動，暗示即使沒有預期的效果，也不會帶來負面影響。
+  * There's no harm in a little exaggeration. (稍微誇張一點也無妨。)
+  * There is no harm in trying out a new method if the old one isn't working. (如果舊的方法無效，嘗試一下新方法也無妨。)
+  * I think there's no harm in asking for a discount; the worst they can say is no. (我覺得詢問折扣也無妨；他們最糟也就是說不。)
+* Make up one's mind 下定決心、做出決定
+  * 等同於 `decide` 或 `reach a decision`，但更強調在多個選項中最終定下心來的過程。
+  * I'm trying to make up my mind about which college I should attend next year. (我正努力下定決心明年應該讀哪所大學。)
+  * Once she makes up her mind, nothing can stop her from achieving her goal. (一旦她下定決心，沒有任何事能阻止她達成目標。)
+  * It took him a long time to make up his mind whether to accept the job offer. (他花了很長時間才下定決心是否接受那份工作邀約。)
+  * I've made up my mind to go abroad next year. (我已決定明年要出國。)
+
+</details>
+
+<details>
+
+<summary>作文百句 27 補充資料</summary>
+
+## 文章分析
+
+文章開頭即點出算命背後的心理動機——面對未來的不確定性與焦慮。作者並未採取批判迷信的立場，而是理性地分析算命如何提供指引，為後續將算命定義為一種諮商服務鋪平了道路。作者敏銳地觀察到，算命的價值不在於結果的真偽，而在於溝通的過程，讓受眾在面臨困境時獲得情感的慰藉與正面反饋。文章結尾將討論層次提升到個人應用，作者透過分享自己在面臨升學抉擇時可能採取的態度，展示了如何將他人的建議作為決策參考，而非盲目遵循。
+
+
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Superstition (n.) 迷信
+  * 形容詞為 `superstitious`。
+  * Despite the advancement of science, many people still cling to ancient superstitions for a sense of security. (儘管科學進步，許多人仍依附於古代迷信以獲得安全感。)
+* Predetermined (adj.) 命中注定的、預先決定的
+  * Some people find comfort in believing that their path in life is predetermined by fate. (有些人發現在相信人生道路是由命運預先決定中能獲得慰藉。)
+* Uncertainty (n.) 不確定性
+  * The constant uncertainty of the job market can be a major source of stress for young graduates. (就業市場持續的不確定性可能是年輕畢業生壓力的主要來源。)
+  * Embracing uncertainty is a crucial part of becoming a resilient and independent individual. (擁抱不確定性是成為一個具韌性且獨立的個人的關鍵部分。)
+* Rationality (n.) 理性、合理性、邏輯性
+  * 形容詞為 `rational`。
+  * A healthy society requires a balance between tradition, spirituality, and rationality. (一個健康的社會需要傳統、靈性與理性之間的平衡。)
+  * The rationality of his argument is very compelling. (他論點的合理性非常令人信服。)
+* Foretell (v.) 預言、預告
+  * Ancient prophets claimed they could foretell the downfall of great empires. (古代先知聲稱他們能預言偉大帝國的隕落。)
+  * Scientists are trying to develop better models to foretell natural disasters more accurately. (科學家正努力開發更好的模型，以更準確地預言自然災害。)
+* Insightful (adj.) 具洞察力的
+  * 形容某種建議或分析能看穿表面、直達核心。
+  * A good mentor provides insightful advice that helps you see your situation more clearly. (好的導師提供具洞察力的建議，幫助你更清楚地看清現狀。)
+  * The book offers an insightful analysis of why humans are so obsessed with knowing the future. (這本書對人類為何如此痴迷於預知未來提供了具洞察力的分析。)
+* Ambiguous (adj.) 模稜兩可的、含糊不清的
+  * Fortune tellers often use ambiguous language that can be interpreted in many different ways. (算命師常使用模稜兩可的語言，可以用許多不同方式來解釋。)
+  * The instructions for the assignment were too ambiguous, leaving the students confused. (該作業的指令過於含糊，讓學生們感到困惑。)
+* Placebo effect (n. phr.) 安慰劑效應
+  * 在心理學中，指即使治療沒有實質作用，但因病人「相信」有效而產生的正向心理反應。
+  * Fortune-telling often acts as a placebo effect, giving people the confidence they need to overcome difficulties. (算命常扮演安慰劑效應的角色，給予人們克服困難所需的信心。)
+  * The doctor suggested that the patient's recovery might be partly due to the placebo effect. (醫生建議病人的康復可能部分歸功於安慰劑效應。)
+* Self-fulfilling prophecy (n. phr.) 自我實現的預言
+  * 指一個預言或期望，因為被相信而影響了行為，最終導致預言真的實現。`prophecy` 表「預言」。
+  * If you believe a fortune teller's positive prediction, your increased confidence might make it a self-fulfilling prophecy. (如果你相信算命師的正向預言，你增加的信心可能會使其成為自我實現的預言。)
+  * Negative expectations can often lead to a self-fulfilling prophecy, causing people to fail before they even start. (負面的預期常導致自我實現的預言，使人們在開始前就失敗了。)
+* Take sth with a pinch/grain of salt 聽聽就好、持保留態度
+  * 指對某種說法不完全相信。
+  * My grandfather’s stories are often exaggerated, so I usually take them with a grain of salt. (我祖父的故事常被誇大，所以我通常聽聽就好。)
+  * I take everything she says with a pinch of salt. (我對她所說的每件事都持保留態度。)
+
+## 寫作建議
+
+* 處理迷信的話題時，建議採取「開放但謹慎」的態度，從理性視角分析這類行為，能讓整篇文章立場不過於偏頗。
+
+</details>
 
 ## 28.
 
