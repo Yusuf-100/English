@@ -6916,11 +6916,626 @@ Indoors (adv.) 在室內、往室內
 2. I did that <mark style="color:blue;">**out of curiosity**</mark>, <mark style="color:blue;">**thinking**</mark> that as her little sister, I <mark style="color:blue;">**was entitled**</mark> to get a <mark style="color:blue;">**glimpse**</mark> into her inner thoughts. However, my sister didn't think so. She <mark style="color:blue;">**flew into a rage**</mark> as soon as she saw me <mark style="color:blue;">**browsing through**</mark> her diary. She even looked at me as if I <mark style="color:blue;">**were**</mark> a thief. I felt upset, too, because I thought she was just <mark style="color:blue;">**kicking up a fuss**</mark>. As a result, we were not <mark style="color:blue;">**on speaking terms**</mark> for a few days.
 3. After I did some <mark style="color:blue;">**soul-searching**</mark>, I decided to admit to my <mark style="color:blue;">**wrongdoing**</mark> and <mark style="color:blue;">**apologize to**</mark> her. I said that I had no right to <mark style="color:blue;">**pry into**</mark> her private life. I was terribly sorry, and I wouldn't do it again. She accepted my <mark style="color:blue;">**heartfelt apology**</mark> and gave me a hug. We finally <mark style="color:blue;">**made up**</mark>. From this incident, I have learned the lesson that we should respect other people's privacy no matter how close to each other we are.
 
+<details>
+
+<summary>作文百句 29 單字整理</summary>
+
+## 單字
+
+* Senior
+  * (n.) 前輩、年長者、大四生
+    * The community center offers various programs specifically for seniors in the neighborhood. (社區中心為鄰里的長者提供了各種專門計畫。)
+    * As a senior at National Taiwan University, he is busy preparing for his future career. (作為台大的大四學生，他正忙於為未來的職業生涯做準備。)
+  * (adj.) 年長的、資深的、高階的
+    * He is ten years senior to me, so I always treat him with great respect. (他比我大十歲，所以我總是對他非常尊敬。)
+    * As a senior manager, he has the authority to approve large-scale projects. (作為一名高階經理，他有權批准大規模專案。
+    * She was promoted to senior vice president after leading the successful merger. (在領導了成功的合併案後，她被提升為資深副總裁。)
+* Confide (v.) 吐露、傾訴 (秘密或心事)
+  * 常見用法為 `confide in sb` (對某人推心置腹), `confide sth to sb` (向某人透露某事)。
+  * She needed someone she could confide in after the tragic breakup. (在慘痛的分手後，她需要一個可以傾訴心事的人。)
+  * He confided his fears to his best friend, knowing the secret would be kept. (他向最好的朋友吐露了他的恐懼，因為他知道秘密會被保守。)
+* Ruin
+  * (v.) 毀掉、破壞；傾家蕩產
+    * One wrong decision could ruin the company's reputation overnight. (一個錯誤的決定可能會在一夜之間毀掉公司的名聲。)
+    * The heavy rain ruined our plans for a weekend picnic in the mountains. (大雨毀掉了我們週末去山上野餐的計畫。)
+  * (n.) 廢墟、遺址；毀滅
+    * 複數型 <mark style="color:blue;">**`ruins`**</mark> 專指建築物倒塌後留下的遺址。
+    * Tourists from all over the world come to visit the ancient Roman ruins. (來自世界各地的遊客前來參觀古羅馬遺址。)
+    * The gambler’s addiction eventually led to his financial ruin. (那名賭徒的成癮最終導致了他的傾家蕩產。)
+* Relationship (n.) 關係、關聯；親密關係
+  * 強調兩者之間的情感連結或長期的互動狀態。
+  * They have built a strong business relationship based on mutual trust. (他們基於相互信任建立了強大的業務關係。)
+
+{% hint style="info" %}
+#### Relation (n.) 關係、關聯
+
+常用於表示兩者之間的邏輯關係、因果或結構聯繫，也可以指外交、商業或較大群體間的邦交或業務往來。與 `relationship` 相比，`relation` 更側重業務、客觀聯繫，較少用於親密的情感關係。
+
+* The report explores the relation between social media usage and mental health. (該報告探討了社群媒體使用與心理健康之間的關聯。)
+* There is a close relation between fitness and health. (健康與健身有密切關係。)
+* Relations between the two countries have not been good lately. (兩國關係最近不太好。)
+{% endhint %}
+
+* Diary (n.) 日記、日誌
+  * 注意不要與 [`dairy` (乳製品)](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-dan-zi-zheng-li) 混淆。
+  * 常見搭配有 `keep a diary` (寫日記)。
+  * She locked her diary in a drawer to keep her secrets from being discovered. (她把日記鎖在抽屜裡，以防秘密被發現。)
+  * Keeping a diary is a good way to record your daily thoughts and feelings. (寫日記是記錄每日想法與感受的好方法。)
+* Sly (adj.) 狡猾的、狡黠的、陰險的
+  * `on the sly` 是固定用法，指「偷偷地、私下地」。
+  * She caught a sly smile on his face, suggesting he knew more than he let on. (她捕捉到他臉上狡黠的微笑，暗示他知道的比表現出來的更多。)
+  * They used to meet on the sly because their parents didn't approve of their relationship. (他們以前常偷偷見面，因為父母不贊成他們的交往。)
+* Entitled (adj.) 有權利的、有資格的
+  * 常見用法為 `be entitled to N/Ving`。
+  * Every citizen is entitled to free speech and equal protection under the law. (每位公民依法皆有權享有言論自由與平等的保護。)
+  * After working for the company for ten years, he felt entitled to a long vacation. (在公司工作十年後，他覺得自己有資格休個長假。)
+* Glimpse (n./v.) 瞥見、一瞥
+  * 常見用法為 `catch/get/have a glimpse of + 人/物`。
+  * I only caught a glimpse of the thief before he disappeared into the dark alley. (在小偷消失在黑暗巷弄前，我只瞥見了他的身影。)
+  * This biography gives readers a rare glimpse into the private life of the famous artist. (這本傳記讓讀者得以一窺這位知名藝術家罕見的私人生活。)
+* Inner (adj.) 內心的；內部的；內圈的
+  * 反義詞為 `outer`。
+  * She struggled to find her <mark style="color:blue;">**inner peace**</mark> amid the chaos of the city. (她在城市的混亂中努力尋找內心的平靜。)
+  * The inner lining of the coat is made of high-quality silk. (這件外套的內裡是由高品質絲綢製成的。)
+* Thought (n.) 想法、見解；思考；思潮
+  * 除了指單一念頭，也可以指一個時代的學說或思想體系。
+  * The teacher asked the students to share their thoughts on the new movie. (老師要求學生分享他們對這部新電影的想法。)
+  * After much thought, he decided to accept the challenging job offer. (經過深思熟慮後，他決定接受那份具挑戰性的工作邀約。)
+  * Eastern thought emphasizes the harmony between humans and nature. (東方思想強調人與自然之間的和諧。)
+* Browse (v.) 瀏覽、隨意翻閱
+  * 常用於在書店翻書、在網路上看資訊或像文中一樣隨意看日記。
+  * `browse through N` 比單純的 `browse N` 更強調「從頭到尾快速翻過一遍」的動作，通常帶有檢視細節的意味。
+  * I often browse the internet for news. (我常上網瀏覽新聞。)
+  * You can browse our online catalog to see the latest collection of jewelry. (你可以瀏覽我們的線上目錄，看看最新的珠寶系列。)
+  * I spent the afternoon browsing through the old photos in the attic. (我花了一個下午在閣樓瀏覽舊照片。)
+* Thief (n.) 小偷、賊
+  * 最廣義的說法，指任何未經許可取走他人財產的人。複數形為 `thieves`。
+  * The thief snatched her purse and disappeared into the crowded market. (小偷奪走她的錢包，消失在擁擠的市場中。)
+  * Identity thieves use personal information to commit fraud online. (身分竊賊利用個人資訊在網上進行詐騙。)
+
+{% hint style="info" %}
+#### Burglar (n.) 竊賊、入室盜竊者
+
+專指非法闖入建築物 (通常是住宅) 意圖行竊的人。
+
+* The burglar entered the house through a broken window while the family was asleep. (竊賊在全家人睡覺時透過打破的窗戶進入屋內。)
+* Many homeowners install security cameras to deter burglars. (許多屋主安裝監視器以嚇阻竊賊。)
+{% endhint %}
+
+* Fuss
+  * (n.) 大驚小怪、瞎忙、爭執
+    * 常見用法有 `make a fuss about/over sth` (對...大驚小怪) 或 `kick up a fuss` (吵鬧、抱怨、小題大做)。
+    * It was just a small scratch, so there was no need to make such a fuss. (那只是一個小刮傷，沒必要這樣大驚小怪。)
+    * The customer kicked up a fuss because his soup was served cold. (那位顧客因為湯送上來是冷的而大吵大鬧。)
+  * (v.) 焦急、過分關心
+    * My grandmother always fusses over me whenever I visit her. (每當我去看奶奶時，她總是對我過分關心。)
+* Term (n.)
+  * 關係
+    * 通常用複數型 `terms` 形容人際關係的狀態。常見用法有 `on equal terms` (在平等的條件下), `be on good/friendly terms with sb` (與某人關係良好)。
+    * Even after the divorce, they remained on friendly terms for the sake of their children. (即便離婚後，為了孩子，他們仍維持著友好的關係。)
+    * We are currently not on speaking terms because of a serious argument. (因為一次嚴重的爭吵，我們目前互不理睬。)
+  * 條件
+    * The contract outlines the terms and conditions of the employment. (合約概述了僱用的條款與條件。)
+    * They had to agree to the terms of the contract. (他們必須同意合約的條款。)
+  * 術語、學期
+    * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-12-dan-zi-zheng-li)。
+* Soul (n.) 靈魂；心靈；精髓；人
+  * They say that <mark style="color:blue;">**the eyes are the window to the soul**</mark>. (人們說眼睛是靈魂之窗。)
+  * Music is the soul of the party; it sets the mood for everyone. (音樂是派對的靈魂；它為每個人營造氛圍。)
+  * She puts her heart and soul into her work. (她全心全意投入工作。)
+  * The simplicity is the soul of her art. (簡約是她藝術的精髓。)
+  * Not a soul was to be seen on the deserted street at midnight. (半夜空曠的街道上一個人影也看不見。)
+* Soul-searching (n.) 深層的自我反省、內心掙扎
+  * After much soul-searching, he decided to quit his job and travel around the world. (經過一番深層的自我反省後，他決定辭職去環遊世界。)
+  * The defeat in the election led to a period of intense soul-searching for the political party. (選舉的失敗導致該政黨進入了一段劇烈的自我反省期。)
+* Wrongdoing (n.) 壞事、錯誤行為、不法行為
+  * 用來泛指壞事或不道德的行為時，通常為<mark style="color:blue;">**不可數名詞**</mark>；當指代具體的、一件件的違法或不當行為時，可使用複數形式 `wrongdoings`。
+  * The politician denied any wrongdoing despite the evidence presented against him. (儘管有針對他的證據，該政治家仍否認有任何不法行為。)
+  * It takes courage to admit your wrongdoing and ask for forgiveness. (承認自己的錯誤行為並請求原諒需要勇氣。)
+* Pry (v.) 窺探、打探 (隱私)
+  * 常用用法為 `pry into sth`。
+  * I'm sorry, I don't mean to pry, but why are you leaving the city so suddenly? (對不起，我不想打探隱私，但你為什麼這麼突然要離開這座城市？)
+  * She values her privacy and hates it when people try to pry into her personal affairs. (她很重視隱私，討厭別人打探她的私事。)
+* Heartfelt (adj.) 衷心的、真誠的
+  * 常與 `apology`, `thanks` 連用。
+  * The singer gave a heartfelt performance that moved the entire audience to tears. (那位歌手帶來了真誠的演出，讓全場觀眾感動落淚。)
+  * Tom's heartfelt speech brought everyone to tears. (Tom 誠摯的致詞賺人熱淚。)
+  * Please accept my heartfelt apologies for the misunderstanding we had yesterday. (對於我們昨天產生的誤解，請接受我衷心的歉意。)
+  * Please accept my heartfelt thanks. (請接受我衷心的感謝。)
+* Respect
+  * (n.) 尊重、尊敬
+    * 常見用法有 `show respect for N` (對…表示尊重), `earn/gain/win the respect of N` (贏得…的尊重)。
+    * We should show respect for the customs and traditions of other cultures. (我們應該對其他文化的習俗與傳統表現出尊重。)
+    * She earned the respect of her colleagues. (她贏得了同事們的尊重。)
+  * (n.) 方面
+    * In many respects, the new model is much better than the previous one. (在許多方面，新模型都比前一個好得多。)
+    * The two situations are different in this respect. (這兩種情況在這方面是不同的。)
+  * (v.) 尊重、尊敬
+    * 常見用法有 `respect sb for sth` (因某事而尊敬某人)。
+    * I respect him deeply for his honesty and integrity. (我因他的誠實與正直而深深尊敬他。)
+    * Everyone respects him for his courage. (大家都因他的勇氣而尊敬他。)
+  * (v.) 遵守 (規則、法律)
+    * You must respect the school rules. (你必須遵守校規。)
+* Privacy (n.) 隱私；私生活；不受干擾的狀態
+  * `invasion of privacy` 表「侵犯隱私」。形容詞為 `private`。
+  * Technology makes it easier for companies to collect data, which raises concerns about digital privacy. (科技讓公司更容易收集數據，這引起了對數位隱私的擔憂。)
+  * I respect my sister's privacy by never entering her room without permission. (我從不未經許可進入我姊姊的房間，以此尊重她的隱私。)
+  * He moved to a remote island to seek privacy from the relentless media. (他搬到一個偏遠的小島，以尋求躲避無情媒體的干擾。)
+
+</details>
+
+<details>
+
+<summary>作文百句 29 片語整理</summary>
+
+## 片語
+
+* N be + 時間 + sb's senior ...比...大...歲
+  * 此用法將 `senior` 當名詞使用；也可以將 `senior` 當作形容詞使用，寫成 `N be + 時間 + senior to sb`。
+  * He is five years my senior. = He is five years senior to me. (他比我大五歲。)
+* Get along with sb 與某人相處得好
+  * 同義詞有 `be on good terms with sb`。
+  * My parents are happy that I get along with my siblings so well. (我父母很高興我與兄弟姊妹相處得這麼好。)
+  * It’s crucial to get along with your colleagues if you want a pleasant working environment. (如果你想要一個愉快的工作環境，與同事相處融洽是至關重要的。)
+* Confide in each other 互相傾訴、互吐心聲
+  * True friends always confide in each other when they face difficult times. (真正的朋友在面臨困難時期總是會互相傾訴。)
+  * After years of working together, they started to confide in each other regarding personal issues. (合作多年後，他們開始就個人問題互吐心聲。)
+* On the sly 偷偷地、私下地
+  * He used to smoke on the sly because his wife hated the smell of tobacco. (他以前常偷偷抽菸，因為他妻子討厭菸味。)
+  * The kids were eating chocolate on the sly before dinner was served. (孩子們在晚餐供應前偷偷吃著巧克力。)
+* Out of curiosity 出於好奇
+  * `out of + 抽象名詞` 表「出於某種動機或情感」，例如 `out of spite` (出於惡意), `out of pity` (出於同情), `out of love` (出於愛意), `out of habit` (出於習慣), `out of necessity` (出於必要)。
+  * I asked him about his past out of curiosity, not because I wanted to pry. (我出於好奇問了他的過去，不是因為我想窺探隱私。)
+  * She helped the stranger out of pity for his difficult situation. (她出於對陌生人困境的同情而幫助了他。)
+  * Alana teased him out of love because she wanted to see his embarrassed face. (Alana 出於愛意逗弄他，因為她想看到他尷尬的表情。)
+* Be entitled to N/VR 有權享有...、有資格做...
+  * You are entitled to a full refund if the product is found to be defective. (如果發現產品有瑕疵，你有權獲得全額退款。)
+  * Everyone is entitled to express their opinion, even if it’s unpopular. (每個人都有權表達自己的意見，即使那是少數派觀點。)
+* Get a glimpse into sth 得以一窺...、了解...的片段
+  * The documentary allows us to get a glimpse into the lives of rare animals. (這部紀錄片讓我們得以一窺稀有動物的生活。)
+  * Studying history helps us get a glimpse into the wisdom of our ancestors. (研究歷史幫助我們了解祖先的智慧。)
+* Think so 這麼想、認同上述觀點
+  * `so` 在這裡是一個代名詞，用來代替前面提到的整個子句或觀點。
+  * 相似用法有 `I hope so.` (我希望如此。), `I believe so.` (我也這麼相信。), `If so, ...` (如果是這樣的話，……)
+  * "Will it rain tomorrow?" "I think so; the sky looks very dark." (「明天會下雨嗎？」「我想會吧；天空看起來很暗。」)
+  * He thinks she is a bit naughty, and she thinks so, too. (他覺得她有點調皮，而她也這麼覺得。)
+* Browse through 瀏覽、翻閱
+  * She browsed through the report to get a general idea. (她快速翻閱報告以了解大概內容。)
+* Kick up a fuss 吵鬧、大驚小怪、抱怨
+  * 常用於描述對小事大發脾氣。
+  * There’s no need to kick up a fuss over such a minor mistake. (沒必要為了這麼小的錯誤大驚小怪。)
+  * I don't want his lawyer to kick up a fuss about this. (我不想讓他的律師對此大動干戈。)
+* As a result 結果、因此
+  * 常置於句首並加逗號，用來連接因果關係的兩個句子。
+  * He didn't study for the exam; as a result, he failed. (他沒為考試讀書；結果，他不及格了。)
+  * The company lost money, and as a result, it closed down. (公司賠錢，因此倒閉了。)
+* Be on speaking terms (with sb) 與...願意交談 (的關係)
+  * 通常用於吵架後，形容雙方是否恢復到「會說話」的程度。
+  * We are barely on speaking terms. (我們幾乎沒在說話了。)
+  * I’m glad to hear that you and your brother are on speaking terms again. (很高興聽說你和你哥哥又恢復交談了。)
+* Pry into sth 窺探...
+  * `pry` 帶有冒犯性的刺探意味。
+  * Paparazzi are often criticized for prying into celebrities' private lives. (狗仔隊常因窺探名人的私生活而受到批評。)
+  * You should respect your children's boundaries and stop prying into their diaries. (你應該尊重孩子的界線，停止窺探他們的日記。)
+* Make up (with sb) (與某人) 和解
+  * Life is too short to hold grudges; let's make up and move on. (人生太短，不應心懷怨恨；我們和解並繼續前進吧。)
+  * They argued last night but made up with a long hug this morning. (他們昨晚吵架了，但今天早上用一個長久的擁抱和解了。)
+
+</details>
+
+<details>
+
+<summary>作文百句 29 文法整理</summary>
+
+## 文法
+
+* As if 的假設語氣
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-wen-fa-zheng-li)。
+  * 文章中，`She even looked at me as if I were a thief.`，雖然主句是過去式，但「當小偷」是發生在「看的當下」，相對時間一致，所以適用「與當下事實相反的假設」(第二類)，而非「與過去事實相反的假設」(第三類)。
+
+</details>
+
+<details>
+
+<summary>作文百句 29 補充資料</summary>
+
+## 文章分析
+
+本文的結構是「關係和諧」→「侵犯隱私引發衝突」→「自我反省與道歉」→「獲得教訓與和解」。在情感描寫上，作者捕捉了隱私侵犯者的心理狀態——`entitlement` (權利感)。作者因為覺得自己是妹妹，就認為自己能窺探姊姊的內心，這正是許多人際關係破裂的導火線。而姊姊的反應使用 `flew into a rage` 和 `looked at me as if I were a thief`，表現出隱私被侵犯時，那種如遭洗劫般的憤怒與不信任感，非常生動。
+
+## 寫作補給站
+
+以下補充一些與本文主題相關的詞彙。
+
+* Intrusive (adj.) 侵入性的、干擾的
+  * 形容行為或問題讓人感到被冒犯、不舒服。動詞形為 `intrude` (闖入)，它不只是表示「進入」，更帶有一種未經邀請、令人不快的負面感受。
+  * The bright neon lights from the street were quite intrusive and kept me awake all night. (街上明亮的霓虹燈非常刺眼，讓我整晚睡不著。)
+  * Constant questions about one's salary are often considered intrusive in many cultures. (不斷詢問薪水在許多文化中通常被視為具侵入性的。)
+* Unspoken rules (n. phr.) 不成文的規定、潛規則
+  * 這是指在一個群體中，雖然沒有被寫在規章制度裡，但每個人都心照不宣必須遵守的禮儀，即 `social etiquette` (社交禮儀)。
+  * It’s an unspoken rule that you should never take the last piece of cake without asking. (不問自取最後一塊蛋糕是社交場合中不成文的禁忌。)
+  * In many elevators, the unspoken rule is to stand facing the door and avoid making eye contact. (在許多電梯裡，不成文的規定是面向門站立並避免眼神接觸。)
+* Express sincere regret for N/V-ing 對...表達誠摯的歉意、遺憾
+  * 常用於書面信函、公關聲明或非常嚴肅的認錯場合。
+  * I wish to express my sincere regret for reading your diary without permission. (我希望能對未經許可閱讀你的日記表達誠摯的遺憾。)
+  * The airline issued a statement to express sincere regret for the massive flight cancellations. (航空公司發表聲明，對大規模航班取消表達誠摯的遺憾。)
+  * The CEO expressed sincere regret for the data breach that affected millions of customers. (執行長對影響數百萬客戶的資料洩露事件表達了誠摯的歉意。)
+* Owe sb an apology 欠某人一個道歉
+  * 當你意識到自己真的做錯，而那個錯誤還沒有被補償時，就會用這個片語，強調一種「道德上的債務」。
+  * After realizing I had wrongly accused him of stealing, I felt I owed him a huge apology. (意識到我誤蔑他偷竊後，我覺得我欠他一個大大的道歉。)
+  * You owe Alana an apology for keeping your secrets from her for so long! (你瞞了 Alana 這麼久，你欠她一個道歉！)
+* <mark style="color:blue;">**Good fences make good neighbors.**</mark> 好的籬笆造就好鄰居。
+  * 這句名言常被引用來強調「清楚的界線能促進和諧的關係」。即使是親近的人，維持適度的距離也是必要的。
+  * Even though we are best friends, we should still respect each other's work space; as they say, good fences make good neighbors. (即使我們是最好的朋友，我們仍應尊重彼此的工作空間；正如人們所說，好的籬笆造就好鄰居。)
+  * The two countries decided to clarify their border lines, believing that good fences make good neighbors. (兩國決定釐清國界，相信有明確的界線才能和諧相處。)
+* <mark style="color:blue;">**Trust is like a mirror; once broken, it can be mended, but you can still see the cracks.**</mark> 信任就像一面鏡子，一旦破碎，就無法恢復到原來的樣子。
+  * 強調建立信任的困難以及信任的脆弱性。
+  * You lied to me about your past again. Remember, trust is like a mirror; once broken, it can be mended, but you can still see the cracks. (你又在過去的事情上騙我。記住，信任就像一面鏡子；一旦破碎，雖然可以修補，但你仍能看見裂痕。)
+  * I might forgive you, but you know, trust is like a mirror; once broken, it can be mended, but you can still see the cracks. (我或許會原諒你，但你知道，信任就像一面鏡子，我已經很難再相信你了。)
+  * He tried his best to win back her heart, but she knew that trust is like a mirror; once broken, it can be mended, but you can still see the cracks. (他盡全力想贏回她的心，但她知道信任一旦破裂，裂痕便永遠存在。)
+
+</details>
+
 ## 30.
 
 1. Over winter vacation, I would like to <mark style="color:blue;">**attend**</mark> the camp called "Creativity and Originality of High School Students." As a person who <mark style="color:blue;">**tends to**</mark> follow others, I do not have the courage to lead, <mark style="color:blue;">**nor do I**</mark> come up with <mark style="color:blue;">**novel**</mark> or creative ideas. I usually provide nothing but <mark style="color:blue;">**conventional**</mark> ideas, which is why I want to learn how to <mark style="color:blue;">**cultivate**</mark> my creativity and <mark style="color:blue;">**ingenuity**</mark>.
 2. Besides, in this highly <mark style="color:blue;">**competitive**</mark> world, if I cannot generate creative works or provide <mark style="color:blue;">**innovative**</mark> ideas for future employers, I <mark style="color:blue;">**am likely to**</mark> <mark style="color:blue;">**be overshadowed by**</mark> those who can bring creativity and <mark style="color:blue;">**originality**</mark> to the workplace. In my opinion, it would be great if the camp organizers arranged three major activities for the camp <mark style="color:blue;">**participants**</mark>.
 3. First, they could introduce some <mark style="color:blue;">**abstract**</mark> theories about creativity with <mark style="color:blue;">**interactive**</mark> games. This would give students a deeper impression of the issue. They could also invite student speakers to share how they <mark style="color:blue;">**came up with**</mark> actual <mark style="color:blue;">**novel**</mark> ideas and <mark style="color:blue;">**intriguing**</mark> projects to inspire and <mark style="color:blue;">**motivate**</mark> us. In addition, I hope that all <mark style="color:blue;">**participants**</mark> will have a chance to <mark style="color:blue;">**display**</mark> their creativity and <mark style="color:blue;">**originality**</mark>. The camp organizers should hold a <mark style="color:blue;">**mock**</mark> contest in which students have to solve a real-life problem. I firmly believe that a camp offering these activities would truly have a lot to offer.
+
+<details>
+
+<summary>作文百句 30 單字整理</summary>
+
+## 單字
+
+* Vacation
+  * (n.) 假期、休假
+    * `summer/winter vacation` 表「寒/暑假」。
+    * The family is planning a two-week vacation to Hawaii this summer. (這家人正計畫今年夏天去夏威夷度過為期兩週的假期。)
+    * We spent our winter vacation skiing in the mountains of Hokkaido. (我們在北海道的山區滑雪度過冬假。)
+  * (v.) 度假
+    * They are currently vacationing in Europe and will return next month. (他們目前正在歐洲度假，下個月才會回來。)
+* Attend (v.) 參加、出席；注意
+  * 常用搭配為 `attend a meeting/camp`。`attend to N` 表「照顧、處理」。
+  * 其他介紹詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-25-dan-zi-zheng-li)。
+  * My sister decided to attend the summer camp to improve her leadership skills. (我姊姊決定參加夏令營以提升她的領導能力。)
+  * Please attend to the details of the contract before signing it. (簽約前請注意合約的細節。)
+* Creativity (n.) 創意、創造力
+  * 形容詞為 `creative`；`creator` (n.) 指「創作者」。
+  * Encouraging creativity in children can help them become better problem-solvers. (鼓勵孩童的創造力能幫助他們成為更好的問題解決者。)
+  * The advertising agency is looking for people with exceptional creativity. (這家廣告公司正在尋找具有卓越創造力的人才。)
+* Originality (n.) 獨創性、新穎
+  * A lack of originality makes the new movie feel like a repeat of old ideas. (缺乏獨創性讓這部新電影感覺像是舊點子的重複。)
+  * Originality is highly valued in the competitive world of modern art. (在現代藝術的競爭世界中，獨創性被高度重視。)
+* Tend
+  * (v.) 傾向、往往會
+    * 常見用法為 `tend to + V`。名詞形為 `tendency`。
+    * I tend to get sleepy in the afternoon if I don't have a cup of coffee. (如果我不喝杯咖啡，下午我往往會感到困倦。)
+    * People tend to eat more in winter. (人們在冬天往往會吃得更多。
+    * There is a growing tendency for people to work from home these days. (現今人們居家辦公的傾向日益增長。)
+  * (v.) 照料
+    * 常見用法為 `tend (to) + N`。
+    * He tends his garden every weekend to make sure the flowers grow well. (他每個週末都會照料他的花園，以確保花朵生長良好。)
+    * The nurse gently tended to the patient's wounds. (護士細心地護理病人的傷口。)
+* Courage (n.) 勇氣；膽量
+  * 形容詞為 `courageous`。
+  * It takes a lot of courage to admit your mistakes and move forward. (承認錯誤並繼續前進需要很大的勇氣。)
+  * She showed great courage during the difficult recovery process after surgery. (在手術後艱難的恢復過程中，她展現了巨大的勇氣。)
+* Novel
+  * (adj.) 新奇的、新穎的
+    * The startup came up with a novel way to recycle plastic waste into building materials. (這家新創公司想出了一種將塑膠廢料回收成建築材料的新穎方法。)
+    * It’s a novel idea to use virtual reality for historical education. (利用虛擬實境進行歷史教育是一個新穎的想法。)
+  * (n.) 小說
+    * I prefer reading mystery novels late at night when it’s quiet. (我喜歡在安靜的深夜讀推理小說。)
+* Conventional (adj.) 常規的、傳統的、慣例的
+  * 通常帶有「中規中矩、缺乏新意」的含義。名詞形為 `convention` (習俗、大會)。
+  * Conventional medicine is sometimes combined with alternative therapies. (傳統醫學有時會與替代療法相結合。)
+  * She didn't want a conventional wedding; she wanted to get married on a mountain top. (她不想要傳統的婚禮；她想在山頂結婚。)
+  * His conventional approach to the problem failed to produce any innovative results. (他對該問題採取的中規中矩的方法未能產生任何創新結果。)
+* Cultivate (v.) 培養、陶冶；耕作
+  * It takes time and patience to cultivate a new habit, like daily exercise. (培養一個新習慣，比如每日運動，需要時間和耐心。)
+  * The teacher tries to cultivate a sense of curiosity in all her students. (老師試圖在所有學生心中培養好奇心。)
+  * We have been working hard to cultivate a strong partnership with our clients. (我們一直努力與客戶培養強大的合作夥伴關係。)
+  * The villagers cultivate mostly maize and beans. (村民們主要種植玉米和豆類。)
+* Ingenuity (n.) 獨創性、足智多謀、靈巧
+  * 形容詞為 `ingenious`。
+  * With a bit of ingenuity, we managed to fix the broken radiator using only a coat hanger. (憑藉一點巧思，我們設法只用一個衣架就修好了損壞的散熱器。)
+  * The ingenuity of the ancient architects continues to amaze modern engineers. (古代建築師的巧思令現代工程師讚嘆不已。)
+* Competitive (adj.) 競爭的、具競爭力的
+  * 動詞形為 `compete` (競爭)；名詞形為 `competition` (競爭、比賽)、`competitor` (競爭者)。
+  * The company offers high-quality products at very competitive prices. (該公司以非常有競爭力的價格提供高品質產品。)
+  * He has a very competitive nature and always strives to be the best. (他有好勝的天性，總是努力做到最好。)
+* Generate (v.) 產生、引起、發生
+  * `generate` 側重於「產出結果、能量」的過程，如 `generate power` (發電)、`generate income` (產生收入)；`create` 側重於「從無到有」的創意行為，如 `create a masterpiece` (創造傑作)。
+  * Solar panels are used to generate electricity from sunlight. (太陽能板用於將陽光轉化為電力。)
+  * The new marketing campaign is expected to generate a lot of interest in our products. (新的行銷活動預計會引起對我們產品的極大興趣。)
+* Innovative (adj.) 創新的、革新的
+  * The company is famous for its innovative designs that combine technology and art. (該公司以結合科技與藝術的創新設計而聞名。)
+  * We need an innovative solution to reduce traffic congestion in the city center. (我們需要一個創新的解決方案來減少市中心的交通擁堵。)
+* Employer (n.) 雇主、老闆
+  * `employee` 表「員工」。
+  * A good employer values the well-being and professional growth of their staff. (好的雇主重視員工的福祉與專業成長。)
+  * My employer provided me with comprehensive health insurance and a retirement plan. (我的雇主為我提供了全面的醫療保險和退休計畫。)
+* Overshadow (v.) 使相形失色、使蒙上陰影；遮蔽
+  * Her brilliant performance overshadowed all the other actors on the stage. (她精彩的演出讓舞台上所有其他演員都相形失色。)
+  * The joy of the victory was overshadowed by the news of the captain's injury. (勝利的喜悅被隊長受傷的消息蒙上了陰影。)
+  * Grand Central Station in New York is overshadowed by the MetLife Building. (紐約中央車站被大都會人壽大樓遮蔽。)
+* Workplace (n.) 工作場所、職場
+  * 泛指辦公室、工廠或其他執行工作的地方。
+  * Flexible hours can significantly improve the productivity of the workplace. (彈性的工時能顯著提升職場的生產力。)
+  * Sexual harassment is strictly prohibited in any professional workplace. (在任何專業職場中都嚴格禁止性騷擾。)
+* Opinion (n.) 意見、看法、評價
+  * He is a man of strong opinions and is never afraid to express them. (他是一個很有主見的人，從不害怕表達自己的看法。)
+  * I respect your opinion, even though I don't entirely agree with you. (我尊重你的意見，儘管我並不完全同意你。)
+* Organizer (n.) 組織者、籌辦者
+  * The organizers of the concert decided to postpone the event due to the storm. (演唱會的籌辦者因暴風雨決定推遲活動。)
+  * She is an excellent organizer who can manage multiple tasks simultaneously. (她是一位優秀的組織者，能同時處理多項任務。)
+* Arrange
+  * (v.) 安排
+    * 常接「事情」作為直接受詞 (不需加 `for`)；若後面接「人」，則必須使用 `arrange`` `<mark style="color:blue;">**`for`**</mark>` ``sb to do sth` 的結構。
+    * I need to arrange a meeting with the client to discuss the project details. (我需要安排一次與客戶的面談以討論專案細節。)
+    * We'll arrange a personal interview. (我們會安排一次個人面試。)
+    * I've arranged for John to meet you at the lobby. (我已安排約翰在大廳與你見面。)
+  * (v.) 整理、排列
+    * She arranged the flowers in a vase. (她把花瓶裡的花插好。)
+    * The librarian arranged the books on the shelf in alphabetical order. (圖書管理員按字母順序排列架上的書。)
+* Participant (n.) 參與者、參加者
+  * `participate` 表「參加」，其名詞形為 `participation`。
+  * Each participant in the creativity camp will receive a certificate of completion. (創意營隊的每位參與者都將獲得結業證書。)
+  * The workshop was very successful, with over fifty participants from various schools. (工作坊非常成功，有來自各校的五十多位參與者。)
+* Introduce
+  * (v.) 介紹
+    * 常見用法為 `introduce A to B`, `introduce oneself`。
+    * Let me introduce you to our new project manager, Ms. Chen. (讓我向您介紹我們的新專案經理陳小姐。)
+  * (v.) 引進、推行、提出
+    * The government plans to introduce a new law to protect endangered species. (政府計畫引進一項新法律來保護瀕危物種。)
+    * The teacher introduced new teaching methods into the classroom. (老師在教室裡推行新的教學方法。)
+    * He introduced a topic about environment protection. (他提出了一個關於環境保護的話題。)
+* Abstract
+  * (adj.) 抽象的
+    * The concept of justice is often discussed in abstract terms. (正義的概念經常以抽象的方式進行討論。)
+    * She likes to paint abstract art that expresses her inner emotions. (她喜歡畫表達內心情感的抽象藝術。)
+  * (n.) 摘要
+    * Please write a short abstract of your research paper before submitting it. (提交研究論文前，請先寫一份簡短的摘要。)
+  * (v.) 提取、抽取；做...的摘要
+    * People abstract gold from ore. (人們從礦石中提煉出金子。)
+    * The researchers abstracted the essential data from the report. (研究人員從報告中提取了關鍵數據。)
+    * She abstracted the main points of the lecture. (她總結了演講的要點。)
+* Theory (n.) 理論、學說；見解
+  * `theory` 指廣泛的科學或社會學解釋，如 `Theory of Evolution` (演化論)；`thesis` (複數形為 `theses`) 則是指論文或論文的主旨論點，如 `Master's thesis` (碩士論文)；`theorem` 專指數學或邏輯上已被證明的定理，如 `Pythagorean theorem` (畢氏定理)。
+  * In physics class, we learned about the theory of relativity. (在物理課上，我們學習了相對論。)
+  * The scientist presented a new theory to explain the formation of black holes. (科學家提出了一個新理論來解釋黑洞的形成。)
+  * His thesis focused on the impact of social media on teenage mental health. (他的論文集中在社群媒體對青少年心理健康的影響。)
+  * Now we are ready to prove the main theorem of this paper. (現在我們準備證明本文的主要定理。)
+* Interactive (adj.) 互動的、交互式的
+  * 名詞形為 `interaction`。
+  * The museum has many interactive exhibits designed for children to explore. (博物館有許多專為兒童探索而設計的互動展覽。)
+  * Interactive learning can make difficult subjects much more interesting for students. (互動式學習能讓困難的科目對學生來說更有趣。)
+* Impression
+  * (n.) 印象、感想
+    * 常見用法為 `make/have/leave an impression on sb` (對...有印象、留下印象), `first impression` (第一印象)。
+    * I had the impression that she was not very happy with the results. (我的印象是她對結果並不是很滿意。)
+    * His speech left a lasting impression on everyone who attended the conference. (他的演講給所有參加會議的人留下了深刻的印象。)
+  * (n.) 壓痕
+    * There was a clear impression of the ring on the table where it had been sitting. (桌上原本放戒指的地方有一個清晰的壓痕。)
+* Issue
+  * (n.) 問題、議題；(雜誌) 期號
+    * Climate change is one of the most critical issues facing the world today. (氣候變遷是當今世界面臨的最關鍵議題之一。)
+    * The May issue of the magazine features an interview with the famous singer. (五月號的雜誌專訪了那位知名歌手。)
+  * (v.) 發布、發行
+    * The government issued a new statement. (政府發布了一項新聲明。)
+    * The police will issue a warning to anyone who parks their car illegally. (警方將對任何非法停車的人發出警告。)
+* Invite
+  * (v.) 邀請
+    * 常見用法為 `invite sb to VR/place/event` (邀請某人做某事/去某處或活動)。名詞形為 `invitation` (邀請；邀請函)。
+    * We would like to invite you to our house for dinner next Saturday. (我們想邀請您下週六來我們家吃晚餐。)
+    * We're invited to Alana's party. (我們受邀參加 Alana 的派對)。
+  * (v.) 招致 (負面事件)
+    * Such a badly presented exhibition invites criticism. (展覽會辦得這麼差會招致批評。)
+    * Behaving provocatively in class is just inviting trouble. (在課堂上挑釁只是自找麻煩。)
+* Speaker (n.) 演講者；說話者；揚聲器
+  * The keynote speaker at the graduation ceremony gave a very inspiring talk. (畢業典禮的主講人發表了一場非常鼓舞人心的演講。)
+  * She is a native speaker of French and is now learning Mandarin. (她的母語是法語，現在正在學習國語。)
+  * These speakers produce a very clear and high-quality sound. (這些揚聲器產生非常清晰且高品質的聲音。)
+* Share
+  * (v.) 分享、共有；分擔
+    * 常見用法為 `share sth with sb`。
+    * I’m so happy that you are willing to share your innermost secrets with me. (我很高興你願意與我分享你內心深處的秘密。)
+    * We decided to share the cost of the meal to keep it within our budget. (我們決定分擔餐費，以保持在預算內。)
+  * (n.) 一份；股份
+    * `the lion's share` 表「最大份額」或「大部分」。
+    * Alana wants to have a large share of his heart and attention. (Alana 想要佔有他心中大部分的位置與注意力。)
+    * He took the lion's share of the profits. (他拿走了利潤的最大份額。)
+    * The company’s share price rose by 5% after the positive quarterly report. (在有利的季度報告發布後，該公司的股價上漲了 5%。)
+* Actual (adj.) 實際的；真實的
+  * The actual performance was much better than what we saw in the rehearsal. (實際的演出比我們在彩排中看到的要好得多。)
+  * Although the project seemed easy, the actual work took much longer to complete. (雖然計畫看起來容易，但實際的工作花了更長時間才完成。)
+* Intriguing (adj.) 引起好奇心的、引人入勝的
+  * The detective found an intriguing clue that changed the direction of the investigation. (探員發現了一個引人入勝的線索，改變了調查方向。)
+  * Her life story is so intriguing that a movie studio wants to buy the rights. (她的生平故事如此引人入勝，以至於一家電影公司想購買版權。)
+* Project
+  * (n.) 計畫、企劃、方案
+    * We are currently working on a collaborative project with a partner in Japan. (我們目前正與一位日本夥伴進行一項合作計畫。)
+    * The government has launched a new project to improve rural infrastructure. (政府啟動了一項改善農村基礎設施的新計畫。)
+  * (v.) 投影、投射；預計
+    * Images were projected onto the large screen during the presentation. (簡報期間，影像被投影在大螢幕上。)
+    * The company is projected to earn a record profit this year. (該公司預計今年將獲得創紀錄的利潤。)
+* Inspire / Motivate (v.) 鼓舞、啟發 / 激勵、推動
+  * `inspire` 傾向於精神上的感召或創意啟發；`motivate` 則傾向於提供動力、促使某人採取行動。
+  * The beautiful scenery inspired him to write a poem. (美麗的風景啟發了他寫下一首詩。)
+  * Her success has inspired many young women to pursue careers in science. (她的成功鼓舞了許多女性追求科學事業。)
+  * The coach’s speech was designed to motivate the players before the big game. (教練的演講旨在賽前激勵球員。)
+  * What motivates you to work so hard every day? (是什麼激勵你每天如此努力地工作？)
+* Display (v./n.) 展示、顯示、陳列
+  * The museum is displaying a collection of ancient Egyptian artifacts. (博物館正在展出一系列古埃及文物。)
+  * He displayed great courage when he rescued the puppy from the burning building. (當他從著火的大樓中救出小狗時，展現了巨大的勇氣。)
+  * There is a beautiful display of fireworks every New Year's Eve. (每年跨年夜都有美麗的煙火表演。)
+  * The new smartphone has a high-resolution display for better clarity. (這款新手機配備高解析度顯示螢幕，清晰度更高。)
+* Mock
+  * (adj.) 模擬的、假裝的
+    * `mock exam/contest` 指「模擬考/競賽」。
+    * We had a mock interview yesterday to prepare for the real one next week. (我們昨天進行了模擬面試，為下週正式的面試做準備。)
+    * They performed a mock wedding as part of the theatrical performance. (作為戲劇演出的一部分，他們舉行了一場模擬婚禮。)
+  * (v.) 嘲笑
+    * 常見用法為 `mock sb`。
+    * It’s unkind to mock people for their mistakes. (嘲笑別人的錯誤是不友善的。)
+* Contest
+  * (n.) 競賽、比賽
+    * `contest` 常指由評審根據特定標準評分的比賽 (如選美、演講)；`competition` 的範圍則較廣，泛指任何形式的競爭 (如商業、體育、生存)。
+    * She entered a singing contest and won the first prize last year. (她去年參加了一場歌唱比賽並獲得了冠軍。)
+    * The contest for the presidency was very close and intense. (總統大位的爭奪非常膠著且激烈。)
+  * (v.) 競爭、爭奪；對…提出異議、爭辯
+    * Athletes will contest the gold medal. (運動員將爭奪金牌。)
+    * Several candidates are contesting the upcoming local election. (幾位候選人正在爭奪即將到來的當地選舉。)
+    * He plans to contest the election results. (他計劃對選舉結果提出異議。)
+* Solve (v.) 解決、解答、破解
+  * The detective worked tirelessly to solve the mysterious murder case. (探員不眠不休地工作以破獲這起神秘的謀殺案。)
+  * Can you help me solve this difficult math equation? (你能幫我解開這個困難的數學方程式嗎？)
+* Real-life (adj.) 現實生活的、真實發生的
+  * The movie is based on a real-life story of a woman who survived in the wild. (這部電影改編自一個女人在野外生存的真實故事。)
+  * Using real-life examples can make the lecture more engaging for the audience. (使用現實生活的例子能讓講座對聽眾更有吸引力。)
+* Firmly (adv.) 堅定地；牢固地、堅硬地
+  * He firmly believes that everyone should have equal access to education. (他堅定地認為每個人都應有平等的教育機會。)
+  * She firmly rejected the offer, stating that it didn't align with her values. (她堅定地拒絕了該提議，聲稱這不符合她的價值觀。)
+  * Please make sure the rope is firmly tied to the tree before you climb. (在你爬樹之前，請確保繩子牢固地繫在樹上。)
+
+</details>
+
+<details>
+
+<summary>作文百句 30 片語整理</summary>
+
+## 片語
+
+* Tend to VR 傾向於...
+  * Instead of developing her own style, she tends to follow others when it comes to fashion. (說到時尚，她傾向於隨波逐流，而不是發展自己的風格。)
+* Come up with N 想出、提議 (點子、計畫、解決方案)
+  * After hours of brainstorming, we finally came up with a brilliant marketing strategy. (經過數小時的腦力激盪，我們終於想出了一個精彩的行銷策略。)
+  * How did you come up with such an intriguing project idea for the science fair? (你是怎麼為科學博覽會想出這麼引人入勝的企劃點子的？)
+* Nothing but 僅僅、只有、除了...以外什麼都沒有
+  * 等同於 `only`，但語氣更強烈，常用於描述單調或極端的情況。
+  * The abandoned house was filled with nothing but dust and old memories. (那棟廢棄的房子裡除了灰塵和舊回憶外什麼都沒有。)
+  * In spite of his best efforts, he achieved nothing but failure in his first business venture. (儘管他盡了最大努力，他的第一次創業除了失敗外一無所獲。)
+* Be likely to VR 很有可能、傾向於
+  * 結構為 `S + be likely to VR` 或 `It is likely that + S + V`。<mark style="color:blue;">**不可寫**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`It is likely for sb to do sth`**</mark> (這是 `possible` 的用法）。
+  * If the company doesn't innovate, it is likely to lose its market share within a year. (如果公司不創新，很有可能在一年內失去市佔率。)
+  * Children who grow up in a creative environment are more likely to develop novel ideas. (在創意環境下長大的孩子更有可能產生新穎的想法。)
+  * It is likely that the price of raw materials will continue to rise next month. (原料價格下個月很有可能繼續上漲。)
+* Be overshadowed by 被...遮蔽、使...相形失色
+  * 可以指實際或抽象意義上的遮蔽。
+  * The historic building is now overshadowed by the giant skyscrapers surrounding it. (這座歷史建築現在被周圍巨大的摩天大樓遮蔽了。)
+  * His academic achievements were overshadowed by his brother’s athletic success. (他的學術成就被他弟弟在運動上的成功掩蓋了。)
+* Invite sb to VR/N 邀請某人做某事、邀請某人參加
+  * We decided to invite a professional speaker to share her experiences with the students. (我們決定邀請一位專業演講者來與學生分享她的經驗。)
+  * They invited me to their wedding anniversary party next month. (他們邀請我參加下個月的結婚週年派對。)
+* Have a lot to offer 很有價值、有很多可以提供的 (機會、特點或好處)
+  * 形容某事物內容豐富且充滿潛力。
+  * This university has a lot to offer to students who are interested in marine biology. (這所大學對海洋生物學感興趣的學生有很多可以提供的資源。)
+  * Even though it’s a small town, it has a lot to offer in terms of history and culture. (雖然是個小鎮，但在歷史與文化方面很有看頭。)
+
+</details>
+
+<details>
+
+<summary>作文百句 30 文法整理</summary>
+
+## 文法
+
+### 附和句
+
+#### 肯定附和句 (`肯定句, and so + 助動詞/be動詞 + 主詞`)
+
+* 等同於 `肯定句, and S + V, too.`。
+* 當前句是肯定句，後句要表達「也一樣」時使用。動詞必須根據「前句動詞時態」以及「後句主詞」來決定。
+* The creativity camp was inspiring, <mark style="color:blue;">**and**</mark> so was the keynote speech. (創意營隊很具啟發性，主講人的演講也是。)
+* She can solve the math problem, <mark style="color:blue;">**and**</mark> so can her younger brother. (她能解開這道數學題，她弟弟也能。)
+* I have watched the movie, <mark style="color:blue;">**and**</mark> so has Alana. (我看過這部電影，Alana 也看過。)
+
+#### 否定附和句 (`否定句, nor / and neither + 助動詞/be動詞 + 主詞`)
+
+* 等同於 `否定句, and S + 否定 V, either.`。
+* 當前句是否定句，後句要表達「也不」時使用。動詞必須根據「前句動詞時態」以及「後句主詞」來決定。
+* <mark style="color:blue;">**`nor`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**本身具備連接詞的功能，所以它的前面不需加**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`and`**</mark><mark style="color:blue;">**；**</mark><mark style="color:blue;">**`neither`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**不是連接詞，所以它的前面需加**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`and`**</mark>。
+* I have never been to Paris, nor has my sister. (我從未去過巴黎，我姊姊也沒去過。)
+* The cookies aren't sweet, nor is the cake. (餅乾不甜，蛋糕也不甜。)
+* Alana is not tired, <mark style="color:blue;">**and**</mark> neither is Kevin. (Alana 不累，Kevin 也不累。)
+* He didn't come to the camp, <mark style="color:blue;">**and**</mark> neither did his friends. (他沒來營隊，他的朋友們也沒來。)
+
+{% hint style="info" %}
+#### `nor` 後面接完整子句 (本文用法)
+
+`nor` 在這裡的功能跟 `and`、`but` 相似，但因為 `nor` 本身帶有<mark style="color:blue;">**否定意義**</mark>且放在子句開頭，所以<mark style="color:blue;">**子句需要倒裝**</mark>，且<mark style="color:blue;">**助動詞不需再加**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`not`**</mark>。請注意，<mark style="color:blue;">**剛剛的**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`so`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**與**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`neither`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**都沒有這樣的用法**</mark>。
+
+* I have never been there, nor do I want to go. (我從沒去過那裡，也不想去。)
+* She cannot sing, nor does she want to learn. (她不會唱歌，也不想學。)
+* I won't accept this, nor will I apologize. (我不會接受這個，也不會道歉。)
+* He cannot swim, nor can he dive. (他不會游泳，也不會潛水)。
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 30 補充資料</summary>
+
+## 文章分析
+
+本文的寫作邏輯是「動機」→「必要性」→「具體建議與期望」。
+
+第一段作者開門見山，誠實地剖析自己的缺點——缺乏勇氣與獨創性，並使用 `nothing but conventional ideas` 來對比對於 `ingenuity` 的渴望。這種「自我覺察」的寫法能瞬間引起讀者的同情與認同。
+
+第二段則將層次提升到「競爭力」的高度，說明在現代職場中，若不具備創意，就可能輸給別人，這為參加營隊賦予了強大的合理性。
+
+作者在第三段具體提出了三個活動建議——互動式理論學習、學長姊分享、模擬競賽，遵循「理論」→「經驗」→「實作」的邏輯層次感。最後以 `firmly believe` 作結，展現強大的信心。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Breakthrough (n.) 突破
+  * 指在研究、開發或個人成長上取得的重大進展。
+  * 對應的動詞片語為 `break through`。
+  * The two companies reached a breakthrough in negotiations. (兩家公司在談判中達成了突破。)
+  * This new AI technology is a massive breakthrough in computing. (這項新人工智慧技術是計算領域的一大突破。)
+  * The small company managed to break through the competitive market. (這家小公司成功在競爭激烈的市場中突圍。)
+* Think outside the box 跳脫框架思考
+  * To stay relevant in the fashion industry, designers must always try to think outside the box. (為了在時尚界保持地位，設計師必須總是嘗試跳脫框架思考。)
+  * Our boss wants us to think outside the box for ideas on how to launch our new product. (老闆要我們針對如何推出新產品跳脫框架思考。)
+* Unleash one's potential 釋放某人的潛能
+  * The intensive training program is designed to help athletes unleash their full potential. (這項密集訓練計畫旨在幫助運動員釋放全部潛能。)
+  * This training program is designed to unleash your potential. (這個訓練計畫旨在釋放你的潛能。)
+* In this fast-paced and ever-changing world, ...
+  * 常用於描述現代社會的變動與競爭壓力。
+  * In this fast-paced and ever-changing world, continuous learning is the key to survival. (在這個節奏快速且瞬息萬變的世界，持續學習是生存的關鍵。)
+  * Adaptability is key to survival in this fast-paced and ever-changing world. (適應力是在這個節奏快且瞬息萬變的世界中生存的關鍵。)
+* What truly matters is not A, but B 真正重要的不是 A 而是 B
+  * 用於強調核心價值。<mark style="color:blue;">**A 與 B 必須是**</mark>[<mark style="color:blue;">**對等結構**</mark>](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)。
+  * What truly matters is not just having novel ideas, but having the courage to put them into practice. (真正重要的不僅是擁有新穎的想法，而是擁有將其實踐的勇氣。)
+  * What truly matters is not what you say, but what you do. (真正重要的不是你說了什麼，而是你做了什麼。)
+  * What truly matters is not your appearance, but your character. (真正重要的不是你的外表，而是你的品格。)
+  * What truly matters is not winning, but taking part. (真正重要的不是贏，而是參與。)
+* It is no exaggeration to say + that 子句 毫不誇張地說...
+  * It is no exaggeration to say that creativity is the most valuable asset in the modern workplace. (毫不誇產地說，創意是現代職場中最寶貴的資產。)
+  * It is no exaggeration to say that this is the best movie of the year. (毫不誇張地說，這是一整年最好的電影。)
+  * It is no exaggeration to say that she saved the company. (說她拯救了公司一點也不誇張。)
+* <mark style="color:blue;">**"Creativity involves breaking out of established patterns in order to look at things in a different way." — Edward de Bono**</mark> 創造力是指打破既定模式，從而以不同的方式看待事物。
+  * 適合用在文章結尾作為總結。
+  * The designer proved that creativity involves breaking out of established patterns in order to look at things in a different way, turning trash into high-fashion clothing. (這位設計師將垃圾轉化為高級時裝，證明了創意需要打破既定模式，以不同的方式看待事物。)
+  * To solve this complex problem, we must break out of established patterns and look at things in a different way. (為了解決這個複雜的問題，我們必須打破既定模式，以不同的方式看待事物。)
+* <mark style="color:blue;">**"Innovation distinguishes between a leader and a follower." — Steve Jobs**</mark> 創新區分了領導者與追隨者
+  * 強調主動創造與被動模仿的本質區別。
+  * Our company deeply believes that innovation distinguishes between a leader and a follower, which is why we invest heavily in R\&D. (我們公司深信創新是決定能成為領導者或跟隨者的區別，這也是我們投入巨資在研發的原因。)
+  * True industry leaders never stop innovating; they know that innovation distinguishes between a leader and a follower. (真正的行業領導者永不停止創新；他們知道創新是區分領導者和跟隨者的關鍵。)
+
+## 寫作建議
+
+撰寫關於「參加活動計畫」或「個人成長需求」的文章時，可以參考以下建議：
+
+* <mark style="color:blue;">**前後對比**</mark>：先描述自己目前的短處，再引導出活動如何能幫助自己進化。這種負向到正向的轉變軌跡，比單純寫「我想學東西」更具渲染力。
+* 論述動機時，可以加入與社會生存相關的概念，讓個人選擇變成為了適應社會、提升自我所需的必要戰略。
+* 具體描述<mark style="color:blue;">**願望清單**</mark>：例如本文提及 `interactive games`、`student speakers`、`mock contest` 等內容。越具體的細節，越能體現你對該主題的了解程度。
+
+</details>
 
 ## 31.
 
