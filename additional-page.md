@@ -50,231 +50,211 @@ hidden: true
 
 <details>
 
-<summary>作文百句 28 單字整理</summary>
+<summary>作文百句 29 單字整理</summary>
 
 ## 單字
 
-* Toilet paper (n. phr.) 衛生紙
-  * 相關單字有 `tissue paper` (面紙、衛生紙), `sandpaper` (砂紙), `wallpaper` (壁紙), `wrapping paper` (包裝紙), `newspaper` (報紙), `scrap paper` (廢紙、草稿紙), `parchment paper` (烘焙紙、烤盤紙) 等。
-  * There was a huge shortage of toilet paper during the panic buying <mark style="color:blue;">**spree**</mark>. (在瘋狂搶購潮期間，衛生紙嚴重短缺。)
-  * You can use tissue paper to wipe away the tears of joy. (你可以用面紙擦去喜悅的淚水。)
-  * We used colorful wrapping paper to decorate the gift for Yusuf's birthday. (我們用五彩繽紛的包裝紙來裝飾主公的生日禮物。)
-  * Please write down the phone number on a piece of scrap paper. (請在一張草稿紙上寫下電話號碼。)
-* Rise (v./n.) 上升、升起、增加、(數量或程度) 提高
-  * 作動詞時為<mark style="color:blue;">**不及物動詞**</mark>，三態變化為 `rise` → `rose` → `risen`。
-  * The price of raw materials is expected to rise significantly due to the global crisis. (由於全球危機，原物料價格預計將顯著上漲。)
-  * We sat on the beach and watched the sun rise over the horizon. (我們坐在沙灘上，看著太陽從地平線升起。)
-  * There has been a steady rise in the number of tourists visiting the island this year. (今年造訪該島的遊客人數穩步上升。)
+* Senior
+  * (n.) 前輩、年長者、大四生
+    * The community center offers various programs specifically for seniors in the neighborhood. (社區中心為鄰里的長者提供了各種專門計畫。)
+    * As a senior at National Taiwan University, he is busy preparing for his future career. (作為台大的大四學生，他正忙於為未來的職業生涯做準備。)
+  * (adj.) 年長的、資深的、高階的
+    * He is ten years senior to me, so I always treat him with great respect. (他比我大十歲，所以我總是對他非常尊敬。)
+    * As a senior manager, he has the authority to approve large-scale projects. (作為一名高階經理，他有權批准大規模專案。
+    * She was promoted to senior vice president after leading the successful merger. (在領導了成功的合併案後，她被提升為資深副總裁。)
+* Confide (v.) 吐露、傾訴 (秘密或心事)
+  * 常見用法為 `confide in sb` (對某人推心置腹), `confide sth to sb` (向某人透露某事)。
+  * She needed someone she could confide in after the tragic breakup. (在慘痛的分手後，她需要一個可以傾訴心事的人。)
+  * He confided his fears to his best friend, knowing the secret would be kept. (他向最好的朋友吐露了他的恐懼，因為他知道秘密會被保守。)
+* Ruin
+  * (v.) 毀掉、破壞；傾家蕩產
+    * One wrong decision could ruin the company's reputation overnight. (一個錯誤的決定可能會在一夜之間毀掉公司的名聲。)
+    * The heavy rain ruined our plans for a weekend picnic in the mountains. (大雨毀掉了我們週末去山上野餐的計畫。)
+  * (n.) 廢墟、遺址；毀滅
+    * 複數型 <mark style="color:blue;">**`ruins`**</mark> 專指建築物倒塌後留下的遺址。
+    * Tourists from all over the world come to visit the ancient Roman ruins. (來自世界各地的遊客前來參觀古羅馬遺址。)
+    * The gambler’s addiction eventually led to his financial ruin. (那名賭徒的成癮最終導致了他的傾家蕩產。)
+* Relationship (n.) 關係、關聯；親密關係
+  * 強調兩者之間的情感連結或長期的互動狀態。
+  * They have built a strong business relationship based on mutual trust. (他們基於相互信任建立了強大的業務關係。)
 
 {% hint style="info" %}
-#### `Rise` vs. `Raise`
+#### Relation (n.) 關係、關聯
 
-* Raise
-  * (v.) 舉起；增加；籌集；養育、栽種
-    * 為<mark style="color:blue;">**及物動詞**</mark>。
-    * If you have any questions during the lecture, please <mark style="color:blue;">**raise your hand**</mark>. (如果你在講座期間有任何問題，請舉手。)
-    * The supermarket keeps <mark style="color:blue;">**raising the price**</mark> of its vegetables. (這間超市一直在提高蔬菜的價格。)
-    * I had to <mark style="color:blue;">**raise my voice**</mark> to be heard. (我不得不提高嗓門好讓大家聽見。)
-    * The charity organization is trying to <mark style="color:blue;">**raise funds**</mark> for the homeless. (慈善組織正努力為無家可歸的人籌集資金。)
-    * I was born and raised in Taiwan. (我在台灣出生長大。)
-  * (n.) 加薪
-    * My boss finally gave me a raise after I completed the big project. (在我完成那個大企劃後，我老闆終於給我加薪了。)
+常用於表示兩者之間的邏輯關係、因果或結構聯繫，也可以指外交、商業或較大群體間的邦交或業務往來。與 `relationship` 相比，`relation` 更側重業務、客觀聯繫，較少用於親密的情感關係。
 
-通常使用 `rise` 時，是事物自動往上升；使用 `raise` 時，是由人主動去拉高、舉起某物。
-
-* Something rises. → The price rises. / The sun rises.
-* Someone raises something. → He raises his hands.
+* The report explores the relation between social media usage and mental health. (該報告探討了社群媒體使用與心理健康之間的關聯。)
+* There is a close relation between fitness and health. (健康與健身有密切關係。)
+* Relations between the two countries have not been good lately. (兩國關係最近不太好。)
 {% endhint %}
 
-* Swarm
-  * (v.) 蜂擁、湧向
-    * 常見用法為 `swarm to/into` (湧向、擠進), `be swarmed with` (擠滿了...)。
-    * Thousands of excited fans swarmed to the airport to catch a glimpse of the K-pop star. (數千名興奮的粉絲蜂擁至機場，為了看一眼那位 K-pop 明星。)
-    * After the incident, the area was swarmed with reporters. (事件發生後，現場擠滿了記者。)
-  * (n.) 一大群 (昆蟲或人)
-    * A swarm of locusts destroyed all the crops in the village within a single day. (一大群蝗蟲在一天之內摧毀了村子裡所有的農作物。)
-* Quantity (n.) 數量、大量
-  * <mark style="color:blue;">**後方接不可數或可數名詞皆可**</mark>。
-  * The factory produces high-quality products in large quantities for export. (這家工廠生產大量高品質產品出口。)
-  * It's not just the quantity of information that matters, but also its accuracy and reliability. (重要的不僅是資訊的數量，還有其準確性與可靠性。)
-* Throng
-  * 語氣比 `crowd` 更強烈，強調「密集成群」且通常帶有移動感。
-  * (n.) 群眾、一大群人
-    * A throng of protesters gathered in front of the city hall to demand lower taxes. (一大群抗議者聚集在市政廳前，要求降低稅收。)
-  * (v.) 擁擠、群集
-    * 常見用法為 `throng to/into ...` (蜂擁至某處), `be thronged with` (擠滿了...)。
-    * Shoppers thronged the narrow aisles of the market, searching for the best deals. (購物者擠滿了市場狹窄的通道，尋找最划算的商品。)
-    * People thronged to the beach on the hot day. (炎熱的天氣裡，人們蜂擁至海灘。)
-* Rush
-  * (v.) 衝、趕緊、倉促行動
-    * `rush someone to ...` 表「緊急將人送往...」。
-    * As soon as the store opened, customers rushed to the electronics section for the sale. (商店一開門，顧客們便衝向電子產品區參加促銷。)
-    * The nurses rushed the injured man to the emergency room. (護理師們趕緊將受傷的男子送往急診室。)
-  * (n.) 匆忙、湧動
-    * `rush hour` 表「尖峰時段」、「上下班時間」。`in a rush` 表「趕時間」。
-    * I'm in a bit of a rush right now; can we talk about the project later? (我現在有點趕時間；我們可以晚點再談那個企劃嗎？)
-* Shelf (n.) 貨價、架子、隔板
-  * 複數形為 `shelves`。
-  * The clerk spent the whole morning putting new products on the shelves. (店員花了整個上午將新產品擺到架子上。)
-  * I need to buy another book shelf because my collection is growing too fast. (我需要再買一個書架，因為我的藏書增加得太快了。)
-* Spite (n./v.) 惡意、怨恨
-  * 詞源縮寫自 `despite`。指想要傷害、激怒或羞辱他人的慾望。
-  * `in spite of N` 表「儘管...」。
-  * He broke her favorite vase out of pure spite. (他純粹出於惡意打破了她最愛的花瓶。)
-  * There was no spite in his criticism; he truly wanted to help her improve. (他的批評中沒有惡意；他真心想幫助她進步。)
-  * She ignored him just to spite him, even though she knew it was immature. (她只是為了氣他才無視他，即便她知道這很幼稚。)
-* Clerk (n.) 職員、店員、辦事員或文書
-  * Please hand your completed form to the clerk in the administrative office. (請將填好的表格交給行政辦公室的職員。)
-  * The clerk at the front desk helped us check into the hotel. (櫃台職員幫我們辦理了飯店入住手續。)
-  * He started his career as a law clerk and eventually became a successful judge. (他職業生涯始於一名法律助理，最終成為一名成功的法官。)
-* Effort (n.) 努力、盡力、成就
-  * `make an effort to VR` 表「努力去做」。
-  * It took a lot of time and effort to organize such a large-scale event. (組織如此大規模的活動花費了大量的時間與精力。)
-  * The team made a collective effort to finish the project before the deadline. (團隊共同努力在截止日期前完成了專案。)
-* Demand
-  * (n.) 需求、要求
-    * `in demand` 表「受歡迎」、「有需求」。
-    * The demand for organic food has been increasing as people become more health-conscious. (隨著人們健康意識的增強，對有機食品的需求一直在增加。)
-    * Good engineers are always in demand. (優秀的工程師總是很搶手。)
-  * (v.) 需求、要求
-    * 常見用法為 `demand + N / to VR`, `demand + that + S + (should) + VR` (虛擬語氣)。虛擬語氣的介紹詳見[此處](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)。
-    * The workers are demanding higher wages and better working conditions. (工人們正要求更高的工資與更好的工作條件。)
-    * The union demanded that the company (should) change the policy. (工會要求公司改變政策。)
-* Meanwhile (adv.) 同時、其間
-  * `meanwhile` 常作為副詞引導句子轉折；`meantime` (adv./n.) 則多見於片語 `in the meantime`，兩者意思相同。
-  * The stores were crowded with people; meanwhile, the warehouse workers were struggling to restock the shelves. (商店裡擠滿了人；與此同時，倉庫工作人員正努力補貨到架上。)
-  * She went to the store to buy supplies; meanwhile, I stayed home to cook dinner. (她去店裡買補給品；同時，我留在家裡做晚飯。)
-  * The delivery will arrive in an hour. In the meantime, why don't we have some coffee? (快遞一小時後到。在這段時間內，我們何不喝杯咖啡？)
-* Cart
-  * (n.) 手推車、貨車
-    * `shopping cart` 表「購物車」、「線上購物籃」。
-    * She filled her cart with so many bundles of toilet paper that she could barely push it. (她的購物車裡裝了太多捆衛生紙，以至於她幾乎推不動。)
-    * Please return your cart to the designated area after loading your groceries. (裝好雜貨後，請將手推車歸還至指定區域。)
-  * (v.) 用車載運、辛辛苦苦地搬運
-    * 帶有搬運重物或費力移動的感覺。
-    * He had to cart all those heavy boxes up to the third floor by himself. (他必須獨自一人辛苦地把那些沉重的箱子搬到三樓。)
-* Pile
-  * (n.) 堆、大量
-    * 常用於描述雜亂或有目的地疊放。`a pile of` 表「一堆...」，後面可接可數或不可數名詞。
-    * A huge pile of dirty clothes was sitting in the corner of the room. (房間角落裡堆著一大堆髒衣服。)
-    * There is a pile of work waiting for me on Monday morning. (週一早上有一大堆工作等著我。)
-  * (v.) 堆積、疊放
-    * The students piled their textbooks on the desk before the summer vacation started. (暑假開始前，學生們把教科書堆在書桌上。)
-* Bundle
-  * 指許多物品被綁在一起。
-  * (n.) 捆、捲、包
-    * The customers were carrying several bundles of toilet paper as they left the store. (顧客離開商店時提著好幾捆衛生紙。)
-  * (v.) 把……紮成一捆、匆忙打發
-    * `bundle up` 表「穿暖和」、「包起來」
-    * On cold winter mornings, parents always bundle their children up in thick coats. (在寒冷的冬日早晨，家長總是讓孩子穿上厚厚的大衣裹得嚴嚴實實。)
-    * She bundled up her old magazines and took them to the recycling center. (她把舊雜誌紮成一捆，送到回收中心。)
-* Expensive (adj.) 昂貴的、花錢的
-  * 同義詞有 `costly`, `pricey`；反義詞有 `cheap`, `inexpensive`。
-  * 只能修飾物品、服務，<mark style="color:blue;">**不可直接修飾**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`price`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**(價格)**</mark>：`the price is expensive` 是錯誤的寫法。
-  * Membership fees at this gym are very expensive. (這家健身房的會員費非常昂貴。)
-  * Alana has an expensive taste in stationery; she only uses the finest pens. (Alana 對文具有著昂貴的品味；她只用最好的筆。)
-  * The most expensive thing in this room is the love between you and me. (這房間裡最珍貴的東西，就是你和我之間的愛。)
-* Affect (v.) 影響；感動；侵襲、感染 (疾病)
-  * The rising cost of raw materials will directly affect the final price of the product. (原物料成本的上漲將直接影響產品的最終價格。)
-  * The doctor warned that lack of sleep could seriously affect your mental health. (醫生警告說，睡眠不足可能會嚴重影響你的心理健康。)
-  * We were deeply affected by the emotional story of the brave young girl. (我們被那個勇敢女孩的感人故事深深打動了。)
-  * The disease affects mainly children. (這種疾病主要侵襲兒童。)
-* Monthly (adj./adv.) 每月的、每月一次地
-  * 相似用法的詞有 `hourly` (每小時), `daily` (每日)、`weekly` (每週)、`quarterly` (每季、每三個月)、`yearly` (每年) 等。
-  * Our monthly rent is due on the fifth of every month. (我們每月的房租在每個月的五號到期。)
-  * The bus runs hourly. (公車每小時開一班。)
-  * Please make sure to update the database daily to ensure information accuracy. (請確保每日更新資料庫以確保資訊準確。)
-  * We have a weekly meeting every Monday morning to discuss our progress. (我們每週一早上開一次例會討論進度。)
-  * The company reports its financial performance quarterly to the investors. (公司每季向投資者報告其財務業績。)
-  * I get a physical examination yearly. (我一年做一次身體檢查。)
-* Expense (n.) 開支、費用、代價
-  * 通常以複數形 `expenses` 表示多項支出或經費。`monthly expenses` 表「每月開銷」。常用搭配為 `at the expense of` (以...為代價)。
-  * Travel expenses, including flights and hotels, will be covered by the company. (旅遊費用，包括機票和飯店，將由公司報銷。)
-  * He achieved career success, but unfortunately, it was at the expense of his health. (他取得了事業成功，但遺憾的是，那是隨後以健康為代價換來的。)
-* Financial (adj.) 財務的、金融的
-  * 副詞形為 `financially`。
-  * The company is seeking financial advice to overcome its current debt crisis. (公司正在尋求財務建議以克服目前的債務危機。)
-  * I wish I were financially independent so that I could pursue my hobbies freely. (我希望自己經濟獨立，這樣就可以自由追求自己的嗜好。)
-  * finance
-    * (n.) 財務、金融 (業)
-      * 指資金管理或金融產業，為<mark style="color:blue;">**不可數名詞**</mark>。
-      * `finance minister` (`Minister of Finance`) 指「財政部長」。
-      * He works in finance. (他任職於金融業。)
-      * The meeting will be attended by finance ministers from many countries. (來自許多國家的財政部長將出席該會議)
-    * (n.) 資金、財力
-      * 指個人或企業的資金狀況。通常用複數形 `finances`。
-      * The company's finances are in a mess. (這家公司的財務狀況一團糟。)
-      * Keep a tight control on your finances. (嚴格控制你的資金。)
-    * (v.) 為…提供資金、籌措資金
-      * The government decided to finance the new public housing project through higher taxes. (政府決定透過提高稅收來為新的公共住宅計畫提供資金。)
-      * How do you plan to finance the new car? (你打算如何為這輛新車籌錢？)
-  * financier (n. 金融家)
-    * As a successful financier, he knows exactly where to invest his money for the highest return. (作為一名成功的金融家，他確切知道該在哪裡投資以獲得最高回報。)
-* Burden
-  * (n.) 負擔、重擔
-    * 常見搭配為 `financial burden` (財務負擔)。
-    * Student loans can become a heavy financial burden for young graduates starting their careers. (就業初期的年輕畢業生，學貸可能成為沉重的財務負擔。)
-    * Carrying the secret for so many years was a huge emotional burden for her. (背負這個秘密這麼多年，對她來說是巨大的情感負擔。)
-  * (v.) 加重負擔
-    * 常見用法為 `burden sb with sth` (使某人負擔某事)。
-    * I don't want to burden you with my personal problems when you are already so busy. (當你已經這麼忙的時候，我不想用我個人的問題讓你增加負擔。)
-* Limited (adj.) 有限的、受限的
-  * `limited edition` 表「限量的」。
-  * The special offer is only available for a limited time, so you should act fast. (這項特別優惠僅限時提供，所以你應該行動快一點。)
-  * Due to limited space in the apartment, we have to choose our furniture carefully. (由於公寓空間有限，我們必須仔細選擇家具。)
-  * I just bought a limited edition keyboard. (我剛買了一款限量版鍵盤。)
-* Dry
-  * (v.) 弄乾、擦乾、吹乾
-    * She's <mark style="color:blue;">**drying her hair**</mark>. (她正在吹乾頭髮。)
-    * Use this soft towel to <mark style="color:blue;">**dry your hands**</mark> after washing them. (洗完手後用這條柔軟的毛巾擦乾。)
-    * <mark style="color:blue;">**Dry the dishes**</mark>. (把碗盤擦乾。)
-  * (adj.) 乾燥的、枯燥的
-    * 可指天氣、幽默或無聊的內容。
-    * The long summer drought caused the river to run dry. (漫長的夏季乾旱導致河流乾涸。)
-    * His sense of humor is very dry; it takes a while to realize he's joking. (他的幽默感很冷面；要花點時間才能意識到他在開玩笑。)
-* Towel
-  * (n.) 毛巾、紙巾
-    * `paper towel` 表「廚房紙巾」。
-    * He stepped out of the shower and wrapped a large towel around his waist. (他走出淋浴間，在腰上圍了一條大毛巾。)
-    * We should use cloth towels instead of paper ones to be more environmentally friendly. (我們應該使用布毛巾代替紙巾，以更加環保。)
-  * (v.) 用毛巾擦
-    * Make sure you towel yourself thoroughly before getting dressed. (穿衣前確保用毛巾把自己徹底擦乾。)
-* Cause
-  * (n.) 原因、理由；理想、目標、事業
-    * `cause and effect` 表「因果關係」。
-    * The police are still investigating the leading cause of the car accident. (警方仍在調查這起車禍的主要原因。)
-    * There is no cause for alarm; the alarm went off by mistake. (沒有理由驚慌；警報器是誤響。)
-    * They are fighting for a good cause. (他們在為一項崇高的事業而戰。)
-  * (v.) 導致、引起
-    * 通常接<mark style="color:blue;">**負面事件**</mark>。
-    * The heavy rain caused a serious traffic jam on the highway this morning. (今天早上的大雨引起了高速公路嚴重的交通堵塞。)
-* Concern
-  * (n.) 擔心、憂慮
-    * 常見用法為 `concern about/over/for sth` (對...感到擔憂)。
-    * The rising crime rate in the neighborhood is a major concern for the local residents. (社區中上升的犯罪率是當地居民主要的擔憂。)
-    * There is growing concern about the safety of the product. (大眾對產品安全日益擔憂。)
-  * (v.) 與...有關、使擔心
-    * 常見用法為 `be concerned about/for/over N` (對...感到擔心), `be concerned with N` (與…有關、涉及)
-    * Does this new law concern small businesses as much as large corporations? (這項新法律與小企業的關係是否像對大公司一樣大？)
-    * Her health issues are starting to concern her doctor, so more tests are needed. (她的健康問題開始讓她的醫生感到擔憂，所以需要更多檢查。)
-    * I'm very concerned about your health. (我非常擔心你的健康。)
-    * The report is mainly concerned with school safety. (報告主要與學校安全有關。)
+* Diary (n.) 日記、日誌
+  * 注意不要與 [`dairy` (乳製品)](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-dan-zi-zheng-li) 混淆。
+  * 常見搭配有 `keep a diary` (寫日記)。
+  * She locked her diary in a drawer to keep her secrets from being discovered. (她把日記鎖在抽屜裡，以防秘密被發現。)
+  * Keeping a diary is a good way to record your daily thoughts and feelings. (寫日記是記錄每日想法與感受的好方法。)
+* Sly (adj.) 狡猾的、狡黠的、陰險的
+  * `on the sly` 是固定用法，指「偷偷地、私下地」。
+  * She caught a sly smile on his face, suggesting he knew more than he let on. (她捕捉到他臉上狡黠的微笑，暗示他知道的比表現出來的更多。)
+  * They used to meet on the sly because their parents didn't approve of their relationship. (他們以前常偷偷見面，因為父母不贊成他們的交往。)
+* Entitled (adj.) 有權利的、有資格的
+  * 常見用法為 `be entitled to N/Ving`。
+  * Every citizen is entitled to free speech and equal protection under the law. (每位公民依法皆有權享有言論自由與平等的保護。)
+  * After working for the company for ten years, he felt entitled to a long vacation. (在公司工作十年後，他覺得自己有資格休個長假。)
+* Glimpse (n./v.) 瞥見、一瞥
+  * 常見用法為 `catch/get/have a glimpse of + 人/物`。
+  * I only caught a glimpse of the thief before he disappeared into the dark alley. (在小偷消失在黑暗巷弄前，我只瞥見了他的身影。)
+  * This biography gives readers a rare glimpse into the private life of the famous artist. (這本傳記讓讀者得以一窺這位知名藝術家罕見的私人生活。)
+* Inner (adj.) 內心的；內部的；內圈的
+  * 反義詞為 `outer`。
+  * She struggled to find her <mark style="color:blue;">**inner peace**</mark> amid the chaos of the city. (她在城市的混亂中努力尋找內心的平靜。)
+  * The inner lining of the coat is made of high-quality silk. (這件外套的內裡是由高品質絲綢製成的。)
+* Thought (n.) 想法、見解；思考；思潮
+  * 除了指單一念頭，也可以指一個時代的學說或思想體系。
+  * The teacher asked the students to share their thoughts on the new movie. (老師要求學生分享他們對這部新電影的想法。)
+  * After much thought, he decided to accept the challenging job offer. (經過深思熟慮後，他決定接受那份具挑戰性的工作邀約。)
+  * Eastern thought emphasizes the harmony between humans and nature. (東方思想強調人與自然之間的和諧。)
+* Browse (v.) 瀏覽、隨意翻閱
+  * 常用於在書店翻書、在網路上看資訊或像文中一樣隨意看日記。
+  * `browse through N` 比單純的 `browse N` 更強調「從頭到尾快速翻過一遍」的動作，通常帶有檢視細節的意味。
+  * I often browse the internet for news. (我常上網瀏覽新聞。)
+  * You can browse our online catalog to see the latest collection of jewelry. (你可以瀏覽我們的線上目錄，看看最新的珠寶系列。)
+  * I spent the afternoon browsing through the old photos in the attic. (我花了一個下午在閣樓瀏覽舊照片。)
+* Thief (n.) 小偷、賊
+  * 最廣義的說法，指任何未經許可取走他人財產的人。複數形為 `thieves`。
+  * The thief snatched her purse and disappeared into the crowded market. (小偷奪走她的錢包，消失在擁擠的市場中。)
+  * Identity thieves use personal information to commit fraud online. (身分竊賊利用個人資訊在網上進行詐騙。)
+
+{% hint style="info" %}
+#### Burglar (n.) 竊賊、入室盜竊者
+
+專指非法闖入建築物 (通常是住宅) 意圖行竊的人。
+
+* The burglar entered the house through a broken window while the family was asleep. (竊賊在全家人睡覺時透過打破的窗戶進入屋內。)
+* Many homeowners install security cameras to deter burglars. (許多屋主安裝監視器以嚇阻竊賊。)
+{% endhint %}
+
+* Fuss
+  * (n.) 大驚小怪、瞎忙、爭執
+    * 常見用法有 `make a fuss about/over sth` (對...大驚小怪) 或 `kick up a fuss` (吵鬧、抱怨、小題大做)。
+    * It was just a small scratch, so there was no need to make such a fuss. (那只是一個小刮傷，沒必要這樣大驚小怪。)
+    * The customer kicked up a fuss because his soup was served cold. (那位顧客因為湯送上來是冷的而大吵大鬧。)
+  * (v.) 焦急、過分關心
+    * My grandmother always fusses over me whenever I visit her. (每當我去看奶奶時，她總是對我過分關心。)
+* Term (n.)
+  * 關係
+    * 通常用複數型 `terms` 形容人際關係的狀態。常見用法有 `on equal terms` (在平等的條件下), `be on good/friendly terms with sb` (與某人關係良好)。
+    * Even after the divorce, they remained on friendly terms for the sake of their children. (即便離婚後，為了孩子，他們仍維持著友好的關係。)
+    * We are currently not on speaking terms because of a serious argument. (因為一次嚴重的爭吵，我們目前互不理睬。)
+  * 條件
+    * The contract outlines the terms and conditions of the employment. (合約概述了僱用的條款與條件。)
+    * They had to agree to the terms of the contract. (他們必須同意合約的條款。)
+  * 術語、學期
+    * 詳見[此處](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-12-dan-zi-zheng-li)。
+* Soul (n.) 靈魂；心靈；精髓；人
+  * They say that <mark style="color:blue;">**the eyes are the window to the soul**</mark>. (人們說眼睛是靈魂之窗。)
+  * Music is the soul of the party; it sets the mood for everyone. (音樂是派對的靈魂；它為每個人營造氛圍。)
+  * She puts her heart and soul into her work. (她全心全意投入工作。)
+  * The simplicity is the soul of her art. (簡約是她藝術的精髓。)
+  * Not a soul was to be seen on the deserted street at midnight. (半夜空曠的街道上一個人影也看不見。)
+* Soul-searching (n.) 深層的自我反省、內心掙扎
+  * After much soul-searching, he decided to quit his job and travel around the world. (經過一番深層的自我反省後，他決定辭職去環遊世界。)
+  * The defeat in the election led to a period of intense soul-searching for the political party. (選舉的失敗導致該政黨進入了一段劇烈的自我反省期。)
+* Wrongdoing (n.) 壞事、錯誤行為、不法行為
+  * 用來泛指壞事或不道德的行為時，通常為<mark style="color:blue;">**不可數名詞**</mark>；當指代具體的、一件件的違法或不當行為時，可使用複數形式 `wrongdoings`。
+  * The politician denied any wrongdoing despite the evidence presented against him. (儘管有針對他的證據，該政治家仍否認有任何不法行為。)
+  * It takes courage to admit your wrongdoing and ask for forgiveness. (承認自己的錯誤行為並請求原諒需要勇氣。)
+* Pry (v.) 窺探、打探 (隱私)
+  * 常用用法為 `pry into sth`。
+  * I'm sorry, I don't mean to pry, but why are you leaving the city so suddenly? (對不起，我不想打探隱私，但你為什麼這麼突然要離開這座城市？)
+  * She values her privacy and hates it when people try to pry into her personal affairs. (她很重視隱私，討厭別人打探她的私事。)
+* Heartfelt (adj.) 衷心的、真誠的
+  * 常與 `apology`, `thanks` 連用。
+  * The singer gave a heartfelt performance that moved the entire audience to tears. (那位歌手帶來了真誠的演出，讓全場觀眾感動落淚。)
+  * Tom's heartfelt speech brought everyone to tears. (Tom 誠摯的致詞賺人熱淚。)
+  * Please accept my heartfelt apologies for the misunderstanding we had yesterday. (對於我們昨天產生的誤解，請接受我衷心的歉意。)
+  * Please accept my heartfelt thanks. (請接受我衷心的感謝。)
+* Respect
+  * (n.) 尊重、尊敬
+    * 常見用法有 `show respect for N` (對…表示尊重), `earn/gain/win the respect of N` (贏得…的尊重)。
+    * We should show respect for the customs and traditions of other cultures. (我們應該對其他文化的習俗與傳統表現出尊重。)
+    * She earned the respect of her colleagues. (她贏得了同事們的尊重。)
+  * (n.) 方面
+    * In many respects, the new model is much better than the previous one. (在許多方面，新模型都比前一個好得多。)
+    * The two situations are different in this respect. (這兩種情況在這方面是不同的。)
+  * (v.) 尊重、尊敬
+    * 常見用法有 `respect sb for sth` (因某事而尊敬某人)。
+    * I respect him deeply for his honesty and integrity. (我因他的誠實與正直而深深尊敬他。)
+    * Everyone respects him for his courage. (大家都因他的勇氣而尊敬他。)
+  * (v.) 遵守 (規則、法律)
+    * You must respect the school rules. (你必須遵守校規。)
+* Privacy (n.) 隱私；私生活；不受干擾的狀態
+  * `invasion of privacy` 表「侵犯隱私」。形容詞為 `private`。
+  * Technology makes it easier for companies to collect data, which raises concerns about digital privacy. (科技讓公司更容易收集數據，這引起了對數位隱私的擔憂。)
+  * I respect my sister's privacy by never entering her room without permission. (我從不未經許可進入我姊姊的房間，以此尊重她的隱私。)
+  * He moved to a remote island to seek privacy from the relentless media. (他搬到一個偏遠的小島，以尋求躲避無情媒體的干擾。)
 
 </details>
 
 <details>
 
-<summary>作文百句 28 片語整理</summary>
+<summary>作文百句 29 片語整理</summary>
 
 ## 片語
 
-
+* Get along with sb 與某人相處得好
+  * 同義詞有 `be on good terms with sb`。
+  * My parents are happy that I get along with my siblings so well. (我父母很高興我與兄弟姊妹相處得這麼好。)
+  * It’s crucial to get along with your colleagues if you want a pleasant working environment. (如果你想要一個愉快的工作環境，與同事相處融洽是至關重要的。)
+* Confide in each other 互相傾訴、互吐心聲
+  * True friends always confide in each other when they face difficult times. (真正的朋友在面臨困難時期總是會互相傾訴。)
+  * After years of working together, they started to confide in each other regarding personal issues. (合作多年後，他們開始就個人問題互吐心聲。)
+* On the sly 偷偷地、私下地
+  * He used to smoke on the sly because his wife hated the smell of tobacco. (他以前常偷偷抽菸，因為他妻子討厭菸味。)
+  * The kids were eating chocolate on the sly before dinner was served. (孩子們在晚餐供應前偷偷吃著巧克力。)
+* Out of curiosity 出於好奇
+  * `out of + 抽象名詞` 表「出於某種動機或情感」，例如 `out of spite` (出於惡意), `out of pity` (出於同情), `out of love` (出於愛意), `out of habit` (出於習慣), `out of necessity` (出於必要)。
+  * I asked him about his past out of curiosity, not because I wanted to pry. (我出於好奇問了他的過去，不是因為我想窺探隱私。)
+  * She helped the stranger out of pity for his difficult situation. (她出於對陌生人困境的同情而幫助了他。)
+  * Alana teased him out of love because she wanted to see his embarrassed face. (Alana 出於愛意逗弄他，因為她想看到他尷尬的表情。)
+* Be entitled to N/VR 有權享有...、有資格做...
+  * You are entitled to a full refund if the product is found to be defective. (如果發現產品有瑕疵，你有權獲得全額退款。)
+  * Everyone is entitled to express their opinion, even if it’s unpopular. (每個人都有權表達自己的意見，即使那是少數派觀點。)
+* Get a glimpse into sth 得以一窺...、了解...的片段
+  * The documentary allows us to get a glimpse into the lives of rare animals. (這部紀錄片讓我們得以一窺稀有動物的生活。)
+  * Studying history helps us get a glimpse into the wisdom of our ancestors. (研究歷史幫助我們了解祖先的智慧。)
+* Think so 這麼想、認同上述觀點
+  * `so` 在這裡是一個代名詞，用來代替前面提到的整個子句或觀點。
+  * 相似用法有 `I hope so.` (我希望如此。), `I believe so.` (我也這麼相信。), `If so, ...` (如果是這樣的話，……)
+  * "Will it rain tomorrow?" "I think so; the sky looks very dark." (「明天會下雨嗎？」「我想會吧；天空看起來很暗。」)
+  * He thinks she is a bit naughty, and she thinks so, too. (他覺得她有點調皮，而她也這麼覺得。)
+* Browse through 瀏覽、翻閱
+  * She browsed through the report to get a general idea. (她快速翻閱報告以了解大概內容。)
+* Kick up a fuss 吵鬧、大驚小怪、抱怨
+  * 常用於描述對小事大發脾氣。
+  * There’s no need to kick up a fuss over such a minor mistake. (沒必要為了這麼小的錯誤大驚小怪。)
+  * I don't want his lawyer to kick up a fuss about this. (我不想讓他的律師對此大動干戈。)
+* As a result 結果、因此
+  * 常置於句首並加逗號，用來連接因果關係的兩個句子。
+  * He didn't study for the exam; as a result, he failed. (他沒為考試讀書；結果，他不及格了。)
+  * The company lost money, and as a result, it closed down. (公司賠錢，因此倒閉了。)
+* Be on speaking terms (with sb) 與...願意交談 (的關係)
+  * 通常用於吵架後，形容雙方是否恢復到「會說話」的程度。
+  * We are barely on speaking terms. (我們幾乎沒在說話了。)
+  * I’m glad to hear that you and your brother are on speaking terms again. (很高興聽說你和你哥哥又恢復交談了。)
+* Pry into sth 窺探...
+  * `pry` 帶有冒犯性的刺探意味。
+  * Paparazzi are often criticized for prying into celebrities' private lives. (狗仔隊常因窺探名人的私生活而受到批評。)
+  * You should respect your children's boundaries and stop prying into their diaries. (你應該尊重孩子的界線，停止窺探他們的日記。)
+* Make up (with sb) (與某人) 和解
+  * Life is too short to hold grudges; let's make up and move on. (人生太短，不應心懷怨恨；我們和解並繼續前進吧。)
+  * They argued last night but made up with a long hug this morning. (他們昨晚吵架了，但今天早上用一個長久的擁抱和解了。)
 
 </details>
 
 <details>
 
-<summary>作文百句 28 文法整理</summary>
+<summary>作文百句 29 文法整理</summary>
 
 ## 文法
 
@@ -284,7 +264,7 @@ hidden: true
 
 <details>
 
-<summary>作文百句 28 補充資料</summary>
+<summary>作文百句 29 補充資料</summary>
 
 
 
