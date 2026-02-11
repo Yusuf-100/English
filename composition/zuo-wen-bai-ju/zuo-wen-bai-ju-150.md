@@ -5863,8 +5863,7 @@ Indoors (adv.) 在室內、往室內
 ## 25.
 
 1. These days, many people are choosing to take university courses online instead of in a classroom. One <mark style="color:blue;">**undeniable advantage**</mark> of this <mark style="color:blue;">**approach**</mark> is that online courses are <mark style="color:blue;">**available**</mark> at a time and place that work well for the student. This especially <mark style="color:blue;">**benefits**</mark> those who lack the time to <mark style="color:blue;">**attend**</mark> classes <mark style="color:blue;">**in person**</mark> or who don't have a university in their area.
-2. <mark style="color:blue;">**Access to education**</mark> is <mark style="color:blue;">**expanded**</mark> to include anyone with an <mark style="color:blue;">**Internet connection**</mark>. <mark style="color:blue;">**As for myself**</mark>, I still prefer taking classes in the traditional way. I <mark style="color:blue;">**value**</mark> <mark style="color:blue;">**face-to-face interaction**</mark>.
-3. Even though we can discuss things with the <mark style="color:blue;">**instructor**</mark> through email when taking online courses, it's not as <mark style="color:blue;">**efficient**</mark> as being able to interact with them <mark style="color:blue;">**in person**</mark>. This also <mark style="color:blue;">**applies to**</mark> group discussions with classmates. In addition, <mark style="color:blue;">**debating**</mark> with my <mark style="color:blue;">**peers**</mark> in a classroom helps <mark style="color:blue;">**spark**</mark> new ideas. Online courses can't provide these learning opportunities as easily as traditional courses can.
+2. <mark style="color:blue;">**Access to education**</mark> is <mark style="color:blue;">**expanded**</mark> to include anyone with an <mark style="color:blue;">**Internet connection**</mark>. <mark style="color:blue;">**As for myself**</mark>, I still prefer taking classes in the traditional way. I <mark style="color:blue;">**value**</mark> <mark style="color:blue;">**face-to-face interaction**</mark>. Even though we can discuss things with the <mark style="color:blue;">**instructor**</mark> through email when taking online courses, it's not as <mark style="color:blue;">**efficient**</mark> as being able to interact with them <mark style="color:blue;">**in person**</mark>. This also <mark style="color:blue;">**applies to**</mark> group discussions with classmates. In addition, <mark style="color:blue;">**debating**</mark> with my <mark style="color:blue;">**peers**</mark> in a classroom helps <mark style="color:blue;">**spark**</mark> new ideas. Online courses can't provide these learning opportunities as easily as traditional courses can.
 
 <details>
 
@@ -5876,9 +5875,11 @@ Indoors (adv.) 在室內、往室內
   * 課程
     * 常見用法為 `take/enroll in a course` (修課)；`online course` 表「線上課程」。
     * I decided to take an online coding course to improve my technical skills. (我決定修一門線上程式設計課程來提升我的技術能力。)
-  * 過程
+  * 過程、進程；航向
     * `in the course of` 表「在...的過程中」。
     * In the course of our research, we discovered some very interesting facts about sleep patterns. (在我們的研究過程中，我們發現了一些關於睡眠模式非常有趣的事實。)
+    * After evaluating all the facts, the manager decided on the best course of action. (在評估所有事實後，經理決定了最佳的行動方案。)
+    * The ship changed its course to avoid the approaching storm. (船隻改變了航向以避開逼近的風暴。)
   * 一道菜
     * `main course` 表「主菜」。
     * The dinner was fantastic, especially the fish they served as the main course. (晚餐很棒，特別是他們作為主菜提供的魚。)
@@ -6047,9 +6048,7 @@ Indoors (adv.) 在室內、往室內
 
 本文第一段採取客觀立場，承認線上教育具有不可否認的優點，即時間與空間的靈活性。這種寫法能讓作者顯得理性且不偏頗，先肯定對方的價值，能為後續轉折增加說服力。
 
-第二段，作者運用 `As for myself` 將視角從宏觀趨勢拉回到個人偏好，明確表達對傳統方式的支持，從而帶出他的觀點：雖然教育的管道變多了，但教育的品質仍取決於互動。
-
-第三段，作者透過對比電子郵件與面對面的效率差異，指出線上課程的侷限性。特別是引入了 `Debating with peers` 與 `Spark new ideas` 兩個概念，將學習從單向的知識吸收提升到社交性的思想碰撞。結尾則再次呼應主題，總結了線上課程無法完全取代傳統課程的原因。
+第二段，作者運用 `As for myself` 將視角從宏觀趨勢拉回到個人偏好，明確表達對傳統方式的支持，從而帶出他的觀點：雖然教育的管道變多了，但教育的品質仍取決於互動。接著，作者透過對比電子郵件與面對面的效率差異，指出線上課程的侷限性。特別是引入了 `Debating with peers` 與 `Spark new ideas` 兩個概念，將學習從單向的知識吸收提升到社交性的思想碰撞。結尾則再次呼應主題，總結了線上課程無法完全取代傳統課程的原因。
 
 ## 寫作補給站
 
@@ -7730,11 +7729,211 @@ Indoors (adv.) 在室內、往室內
 
 1. It's very important for students to learn the skill of <mark style="color:blue;">**critical thinking**</mark>. This is the process of understanding, <mark style="color:blue;">**evaluating**</mark>, and <mark style="color:blue;">**applying**</mark> information in order to <mark style="color:blue;">**draw a conclusion**</mark>. Students should learn how to think <mark style="color:blue;">**critically**</mark> for several reasons.
 2. <mark style="color:blue;">**For one thing**</mark>, it will help them <mark style="color:blue;">**with**</mark> their studies. They will be able to write better <mark style="color:blue;">**essays**</mark> and therefore get better grades. <mark style="color:blue;">**For another**</mark>, it has many <mark style="color:blue;">**practical**</mark> uses outside of school and college. Take this year's COVID-19 <mark style="color:blue;">**crisis**</mark>, for example. A lot of <mark style="color:blue;">**fake**</mark> news stories about this disease have been spread around, causing people to make poor decisions.
-3. Some wasted money <mark style="color:blue;">**panic-buying**</mark> supplies; <mark style="color:blue;">**others**</mark> didn't act <mark style="color:blue;">**in**</mark> safe and <mark style="color:blue;">**sensible**</mark> ways because of what they heard. Critical thinking <mark style="color:blue;">**demands**</mark> that we understand all the facts before we act, and helps us <mark style="color:blue;">**recognize**</mark> the right course of action. This is just one reason why everyone needs to <mark style="color:blue;">**master**</mark> this <mark style="color:blue;">**essential**</mark> skill.
+3. Some wasted money <mark style="color:blue;">**panic buying**</mark> supplies; <mark style="color:blue;">**others**</mark> didn't act <mark style="color:blue;">**in**</mark> safe and <mark style="color:blue;">**sensible**</mark> ways because of what they heard. Critical thinking <mark style="color:blue;">**demands**</mark> that we understand all the facts before we act, and helps us <mark style="color:blue;">**recognize**</mark> the right course of action. This is just one reason why everyone needs to <mark style="color:blue;">**master**</mark> this <mark style="color:blue;">**essential**</mark> skill.
+
+<details>
+
+<summary>作文百句 32 單字整理</summary>
+
+## 單字
+
+* Critical thinking (n. phr.) 批判性思考
+  * Without critical thinking, people are easily influenced by misleading advertisements. (沒有批判性思考，人們很容易受到誤導性廣告的影響。)
+* Process
+  * (n.) 過程、步驟
+    * 指達成某個目標所經歷的一系列行動或變化。
+    * Learning a new language is a slow and gradual process that requires a lot of patience. (學習新語言是一個緩慢且循序漸進的過程，需要很多耐心。)
+    * This is a complicated manufacturing process. (這是一個複雜的製造過程。)
+  * (v.) 處理、加工
+    * 常用於資料處理或食品加工。
+    * The computer needs some time to process the large amount of data you just entered. (電腦需要一些時間來處理你剛剛輸入的大量資料。)
+    * The factory processes raw materials into finished goods. (工廠將原材料加工成成品。)
+* Evaluate (v.) 評估、評價
+  * Doctors need to evaluate the patient's condition before deciding on a treatment. (醫生在決定治療方案前需要評估病人的狀況。)
+  * It is difficult to evaluate the success of the project at this early stage. (在這個早期階段，很難評估這項計畫是否成功。)
+* Conclusion (n.) 結論、推論
+  * 常見用法為 `draw/reach a conclusion` (得出/達成結論)。
+  * Based on the evidence provided, we can draw a logical conclusion. (根據提供的證據，我們可以得出一個邏輯性的結論。)
+  * After a long discussion, the committee finally reached a conclusion. (經過長時間的討論，委員會終於達成了結論。)
+* Critically (adv.) 批判性地；關鍵地；嚴重地
+  * 形容詞為 [`critical`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-dan-zi-zheng-li)。
+  * To solve complex problems, we must learn to think critically and objectively. (為了獲得解決複雜問題的方法，我們必須學會批判性且客觀地思考。)
+  * The patient is critically ill and needs constant medical supervision. (那位病人病得很重，需要持續的醫療監督。)
+* Several (adj.) 幾個的、數個的
+  * `several` 通常指「三個以上，但又不至於到很多」的範圍，後面接<mark style="color:blue;">**可數名詞**</mark>。
+  * Several students remained in the classroom after the bell rang to ask the teacher questions. (鈴響後，有幾個學生留在教室裡問老師問題。)
+  * I have visited that beautiful coastal town several times during my summer vacations. (在我的暑假期間，我已經去過那個美麗的海濱小鎮好幾次了。)
+* Help (v./n.) 幫助、協助
+  * 常見用法為 `help sb VR`、`help sb with sth`、`help out` (幫忙解決困難或分擔工作)。`help oneself to N` 表「自便、隨意取用 (食物、物品等)」。
+  * My sister often helps me out with my difficult math homework on weekends. (我姊姊經常在週末幫我解決困難的數學作業。)
+  * Please help yourself to some cookies and coffee while you wait for the results. (等候結果時，請隨意取用一些餅乾和咖啡。)
+  * I need some help. (我需要一些幫助。)
+* Essay (n.) 文章、論說文、散文、短評
+  * Students are required to write a five-page essay on the impact of social media. (學生們被要求寫一篇關於社群媒體影響的五頁論說文。)
+  * I'm trying to structure my essay with a clear introduction and conclusion. (我正試著用清晰的開頭和結尾來架構我的文章。)
+* Practical (adj.) 實際的、實用的
+  * 相對於 `theoretical` (理論的)。描述某事在現實中可行，或具備實質用途。
+  * This workshop provides practical tips for starting your own business. (這個工作坊提供了創業的實用建議。)
+  * For many students, learning a practical skill is more important than getting a degree. (對許多學生來說，學習一項實用技能比獲得學位更重要。)
+* Crisis (n.) 危機、緊急關頭
+  * 複數形為 `crises`。
+  * The government is taking measures to deal with the current economic crisis. (政府正採取措施處理目前的經濟危機。)
+  * In times of crisis, it is important to stay calm and follow the authorities' guidance. (在危機時刻，保持冷靜並遵循官方指導是很重要的。)
+* Disease (n.) 疾病
+  * 指特定的生理或心理失調，通常有明確的症狀。與 `illness` (生病的狀態) 相比，`disease` 更常用於醫學上的特定病名。
+  * Regular exercise and a balanced diet can help prevent many chronic diseases. (規律運動和均衡飲食有助於預防許多慢性疾病。)
+  * Scientists are working hard to find a cure for this rare infectious disease. (科學家們正努力為這種罕見的傳染病尋找治療方法。)
+* Waste
+  * (v.) 浪費、消耗
+    * 常見用法為 `waste time/money/... V-ing / on sth`。
+    * You shouldn't waste your energy on arguing with people who don't understand you. (你不應該把精力浪費在與那些不理解你的人爭論上。)
+    * Many people wasted a lot of time scrolling through social media during the lockdown. (封城期間，許多人浪費了大量時間在刷社群媒體上。)
+  * (n.) 浪費；廢棄物 (<mark style="color:blue;">**不可數**</mark>)
+    * 常見用法為 `a waste of sth`。
+    * It's a waste of time. (這是在浪費時間。)
+    * It is a total waste of money to buy expensive gadgets that you never use. (購買那些你從不使用的昂貴小裝置完全是浪費錢。)
+    * Please throw the waste in the recycling bin. (請將垃圾扔進回收箱。)
+* Panic buy (v.) 恐慌性購買、搶購
+  * 過去式與過去分詞為 `panic-bought`。名詞形為 `panic buying`；形容詞為 `panic-buying`。
+  * When people heard rumors of a food shortage, they started to panic buy essential supplies. (當人們聽到食物短缺的傳聞時，他們開始恐慌性地搶購必需品。)
+  * The government advised citizens not to panic buy items they didn't actually need. (政府建議公民不要搶購他們實際上不需要的物品。)
+  * Panic buying during the crisis led to many empty shelves in the local supermarkets. (危機期間的恐慌性購買導致當地超市的許多貨架空空如也。)
+  * There was a panic-buying spree in supermarkets before the typhoon. (颱風來臨前，超市出現了恐慌搶購狂潮。)
+* Sensible (adj.) 明智的、理性的
+  * 指一個人具備良好的判斷力，能做出合理且切合實際的決定。
+  * It would be sensible to save some money for future emergencies. (為未來的緊急情況存點錢是明智的。)
+  * Choosing a safe and sensible route home at night is always a good idea. (晚上選擇一條安全且明智的回家路線總是一個好主意。)
+* Recognize (v.) 辨認出；承認、認可
+  * 常見用法為 `recognize A as B`。
+  * I could hardly recognize my childhood friend after she cut her hair so short. (在她把頭髮剪得這麼短後，我幾乎認不出這位兒時好友了。)
+  * I recognized the figure as my old friend. (我認出那個身影是我的老朋友。)
+  * The international community refused to recognize the new government. (國際社會拒絕承認這個新政府。)
+  * She is widely recognized as the leading expert in this field. (她被廣泛公認為該領域的頂尖專家。)
+* Master
+  * (v.) 精通、掌握
+    * It takes years of dedicated practice to master a musical instrument. (掌握一種樂器需要多年的投入練習。)
+    * She has finally mastered the art of public speaking. (她終於掌握了公開演講的藝術。)
+  * (n.) 專家、大師、師傅；主人、擁有者；碩士
+    * He is a master of the piano. (他是鋼琴大師。)
+    * The dog remained faithful to his master. (這隻狗對主人始終忠誠。)
+    * He is a Master of Science. (他是理科碩士。)
+* Essential (adj.) 必要的、不可或缺的；基本的、本質的
+  * Fresh water and food are essential for human survival during a crisis. (在危機期間，淡水和食物對人類生存是必不可少的。)
+  * It is essential that Alana (should) follow the instructions carefully to avoid any mistakes. (為了避免任何錯誤，Alana 必須仔細遵循指示，這點至關重要。)
+  * The essential point is that we need to act now. (關鍵點在於我們現在需要採取行動。)
+
+</details>
+
+<details>
+
+<summary>作文百句 32 片語整理</summary>
+
+## 片語
+
+* In order to VR 為了...
+  * 表做事的目的或動機。可以用 `so as to VR` 替換。
+  * We need to master essential skills in order to succeed in the competitive job market. (為了在競爭激烈的就業市場中獲得成功，我們需要掌握基本技能。)
+  * I cook at home in order to save money. (為了省錢，我都在家煮。)
+  * He studied hard so as to pass the exam. (為了通過考試，他努力讀書。)
+* Draw a conclusion 得出結論、作出推論
+  * It is still too early to draw a conclusion about the effectiveness of the new policy. (現在對新政策的有效性得出結論還為時過早。)
+* Spread around 散播、傳播 (訊息、謠言或疾病)
+  * Fake news stories about the virus were spread around through social media platforms. (關於病毒的假新聞透過社群媒體平台迅速傳播開來。)
+  * Rumors about the company's bankruptcy began to spread around the office. (關於公司破產的謠言開始在辦公室裡散播開來。)
+* Make a decision 作出決定、下定決心
+  * 與 `draw a conclusion` 相比，更強調「採取行動前的決斷」。
+  * After much thought, Johnny finally made a decision to study harder for his future. (經過多番思考，Johnny 終於下定決心為了未來更努力讀書。)
+  * The manager needs to make a quick decision to deal with the sudden crisis. (經理需要迅速做出決定以應對突發的危機。)
+  * It's easy to make a poor decision when you're under pressure. (壓力大時很容易做出錯誤的決定。)
+* Because of N/V-ing 因為...、由於...
+  * 相似用法的片語如下：
+    * `due to`, `owing to`
+    * `on account of`：強調「因為考慮到某種理由或情況」。
+    * `as a result of`：強調「作為某事之後產生的結果」。
+    * `thanks to`： 帶有正面意味的「多虧了...」，但有時也用於諷刺。
+  * 請注意，單純寫 `because` 的話，後方要接完整的子句 (`S+V`)。
+  * The flight was delayed because of the weather. (班機因為天氣的關係而延誤了。)
+  * The game was canceled owing to the heavy rain that flooded the stadium. (由於暴雨淹沒了體育場，比賽被取消了。)
+  * We're late on account of the bad traffic. (我們遲到是因為交通擁堵。)
+  * Thanks to your support, Alana can stay focused and finish these notes even in the middle of the night. (多虧了你的支持，Alana 即使在半夜也能保持專注並完成這些筆記。)
+* Course of action 行動方針、做法、處置
+  * 指在特定情況下所採取的一系列步驟或採取的路徑。
+  * They should select those courses of action that they feel will best meet their personal objectives. (他們應該選擇最能達成個人目標的行動方針。)
+  * I would recommend that you get some advice before embarking on this course of action. (我建議你在採取此行動方針之前，先尋求建議。)
+  * Taking legal action is the only course of action left. (採取法律行動是僅存的對策。)
+
+</details>
+
+<details>
+
+<summary>作文百句 32 文法整理</summary>
+
+## 文法
+
+* `It Is + Adj. (+ For/Of Sb) + To VR`
+  * 在[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-24-wen-fa-zheng-li)曾介紹過，這裡介紹它的另一種可能用法。此句型前面的介係詞通常用 `for`，但當形容詞是描述<mark style="color:blue;">**人格特質**</mark> (e.g., `kind`, `nice`, `polite`) 時，介係詞要改用 `of`。
+  * It is essential for us to check the facts before sharing any news stories online. (在網路上分享任何新聞報導之前，我們核實事實是至關重要的。)
+  * It is important for you to exercise every day. (對你來說，每天運動很重要。)
+  * It was polite <mark style="color:blue;">**of**</mark> Alana to knock on the door before she enters my room. (Alana 進我房間前先敲了敲門，這是很有禮貌的。)
+  * It is nice <mark style="color:blue;">**of**</mark> you to help me with the hard task. (謝謝你幫我完成這項艱鉅的任務。)
+* `Demand That S + (Should) + VR` 虛擬語氣
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)。
+  * 文中 `Critical thinking demands that we understand` 即為此句型，省略了 `should`，但後面仍須接原形動詞。
+
+</details>
+
+<details>
+
+<summary>作文百句 32 補充資料</summary>
+
+## 文章分析
+
+本文首段開門見山地定義了批判性思考的本質——這不僅是理解資訊，更是評估與應用的過程。接著，作者透過 `For one thing` 與 `For another` 的句型，將學習的好處劃分為「學術表現」與「現實生活運用」兩個層次，這種分點論述法能增強文章的可讀性與邏輯說服力。第二段引入新冠肺炎作為實例，將抽象理論與重大社會事件結合，具體地描繪缺乏批判性思考可能導致的嚴重後果。文章最後在末段收束，並再次強調批判性思考是一項必須掌握的核心技能。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Credible (adj.) 可信的、可靠的
+  * 反義詞為 `unreliable`。
+  * It is essential to verify if the source of information is credible before sharing it. (在分享資訊之前，核實其來源是否可靠是至關重要的。)
+  * Given his history of lying, it was difficult for the jury to find his testimony credible. (考慮到他撒謊的前科，陪審團很難相信他的證詞是可信的。)
+  * The government received a credible threat regarding a potential cyberattack. (政府收到了一個關於潛在網絡攻擊的可信威脅。)
+* Authentic (adj.) 真實的、道地的
+  * 強調某物不是贗品，而是真正的原件，或完全符合其宣稱的來源、傳統。
+  * The experts confirmed that the ancient document was indeed authentic. (專家們確認這份古文件確實是真實的。)
+  * She strives to live an authentic life, staying true to her values regardless of societal pressure. (她努力過著真實的生活，無論社會壓力如何，始終忠於自己的價值觀。)
+  * When traveling in Italy, we made sure to find a restaurant that served authentic Roman pasta. (在義大利旅行時，我們特地找了一家供應正宗羅馬義大利麵的餐廳。)
+* Objective (adj.) 客觀的 / Subjective (adj.) 主觀的
+  * Scientists must maintain an objective attitude when analyzing experimental data to avoid biased results. (科學家在分析實驗數據時必須保持客觀的態度，以避免產生偏頗的結果。)
+  * The judge asked the jury to look at the evidence objectively and ignore their personal feelings. (法官要求陪審團客觀地看待證據，並忽略他們的個人情感。)
+  * Whether a movie is "good" or "bad" is highly subjective, as it depends on individual taste. (一部電影是「好」還是「壞」是非常主觀的，因為它取決於個人的口味。)
+* Fall victim to N 成為...的受害者、被...所害
+  * 比 `be a victim of` 更有「落入陷阱」的意味。
+  * Without careful evaluation, people easily fall victim to internet scams and fake news. (若不仔細評估，人們很容易成為網路詐騙和假新聞的受害者。)
+  * He eventually fell victim to his own pride, refusing to listen to the valuable advice of his colleagues. (他最終敗在了自己的傲慢之下，拒絕聽取同事們寶貴的建議。)
+  * The small coastal village fell victim to the powerful hurricane, leaving many homeless. (這個海邊小村莊深受強大颶風之害，讓許多人無家可歸。)
+* Distinguish between A and B 區分 A 與 B
+  * 也可以寫成 `distinguish A from B`。
+  * One of the most important skills is the ability to distinguish between facts and mere opinions. (最重要的技能之一就是區分事實與單純觀點的能力。)
+  * A professional wine taster can distinguish between various types of grapes just by smell. (專業的品酒師僅憑嗅覺就能辨別出各種類型的葡萄。)
+  * It is hard to distinguish real diamonds from high-quality fakes without special tools. (沒有專業工具，很難將真鑽石與高品質的仿冒品區分開來。)
+* Be prone to N/V-ing 易於...、傾向於...
+  * 通常用於<mark style="color:blue;">**負面**</mark>情況或特徵。
+  * As a child, he was prone to allergies, so his parents had to be very careful with his diet. (小時候他很容易過敏，所以他的父母必須非常小心他的飲食。)
+  * People are prone to believing information that aligns with their existing views. (人們傾向於相信與自己既有觀點一致的資訊。)
+  * New drivers are often prone to making mistakes when navigating heavy city traffic. (新手駕駛在繁忙的城市交通中穿梭時，往往容易犯錯。)
+
+## 寫作建議
+
+* 清晰的分點架構：例如本文使用 `For one thing` 與 `For another`，讓文章結構一目了然，並有效引導讀者的思路。
+* 適當引入<mark style="color:blue;">**時事案例**</mark>，讓抽象的道理變得觸手可及，也能展現你對社會現狀的觀察力。
+
+</details>
 
 ## 33.
 
-1. Failure is not the end, giving up is. This is my <mark style="color:blue;">**guiding principle**</mark> in life. Some people say their greatest passion is "<mark style="color:blue;">**in their blood**</mark>," or that it comes naturally to them. But for me, that's definitely <mark style="color:blue;">**not the case**</mark>. Though I dearly love dance, I've never been a naturally good dancer.
+1. Failure is not the end, but giving up is. This is my <mark style="color:blue;">**guiding principle**</mark> in life. Some people say their greatest passion is "<mark style="color:blue;">**in their blood**</mark>," or that it comes naturally to them. But for me, that's definitely <mark style="color:blue;">**not the case**</mark>. Though I dearly love dance, I've never been a naturally good dancer.
 2. When I started taking <mark style="color:blue;">**hip-hop**</mark> classes as a kid, I had to practice for hours after class just to do the same moves my <mark style="color:blue;">**peers had mastered**</mark> in half the time. I found it <mark style="color:blue;">**extraordinarily**</mark> frustrating that I couldn't seem to get my body to obey my mind. I felt talentless and wanted to <mark style="color:blue;">**call it quits**</mark> until my coach <mark style="color:blue;">**took me aside**</mark> one day.
 3. She <mark style="color:blue;">**praised**</mark> my tireless <mark style="color:blue;">**work ethic**</mark> and told me that I would <mark style="color:blue;">**perform**</mark> a <mark style="color:blue;">**solo**</mark> dance at our next <mark style="color:blue;">**showcase**</mark>! My <mark style="color:blue;">**outlook**</mark> changed after that as I <mark style="color:blue;">**looked back**</mark> and realized how far I had come. The more <mark style="color:blue;">**effort**</mark> I had <mark style="color:blue;">**put in**</mark>, the more I had improved, and now I was finally <mark style="color:blue;">**reaping the rewards**</mark>. If you ever <mark style="color:blue;">**feel like giving up**</mark>, just remember <mark style="color:blue;">**there is no failure except in not trying**</mark>.
 
