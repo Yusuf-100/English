@@ -7543,6 +7543,189 @@ Indoors (adv.) 在室內、往室內
 2. He had to wait 20 minutes for the next one and was 15 minutes late when he arrived at school. <mark style="color:blue;">**With his heart racing, Johnny frantically scrambled to come up with the answers**</mark>. He knew he had done terribly, so <mark style="color:blue;">**it came as no surprise**</mark> that when the teacher handed back the <mark style="color:blue;">**graded**</mark> test, he saw he <mark style="color:blue;">**had failed**</mark>.
 3. After that <mark style="color:blue;">**humbling**</mark> experience, Johnny realized he could not be so <mark style="color:blue;">**arrogant**</mark> about his classes and grades. <mark style="color:blue;">**Not only did he stay awake and alert**</mark> in all of his classes, <mark style="color:blue;">**but he reviewed**</mark> the lessons every night at home to make sure he would never receive a failing grade again.
 
+<details>
+
+<summary>作文百句 31 單字整理</summary>
+
+## 單字
+
+* Clever (adj.) 聰明的、靈巧的
+  * She came up with a clever solution to the complex coding problem. (她想出了一個聰明的方法來解決那個複雜的程式問題。)
+  * The fox is known as a clever animal that often outsmarts its predators. (狐狸被認為是一種聰明的動物，經常比掠食者更有智慧。)
+* Assume
+  * (v.) 假設、假定、以為
+    * 常用於描述在沒有充分證據的情況下，直覺地認為某事是真實的。常見用法為 `assume + N/that 子句`。
+    * Johnny assumed high school would be as easy as junior high, which led to his poor grades. (Johnny 假定高中會像國中一樣容易，這導致了他糟糕的成績。)
+    * Many people assume that happiness depends only on wealth, but that is not always the case. (許多人假定幸福僅取決於財富，但事實並非總是如此。)
+  * (v.) 承擔
+    * After the director left, the assistant had to assume full responsibility for the project. (導演離開後，助手不得不承擔起計畫的全部責任。)
+* Case (n.) 情形；案件；案例；箱子
+  * `be the case` 表「情況屬實」、「事實正是如此」。
+  * If that is the case, we will need to re-evaluate our entire plan. (如果情況屬實，我們將需要重新評估我們的整個計畫。)
+  * The police are still investigating the case of the missing painting. (警方仍在調查名畫失蹤案。)
+  * In most cases, students find math more difficult than other subjects. (在大多數情況下，學生覺得數學比其他科目更難。)
+  * Do you see my pencil case? (你看到我的鉛筆盒了嗎？)
+* Attention (n.) 注意、注意力
+  * 常見用法為 `pay attention to + N/V-ing`、`attract/grab attention` (吸引注意)、`distract attention` (分散注意)。
+  * Johnny failed the test because he didn't pay attention to the teacher's instructions. (Johnny 考試不及格，因為他沒注意到老師的指示。)
+  * The colorful cover of the book was designed to grab the readers' attention. (這本書色彩鮮豔的封面設計旨在吸引讀者的注意力。)
+* Lecture
+  * (n.) 演講、講課
+    * 指正式的學術授課或講座。
+    * The professor gave an interesting lecture on ancient Greek history. (教授發表了一場關於古希臘歷史的有趣演講。)
+    * The center is hosting a series of lectures on cancer. (中心正在舉辦一系列關於癌症的講座。)
+  * (v.) 訓斥
+    * My parents lectured me for two hours about the dangers of staying out late. (我父母就晚歸的危險對我訓斥了兩個小時。)
+* Oversleep (v.) 睡過頭
+  * I overslept this morning because my alarm clock didn't go off. (我今天早上睡過頭了，因為我的鬧鐘沒響。)
+* Race (v.) 狂跳、疾行
+  * 文中 `with his heart racing` 指的是心臟因緊張或焦慮而劇烈跳動。
+  * My heart began to race when I realized the deadline was only five minutes away. (當我意識到截止日期只剩五分鐘時，我的心開始狂跳。)
+  * He raced down the street. (他沿著街道飛奔而去。)
+* Frantically (adv.) 瘋狂地、手忙腳亂地
+  * 形容因為極度焦慮、恐懼或急迫而產生的緊張行為。形容詞為 `frantic`。
+  * She searched frantically for her lost passport just minutes before her flight. (就在飛機起飛前幾分鐘，她手忙腳亂地尋找遺失的護照。)
+  * The villagers worked frantically to build a barrier before the flood arrived. (村民們在洪水到來前瘋狂地工作以建造屏障。)
+* Scramble
+  * (v.) 匆忙、混亂地移動、爭搶
+    * 常見用法有 `scramble to (do sth)` (急忙、拼命地做某事)、`scramble for N` (爭奪、搶奪)。
+    * The government is scrambling to find a solution to the economic crisis. (政府正匆忙尋找解決經濟危機的方案。)
+    * Thousands of fans scrambled for the best seats at the concert. (成千上萬的粉絲爭先恐後地搶購演唱會的最佳位置。)
+    * The teams are scrambling for the top spot (球隊正爭奪第一名。)
+  * (v.) 攀爬
+    * They scrambled up the hill. (他們手腳並用爬上山丘。)
+  * (v.) 將事物 (如字母、訊號) 弄得一團糟或混合
+    * The message was scrambled during transmission. (訊息在傳輸過程中被打亂了。)
+    * The wind scrambled the papers on the desk. (風把桌上的文件弄亂了。)
+    * Do you like <mark style="color:blue;">**scrambled eggs**</mark>? (你喜歡炒蛋嗎？)
+  * (n.) 匆忙、混亂地移動；爭搶；混亂、攪亂
+    * As soon as the plane landed, there was a scramble to get out. (飛機一降落，人們便匆忙爭著出去。)
+    * After the accident, it was a scramble to get help. (意外發生後，人們慌亂地尋求幫助。)
+    * The mess was a complete scramble. (那片狼藉簡直是場混亂。)
+* Humbling (adj.) 讓人謙卑的、使人意識到自己不足的、令人感到卑微的
+  * 描述某種經歷讓人意識到自己的不足、渺小或不再傲慢。
+  * Losing to a younger player was a humbling lesson for the champion. (輸給年輕選手對這位冠軍來說是一個讓他學會謙虛的教訓。)
+  * Winning the Nobel Prize was a humbling experience for the scientist. (獲得諾貝爾獎對這位科學家來說是一次令人謙虛的經歷。)
+* Arrogant (adj.) 傲慢的、自大的
+  * No one liked him because he was so arrogant about his family's wealth. (沒有人喜歡他，因為他對自己家族的財富感到非常傲慢。)
+  * Don't be so arrogant; you still have a lot to learn from your seniors. (別那麼自大；你還有很多地方要向你的前輩學習。)
+* Grade (n./v.) 分數、年級；評分
+  * Studying together helped them get better grades. (一起讀書讓他們可以拿更好的分數。)
+  * What grade is your cousin in? (你的表弟幾年級？)
+  * The teaching assistant is busy grading the students' essays this evening. (助教今晚正忙著批改學生的作文。)
+* Awake
+  * (adj.) 醒著的
+    * <mark style="color:blue;">**不放在名詞前進行修飾**</mark>，通常只放在連綴動詞 (如 `be`, `stay`, `feel`) 後作補語。類似的形容詞有 `asleep` (睡著的)、`alive` (活著的)、`alike` (相像的)。
+    * I stayed awake all night thinking about the humbling experience Johnny had. (我整晚醒著，思考 Johnny 所經歷的那次慘痛教訓。)
+    * Even though he looked asleep, he was actually listening to our conversation. (儘管他看起來睡著了，其實他正在聽我們的對話。)
+  * (v.) 喚醒 (情感、意識)
+    * 多用於抽象意義。三態變化為 `awake` → `awoke` → `awaken`。
+    * The movie awoke the old passion. (這部電影喚醒了舊情。)
+    * Young people need to awake to the risks. (年輕人需要意識到風險。)
+* Alert
+  * (adj.) 警覺的、警醒的
+    * 常見用法為 `be alert to N`。
+    * Coffee helps many office workers stay alert during long afternoon meetings. (咖啡幫助許多上班族在漫長的下午會議中保持警覺。)
+    * Parents should be alert to sudden changes in children's behavior. (父母應該對孩子行為的突然變化有所警覺。)
+  * (adj.) (頭腦) 機敏的、敏捷的
+    * She was alert and responsive. (她機敏且反應靈敏。)
+    * A couple of alert readers posted comments on the website pointing out the mistake. (有幾個眼尖的讀者在網路上發表評論，指出了這個錯誤。)
+  * (n.) 警報
+    * The government issued a storm alert to warn residents of the upcoming typhoon. (政府發出了風暴警報，以警告居民即將到來的颱風。)
+    * The army was put on full alert as the peace talks began to fail. (當和談快要破裂的時候，軍隊進入全面戒備狀態。)
+  * (v.) 使警覺、通知、警示
+    * 常見用法為 `alert someone to/about N`。
+    * We alerted the police when we found the dead body. (當我們發現屍體時，便向警方通報。)
+    * An anonymous letter alerted police to the possibility of a terrorist attack at the airport. (有人給警方寫了一封匿名信，警告機場可能會受到恐怖襲擊。)
+    * He alerted us about the accident down the road. (他提醒我們前方路上有意外事故。)
+* Review (v./n.) 複習 (知識)；審查、核對 (文件、提案、決定)；評論；回顧
+  * I need to review the chapter tonight. (我今晚需要複習這章節。)
+  * We will review your proposal. (我們會檢視你的提案。)
+  * He reviews films for the local newspaper. (他為當地報紙寫影評。)
+  * Let's review what has happened so far. (我們回顧一下到目前為止發生的事。)
+  * The teacher distributed a review for the exam. (老師發了一套考試複習題。)
+  * Employees usually have a performance review once a year. (員工通常一年進行一次績效評估。)
+  * I always read customer reviews before buying a new product. (我在買新產品前總是會看客戶評價。)
+  * This paper provides a comprehensive review of the topic. (這篇論文對該主題進行了全面的綜述。)
+
+</details>
+
+<details>
+
+<summary>作文百句 31 片語整理</summary>
+
+## 片語
+
+* Be the case 情況屬實、事實正是如此
+  * If that is the case, we need to change the plan. (如果情況是這樣，我們需要修改計畫。)
+  * If the data proves our theory right, then we can say this is the case. (如果數據證明我們的理論正確，那我們就可以說情況正是如此。)
+  * That won't always be the case (情況不會永遠如此。) → 表示情況是暫時的。
+* Pay attention 專心、注意、留心
+  * 後方可接 `to N` 來指定關注的對象或事物。
+  * The teacher noticed that many students failed to <mark style="color:blue;">**pay attention in class**</mark> because of the heat. (老師注意到許多學生因為天氣炎熱而上課不專心。)
+  * Please pay attention to the teacher. (請注意聽老師講課。)
+  * I didn't pay attention to what she was saying. (我沒有注意她在說什麼。)
+* Doze off 打瞌睡、不自覺地入睡
+  * 指在非睡覺時間或不該睡覺的場合因為疲倦或無聊而短暫入睡。
+  * The professor's voice was so monotonous that I dozed off within the first ten minutes. (教授的聲音太單調了，我在前十分鐘內就睡著了。)
+  * It is extremely dangerous to doze off while you are driving long distances. (長途駕車時打瞌睡是非常危險的。)
+* From time to time 有時、不時、偶爾
+  * 意思同 `occasionally`, `now and then`，表示動作發生頻率不高但會重複出現。
+  * Even though they are busy, they still meet for coffee from time to time. (雖然他們很忙，但仍會不時見面喝咖啡。)
+  * I like to look back at our old photos from time to time to remember the good days. (我喜歡不時回顧我們舊照片，以記住那些美好的日子。)
+* Scramble to VR 倉促地做、爭先恐後地做
+  * The staff had to scramble to prepare the hall after the meeting was moved forward. (在會議提前後，工作人員不得不倉促地準備大廳。)
+  * Investors scrambled to sell their stocks as the market began to crash. (隨著市場開始崩盤，投資者們爭先恐後地拋售股票。)
+* It comes as no surprise (to sb) (that) 一點也不令...驚訝、意料之中
+  * It comes as no surprise that the restaurant is always full, as the food is delicious. (這家餐廳總是客滿一點也不令人驚訝，因為食物非常美味。)
+  * It comes as no surprise to me that they broke up. (他們分手對我來說一點都不意外。)
+* Hand back 發還、歸還
+  * Please hand back the test papers after reading. (閱後請將考卷交還。)
+  * Please hand back the library books on time to avoid paying a fine. (請按時歸還圖書館書籍以避免支付罰款。)
+* Be arrogant about 對...感到傲慢、對...自負
+  * He was very arrogant about his intelligence and often treated others with disrespect. (他對自己的智力感到非常傲慢，經常對他人不尊重。)
+  * We should remain humble even when we succeed and not be arrogant about our achievements. (即使成功也應保持謙虛，不應對成就感到傲慢。)
+* Stay awake/alert 保持清醒/警覺
+  * `stay` 在此作為[連綴動詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)，表示持續維持某種狀態。常見搭配還有 `stay calm` (保持冷靜)、`stay healthy` (保持健康) 等。
+  * Johnny vowed to stay awake in class so that he would never miss any important information again. (Johnny 發誓上課要保持清醒，這樣他就不會再錯過任何重要資訊了。)
+  * Drivers should always stay alert to their surroundings to prevent accidents on the road. (駕駛員應始終對周遭環境保持警覺，以防止道路上的意外。)
+
+</details>
+
+<details>
+
+<summary>作文百句 31 補充資料</summary>
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Inevitable (adj.) 不可避免的、必然發生的
+  * 常用於描述某事根據因果、邏輯或自然規律，絕對會發生，無法逃避或改變。
+  * Given his total lack of preparation, failure in the final exam was inevitable. (考慮到他完全沒有準備，期末考不及格是不可避免的。)
+  * With the continuous heavy rain, a flood became inevitable in the low-lying valley. (隨著持續的大雨，低窪山谷發生洪水變得不可避免。)
+* Price to pay 代價、必須付出的代價
+  * 通常用於比喻，指為了達成某個目標 (如成功、名聲)，或因為某個錯誤行為而必須承擔的負擔、損失或痛苦。常見搭配有 `a heavy/small price to pay` (沉重/微小的代價)。
+  * Sacrificing sleep is often the heavy price to pay for achieving academic excellence. (犧牲睡眠通常是追求卓越學業所必須付出的沉重代價。)
+  * Missing the important bus was the price he had to pay for oversleeping this morning. (錯過那班重要的公車是他今天早上睡過頭所付出的代價。)
+* Take it to heart 銘記在心、認真對待
+  * 指將某人的建議、批評、教訓或鼓勵放在心裡，並產生深刻的情緒反應或實質的行為改變。請注意，這與 `take it personally` (覺得被針對而生氣) 意思不同。
+  * You should take your teacher's advice to heart if you truly want to improve your performance. (如果你真的想進步，你應該將老師的建議銘記在心。)
+  * He took the criticism to heart and worked much harder on his next research project. (他認真看待那些批評，並在下個研究計畫中更加努力。)
+* Strive for excellence 追求卓越、力求完美
+  * Our school encourages all students to strive for excellence in both academics and personal growth. (我們學校鼓勵所有學生在學業和個人成長方面都追求卓越。)
+  * Since the humbling failure, Johnny has been striving for excellence in every subject he takes. (自從那次慘痛的失敗後，Johnny 在他修的每個科目上都一直追求卓越。)
+* Learn it the hard way 從慘痛教訓中學會
+  * 描述不是透過他人的勸告或閱讀書本，而是透過自己<mark style="color:blue;">**親身經歷**</mark>失敗、痛苦、損失或困難，才終於明白某個道理或學會正確的方法。
+  * I told him not to touch the hot stove, but he had to learn it the hard way. (我告訴他不要碰熱爐子，但他還是得透過慘痛教訓才學會。)
+  * Many students learn the importance of time management the hard way after failing a major course. (許多學生在當掉一門主課後，才透過慘痛教訓學會時間管理的重要性。)
+* Leave no stone unturned 竭盡全力、不遺餘力
+  * 指為了達成目標、尋找真相或解決問題，嘗試了每一種可能的方法。
+  * The police promised to leave no stone unturned in their search for the missing child. (警方承諾將不遺餘力地尋找失蹤的孩子。)
+  * In order to pass the final exam, she left no stone unturned in her studies this month. (為了通過期末考，她這個月在學習上竭盡全力。)
+
+</details>
+
 ## 32.
 
 1. It's very important for students to learn the skill of <mark style="color:blue;">**critical thinking**</mark>. This is the process of understanding, <mark style="color:blue;">**evaluating**</mark>, and <mark style="color:blue;">**applying**</mark> information in order to <mark style="color:blue;">**draw a conclusion**</mark>. Students should learn how to think <mark style="color:blue;">**critically**</mark> for several reasons.
