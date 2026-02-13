@@ -162,8 +162,20 @@ hidden: true
 
 ## 片語
 
+* In fact 事實上、其實
+  * `in fact` 主要有以下兩個功能。
+    1. 用來補充更多細節，強化前言，表「不僅如此，事實上更...」。
+       * The exam was not just difficult. In fact, it was the hardest test I have ever taken. (這場考試不只是難。事實上，這是我參加過最難的一次考試。)
+       * Alana is very smart. In fact, she has a near-perfect score in every subject. (Alana 非常聰明。事實上，她每一科都拿了近乎滿分的成績。)
+    2. 用來指出事實與表象，以反駁或修正前言。
+       * Many people think rabbits love carrots, but in fact, eating too many carrots can make them sick. (很多人以為兔子愛吃紅蘿蔔，但事實上，吃太多紅蘿蔔會讓牠們生病。)
+       * I thought the test was easy. In fact, it was very difficult. (我以為考試很簡單。其實，它非常難。)
 * Be preferable to N/V-ing 比...更好、更合適
   * For many students, a constant effort in daily study is preferable to cramming all night before the final exam. (對許多學生來說，日常持續的努力比在期末考前通宵死記硬背更好。)
+* In many ways 在許多方面
+  * 常放在段落開頭或句首，用來銜接後續要列舉的多個理由。
+  * In many ways, the project was a success, despite the financial challenges we faced. (在許多方面，儘管我們面臨財務挑戰，該專案仍是成功的。)
+  * In many ways, Candy is more like a guardian angel than just a girlfriend to Steven. (在許多方面，對 Steven 來說，Candy 與其說是女朋友，更像是一位守護天使。)
 * Regardless of N/V-ing 不管...、不論...
   * 常用於描述原則或規定。
   * The company provides equal opportunities to all applicants, regardless of their background or previous experience. (公司為所有應徵者提供平等機會，不論其背景或過往經驗。)
@@ -173,6 +185,10 @@ hidden: true
   * She didn't feel up to going to the party tonight because she was very tired from the mid-term exams. (她今晚不想去參加聚會，因為期中考讓她感到非常地疲累。)
 * Make it a rule to VR 規定自己要做...、習慣於...
   * Yusuf makes it a rule to review Alana's English notes before going to bed, which makes Alana very proud. (Yusuf 規定自己睡前要複習 Alana 的英文筆記，這讓 Alana 感到非常自豪。)
+* Take 人/寵物 out for a walk 帶...出去散步
+  * 適用於帶寵物、小孩出去散步、呼吸新鮮空氣，強調帶離室內或原有環境。
+  * I'm going to take the dog out for a walk. (我待會要帶狗出去散步。)
+  * It's a beautiful sunny day; why don't we take the children out for a walk in the park? (今天陽光燦爛，我們為什麼不帶孩子們去公園走走呢？)
 * Be aware that... / Be aware of N 意識到...、察覺到...
   * Citizens should be aware that their actions have a significant impact on the environment and the planet's future. (公民應該意識到他們的行為對環境與地球的未來有重大影響。)
   * He is not aware of the coming danger. (他不知道即將到來的危險。)
@@ -185,7 +201,13 @@ hidden: true
 
 ## 文法
 
+### `Given N/V-ing, S + V` 考量到...、鑒於...
 
+* 也可以寫 `Given that + S + V, S + V`。
+* 雖然理論上逗號後的主詞應該與前面相同，才不會產生[懸空分詞](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)的情況，但此句型已被視為一個固定的慣用語，故<mark style="color:blue;">**不強制要求主詞一致**</mark>。
+* Given his lack of experience, he did an extraordinarily good job. (考慮到他缺乏經驗，他做得非比尋常地出色。)
+* Given that it's a holiday today, the pet store might be very crowded. (考慮到今天是假日，寵物店可能會非常擁擠。)
+* Given the current financial obligation, we should rethink our plan to adopt a second dog. (考慮到目前的財務義務，我們應該重新考慮領養第二隻狗的計畫。)
 
 </details>
 
