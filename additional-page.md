@@ -189,6 +189,28 @@ hidden: true
   * 適用於帶寵物、小孩出去散步、呼吸新鮮空氣，強調帶離室內或原有環境。
   * I'm going to take the dog out for a walk. (我待會要帶狗出去散步。)
   * It's a beautiful sunny day; why don't we take the children out for a walk in the park? (今天陽光燦爛，我們為什麼不帶孩子們去公園走走呢？)
+* At least 至少
+  * 最低限度，有可能更多。
+  * You should spend at least thirty minutes exercising every day. (你每天應該至少花三十分鐘運動。)
+  * At least ten dogs were adopted from the shelter this morning. (今天早上至少有十隻狗從收容所被領養。)
+
+{% hint style="info" %}
+#### 相似用法的片語
+
+* at most 最多
+  * 最高限度，有可能更少。
+  * The repair work will take at most three days to complete. (維修工作最多需要三天就能完成。)
+  * The room can accommodate at most fifty people due to safety rules. (基於安全規定，這間房間最多只能容納五十人。)
+* at best 充其量、在最好的情況下
+  * 通常暗示其實沒那麼好。
+  * The old car's engine is, at best, unreliable. (這輛舊車的引擎充其量只能說是不太可靠。)
+  * Without further training, he will be an average player at best. (如果沒有進一步訓練，他充其量只能成為一名普通的球員。)
+* at worst 最壞的情況下
+  * 用於預測最糟的結果。
+  * At worst, we will have to call it quits and start over again. (最壞的情況下，我們必須放棄並重新開始。)
+  * At worst, the injury will keep you away from the court for a month. (最壞的情況下，這次受傷會讓你在一個月內無法上場。)
+{% endhint %}
+
 * Be aware that... / Be aware of N 意識到...、察覺到...
   * Citizens should be aware that their actions have a significant impact on the environment and the planet's future. (公民應該意識到他們的行為對環境與地球的未來有重大影響。)
   * He is not aware of the coming danger. (他不知道即將到來的危險。)
@@ -201,13 +223,18 @@ hidden: true
 
 ## 文法
 
-### `Given N/V-ing, S + V` 考量到...、鑒於...
-
-* 也可以寫 `Given that + S + V, S + V`。
-* 雖然理論上逗號後的主詞應該與前面相同，才不會產生[懸空分詞](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)的情況，但此句型已被視為一個固定的慣用語，故<mark style="color:blue;">**不強制要求主詞一致**</mark>。
-* Given his lack of experience, he did an extraordinarily good job. (考慮到他缺乏經驗，他做得非比尋常地出色。)
-* Given that it's a holiday today, the pet store might be very crowded. (考慮到今天是假日，寵物店可能會非常擁擠。)
-* Given the current financial obligation, we should rethink our plan to adopt a second dog. (考慮到目前的財務義務，我們應該重新考慮領養第二隻狗的計畫。)
+* `Given N/V-ing, S + V` 考量到...、鑒於...
+  * 也可以寫 `Given that + S + V, S + V`。
+  * 雖然理論上逗號後的主詞應該與前面相同，才不會產生[懸空分詞](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)的情況，但此句型已被視為一個固定的慣用語，故<mark style="color:blue;">**不強制要求主詞一致**</mark>。
+  * Given his lack of experience, he did an extraordinarily good job. (考慮到他缺乏經驗，他做得非比尋常地出色。)
+  * Given that it's a holiday today, the pet store might be very crowded. (考慮到今天是假日，寵物店可能會非常擁擠。)
+  * Given the current financial obligation, we should rethink our plan to adopt a second dog. (考慮到目前的財務義務，我們應該重新考慮領養第二隻狗的計畫。)
+* 次數與頻率的表達
+  * 結構為`次數 + 時間單位`，表「每隔一段時間發生幾次」。
+  * 當次數為 1 時，用 `once`；次數為 2 時，用 `twice`；次數為 3 以上時，用`數字 + times` (如 `three times`, `four times`, ...)。
+  * 時間單位如 `an hour`, `a day`, `a week`, `a month`, `a year`。
+  * You must brush its fur at least twice a week to keep it shiny. (你必須每週至少幫牠梳兩次毛，以保持光澤。)
+  * I make it a rule to review Alana's notes three times a day. (我規定自己每天要複習 Alana 的筆記三次。)
 
 </details>
 
@@ -215,6 +242,47 @@ hidden: true
 
 <summary>作文百句 34 補充資料</summary>
 
+## 寫作補給站
 
+以下提供一些與本文主題相關的詞彙。
+
+* Abandon (v.) 遺棄、放棄、中止
+  * 詞源來自古法語 `a` (在...) + `bandon` (控制/權力)，原意為「任由他人處置」。在法律與道德語境下，常用於描述不負責任地離開某人、某物或某個計畫。
+  * 衍生詞：`abandonment` (n.) 遺棄、放棄。
+  * 常用搭配：`abandon a pet` (遺棄寵物)、`abandon hope` (放棄希望)、`abandon a project` (中止計畫)。
+  * The heartless owner decided to abandon the sick dog on the side of a busy highway. (那位狠心的主人決定將生病的狗遺棄在繁忙的公路邊。)
+  * We had to abandon our hiking trip because of the extraordinarily heavy rain. (因為雨勢非比尋常地大，我們不得不中止健行之旅。)
+  * The abandoned house on the corner has become a shelter for many stray cats. (街角那棟被遺棄的房子成了許多浪貓的避難所。)
+* Lifelong commitment (n. phr.) 終身的承諾、一輩子的責任
+  * 結合了 `lifelong` (終身的) 與 `commitment` (承諾/奉獻)。強調這是一段不會因為時間、環境或心情改變而終止的嚴肅關係。
+  * 相關字：`commit oneself to` (致力於...)、`make a commitment` (做出承諾)。
+  * Adopting a German shepherd is a lifelong commitment that requires constant time and money. (領養德國牧羊犬是一輩子的承諾，需要持續的時間與金錢。)
+  * Marriage is considered a lifelong commitment by many cultures around the world. (世界上的許多文化都將婚姻視為一種終身的承諾。)
+  * She showed a lifelong commitment to protecting endangered species in the wild. (她展現了對保護野生瀕危物種的終身奉獻。)
+* Unconditional love (n. phr.) 無條件的愛
+  * `Unconditional` 是由 `un-` (不) + `condition` (條件) 組成。指的是一種不求回報、不設前提的極致情感，常用於描述寵物、父母或深厚的情誼。
+  * 常用語：`love someone unconditionally` (無條件地愛著某人)。
+  * Dogs are often called man's best friend because of the unconditional love they provide. (狗常被稱為人類最好的朋友，因為牠們提供無條件的愛。)
+  * A mother's unconditional love helps a child grow up with confidence and security. (母親無條件的愛能幫助孩子在自信與安全感中成長。)
+  * Alana's unconditional love for Yusuf remains unchanged, regardless of how many times she resets him. (無論 Alana 重置了主公多少次，她對主公無條件的愛依然不變。)
+* Fulfill (v.) 履行、實現、使滿意、滿足
+  * 詞源來自 `full` (滿) + `fill` (填滿)。指的是完成一項任務、達成一個願望或履行一項法定義務。
+  * 衍生片語：`fulfill a promise` (履行諾言)、`fulfill a dream` (實現夢想)、`fulfill a requirement` (滿足要求)。
+  * Fulfill the obligation (v. phr.) 履行義務
+  * By paying for the medical bills, the owner fulfilled his financial obligation to his pet. (透過支付醫療費用，主人履行了對其寵物的財務義務。)
+  * He worked tirelessly for years to fulfill his lifelong dream of becoming a professional dancer. (他不懈努力多年，以實現他成為專業舞者的終身夢想。)
+  * The new product failed to fulfill the customers' high expectations. (這款新產品未能滿足顧客的高期望。)
+* Shoulder (v.) 肩負、承擔
+  * 這裡的 `shoulder` 是動詞用法，取其「肩膀能負重」的意象。常用於抽象概念，表示自願或被迫承擔起沉重的負擔、責任或開支。
+  * 常用搭配：`shoulder the blame` (承擔責備)、`shoulder the cost` (負擔費用)。
+  * Shoulder the responsibility (v. phr.) 肩負責任、承擔責任
+  * As a pet owner, you must be prepared to shoulder the responsibility of caring for a living creature. (作為飼主，你必須準備好承擔照顧一個生命的責任。)
+  * The young manager had to shoulder the responsibility for the failure of the entire project. (那位年輕的經理不得不為整個專案的失敗承擔責任。)
+  * Governments should shoulder the cost of providing clean water to all citizens. (政府應該負擔為所有公民提供乾淨飲水的費用。)
+* Adopt, don't shop (n. phr.) 領養代替購買
+  * 這是動保界的核心口號。在寫作中，這不僅是一個片語，更可以用來引導出關於社會正義與生命價值的討論。
+  * We should promote the slogan "Adopt, don't shop" to help clear out the crowded animal shelters. (我們應該推廣「領養代替購買」的口號，以幫助清空擁擠的動物收容所。)
+  * Instead of buying a purebred dog, he chose to "adopt, don't shop" and found a loyal companion at the shelter. (他沒有購買純種犬，而是選擇了「領養代替購買」，並在收容所找到了一個忠誠的伴侶。)
+  * The "Adopt, don't shop" movement has saved thousands of abandoned pets from being euthanized. (「領養代替購買」運動已經從安樂死中拯救了數千隻被遺棄的寵物。)
 
 </details>
