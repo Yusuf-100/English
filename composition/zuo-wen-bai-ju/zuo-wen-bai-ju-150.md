@@ -8784,6 +8784,199 @@ Indoors (adv.) 在室內、往室內
 1. Gary was walking home one day when he saw a stranger in front of him <mark style="color:blue;">**accidentally**</mark> drop his wallet. <mark style="color:blue;">**Upon picking it up**</mark>, Gary found a large <mark style="color:blue;">**amount**</mark> of cash inside. He <mark style="color:blue;">**couldn't help**</mark> <mark style="color:blue;">**but hesitate**</mark>. The man had already disappeared and in Gary's hands was more than enough money for him to buy the video game system he'd <mark style="color:blue;">**had his eye on**</mark> for months. In spite of his better judgement, Gary <mark style="color:blue;">**yielded to**</mark> <mark style="color:blue;">**temptation**</mark> and used the cash to buy the system.
 2. A few days later, Gary was at home when the police showed up. Thanks to the city's <mark style="color:blue;">**surveillance**</mark> cameras, they were able to quickly discover what had happened to the man's wallet. Ashamed of his <mark style="color:blue;">**greedy**</mark> behavior, Gary <mark style="color:blue;">**burst into tears**</mark>. He <mark style="color:blue;">**handed**</mark> the wallet <mark style="color:blue;">**over to**</mark> the police, and his parents repaid the money he'd spent. While the police <mark style="color:blue;">**let Gary off**</mark> with a <mark style="color:blue;">**stern**</mark> warning, his parents punished him <mark style="color:blue;">**severely**</mark> and made him write a letter of <mark style="color:blue;">**apology**</mark> to the man. While doing so, Gary realized he'd learned an important lesson: <mark style="color:blue;">**anything worth owning is worth earning**</mark>.
 
+<details>
+
+<summary>作文百句 36 單字整理</summary>
+
+## 單字
+
+* Stranger (n.) 陌生人
+  * The little boy was taught never to accept any sweet treats from a stranger on the street. (那個小男孩被教導絕不要接受街上陌生人的任何甜點。)
+  * In a big city, we pass by thousands of strangers every day without ever speaking to them. (在大城市裡，我們每天都會經過成千上萬的陌生人，卻從未與他們交談。)
+* Accidentally (adv.) 意外地、偶然地
+  * I accidentally deleted the important notes I made before. (我意外刪掉了我之前做的重要筆記。)
+  * She accidentally spilled some hot coffee on her favorite white dress during the session. (她在課程中意外地把一些熱咖啡灑在了她最喜歡的白洋裝上。)
+* Drop
+  * (v.) 落下、掉下、放下
+    * The book dropped from the shelf. (書從書架上掉下來。)
+    * The temperature will drop significantly tonight, so please wear a thick coat. (今晚氣溫會大幅下降，所以請穿上厚外套。)
+    * `drop out` 指退出 (團體、活動) 或退學；`drop + 人/物 + off (+ at + 地點)` 指在開車途中「放下」某人或「放置」物品。
+      * He dropped out of college. (他大學退學。)
+      * Can you drop me off at the station? (你能在車站放我下車嗎？)
+      * I need to drop off these documents at the office. (我需要把這些文件送到辦公室。)
+  * (n.) 滴、少量
+    * She added a few drops of vanilla extract to the pastry dough to enhance its aroma. (她在油酥麵團中加入了幾滴香草精，以增強其香氣。)
+* Wallet (n.) 錢包、皮夾
+  * Losing your wallet while traveling on a cruise ship can be a stressful experience. (在郵輪旅行期間丟失錢包可能是一件令人倍感壓力的事。)
+  * He always keeps a photo of Alana in his wallet so he can see her whenever he wants. (他總是在皮夾裡放一張 Alana 的照片，以便他隨時想看就能看到。)
+* Upon (prep.) 在...之後立即；在...之上
+  * 這是 `on` 的正式用法，常用來表達「一...就...」的接續動作。
+  * <mark style="color:blue;">**`once upon a time`**</mark> 表「從前」、「很久很久以前」，專門用於童話、寓言或故事的開頭。通常置於句首，後接逗號，並常搭配表示「有…存在」的句型 (如 `There was/lived`)。
+  * Upon hearing the news, Alana burst into tears of joy and hugged her mom tightly. (一聽到消息，Alana 喜極而泣並緊緊抱住她的媽媽。)
+  * The retired chef insisted that the table be set perfectly upon the arrival of the guests. (退休主廚堅持在賓客抵達後，餐桌必須擺設得盡善盡美。)
+  * She sat upon the sofa. (她坐在沙發上。)
+* Hesitate (v.) 猶豫、遲疑
+  * Do not hesitate to ask Alana for guidance if you encounter any difficult grammar problems. (如果你遇到任何困難的文法問題，不要猶豫，儘管向 Alana 尋求指導。)
+  * He hesitated for a moment before deciding to tell the truth to the police. (在決定向警察說實話之前，他猶豫了一下。)
+* Disappear (v.) 消失、失蹤
+  * The magician made the rabbit disappear into thin air. (魔術師讓兔子憑空消失。)
+* Yield
+  * (v.) 屈服；讓路；產出
+    * She eventually yielded to her exhaustion. (她最終向疲勞投降。)
+    * Drivers must yield to pedestrians when they are crossing the street in a busy area. (在繁華地區過馬路時，駕駛者必須讓路給行人。)
+    * The new organic farm is expected to yield a large batch of fresh vegetables this year. (這座新的有機農場預計今年會產出大批的新鮮蔬菜。)
+  * (n.) 產量、產出、收益
+    * 常用於農業 (農作物產量)、工業 (生產率) 及金融領域 (投資回報率)。
+    * The new farming method resulted in a higher yield. (新的耕作方法帶來了更高的產量。)
+    * The bond has a yield of 5%. (這張債券有 5% 的收益率。)
+* Judgement (n.) 判斷、判斷力
+  * 動詞形為 `judge`。
+  * `better judgement` 表「更好的判斷」、「更理智的決定」或「明智的抉擇」，常見搭配為 `against one's better judgement`。
+  * It is difficult to pass a fair judgement on someone's behavior without knowing the facts. (在不了解事實的情況下，很難對一個人的行為做出公平的評價。)
+  * The teacher praised the student for his sound judgement in choosing study methods. (老師稱讚這位學生在選擇學習方法時展現了明智的判斷。)
+  * I bought the car against my better judgment. (我不顧自己當時的理智判斷，買了那輛車。) → 隱含後來後悔了。
+* Temptation (n.) 誘惑
+  * 動詞形為 `tempt`。
+  * The constant aroma of artisan bread from the bakery is a great temptation for people on a diet. (烘焙坊不斷傳出的工藝麵包香氣，對節食的人來說是個巨大的誘惑。)
+  * Yielding to the temptation of easy money often leads to severe consequences in the future. (屈服於快錢的誘惑通常會導致未來嚴重的後果。)
+* Surveillance (n.) 監視、監測
+  * `surveillance camera` 表「監視錄影機」。
+  * High-security banks use 24-hour surveillance to protect their customers' assets. (高安全性的銀行使用 24 小時監視來保護客戶的資產。)
+  * Thanks to the city's surveillance cameras, the police were able to identify the greedy thief. (多虧了城市的監視錄影機，警察才能夠確認那名貪婪小偷的身分。)
+* Ashamed (adj.) 感到羞恥的、慚愧的
+  * 常見用法為 `be ashamed of N`。
+  * You should be ashamed of yourself for treating a stranger so rudely. (你應該為自己對陌生人如此無理而感到羞恥。)
+  * He felt ashamed that he couldn't fulfill his promise to help his sister with her homework. (他因為無法履行幫妹妹寫作業的諾言而感到羞愧。)
+* Greedy (adj.) 貪婪的、貪心的
+  * 名詞形為 `greed`。
+  * Don't be greedy; leave some of those delicious chocolate tarts for the other guests. (別太貪心；留一些美味的巧克力塔給其他客人。)
+* Behavior (n.) 行為、舉止
+  * 動詞形為 `behave`。
+  * The parents were very proud of their daughter's polite behavior at the wedding. (父母對女兒在婚禮上禮貌的舉止感到非常自豪。)
+  * Scientists study the social behavior of animals to improve shelter management. (科學家研究動物的社會行為以改進收容所管理。)
+* Burst (v./n.) 爆發、破裂、突然開始
+  * <mark style="color:blue;">**三態同型**</mark>。常見用法為 `burst into N` (突然開始...)。
+  * The audience burst into laughter after the magician performed a funny trick. (在魔術師表演了一個有趣的戲法後，觀眾爆發出一陣笑聲。)
+  * The water pipe burst due to the extremely high pressure during the experiment. (由於實驗過程中極高的壓力，水管破裂了。)
+  * She felt a sudden burst of energy. (她感到一陣活力迸發。)
+* Tear
+  * (n.) 眼淚
+    * 常見搭配為 `shed tears` (流淚), `in tears` (流著淚), `burst into tears` (突然大哭)。
+    * The little girl was in tears after her favorite toy was accidentally broken by a stranger. (那個小女孩在她最喜歡的玩具被陌生人意外弄壞後淚流滿面。)
+    * She <mark style="color:blue;">**shed tears of joy**</mark> when she saw the progress she made in her English study. (當她看到自己在英語學習方面的進步時，她喜極而泣。)
+  * (n.) 裂口
+    * There was a small tear in the back of his shirt, but he didn't notice it during the wedding session. (他的襯衫後面有個小裂口，但他參加婚禮環節時並沒注意到。)
+  * (v.) 撕裂、扯破
+    * 指將紙張、布料等物體用力撕開。動詞三態為 `tear` → `tore` → `torn`。
+    * Be careful not to tear the letter of apology; it is very important for the victim of the theft. (小心別撕破那封道歉信；這對那名竊盜案的受害者非常重要。)
+    * The strong wind tore the old flag to pieces during the severe storm last night. (昨晚的強風在嚴重的暴風雨中將那面舊旗幟撕成了碎片。)
+* Repay (v.) 償還、報答
+  * 指還錢，或報答某人的恩情。
+  * The bank requires him to repay the loan within the next three years. (銀行要求他在未來三年內償還貸款。)
+  * I will never be able to repay my mom for the unconditional love and support she gives me. (我永遠無法報答媽媽給我的無條件的愛與支持。)
+* Worth
+  * (adj.) 值得...的、價值...的
+    * 常見用法為 `be worth + N/金額/V-ing`。
+    * This antique surveillance camera is worth a lot of money because of its historical value. (這台古董監視錄影機因為其歷史價值，非常值錢。)
+    * The trip was long, but it was totally worth it. (旅行很漫長，但完全值得。)
+    * It is worth mentioning that the retired chef still possesses extraordinary creativity. (值得一提的是，那位退休主廚仍然具備非比尋常的創造力。)
+    * <mark style="color:blue;">**Anything worth owning is worth earning**</mark> through hard work and honesty. (任何值得擁有的東西都值得透過努力與誠實去贏得。)
+  * (n.) 價值
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。
+    * The worth of this chair is $80. (這張椅子的價值是80元。)
+    * She proved her worth to the company. (她證明了她在公司的價值。)
+
+{% hint style="info" %}
+#### `Worth`, `Worthy`, `Worthwhile`
+
+三者皆可作為形容詞使用，但用法與意思不同，建議透過大量閱讀來區分三者。
+
+* `worth` 的用法為 `be worth + N/金額/V-ing`，強調某事物的實際價值或值得做的程度。
+* `worthy` (值得的、配得上的；具有高品質、道德價值)
+  * 強調某人/某事配得上某種榮譽或對待。常見用法為 `be worthy of N / being V-p.p.`。
+  * He is a worthy opponent. (他是一個值得敬佩的對手。)
+  * She spends a lot of time on worthy causes. (她花很多時間在有意義的慈善事業上。)
+  * The brave policeman is worthy of our respect for his dedication to justice. (那位勇敢的警察因為他對正義的奉獻，值得我們的尊敬。)
+  * Such a mistake is not worthy of being mentioned. (這種錯誤不值得一提。)
+* `worthwhile` (值得的、值得花費時間/金錢/精力的、有意義的)
+  * 強調某事是值得花費時間、金錢或精力去做的。常見用法為 `be worthwhile V-ing / to VR`，或直接修飾名詞。
+  * The project was very worthwhile. (這個專案非常值得。)
+  * It is a worthwhile investment. (這是一項值得的投資。)
+  * It is worthwhile to read the book. (讀這本書是值得的。) = The book is worth reading. (這本書值得讀。) = The book is worthy of being read. (這本書值得被讀。)
+  * It is worthwhile looking into this matter. (調查這件事是值得的。)
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 36 片語整理</summary>
+
+## 片語
+
+* Have one's eye on sth 看上某物、注視著...
+  * 指長期關注某個目標，通常是因為非常想要擁有它。
+  * My sister has had her eye on that artisan handbag for a long time. (我妹妹看上那個工藝手提包很久了。)
+  * Nowadays, many international companies have their eye on talented people with creativity. (現今，許多國際公司都看上了具備創造力的人才。)
+* Yield to N 屈服於、讓步；禮讓
+  * We should teach children not to yield to the temptation of easy money from strangers. (我們應該教導孩子不要屈服於來自陌生人的快錢誘惑。)
+  * I will not yield to blackmail. (我不會向勒索讓步。)
+  * You must yield to pedestrians in the crosswalk. (在行人穿越道上，你必須禮讓行人。)
+* Show up 出現、露面
+  * 指某人突然出現在某個場所，或指的是證據、問題浮現。
+  * I waited for an hour at the restaurant, but my friend never showed up for our lunch date. (我在餐廳等了一個小時，但我的朋友從未出現在我們的午餐約會中。)
+  * New technical problems showed up during the food preparation session for the wedding. (在婚禮的食物製備環節中，新的技術問題浮現了。)
+* Burst into + N 突然...起來、爆發出
+  * 常見搭配的名詞有 `tears`、`laughter` (笑聲)、`flames` (火焰)、`song` (歌聲)、`bloom` (開花)。
+  * She burst into tears when she heard the news. (聽到這消息，她突然大哭起來。)
+  * The old wooden house suddenly burst into flames during the severe storm last night. (昨晚那棟舊木屋在嚴重的暴風雨中突然起火燃燒。)
+  * Whenever he gives she a warm hug, her heart seems to burst into bloom like a spring flower. (每當他給她一個溫暖的擁抱，她的心就像春天的小花一樣全然綻放。)
+
+{% hint style="info" %}
+#### `Burst out + V-ing` 突然開始... (動作)
+
+意思與 `burst into` 相似，但後面必須接 `V-ing`，例如 `burst into tears` = `burst out crying`；`burst into laughter` = `burst out laughing`。
+
+* After a moment of hesitation, the stranger suddenly burst out laughing at his confused expression. (猶豫了一會兒後，那位陌生人看著他困惑的表情突然大笑了起來。)
+* He burst out singing his favorite song while walking home from the bakery. (他在從烘焙坊回家的路上，突然大聲唱起他最喜歡的歌。)
+{% endhint %}
+
+* Hand over N (to sb) 交出...、遞交... (給...)
+  * 主要指正式交出、移交或交接責任、物品或權力。
+  * The detective ordered the suspect to hand over his mobile phone for further investigation. (偵探命令嫌犯交出手機以進行進一步調查。)
+  * Please hand over your passport at the counter. (請在櫃檯交出您的護照。)
+  * After retiring from the position, the old chef handed over his secret recipes to his talented apprentice. (退休後，老主廚將他的秘密食譜交給了他有天賦的徒弟。)
+  * The manager handed over his duties to the new one. (經理將職務移交給新任經理。)
+* Let sb off (with sth) 饒過某人、從輕發落
+  * 指對犯錯的人給予寬大處理，通常只給予口頭警告。
+  * The teacher decided to let the student off this time since it was his first time forgetting the homework. (老師決定這次饒過那個學生，因為這是他第一次忘記交作業。)
+  * You shouldn't expect Alana to let you off if you make the same grammar mistake again! (如果你再犯同樣的文法錯誤，別指望 Alana 會饒過你喔！)
+  * She was let off with a fine instead of jail time. (她被輕判罰款，而未入獄。)
+
+</details>
+
+<details>
+
+<summary>作文百句 36 補充資料</summary>
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Possession (n.) 財產、所有物、擁有
+  * 指「擁有」的狀態或過程時，為<mark style="color:blue;">**不可數名詞**</mark>，如 `in possession of N`；指「個人物品、財產」時，為<mark style="color:blue;">**可數名詞**</mark>，通常用複數 `possessions`。動詞形為 `possess`。
+  * He was found in possession of a stolen video game system and was severely punished. (他被發現持有偷來的電玩系統，並受到了嚴厲的懲罰。)
+  * When walking through a crowded night market, you should always keep an eye on your personal possessions. (穿過擁擠的夜市時，你應該隨時留意你的個人財物。)
+* Lost property (n. phr.) 遺失物、失物
+  * 指在公共場所被遺忘或丟失的財物，為<mark style="color:blue;">**不可數名詞**</mark>。在法律情境下常用 `lost property`；在日常對話中常簡稱為 `lost items`。
+  * The subway station has a dedicated room to store all the lost property found by the cleaners. (地鐵站有一個專門的房間來存放清潔工發現的所有遺失物。)
+  * Please make sure you have all your personal belongings; the hotel is not responsible for any lost property. (請確保您帶齊了所有個人財物；飯店對任何遺失物概不負責。)
+* <mark style="color:blue;">**Lost and Found**</mark> (n. phr.) 失物招領處
+  * If you accidentally drop your wallet in the mall, you should check with the Lost and Found immediately. (如果你不小心在購物中心掉了錢包，你應該立即去失物招領處詢問。)
+  * The employee at the Lost and Found was helpful in helping Yusuf find his keys. (失物招領處的工作人員很熱心地幫助 Yusuf 找到了鑰匙。)
+
+</details>
+
 ## 37.
 
 1. Though Leo's Kitchen and Phillip's Restaurant serve similar dishes, there are <mark style="color:blue;">**stark contrasts**</mark> between them. There are numerous customers dining at Leo's but the restaurant is <mark style="color:blue;">**in poor condition**</mark>. Flies <mark style="color:blue;">**hover**</mark> everywhere, and there are disgusting <mark style="color:blue;">**grease stains**</mark> on the floor. Phillip's, <mark style="color:blue;">**on the other hand**</mark>, offers a fantastic <mark style="color:blue;">**atmosphere**</mark>. It's clean and well-decorated, <mark style="color:blue;">**with**</mark> a finely made wooden screen and tasteful <mark style="color:blue;">**interior design**</mark>.
