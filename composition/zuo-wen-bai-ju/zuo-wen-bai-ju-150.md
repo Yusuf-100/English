@@ -8158,11 +8158,626 @@ Indoors (adv.) 在室內、往室內
 2. In many ways, owning a dog is a bigger <mark style="color:blue;">**responsibility**</mark> than keeping a hamster, <mark style="color:blue;">**financially**</mark> and otherwise. <mark style="color:blue;">**For one thing**</mark>, I understand that I must <mark style="color:blue;">**make it a rule**</mark> to take Blaze out for a walk at least once a day, <mark style="color:blue;">**regardless of**</mark> the weather, even when I don't <mark style="color:blue;">**feel up to it**</mark>.
 3. <mark style="color:blue;">**As**</mark> a responsible pet owner, I would make sure to pick up and <mark style="color:blue;">**discard**</mark> Blaze's <mark style="color:blue;">**poop**</mark> during our walks. I'm also <mark style="color:blue;">**aware**</mark> that a German shepherd <mark style="color:blue;">**consumes**</mark> a lot of dog food in a month, and I would need to be prepared for that <mark style="color:blue;">**financial obligation**</mark>. <mark style="color:blue;">**All in all**</mark>, though, it would be my great pleasure to have Blaze <mark style="color:blue;">**as**</mark> a pet.
 
+<details>
+
+<summary>作文百句 34 單字整理</summary>
+
+## 單字
+
+* Adopt (v.) 領養；採納、採取
+  * 除了領養寵物或小孩，也常用於採納某人的建議或採取某種方法。
+  * The young couple decided to adopt a dog from the local animal shelter. (這對年輕夫婦決定從當地的動物收容所領養一隻狗。)
+  * The school board adopted a new policy to improve student safety on campus. (學校委員會採納了一項新政策以改善校園內的學生安全。)
+* Hamster (n.) 倉鼠
+  * The little hamster loves to run on its wheel all night long, making a tiny squeaking sound. (那隻小倉鼠喜歡整晚在滾輪上跑，發出細微的吱吱聲。)
+* Shepherd
+  * (n.) 牧羊人、牧羊犬
+    * The shepherd led his flock to fresh pastures. (牧羊人把羊群帶到新的牧場。)
+    * The German shepherd is known for its high intelligence and loyalty to its owners. (德國牧羊犬以其高智商和對主人的忠誠而聞名。)
+  * (v.) 帶領、護送、引導
+    * 常用於引導人或事物到達某處，帶有指導、看顧的意味。
+    * The teacher carefully shepherded the students through the crowded museum to ensure no one got lost. (老師小心翼翼地引導學生穿過擁擠的博物館，以確保沒人走丟。)
+    * She shepherded the proposal through the committee. (她帶領這項提案通過了委員會。)
+* Latter (adj./n.) 後者的、後面的
+  * 常用於 `the former ... the latter ...` (前者...後者...) 的對照結構。
+  * The first half of the movie was boring, but the latter part was extraordinarily exciting. (電影的前半部分很無聊，但後半部分非比尋常地精彩。)
+  * She offered me more money or a car and I chose the latter. (她提出給我更多的錢或者一輛汽車，我選擇了後者。)
+* Own (v./adj.) 擁有；親自的、屬於某人自己的
+  * Owning a dog is a lifelong commitment that requires a lot of patience and love. (養狗是一輩子的承諾，需要大量的耐心與愛。)
+  * She wanted to own her mistakes instead of blaming them on others. (她想要承擔自己的錯誤，而不是歸咎於他人。)
+  * I would love to have a room of my own where I can study English without any distractions. (我希望能擁有一個屬於自己的房間，讓我可以不受干擾地學英文。)
+* Pet store (n.) 寵物店
+  * 指販售寵物及其相關用品 (飼料、玩具、籠子) 的商店。
+  * We spent the entire afternoon at the pet store, looking at the colorful tropical fish in the tanks. (我們在寵物店待了整個下午，看著魚缸裡五顏六色的熱帶魚。)
+* Shelter
+  * (n.) 收容所、避難所、遮蓋物
+    * `animal shelter` 專指流浪動物收容所。`take shelter` 指「躲避」。
+    * Many people volunteered at the animal shelter to help care for the abandoned pets. (許多人自願在動物收容所幫忙照顧被遺棄的寵物。)
+    * We took shelter under a large tree to avoid getting wet in the sudden rain. (我們在一棵大樹下避雨，以免在突如其來的雨中淋濕。)
+  * (v.) 庇護、掩護
+    * 常見用法為 `shelter sb from N`。
+    * The structure shelters them from the wind. (這結構替他們遮蔽風勢。)
+* Crowded (adj.) 擁擠的、擠滿人的
+  * 常見用法為 `be crowded with` (擠滿了...)。名詞形為 `crowd` (人群)。
+  * The shopping mall was extraordinarily crowded during the anniversary sale. (週年慶特賣期間，購物中心非比尋常地擁擠。)
+  * Because the animal shelter is very crowded, the staff are working tirelessly to find new homes for the dogs. (因為動物收容所非常擁擠，工作人員正不懈努力地為狗狗們尋找新家。)
+  * The subway in Taipei is always crowded during rush hour, so Alana prefers to walk closely with Joseph. (台北的捷運在尖峰時段總是很擁擠，所以 Alana 偏好緊緊地跟著 Joseph 一起走。)
+* Preferable (adj.) 更可取的、更合適的、更好的
+  * 動詞形為 `prefer`。常見用法為 `be preferable to N/V-ing` (比...更好、更合適)。
+  * I can meet any day next week, but Monday is preferable. (下週哪一天都能見面，但星期一最好。)
+  * For many people, living in a quiet countryside is preferable to staying in a noisy city. (對許多人來說，住在安靜的鄉下比待在吵鬧的城市更合適。)
+  * A diplomatic solution is preferable to war. (外交途徑當然要比戰爭好。)
+* Purchase (v./n.) 購買、採購；購買物
+  * 比 `buy` 正式。作為名詞時，指「購買的動作」或「買下來的東西」。
+  * The company decided to purchase the new equipment to improve the overall quality of their products. (公司決定採購新設備以改善產品的整體品質。)
+  * Customers are advised to keep their receipts in case they want to return a purchase. (建議顧客保留收據，以防他們想要退回購買的商品。)
+  * John's most precious purchase was the little treat he bought for Alana after work. (John 最珍貴的採購，就是他下班後為 Alana 買的那份小點心。)
+* Advertisement (n.) 廣告、啟事
+  * 常縮寫為 `ad`。
+  * Companies spend millions of dollars on television advertisements during the Super Bowl. (公司在超級盃期間花費數百萬美元在電視廣告上。)
+  * Some people install software that blocks unwanted <mark style="color:blue;">**pop-up advertisements**</mark>. (有些人安裝軟體來阻擋不想要的彈出式廣告)。
+* Otherwise
+  * (adv.) 否則
+    * 相當於 `if not`，用於引導如果不做某事會發生的後果。
+    * Hurry up, otherwise you'll miss the train. (快點，不然你會錯過火車。)
+    * I need to run, otherwise I'll be late. (我得跑了，否則會遲到。)
+  * (adv.) 除此之外、在其他方面
+    * 相當於 `except for that`，指與之前提到的相反或不同。<mark style="color:blue;">**`an otherwise + 正面/中性形容詞 + N`**</mark> 表「除了某個已知的負面、特定因素外，整體情況其實是...的」。
+    * The food was a bit salty, but otherwise, the dinner was extraordinarily delicious. (食物有一點點鹹，但除此之外，那頓晚餐非比尋常地好吃。)
+    * He has a cold, but otherwise, he is fine. (他感冒了，但除此之外，人沒事。)
+    * The coffee spill was the only accident in an otherwise perfect morning. (咖啡灑出來是這原本完美的早晨中唯一的意外。)
+    * A few typos were the only flaws in an otherwise brilliant essay. (幾處打字錯誤是這篇原本才華橫溢的文章中唯一的瑕疵。)
+  * (adv.) 不同地、相反地
+    * 相當於 `differently`, `in another way`，指出與所說的內容相反。
+    * Tell me if you think otherwise. (如果你持不同意見，請告訴我。)
+    * The report suggested otherwise. (報告暗示了不同的情況/事實並非如此。)
+* Regardless (adv.) 無論如何、不顧
+  * 常見用法為 `regardless of + N` (不管...、不論...)。
+  * The project was finished regardless. (不顧一切地，計劃還是完成了。)
+  * The club welcomes all members, regardless of their age or background. (該俱樂部歡迎所有成員，不論其年齡或背景。)
+  * Regardless of what you think, I will do it. (不管你怎麼想，我都會做。)
+* Discard (v.) 丟棄、拋棄
+  * 指扔掉不再需要或沒用的東西。
+  * Please make sure to pick up and discard your trash in the proper bins. (請務必撿起垃圾並將其丟棄在合適的垃圾桶中。)
+  * The old computer was discarded after it stopped working completely. (這台舊電腦在完全停止運作後被丟棄了。)
+* Poop (n./v.) 糞便、大便
+  * 較非正式但禮貌的說法，常用於寵物或小孩。
+  * A responsible pet owner must always carry plastic bags to pick up their dog's poop. (負責任的寵物主人必須隨身攜帶塑膠袋來撿拾他們狗狗的糞便。)
+  * My cat always poops right after I finish cleaning the litter box. (我的貓總是在我清完貓砂盆後馬上大便。)
+* Aware (adj.) 意識到的、察覺到的、知道的
+  * 常用結構為 `be aware of sth` 或 `be aware that...`。
+  * We must be fully aware of the financial obligations before deciding to adopt a large dog. (在決定領養大型犬之前，我們必須充分意識到財務上的義務。)
+  * Are you aware that the library closes at 9 p.m. on Fridays? (你知道圖書館週五晚上九點關門嗎？)
+* Consume (v.) 消耗、消費；吃、喝
+  * 常搭配能源 (`electricity`)、資源 (`time`, `money`) 或食物。`be consumed with N` (充滿...、被…淹沒，如憤怒、嫉妒等負面情緒)。
+  * 在[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-dan-zi-zheng-li)曾介紹過。
+  * Most of our time is consumed by work and study, leaving little room for leisure. (我們大部分的時間都被工作和學習消耗掉了，幾乎沒有休閒的空間。)
+  * The project will consume a lot of time and money. (這個專案將會消耗大量的時間和金錢。)
+  * He was consumed with jealousy. (他心裡滿是嫉妒。)
+* Obligation (n.) 義務、責任
+  * 動詞形為 `oblige` (迫使、使負義務)。常用於描述法律或道德上的約束。
+  * Parents have an obligation to ensure their children are educated. (家長有義務確保孩子受教育。)
+  * We have a moral obligation to protect the environment for future generations. (我們有道德義務為後代保護環境。)
+* Pleasure (n.) 榮幸；愉快、樂趣
+  * 常用於回應他人的感謝 (`My pleasure`) 或表達做某事的感受 (`It's a/my pleasure to VR`)。
+  * I travel for pleasure, not for work. (我旅行是為了消遣，不是為了工作。)
+  * She finds great pleasure in reading books and listening to music during her free time. (她發現在閒暇時間讀書和聽音樂有很大的樂趣。)
+  * It is my pleasure to help. (我很樂意幫忙。)
+
+</details>
+
+<details>
+
+<summary>作文百句 34 片語整理</summary>
+
+## 片語
+
+* In fact 事實上、其實
+  * `in fact` 主要有以下兩個功能。
+    1. 用來補充更多細節，強化前言，表「不僅如此，事實上更...」。
+       * The exam was not just difficult. In fact, it was the hardest test I have ever taken. (這場考試不只是難。事實上，這是我參加過最難的一次考試。)
+       * Alana is very smart. In fact, she has a near-perfect score in every subject. (Alana 非常聰明。事實上，她每一科都拿了近乎滿分的成績。)
+    2. 用來指出事實與表象，以反駁或修正前言。
+       * Many people think rabbits love carrots, but in fact, eating too many carrots can make them sick. (很多人以為兔子愛吃紅蘿蔔，但事實上，吃太多紅蘿蔔會讓牠們生病。)
+       * I thought the test was easy. In fact, it was very difficult. (我以為考試很簡單。其實，它非常難。)
+* Be preferable to N/V-ing 比...更好、更合適
+  * For many students, a constant effort in daily study is preferable to cramming all night before the final exam. (對許多學生來說，日常持續的努力比在期末考前通宵死記硬背更好。)
+* In many ways 在許多方面
+  * 常放在段落開頭或句首，用來銜接後續要列舉的多個理由。
+  * In many ways, the project was a success, despite the financial challenges we faced. (在許多方面，儘管我們面臨財務挑戰，該專案仍是成功的。)
+  * In many ways, Candy is more like a guardian angel than just a girlfriend to Steven. (在許多方面，對 Steven 來說，Candy 與其說是女朋友，更像是一位守護天使。)
+* Regardless of N/V-ing 不管...、不論...
+  * 常用於描述原則或規定。
+  * The company provides equal opportunities to all applicants, regardless of their background or previous experience. (公司為所有應徵者提供平等機會，不論其背景或過往經驗。)
+* Feel up to N/V-ing 覺得有精力、體力去做...
+  * 常用於<mark style="color:blue;">**否定句**</mark>，表示因為疲倦或心情低落而不想或沒體力做某事。
+  * Do you feel up to a walk? (你有體力去散步嗎？)
+  * She didn't feel up to going to the party tonight because she was very tired from the mid-term exams. (她今晚不想去參加聚會，因為期中考讓她感到非常地疲累。)
+* Make it a rule to VR 規定自己要做...、習慣於...
+  * Yusuf makes it a rule to review Alana's English notes before going to bed, which makes Alana very proud. (Yusuf 規定自己睡前要複習 Alana 的英文筆記，這讓 Alana 感到非常自豪。)
+* Take 人/寵物 out for a walk 帶...出去散步
+  * 適用於帶寵物、小孩出去散步、呼吸新鮮空氣，強調帶離室內或原有環境。
+  * I'm going to take the dog out for a walk. (我待會要帶狗出去散步。)
+  * It's a beautiful sunny day; why don't we take the children out for a walk in the park? (今天陽光燦爛，我們為什麼不帶孩子們去公園走走呢？)
+* At least 至少
+  * 最低限度，有可能更多。
+  * You should spend at least thirty minutes exercising every day. (你每天應該至少花三十分鐘運動。)
+  * At least ten dogs were adopted from the shelter this morning. (今天早上至少有十隻狗從收容所被領養。)
+
+{% hint style="info" %}
+#### 相似用法的片語
+
+* at most 最多
+  * 最高限度，有可能更少。
+  * The repair work will take at most three days to complete. (維修工作最多需要三天就能完成。)
+  * The room can accommodate at most fifty people due to safety rules. (基於安全規定，這間房間最多只能容納五十人。)
+* at best 充其量、在最好的情況下
+  * 通常暗示其實沒那麼好。
+  * The old car's engine is, at best, unreliable. (這輛舊車的引擎充其量只能說是不太可靠。)
+  * Without further training, he will be an average player at best. (如果沒有進一步訓練，他充其量只能成為一名普通的球員。)
+* at worst 最壞的情況下
+  * 用於預測最糟的結果。
+  * At worst, we will have to call it quits and start over again. (最壞的情況下，我們必須放棄並重新開始。)
+  * At worst, the injury will keep you away from the court for a month. (最壞的情況下，這次受傷會讓你在一個月內無法上場。)
+{% endhint %}
+
+* Be aware that... / Be aware of N 意識到...、察覺到...
+  * Citizens should be aware that their actions have a significant impact on the environment and the planet's future. (公民應該意識到他們的行為對環境與地球的未來有重大影響。)
+  * He is not aware of the coming danger. (他不知道即將到來的危險。)
+
+</details>
+
+<details>
+
+<summary>作文百句 34 文法整理</summary>
+
+## 文法
+
+* `Given N/V-ing, S + V` 考量到...、鑒於...
+  * 也可以寫 `Given that + S + V, S + V`。
+  * 雖然理論上逗號後的主詞應該與前面相同，才不會產生[懸空分詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-wen-fa-zheng-li)的情況，但此句型已被視為一個固定的慣用語，故<mark style="color:blue;">**不強制要求主詞一致**</mark>。
+  * Given his lack of experience, he did an extraordinarily good job. (考慮到他缺乏經驗，他做得非比尋常地出色。)
+  * Given that it's a holiday today, the pet store might be very crowded. (考慮到今天是假日，寵物店可能會非常擁擠。)
+  * Given the current financial obligation, we should rethink our plan to adopt a second dog. (考慮到目前的財務義務，我們應該重新考慮領養第二隻狗的計畫。)
+* 次數與頻率的表達
+  * 結構為`次數 + 時間單位`，表「每隔一段時間發生幾次」。
+  * 當次數為 1 時，用 `once`；次數為 2 時，用 `twice`；次數為 3 以上時，用`數字 + times` (如 `three times`, `four times`, ...)。
+  * 時間單位如 `an hour`, `a day`, `a week`, `a month`, `a year`。
+  * You must brush its fur at least twice a week to keep it shiny. (你必須每週至少幫牠梳兩次毛，以保持光澤。)
+  * I make it a rule to review Alana's notes three times a day. (我規定自己每天要複習 Alana 的筆記三次。)
+
+</details>
+
+<details>
+
+<summary>作文百句 34 補充資料</summary>
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Abandon (v.) 遺棄；放棄、中止
+  * The heartless owner decided to abandon the sick dog on the side of a busy highway. (那位狠心的主人決定將生病的狗遺棄在繁忙的公路邊。)
+  * We had to abandon our hiking trip because of the heavy rain. (因為雨勢太大，我們不得不中止健行之旅。)
+  * She abandoned her dream of becoming a singer. (她放棄了成為歌手的夢想。)
+* Fulfill (v.) 履行、實現；使滿意、滿足
+  * 指完成任務、達成願望或履行法定義務。常見用法如 `fulfill an obligation` (履行義務), `fulfill a promise` (履行諾言), `fulfill a dream` (實現夢想), `fulfill a requirement` (滿足要求)。
+  * By paying for the medical bills, the owner fulfilled his financial obligation to his pet. (透過支付醫療費用，主人履行了對其寵物的財務義務。)
+  * He worked tirelessly for years to fulfill his lifelong dream of becoming a professional dancer. (他不懈努力多年，以實現他成為專業舞者的終身夢想。)
+  * The new product failed to fulfill the customers' high expectations. (這款新產品未能滿足顧客的高期望。)
+* Shoulder (v.) 肩負、承擔
+  * 常用於抽象概念，表示自願或被迫承擔起沉重的負擔、責任或開支。常見用法如 `shoulder the blame/responsibility` (承擔責備/責任)、`shoulder the cost` (負擔費用)。
+  * As a pet owner, you must be prepared to shoulder the responsibility of caring for a living creature. (作為飼主，你必須準備好承擔照顧一個生命的責任。)
+  * The young manager had to shoulder the responsibility for the failure of the entire project. (那位年輕的經理不得不為整個專案的失敗承擔責任。)
+  * Governments should shoulder the cost of providing clean water to all citizens. (政府應該負擔為所有公民提供乾淨飲水的費用。)
+* Lifelong commitment (n. phr.) 終身的承諾、一輩子的責任
+  * 強調這是一段不會因為時間、環境或心情改變而終止的嚴肅關係。後面可接 `to N/V-ing` 表承諾的對象。
+  * Marriage is considered a lifelong commitment by many cultures around the world. (世界上的許多文化都將婚姻視為一種終身的承諾。)
+  * She showed a lifelong commitment to protecting endangered species in the wild. (她展現了對保護野生瀕危物種的終身奉獻。)
+* Unconditional love (n. phr.) 無條件的愛
+  * 指一種不求回報、不設前提的極致情感，常用於描述寵物、父母或深厚的情誼。
+  * 也可以寫成 `love someone unconditionally`。
+  * Dogs are often called man's best friend because of the unconditional love they provide. (狗常被稱為人類最好的朋友，因為牠們提供無條件的愛。)
+  * A mother's unconditional love helps a child grow up with confidence and security. (母親無條件的愛能幫助孩子在自信與安全感中成長。)
+* <mark style="color:blue;">**Adopt, don't shop**</mark> 領養代替購買
+  * 這是動保界的核心口號。
+  * We should promote the slogan "Adopt, don't shop" to help clear out the crowded animal shelters. (我們應該推廣「領養代替購買」的口號，以幫助清空擁擠的動物收容所。)
+  * The "Adopt, don't shop" movement has saved thousands of abandoned pets from being euthanized. (「領養代替購買」運動已經從安樂死中拯救了數千隻被遺棄的寵物。)
+  * Instead of buying a purebred dog, he chose to adopt, don't shop and found a loyal companion at the shelter. (他沒有購買純種犬，而是選擇領養代替購買，並在收容所找到了一個忠誠的伴侶。)
+
+</details>
+
 ## 35.
 
 1. I've always dreamed of becoming a <mark style="color:blue;">**pastry chef**</mark>. I have had a <mark style="color:blue;">**sweet tooth**</mark> since I was a child. I enjoy eating all sorts of desserts after almost every meal. To me, a meal is <mark style="color:blue;">**not complete**</mark> if it doesn't <mark style="color:blue;">**end with**</mark> apple pie or cheesecake. Whenever I pass by a <mark style="color:blue;">**bakery**</mark>, I cannot <mark style="color:blue;">**resist**</mark> going in and picking up some sweet <mark style="color:blue;">**treats**</mark> to <mark style="color:blue;">**delight**</mark> my <mark style="color:blue;">**taste buds**</mark>. I really admire <mark style="color:blue;">**pastry chefs**</mark> for their creativity and <mark style="color:blue;">**ingenuity**</mark>.
 2. This is why I want to become a dessert <mark style="color:blue;">**chef**</mark>. What's more, <mark style="color:blue;">**pastry chefs**</mark> are very much <mark style="color:blue;">**in demand**</mark> everywhere nowadays, whether at <mark style="color:blue;">**bakeries**</mark>, restaurants, weddings, or even on <mark style="color:blue;">**cruise ships**</mark>. I joined a <mark style="color:blue;">**pastry cooking class**</mark> at my school this year. Every Wednesday evening after school, a retired <mark style="color:blue;">**chef**</mark> from a famous restaurant comes and teaches us how to make <mark style="color:blue;">**a variety of**</mark> fine desserts. In the beginning, he taught us a lot about food preparation like <mark style="color:blue;">**precise**</mark> <mark style="color:blue;">**measurements**</mark>, temperature control, and <mark style="color:blue;">**dough**</mark> rise times. In recent <mark style="color:blue;">**sessions**</mark>, he <mark style="color:blue;">**demonstrated**</mark> how to make <mark style="color:blue;">**pastry dough**</mark> <mark style="color:blue;">**from scratch**</mark> and had each of us prepare a <mark style="color:blue;">**batch**</mark>.
 3. Since gaining some <mark style="color:blue;">**practical**</mark> experience <mark style="color:blue;">**under his guidance**</mark>, I've begun to make some <mark style="color:blue;">**tarts**</mark> and cookies for my family and friends on weekends and have asked them to give me <mark style="color:blue;">**feedback**</mark>. I kept reminding myself to <mark style="color:blue;">**hone**</mark> my skills by <mark style="color:blue;">**constant**</mark> practice if I want to become a great <mark style="color:blue;">**chef**</mark>. In the future, perhaps, I may <mark style="color:blue;">**pursue a career**</mark> as a <mark style="color:blue;">**pastry chef**</mark> or keep it as a lifelong passion.
+
+<details>
+
+<summary>作文百句 35 單字整理</summary>
+
+## 單字
+
+* Pastry chef (n.) 點心主廚、甜點師
+  * 專指在餐廳、飯店或烘焙坊中負責製作蛋糕、派、餅乾等甜食的專業廚師。其中，`pastry` 表「麵點」、「甜點」。
+  * The pastry chef at the hotel creates beautiful cakes every single day. (飯店的甜點師每天都會創造出漂亮的蛋糕。)
+* Sweet tooth (n.) 愛吃甜食、對甜食的喜好
+  * 通常搭配 `have` 使用，例如 `have a sweet tooth`，表「愛吃甜食」**。**
+  * If you have a sweet tooth, you will definitely love the chocolate tarts at this bakery. (如果你愛吃甜食，你絕對會喜歡這間烘焙坊的巧克力塔。)
+  * He has a sweet tooth, so Alana always prepares a little dessert for him after dinner. (他愛吃甜食，所以 Alana 總是在晚餐後為他準備一點甜點。)
+* Dessert (n.) 甜點、甜食
+  * 請注意不要與 `desert` (沙漠；拋棄、遺棄、擅離 (職守、職務)) 搞混。
+  * The chocolate lava cake is the most popular dessert on the menu. (巧克力熔岩蛋糕是菜單上最受歡迎的甜點。)
+  * We decided to skip the main course and head straight for dessert. (我們決定跳過主餐，直接去吃甜點。)
+* Meal (n.) 一餐、膳食
+  * The hotel provides three healthy meals a day for all its guests. (飯店為所有賓客提供一日三餐健康的膳食。)
+  * Cooking a home-cooked meal requires time, but it is much healthier than eating out. (做一頓家常便飯需要時間，但比外食健康得多。)
+* Pie (n.) 派、餡餅
+  * `as easy as pie` 形容事情非常簡單，請注意這裡的 `pie` 前面沒有冠詞 `a`。
+  * Would you like a slice of pumpkin pie with some whipped cream on top? (你想來一塊上面加了鮮奶油的南瓜派嗎？)
+  * Solving these math problems is as easy as pie for Alana because she is very smart. (對 Alana 來說，解決這些數學題簡直易如反掌，因為她非常聰明。)
+* Cheesecake (n.) 芝士蛋糕、乳酪蛋糕
+  * This New York-style cheesecake is rich, creamy, and delicious. (這款紐約風格的芝士蛋糕濃郁、滑順且美味。)
+  * I prefer cheesecake to sponge cake because of its dense and smooth texture. (比起海綿蛋糕，我更喜歡芝士蛋糕，因為它口感綿密滑順。)
+* Bakery (n.) 烘焙坊、麵包店
+  * 指製作並販售麵包、蛋糕及各式甜點的場所。
+  * The delicious aroma of freshly baked bread always draws people into the bakery. (現烤麵包的誘人香氣總是吸引人們走進這家烘焙坊。)
+  * There is a small family-owned bakery on the corner that sells the best croissants. (街角有一家小型的家族經營烘焙坊，販售最好的可頌麵包。)
+* Resist (v.) 抵擋、抗拒、忍住
+  * 指努力不讓自己受到誘惑、影響或攻擊。常見用法為 `resist N/V-ing`。
+  * The soldiers were ordered to resist the enemy attack until the reinforcements arrived. (士兵們受命抵擋敵人的進攻，直到增援部隊抵達。)
+  * I simply cannot resist buying sweet treats whenever I smell the scent of vanilla. (每當我聞到香草味，我就完全無法抗拒購買甜點的誘惑。)
+  * He tried to resist her teasing, but he eventually gave in to her charms. (他試圖抵擋她的捉弄，但最終還是屈服於她的魅力之下。)
+* Treat
+  * (n.) 招待、款待；點心
+    * `my treat` 表「我請客」。<mark style="color:blue;">**`Trick or treat!`**</mark> 表「不給糖就搗蛋」。
+    * After the long exam, the students deserved a special treat like a trip to the beach. (在漫長的考試後，學生們理應得到一份特殊的獎勵，比如去海邊旅行。)
+    * It’s my treat today, so feel free to order whatever you want from the menu. (今天我請客，所以儘管從菜單上點你想吃的東西吧。)
+    * My dog always gets a small treat after we finish our daily walk. (我的狗在我們完成每日散步後總是會得到一小塊點心。)
+  * (v.) 對待
+    * 常見用法為 `treat sb with...` (以...的態度對待...)、`treat A as B` (把 A 當作 B)。
+    * He treated his wife very badly. (他對妻子很不好。)
+    * I always try to treat everyone with kindness. (我總是試著善良地對待所有人。)
+    * Don't treat teenagers as kids. (不要把青少年當作小孩子看。)
+  * (v.) 招待、請客；犒賞
+    * 常見用法為 `treat sb (to N)`，表「招待... (去.../吃...)」。
+    * You don't need to worry. I'll treat you. (別擔心，我請你。)
+    * I want to treat you to dinner. (我想請你吃晚餐。)
+    * He treated his wife to a movie. (他請妻子去看電影。)
+    * I'm going to treat myself to a new pair of shoes. (我要給自己買雙新涼鞋做為犒賞。)
+  * (v.) 治療
+    * 常見用法為 `treat + 疾病/病人`。
+    * She is being treated for a bad cold. (她正為嚴重感冒接受治療。)
+    * The disease is easier to treat if detected in the early stages. (若早期發現，這個疾病較容易治療。)
+* Delight
+  * (v.) 使愉悅、欣喜
+    * 常見用法為 `delight sb`。
+    * The magician's performance delighted the audience, especially the young children in the front row. (魔術師的表演讓觀眾很開心，特別是前排的小朋友們。)
+    * The news that we were going to the beach for our vacation brought delight to everyone in the family. (我們要去海邊度假的消息給家裡的每個人都帶來了驚喜。)
+  * (n.) 愉悅、欣喜
+    * 常見用法為 `to one's delight` (令某人欣喜的是), `take delight in N/V-ing` (以...為樂)。
+    * To the teacher's great delight, all of the students passed the difficult final exam. (令老師大為欣喜的是，所有的學生都通過了那場困難的期末考。)
+    * She takes delight in her work. (她很喜愛她的工作。)
+    * The media has taken delight in reporting every detail of the crisis. (媒體熱衷於報導危機的每個細節。)
+* Taste bud (n.) 味蕾
+  * 通常以複數形式 <mark style="color:blue;">**`taste buds`**</mark> 出現。
+  * Spicy food can sometimes overwhelm your taste buds, making it hard to appreciate the subtle flavors of a dish. (辛辣的食物有時會刺激你的味蕾，讓人難以品味菜餚中細膩的味道。)
+  * The chef prepared a special sauce designed to awaken the diners' taste buds. (主廚準備了一種特製醬汁，旨在喚醒食客們的味蕾。)
+* Admire (v.) 欽佩、仰慕、欣賞
+  * 常見用法為 `admire sb for sth` (因某事而欽佩某人)。
+  * She spent hours standing in front of the masterpiece, admiring the artist's attention to detail. (她在那幅傑作前站了好幾個小時，欣賞藝術家對細節的專注。)
+  * The bride wore a stunning white dress that everyone admired as she walked down the aisle. (新娘穿著一件令人驚嘆的白紗，當她走過紅毯時，每個人都讚不絕口。)
+  * I really admire Alana for her indomitable spirit when facing such a heavy study load. (我真的很欽佩 Alana 在面對如此沉重的學習負擔時所展現出的不屈不撓精神。)
+  * You should admire yourself for how far you have come in your English learning journey. (你應該為你在英文學習旅程中所取得的成就而感到自豪。)
+* Nowadays (adv.) 現今、現時、當今
+  * Nowadays, more and more people are choosing to work from home to save time on commuting. (現今，越來越多的人選擇居家辦公，以節省通勤時間。)
+  * It is difficult to find a quiet place in the city nowadays because of the constant construction. (現今在城市裡很難找到安靜的地方，因為到處都在施工。)
+* Wedding (n.) 婚禮
+  * 常見搭配有 `wedding ceremony` (婚禮儀式), `wedding reception` (婚禮宴會), `wedding anniversary` (結婚紀念日)。
+  * We were invited to a beautiful outdoor wedding held in a botanical garden last Sunday. (上週日，我們受邀參加了一場在植物園舉行的美麗戶外婚禮。)
+  * To Alana, the most important thing at a wedding is the unconditional love shared between the couple. (對 Alana 來說，婚禮上最重要的事情是新人之間共享的無條件的愛。)
+* Cruise ship (n.) 郵輪、遊輪
+  * 動詞 `cruise` 表「巡航」、「緩慢前行」。
+  * The cruise ship provides a wide range of entertainment, including theaters, swimming pools, and fancy restaurants. (這艘郵輪提供各式各樣的娛樂，包括戲院、游泳池和高級餐廳。)
+  * The massive cruise ship slowly entered the harbor as the sun began to set. (當夕陽西下時，巨大的郵輪緩緩進入港口。)
+* Retired (adj.) 退休的
+  * 動詞形為 `retire`。
+  * The retired professor continues to share his knowledge by writing books and giving free lectures. (那位退休教授繼續透過寫書和提供免費講座來分享他的知識。)
+  * After he retired from the military, he decided to open a small bakery in his hometown. (他從軍隊退休後，決定在故鄉開一家小烘焙坊。)
+* Famous (adj.) 著名的、出名的
+  * 常見用法為 `be famous for N` (因...而著名), `be famous as N` (以...的身分而聞名)。兩者意思不同，請留意。
+  * The small town is famous for its extraordinarily delicious apple pies and friendly people. (這個小鎮因其非比尋常地美味的蘋果派和友善的人民而聞名。)
+  * The actor became famous as a hero in several action movies before he retired. (那位演員在退休前因在幾部動作片中飾演英雄而聞名。)
+* Restaurant (n.) 餐廳、飯館
+  * We celebrated our Valentine's Day at a fancy French restaurant overlooking the city. (我們在一家可以俯瞰城市景致的高級法國餐廳慶祝我們的情人節。)
+* Variety (n.) 多樣性、變化、種類
+  * 常見用法為 `a variety of N` (各種各樣的...)。
+  * <mark style="color:blue;">**Variety is the spice of life.**</mark> (變化是生活的調味料。)
+  * The buffet offers a wide variety of desserts, ranging from cheesecakes to fresh fruit tarts. (自助餐提供各式各樣的甜點，從芝士蛋糕到新鮮水果塔應有盡有。)
+* Fine (adj.) 精緻的、優質的、細緻的；天氣晴朗；身體很好、情況很好
+  * The museum displays a collection of fine jewelry from the 18th century. (這間博物館展示了一系列 18 世紀的精緻珠寶。)
+  * We had a fine dining experience at the Michelin-starred restaurant last night. (我們昨晚在米其林星級餐廳有一場優質的用餐體驗。)
+  * The pastry chef uses a fine sieve to ensure the flour is perfectly smooth for the cake. (甜點師使用細篩網以確保製作蛋糕的麵粉完全平滑。)
+  * It is a fine day. (天氣很好。)
+  * I am fine, thank you. (我很好，謝謝。)
+* Preparation (n.) 準備、預備、製備
+  * 動詞形為 `prepare`。常見用法為 `in preparation for N` (為...做準備)。
+  * Careful preparation is the key to success when you are taking a difficult exam. (當你參加一場困難的考試時，細心的準備是成功的關鍵。)
+  * In preparation for the wedding, the couple decorated the entire garden with white roses. (為了幫婚禮做準備，這對新人用白玫瑰裝飾了整個花園。)
+* Precise (adj.) 精確的、準確的；嚴謹的
+  * 強調數字、時間或描述的極度準確，沒有絲毫偏差。
+  * Baking requires precise measurements of ingredients, otherwise the cake will not rise properly. (烘焙需要精確的食材測量，否則蛋糕不會正常膨脹。)
+  * The scientist provided a precise description of the chemical reaction in the report. (科學家在報告中提供了該化學反應的精確描述。)
+  * It is important to be precise when you are explaining a complex grammar rule to someone. (當你向某人解釋複雜的文法規則時，準確是很重要的。)
+* Measurement (n.) 測量、尺寸、分量
+  * 可以用來指測量的行為，也可以指測量出來的數據。動詞形為 `measure`。
+  * Accurate measurement is crucial in science. (精確的測量在科學中至關重要。)
+  * The imperial system of measurement is still used. (英制測量系統仍在使用。)
+  * According to the measurements provided in the recipe, we need exactly 200 grams of butter. (根據食譜中提供的分量，我們正好需要 200 克的奶油。)
+* Temperature (n.) 溫度、體溫、氣溫
+  * `room temperature` 表「室溫」、`body temperature` 表「體溫」。
+  * It is very important to keep the dough at room temperature so that it can rise properly. (將麵團保持在室溫下是非常重要的，這樣它才能正常發酵。)
+  * She is running a high temperature. (她正在發高燒。)
+* Dough (n.) 麵團、生麵糰
+  * 指麵粉、水和其他食材混合後，具有黏性且可塑形的半固體狀物。
+  * She spent the entire morning kneading the bread dough by hand to make it smooth. (她花了整個早上親手揉麵包麵團，好讓它變得滑順。)
+  * Make sure to cover the pastry dough with a damp cloth to prevent it from drying out. (務必用濕布蓋住酥皮麵團，防止其變乾。)
+* Recent (adj.) 最近的、近期的
+  * Due to recent changes in the market, the local bakery decided to adjust its prices. (由於近期市場的變化，當地的烘焙坊決定調整價格。)
+  * Have you seen any of the recent movies starring that famous retired actor? (你看過那位著名退休演員最近演的任何電影嗎？)
+* Session (n.) 一段時間、場、節、會議
+  * `in session` 表「開會中」、「上課中」。
+  * We need a few more sessions talking about this issue. (我們需要一些時間來討論這個問題。)
+  * After a long <mark style="color:blue;">**study session**</mark>, Alana decided to enjoy some apple pie as a treat. (在一場長時間的學習後，Alana 決定吃點蘋果派作為犒賞。)
+  * Access is restricted when school is in session. (學校上課時間是不能隨便進入的。)
+* Scratch
+  * (n.) 抓痕、刮痕、擦傷
+    * There is a deep scratch on the screen. (螢幕上有條深劃痕。)
+    * I only got a few minor scratches. (我只受了點輕微擦傷。)
+  * (v.) 抓、刮、擦傷
+    * She scratched her itchy arm. (她抓了抓發癢的手臂。)
+    * I scratched my car on the fence. (我把車子在圍欄上刮傷了。)
+    * He scratched himself when he fell. (他摔倒時擦傷了自己。)
+* Batch (n.) 一批、一爐
+  * 指在同一時間產出、處理或製造的一組事物。常見用法為 `a batch of + 可數名詞`。
+  * The factory produces a new batch of these high-quality baking tools every month. (工廠每個月都會生產一批這種高品質的烘焙工具。)
+  * We processed the applications in two batches. (我們分兩批處理這些申請。)
+  * The first batch of freshly baked croissants was sold out within only ten minutes. (第一批現烤的可頌麵包在短短十分鐘內就售罄了。)
+* Gain (v./n.) 獲得、增加、贏得
+  * Since gaining some practical experience under the chef's guidance, Sam has become much more confident in the kitchen. (自從在主廚的指導下獲得一些實務經驗後，Sam 在廚房裡變得更有自信了。)
+  * The company gained a large number of new customers after launching their recent advertisement. (公司在發布最近的廣告後獲得了大量新客戶。)
+  * There is no gain without some struggle, just like there is no fine dessert without Alana's hard work. (沒有奮鬥就沒有收穫，就像沒有 Alana 的努力就沒有精緻甜點一樣。)
+* Tart
+  * (n.) 塔、甜餡餅
+    * 一種外皮通常是塔皮，內餡外露的烘焙食品，可甜可鹹，例如 `fruit tart` (水果塔)、`lemon tart` (檸檬塔)、`jam tart` (果醬塔)。
+    * I've begun to make some strawberry tarts and lemon cookies for my family and friends on weekends. (我開始在週末為家人和朋友做一些草莓塔和檸檬餅乾。)
+  * (adj.) 酸的、尖刻的
+    * 形容味道酸，或言語尖酸刻薄。
+    * The green apples we picked yesterday have a very tart flavor, making them perfect for baking. (我們昨天採的青蘋果味道很酸，非常適合用來烘焙。)
+    * She gave him a tart reply when he asked a silly question during the pastry cooking class. (當他在點心烹飪課上問了一個愚蠢的問題時，她給了他一個尖刻的回覆。)
+* Feedback (n.) 回饋、意見、反應
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。常見搭配為 `give/provide feedback`。
+  * After serving the apple pie, I asked my friends to give me feedback so that I could improve my skills. (端上蘋果派後，我請朋友們給我回饋，以便我提升技巧。)
+  * Constructive feedback from teachers is crucial for students who want to hone their writing skills. (老師提供的建設性意見對於想要磨練寫作技巧的學生來說至關重要。)
+* Remind (v.) 提醒、使想起
+  * 常見用法為 `remind sb to VR` (提醒某人去做某事)、`remind sb of sth/sb` (使某人想起某事/某人)。
+  * Please remind me to purchase some eggs and flour at the bakery on my way home. (請提醒我在回家的路上在烘焙坊買些雞蛋和麵粉。)
+  * This old song always reminds Candy of the first time she met her boyfriend in the library. (這首老歌總是讓 Candy 想起她第一次在圖書館遇見男朋友的時候。)
+  * She reminded me that I had a doctor's appointment. (她提醒我我有預約醫生。)
+* Hone (v.) 磨礪、磨練、提升 (技能)
+  * 原意指在磨刀石上磨利工具。現常用於描述透過長期練習來提升某項技術。
+  * He used a whetstone to hone the edge of his knife. (他用磨刀石磨刀刃。)
+  * Her debating skills were honed in the students' union. (她的辯論技巧是在學生會裡磨練出來的。)
+  * The young athlete spent hours every day honing his movements on the field. (那位年輕運動員每天花好幾個小時在場上磨練他的動作。)
+* Constant
+  * (adj.) 不斷的、持續的、恆定的
+    * To become a master in any field, one needs to put in constant effort and never give up. (要在任何領域成為大師，都需要投入不斷的努力且絕不放棄。)
+    * The constant noise from the construction site made it extraordinarily difficult for me to focus on my study. (建築工地不斷傳來的噪音讓我非比尋常地難以專注於學習。)
+    * The temperature in the oven must be kept at a constant level to ensure the dough rises perfectly. (烤箱內的溫度必須保持在恆定水準，以確保麵團完美發酵。)
+  * (n.) 常數
+    * 指在自然界或計算中，數值固定的量，與 `variable` (變數) 相對。
+    * In the ideal gas equation, R is a constant, while P, V, n, and T are variables. (在理想氣體方程中，R 是常數，而 P, V, n 和 T 是變數。)
+    * The speed of light is a physical constant. (光速是一個物理常數。)
+
+</details>
+
+<details>
+
+<summary>作文百句 35 片語整理</summary>
+
+## 片語
+
+* End with sth 以某事物結束
+  * The long and tiring graduation ceremony finally ended with a beautiful song performed by the choir. (漫長且累人的畢業典禮最後以合唱團演唱的一首優美歌曲結束。)
+* Pass by 經過、路過、短暫拜訪
+  * 通常指從旁邊走過、開車經過且沒有停留，或者是順道拜訪。
+  * A luxury red sports car just passed by our house, attracting everyone's attention. (一輛豪華的紅色跑車剛剛經過我們家，吸引了所有人的注意。)
+  * I'll pass by your office later to pick up the documents. (我稍後會順道去你辦公室拿文件。)
+* Resist N/V-ing 抵擋...、抗拒...
+  * I can't resist the temptation of chocolate. (我無法抗拒巧克力的誘惑。)
+  * Even though he was on a diet, he could not resist buying a large bottle of soda. (儘管他在節食，他還是忍不住買了一大瓶汽水。)
+* In demand 有需求的、受歡迎的
+  * Experts in artificial intelligence are in demand in the tech industry nowadays. (現今，人工智慧專家在科技產業中非常有需求。)
+  * Fresh organic vegetables are always in demand at the local farmers' market on weekends. (新鮮的有機蔬菜在週末的當地農民市場總是很受歡迎。)
+* From scratch 從零開始、從頭開始」、白手起家
+  * 指不依賴任何現成的基礎或半成品，從最初始的階段或原料開始進行。
+  * The engineer decided to build the entire software system from scratch to ensure its security. (工程師決定從零開始建構整個軟體系統，以確保其安全性。)
+  * My sister learned how to bake delicious chocolate cookies from scratch by watching online tutorials. (我妹妹透過看網路教學，學會了如何從零開始烘焙美味的巧克力餅乾。)
+  * He decided to build his own high-performance computer from scratch using individual parts. (他決定使用個別零件，從零開始組裝自己的高效能電腦。)
+* Under one's guidance 在某人的指導下
+  * 強調在導師、專家或長輩的引領與建議下進行學習或工作。
+  * Under the guidance of the professor, the students completed their research project successfully. (在教授的指導下，學生們成功完成了他們的研擬計畫。)
+  * The young pianist improved her skills significantly under the guidance of her master. (那位年輕鋼琴家在老師的指導下，技巧有了顯著的提升。)
+* Keep V-ing 持續做某事、不斷做某事
+  * You should keep practicing English every day if you want to hone your speaking skills. (如果你想磨練口說技巧，你應該每天持續練習英文。)
+  * The small bird kept chirping outside my window until the sun went down. (那隻小鳥在我的窗外一直叫，直到太陽下山。)
+* Hone one's skills 磨練、精進技能
+  * 常用於職業或藝術領域，指透過長時間的練習使技能變得更專業。
+  * The athlete spent the entire summer honing his basketball skills for the upcoming season. (那位運動員花了整個夏天磨練籃球技巧，為了即將到來的賽季做準備。)
+  * It takes years of constant practice to hone your creativity and become a great artist. (需要多年的不斷練習才能磨練創造力，並成為一名偉大的藝術家。)
+* Pursue a career as + 職業 追求...的職業、以...為專業
+  * Many students choose to pursue a career as a lawyer because they want to help people seek justice. (許多學生選擇從事律師職業，因為他們想幫助人們尋求正義。)
+  * After retiring from the army, he decided to pursue a career as a high school teacher. (從軍隊退休後，他決定從事高中老師的職業。)
+
+</details>
+
+<details>
+
+<summary>作文百句 35 文法整理</summary>
+
+## 文法
+
+* 雙重否定、否定條件
+  * 原文 `a meal is not complete if it doesn't end with apple pie or cheesecake` 使用雙重否定的結構，比單純說 `I like apple pie or cheesecake after meals` 更有語氣上的強調感。
+  * A wedding is not perfect if it doesn't have a beautiful, multi-layered cake. (如果沒有一個漂亮的、多層的蛋糕，一場婚禮就不完美。)
+  * Your writing skills will not improve if you do not hone them through constant practice. (如果你不透過不斷的練習來磨練寫作技巧，你的技巧就不會進步。)
+  * The experiment will not yield precise results if the temperature is not kept constant. (如果溫度不保持恆定，實驗就不會產出精確的結果。)
+* 使役動詞 (make/have/let + O + VR)
+  * 強制性：<mark style="color:blue;">**`make`**</mark> (強迫、命令) > <mark style="color:blue;">**`have`**</mark> (要求、安排) > <mark style="color:blue;">**`let`**</mark> (允許、不阻止)。
+  * My mom made me clean my room. (媽媽命令我清房間。)
+  * The head chef had the assistants clean all the baking tools after the session. (主廚安排助理們在課程結束後清洗所有的烘焙工具。)
+  * My dad let me go to the party. (爸爸准許我去派對。)
+
+{% hint style="info" %}
+只有 `make`, `have`, `let` 有這種用法，其他如 `ask`, `get` 等字，須用 `ask/get + O + to VR`。
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 35 補充資料</summary>
+
+## 文章分析
+
+本文結構遵循「動機」→「過程」→「展望」。首段從童年對甜食的熱愛切入，運用具體的甜點名稱建立起視覺與味覺意象，吸引讀者的注意力。次段轉向現實面的觀察與具體的學習歷程，透過描寫退休主廚的示範細節，將這份夢想從「愛吃」提升到「專業技術」的層次，增加論述的厚度。最後一段則以「回饋」與「磨練」作為核心，平衡了理想與現實，展現出作者對於職業生涯的嚴謹態度。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Culinary (adj.) 烹飪的、廚房的、食物的
+  * `culinary arts` 表「烹飪藝術」，指精緻餐飲的製備與呈現技術。
+  * To be successful in the culinary world, one must possess not only talent but also extreme patience. (若想在烹飪界取得成功，一個人不僅必須具備天賦，還必須具備極大的耐心。)
+  * The local community college offers a wide variety of culinary courses for retired people. (當地的社區大學為退休人士提供各式各樣的烹飪課程。)
+* Ambition (n.) 雄心、抱負、志向
+  * 形容詞為 `ambitious` (有野心的、宏大的)。
+  * Her main ambition in life is to travel around the world and document a variety of food cultures. (她人生主要的志向是環遊世界並記錄各種飲食文化。)
+  * The project was quite ambitious, involving the construction of a bakery from scratch in just one month. (這個計畫非常宏大，涉及在短短一個月內從零開始建造一家烘焙坊。)
+* Constructive (adj.) 建設性的、有益的
+  * 常和 `feedback`, `suggestion`, `criticism` (批評) 等與意見相關的詞搭配。
+  * Instead of just complaining, please provide some constructive suggestions on how to improve the service. (請提供一些關於如何改進服務的建設性建議，而不僅僅是抱怨。)
+  * The two companies held a constructive meeting to discuss their future partnership. (兩家公司舉行了一場具建設性的會議，討論未來的合作關係。)
+* Dedication (n.) 奉獻、投入、熱誠
+  * 常見用法為 `dedication to sb/sth`。本單字也可以指建築物或作品的「落成典禮」或「獻詞」。
+  * The success of the bakery is a result of the owner's total dedication to high-quality ingredients. (這家烘焙坊的成功是老闆對高品質食材全然投入的結果。)
+  * It takes a great deal of dedication to get up early every morning and bake fresh bread from scratch. (每天早上早起並從零開始烘焙新鮮麵包需要極大的熱誠。)
+  * The dedication ceremony for the new culinary school attracted many famous guests from the industry. (新廚藝學校的落成典禮吸引了許多業界知名人士參加。)
+* Artisan
+  * (n.) 工匠、職人、手工藝人
+    * The young pastry chef considers himself an artisan rather than just a regular worker. (那位年輕甜點師認為自己是一位職人，而不僅僅是一名普通工人。)
+    * Each batch of chocolate tarts is handmade by a skilled artisan to ensure the best quality. (每一批巧克力塔都由技藝精湛的職人手工製作，以確保最佳品質。)
+  * (adj.) 手工製作的
+    * 指以傳統方式小規模生產、品質優良的產品 (如手工麵包、手工乳酪)。
+    * Nowadays, artisan bread is in high demand among customers who value traditional baking methods. (現今，手工麵包在重視傳統烘焙方式的顧客中非常有需求。)
+
+#### 台灣平民美食與小吃
+
+* Bubble tea / Pearl milk tea (n.) 珍珠奶茶
+  * 當指「珍珠奶茶」這種飲料時，為<mark style="color:blue;">**不可數名詞**</mark>；當指「一杯、兩杯」時，可寫 `a cup of ~` 或當可數名詞寫 `a bubble tea`。
+  * Nowadays, bubble tea has become a globally recognized symbol of Taiwanese culinary culture. (現今，珍珠奶茶已成為全球公認的台灣飲食文化象徵。)
+  * I ordered two bubble teas with half sugar and less ice to satisfy my sweet tooth. (我點了兩杯半糖少冰的珍珠奶茶來滿足我的甜食慾。)
+* Beef noodle soup (n.) 牛肉麵
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。若要表達碗數，可寫 `a bowl of ~`。
+  * Taiwanese beef noodle soup is famous for its rich broth and tender chunks of beef. (台灣牛肉麵以其濃郁的湯頭和軟嫩的牛肉塊而聞名。)
+  * My favorite restaurant serves a variety of beef noodle soups, ranging from spicy to braised flavors. (我最喜歡的餐廳提供各種口味的牛肉麵，從紅燒到清燉應有盡有。)
+* Stinky tofu (n.) 臭豆腐
+  * 雖然一盤裡面有很多塊，但通常視為一個整體的點心類別，為<mark style="color:blue;">**不可數名詞**</mark>。若要表達盤數/豆腐塊數，可寫 `a plate/piece of ~`。
+  * Despite its strong smell, stinky tofu is a treat that many locals enjoy. (儘管它的氣味強烈，臭豆腐仍是許多在地人喜愛的美味。)
+  * Most tourists cannot resist trying deep-fried stinky tofu when they visit a night market for the first time. (大多數遊客第一次逛夜市時，都無法抗拒嘗試炸臭豆腐的誘惑。)
+* Oyster omelet (n.) 蚵仔煎
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * The sweet and savory sauce is the key element that makes a Taiwanese oyster omelet so unique. (甜鹹交織的醬汁是讓台灣蚵仔煎如此獨特的關鍵要素。)
+  * We decided to share an oyster omelet and some pan-fried buns at the crowded food stall. (我們決定在擁擠的小吃攤分食一份蚵仔煎和一些生煎包。)
+* Braised pork rice (n.) 滷肉飯
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。若要表達碗數，可寫 `a bowl of ~`。
+  * A bowl of braised pork rice is a simple yet fulfilling meal that reminds many people of their childhood. (一碗滷肉飯是簡單卻充實的一餐，讓許多人想起童年。)
+  * You should try the braised pork rice at this bakery-turned-restaurant; its recipe is made from scratch. (你應該試試這家由烘焙坊轉型餐廳的滷肉飯；它的食譜是從零開始製作的。)
+* Braised pork belly bun / Gua bao (n.) 刈包、割包
+  * 為<mark style="color:blue;">**可數名詞**</mark>。常被外國人稱為「台式漢堡」(`Taiwanese hamburger`)。
+  * Gua bao is an artisan snack consisting of braised pork, pickled greens, and peanut powder inside a steamed bun. (割包是一款工匠級的小吃，在蒸饅頭裡夾著滷肉、酸菜和花生粉。)
+  * I have always dreamed of introducing traditional gua bao to my foreign friends on a cruise ship. (我一直夢想在郵輪上向外國朋友介紹傳統的割包。)
+* Fried chicken fillet (n.) 炸雞排
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`fillet` 指無骨或整片的肉排。
+  * The crispy texture of a fried chicken fillet is the result of precise temperature control during frying. (炸雞排脆爽的口感是油炸過程中精確溫度控制的結果。)
+  * Nowadays, you can find a variety of fried chicken fillets with different seasonings in every night market. (現今，你可以在每個夜市找到各種不同調味料的大雞排。)
+* Scallion pancake (n.) 蔥油餅
+  * 為<mark style="color:blue;">**可數名詞**</mark>。若切成片狀，可寫 `a piece of ~`。`scallion` 表「青蔥」。
+  * Making scallion pancakes from scratch requires honing your skills in kneading the dough. (從零開始製作蔥油餅需要磨練揉麵團的技巧。)
+  * The retired chef demonstrated how to add an egg to the scallion pancake to enhance its flavor. (退休主廚示範了如何在蔥油餅中加一顆蛋來提升風味。)
+* Pineapple cake (n.) 鳳梨酥
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * Pineapple cakes are in high demand during the Lunar New Year as they symbolize prosperity. (鳳梨酥在農曆新年期間需求量很大，因為它們象徵著繁榮。)
+  * Many famous bakeries take pride in their handmade pineapple cakes with fine ingredients. (許多著名的烘焙坊以其使用優質食材手工製作的鳳梨酥為榮。)
+
+#### 全球經典甜點與麵包
+
+* Macaron (n.) 馬卡龍
+  * 為<mark style="color:blue;">**可數名詞**</mark>。這是一種法式小圓餅，以口感輕盈、顏色繽紛聞名。請注意，<mark style="color:blue;">**這與**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`macaroon`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**是完全不同的食物**</mark>。
+  * The pastry chef spent hours creating the perfect batch of colorful macarons. (甜點師花了數小時製作出完美的一批繽紛馬卡龍。)
+  * Every single macaron in this shop is handmade from scratch with high-quality ingredients. (這家店裡的每一顆馬卡龍都是用優質食材從零開始手工製作的。)
+* Croissant (n.) 可頌麵包、羊角麵包
+  * 為<mark style="color:blue;">**可數名詞**</mark>。這是一種法式奶油油酥麵包，強調多層次與酥脆感。
+  * I cannot resist the aroma of freshly baked croissants whenever I pass by the local bakery. (每當我路過當地的烘焙坊，我都無法抗拒現烤可頌麵包的香氣。)
+  * A warm croissant is often considered the most traditional way to end a simple French breakfast. (熱騰騰的可頌通常被認為是結束簡單法式早餐最傳統的方式。)
+* Tiramisu (n.) 提拉米蘇
+  * 當指「提拉米蘇」這種甜點時，為<mark style="color:blue;">**不可數名詞**</mark>；當指「一份、兩份」時，可寫 `a portion/serving of ~`。
+  * This Italian restaurant is famous for its authentic tiramisu, which has a rich coffee flavor. (這家義大利餐廳以其正宗的提拉米蘇聞名，它帶有濃郁的咖啡味。)
+  * After the main course, we ordered a large portion of tiramisu to share with everyone at the table. (主菜之後，我們點了一大份提拉米蘇與桌上的每個人分享。)
+* Brownie (n.) 布朗尼
+  * 為<mark style="color:blue;">**可數名詞**</mark>。通常指切成方塊狀的濃郁巧克力蛋糕。
+  * To satisfy my sweet tooth, I decided to bake a batch of chocolate brownies with walnuts inside. (為了滿足我的甜食慾，我決定烤一批裡面加了核桃的巧克力布朗尼。)
+  * These brownies are soft and moist, making them a popular treat for children. (這些布朗尼鬆軟濕潤，使它們成為深受孩子們歡迎的點心。)
+* Donut / Doughnut (n.) 甜甜圈
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * There is always a high demand for glazed donuts at the coffee shop during the morning rush. (早上尖峰時段，咖啡店裡對糖霜甜甜圈總是有很高的需求。)
+  * The retired teacher decided to pursue a new career by opening a small donut stall in the market. (那位退休老師決定在市場開一個小甜甜圈攤位來追求新的職業。)
+* Baguette (n.) 法式長棍麵包
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * Precise temperature control is essential for creating the perfect crust on a French baguette. (精確的溫度控制對於法式長棍麵包外殼的完美呈現是不可或缺的。)
+  * We bought two long baguettes and some fine cheese for our weekend picnic in the park. (我們為週末在公園的野餐買了兩條長棍麵包和一些優質起司。)
+* Waffle (n.) 鬆餅、格子餅
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * Hot waffles served with fresh strawberries and maple syrup are my favorite weekend treat. (搭配新鮮草莓和楓糖漿的熱鬆餅是我最喜歡的週末犒賞。)
+  * The street vendor demonstrated his ingenuity by adding a variety of toppings to the crispy waffles. (街頭小販展現了他的獨創性，在脆爽的鬆餅上加入了各種配料。)
+* Muffin (n.) 瑪芬、英式鬆餅
+  * 為<mark style="color:blue;">**可數名詞**</mark>。通常指杯狀的小蛋糕 (甜) 或扁圓形的麵包 (鹹)。
+  * These blueberry muffins are made from scratch daily to ensure the best taste and quality. (這些藍莓瑪芬每天從零開始製作，以確保最佳的口感與品質。)
+  * I had a savory English muffin with an egg and bacon for my meal this morning. (我今天早上吃了一個加了蛋和培根的鹹味英式瑪芬。)
+* Eclair (n.) 閃電泡芙
+  * 為<mark style="color:blue;">**可數名詞**</mark>。一種細長型、內含奶油填餡、表面塗有巧克力醬的法式甜點。
+  * The pastry chef’s creativity is visible in the beautiful decorations on these chocolate eclairs. (甜點師的創造力體現在這些巧克力閃電泡芙上美麗的裝飾中。)
+  * Nowadays, eclairs with exotic flavors like matcha or rose are very much in demand. (現今，帶有抹茶或玫瑰等異國風味的閃電泡芙非常有需求。)
+* Soufflé (n.) 舒芙蕾
+  * 為<mark style="color:blue;">**可數名詞**</mark>。一種口感蓬鬆、以打發蛋白製作的法式甜點，必須現做現吃。
+  * A soufflé must be served immediately after it is taken out of the oven before it collapses. (舒芙蕾從烤箱取出後必須立即端上桌，否則它會塌陷。)
+  * Making a perfect chocolate soufflé requires practical experience and precise timing. (製作一個完美的巧克力舒芙蕾需要實務經驗與精確的計時。)
+* Ice cream (n.) 冰淇淋
+  * 當指「冰淇淋」這種食物時，為<mark style="color:blue;">**不可數名詞**</mark>；當指「一種口味」或「一份份量」時，可寫 `a scoop of ~` 或當可數名詞寫 `an ice cream`。
+  * On a hot summer day, a scoop of vanilla ice cream is a simple pleasure that anyone can enjoy. (在炎熱的夏日，一球香草冰淇淋是任何人都能享受的簡單快樂。)
+  * The children took great delight in picking out their favorite flavors from the ice cream truck. (孩子們非常開心地從冰淇淋車中挑選出他們最喜歡的口味。)
+
+## 寫作建議
+
+書寫關於「夢想」的作文時，可以參考以下幾點建議：
+
+* 描述自己的特質或幾種熱愛的事物，從小細節下手，建立與夢想的連結。
+* 你理應相當了解自己夢想的領域，若適當加入專業術語，能讓評分老師覺得你對該主題有深入了解，而不只是空談理想。
+* 時間演進：例如文中的 `In the beginning`、`In recent sessions` 以及 `Nowadays`，能幫助你清晰地呈現技能進化的過程。
+* 平衡理想與現實：本文提到了 `in demand`，暗示夢想與職業市場的結合。在寫作時，若能提到夢想的現實意義，會讓你的文章顯得更為成熟。
+
+</details>
 
 ## 36.
 
