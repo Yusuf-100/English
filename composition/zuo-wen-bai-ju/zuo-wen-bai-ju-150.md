@@ -9618,7 +9618,7 @@ Indoors (adv.) 在室內、往室內
   * The nurse asked James to wait in the examination room while the doctor prepared the results. (護士請 James 在診間稍候，醫生正在準備結果。)
   * Patients often spend most of their time in the examination room. (病人通常把大部分時間花在診查室。)
 * Intensive care unit 加護病房
-  * 縮寫為 `ICU`，指專門照顧重症病患的單位。通常作為可數名詞，使用前加 `the`。&#x20;
+  * 縮寫為 `ICU`，指專門照顧重症病患的單位。通常作為<mark style="color:blue;">**可數名詞**</mark>，使用前加 `the`。&#x20;
   * She has been in the ICU for three days. (她已經在加護病房住了三天。)
   * Those with weak immune systems may need to be moved to the ICU if the infection worsens. (那些免疫系統較弱的人如果感染惡化，可能需要轉入加護病房。)
 * Operating room 手術室、開刀房
