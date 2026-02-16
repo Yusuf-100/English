@@ -8982,10 +8982,696 @@ Indoors (adv.) 在室內、往室內
 1. Though Leo's Kitchen and Phillip's Restaurant serve similar dishes, there are <mark style="color:blue;">**stark contrasts**</mark> between them. There are numerous customers dining at Leo's but the restaurant is <mark style="color:blue;">**in poor condition**</mark>. Flies <mark style="color:blue;">**hover**</mark> everywhere, and there are disgusting <mark style="color:blue;">**grease stains**</mark> on the floor. Phillip's, <mark style="color:blue;">**on the other hand**</mark>, offers a fantastic <mark style="color:blue;">**atmosphere**</mark>. It's clean and well-decorated, <mark style="color:blue;">**with**</mark> a finely made wooden screen and tasteful <mark style="color:blue;">**interior design**</mark>.
 2. I <mark style="color:blue;">**prefer**</mark> Phillip's <mark style="color:blue;">**to**</mark> Leo's regardless of its higher food prices. I <mark style="color:blue;">**can't help but mistrust**</mark> any restaurant that doesn't <mark style="color:blue;">**maintain its cleanliness**</mark>. After all, diseases are easily <mark style="color:blue;">**spread**</mark> by flies and cockroaches. Besides, in my opinion, the quality of a restaurant's food <mark style="color:blue;">**has a lot to do with**</mark> the <mark style="color:blue;">**state**</mark> of the environment where it's prepared. While there are not enough customers at Phillip's to prove its dishes are truly tasty, this might be because the restaurant is newly opened and people don't know it well yet. <mark style="color:blue;">**All in all**</mark>, the <mark style="color:blue;">**hygiene**</mark> standards of a restaurant mean more to me than anything else.
 
+<details>
+
+<summary>作文百句 37 單字整理</summary>
+
+## 單字
+
+* Serve (v.) 供應、端上
+  * 在餐飲情境中，常見用法為 `serve + 食物`。其他意思詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-21-dan-zi-zheng-li)。
+  * In this newly opened restaurant, they serve a variety of artisan dishes made from scratch. (在這家新開的餐廳，他們供應各種從零開始製作的工藝菜餚。)
+  * Breakfast is served between 9:00 and 11:00 in this hotel. (這間旅館在早上九點到十一點之間供應早餐。)
+* Similar (adj.) 相似的
+  * 常見用法為 `A be similar to B`，強調兩者有共同特徵但不完全相同。
+  * My writing style is similar to yours because I have been honing my skills under your constant guidance. (我的寫作風格與你的相似，因為我一直在你的持續指導下磨練技巧。)
+  * These two interior designs look similar, but the materials used are different. (這兩種室內設計看起來很相似，但使用的材料不同。)
+* Dish (n.) (一道) 菜餚、盤子
+  * `main/side/national dish` 表「主菜/配菜/國菜」。`do the dishes` 指「洗碗」，請注意要用複數形。
+  * Phillip's Restaurant is famous for its signature seafood dish regardless of the high price. (不管價格高昂，Phillip's 餐廳以其招牌海鮮菜餚聞名。)
+  * The child broke a glass dish. (這孩子打破了一個玻璃碟子。)
+  * After dinner, Yusuf did the dishes in the kitchen. (晚餐後，Yusuf 在廚房洗碗。)
+* Stark (adj.) 明顯的、截然不同的；荒涼的
+  * There is a stark contrast between the luxury hotels in the city center and the poor condition of the slums nearby. (市中心的豪華飯店與附近貧民窟的糟糕狀況形成了鮮明對比。)
+  * The stark beauty of the desert at night always leaves a deep impression on the travelers. (沙漠夜晚那種荒涼之美總是給旅行者留下深刻印象。)
+  * After the severe storm, the stark trees stood against the grey sky like silent guardians. (嚴重的暴風雨過後，荒蕪的樹木矗立在灰暗的天空下，宛如沉默的守護者。)
+* Contrast (n./v.) 對比、對照
+  * 作為名詞時，常用 `in contrast to/with N` 表「與...相比」；作為動詞時，常用 `contrast A with B` 表「把 A 與 B 對比」。
+  * In contrast to his brother's greedy behavior, Leo is known for his honesty and integrity. (與他兄弟貪婪的行為相比，Leo 以誠實與正直聞名。)
+  * The designer used a bright wooden screen to contrast with the dark interior design of the room. (設計師使用明亮的木質屏風來與房間暗色的室內設計形成對比。)
+  * If you contrast the two restaurant reviews, you will discover that hygiene standards vary greatly. (如果你對比這兩篇餐廳評論，你會發現衛生標準差異很大。)
+* Numerous (adj.) 許多的、很多的
+  * 後面接<mark style="color:blue;">**可數名詞**</mark>。
+  * Despite numerous attempts to fix the technical error, the surveillance camera still doesn't work. (儘管進行了多次嘗試修復技術錯誤，監視器仍然無法運作。)
+  * The chef has won numerous awards for his contribution to the culinary world. (那位主廚因其對烹飪界的貢獻而獲得了無數獎項。)
+* Customer (n.) 顧客
+  * A lot of customers waited for the store to open. (許多顧客等著商店開門。)
+  * She is one of our <mark style="color:blue;">**regular customers**</mark>. (她是我們的常客之一。)
+* Dine (v.) 用餐、吃正餐 (通常指晚餐)
+  * 比 `eat` 正式，常用於描述在餐廳享用精緻的晚餐。常見用法有 `dine with sb`, `dine in` (內用), `dine out` (外用餐、出外吃晚餐)。
+  * We decided to dine at a restaurant with a fantastic atmosphere to celebrate our anniversary. (我們決定在一家氣氛極佳的餐廳用餐，以慶祝我們的週年紀念。)
+  * The professor prefers to dine in silence so he can focus on the taste of the dishes. (那位教授喜歡在安靜中用餐，這樣他就能專注於菜餚的味道。)
+  * I'd like to dine in, please. (我想在店內用餐。)
+  * They often dine out on weekends. (他們週末經常外出用餐。)
+* Condition (n.) 狀況、環境、條件
+  * One of the essential conditions for a successful bakery is maintaining high hygiene standards. (成功烘焙坊的必要條件之一是維持高的衛生標準。)
+  * The doctor updated the family on the patient's stable condition after the severe accident. (在嚴重的事故後，醫生向家屬更新了病人穩定的狀況。)
+* Fly (n.) 蒼蠅
+  * `mosquito` 指「蚊子」，複數形為 `mosquitoes`。
+  * It is disgusting to see numerous flies hovering around the garbage bin in the kitchen. (看到許多蒼蠅在廚房垃圾桶周圍盤旋，令人噁心。)
+  * We had to wear long sleeves to prevent mosquitoes from biting us in the garden. (在花園內，我們必須穿長袖以防止蚊子叮咬。)
+* Hover (v.) 盤旋、徘徊、在...近旁逗留
+  * 指在空中停留、不離去，或指一個人在某處附近等待、徘徊。
+  * The helicopter hovered above the forest to search for the strangers who disappeared yesterday. (直升機在森林上空盤旋，以搜尋昨天失蹤的陌生人。)
+  * A group of regular customers hovered around the bakery entrance, waiting for the fresh batch of bread. (一群熟客在烘焙坊入口附近徘徊，等待新一批的麵包。)
+* Everywhere (adv.) 到處、各處
+  * Dust and grease stains were everywhere in the abandoned restaurant, creating a disgusting environment. (廢棄餐廳裡到處都是灰塵和油漬，營造出噁心的環境。)
+  * Nowadays, you can see surveillance cameras everywhere in the city to ensure public safety. (現今，城市裡到處都能看到監視器，以確保公眾安全。)
+* Disgusting (adj.) 令人噁心的、討厭的
+  * It is absolutely disgusting to see flies hovering around the food preparation area in a kitchen. (看到蒼蠅在廚房的食物準備區周圍盤旋，絕對令人噁心。)
+  * The man received a severe warning for his disgusting behavior toward the female server. (那個男人因為對女服務生噁心的行為而收到了嚴厲的警告。)
+* Grease (n.) 油脂、潤滑油 (v.) 塗油
+  * 形容詞為 `greasy`。
+  * The kitchen staff used a special chemical to remove the thick grease from the oven. (廚房工作人員使用一種特殊的化學藥劑來清除烤箱上的厚油脂。)
+  * Be careful not to slide on the floor; there are some grease stains that haven't been cleaned yet. (小心別在地板上滑倒；那裡有一些還沒清理的油漬。)
+  * You need to grease the baking pan before pouring in the cake mixture to ensure a perfect result. (在倒入蛋糕糊之前，你需要在烘焙烤盤上塗油，以確保完美的結果。)
+* Fantastic (adj.) 極好的、美妙的
+  * You look fantastic in that dress. (你穿那條連身裙看起來棒極了。)
+  * It is a fantastic opportunity for the young chef to hone his skills under a retired master. (對年輕廚師來說，這是在退休大師指導下磨練技巧的絕佳機會。)
+* Atmosphere (n.) 氣氛、氛圍；大氣層
+  * The newly opened restaurant offers a fantastic atmosphere with soft music and tasteful decorations. (這家新開的餐廳擁有柔和的音樂和雅緻的裝飾，提供了一種極佳的氛圍。)
+  * A tense atmosphere filled the room when the police showed up to investigate the theft. (當警察出現調查竊案時，房間裡充滿了緊張的氣氛。)
+  * Scientists are monitoring the changes in the Earth's atmosphere to study global warming. (科學家正在監測地球大氣層的變化，以研究全球暖化。)
+* Decorate (v.) 裝飾、布置
+  * 常見用法為 `decorate A with B` (用 B 裝飾 A)。名詞形為 `decoration`。
+  * The pastry chef decorated the chocolate brownies with a few drops of white cream. (甜點師用幾滴鮮奶油裝飾了巧克力布朗尼。)
+  * She spent the whole afternoon decorating her bedroom to create a more fantastic atmosphere. (她花了整個下午佈置臥室，以營造更美妙的氛圍。)
+* Finely (adv.) 精細地、細緻地
+  * 形容詞為 `fine`。
+  * The ingredients for the signature dish were finely chopped to ensure the best texture. (招牌菜的食材被精細地切碎，以確保最佳的口感。)
+  * The police officer examined the surveillance footage finely to discover any hidden clues. (警官仔細地檢查了監視器畫面，以發現任何隱藏的線索。)
+* Wooden (adj.) 木製的；僵硬的
+  * 除了描述材質，也可以形容人的動作或表情呆板。
+  * Yusuf's acoustic guitar is kept in a beautiful wooden case to protect it from the atmosphere. (Yusuf 的木吉他放在一個美麗的木製琴盒裡，以保護它不受大氣影響。)
+  * The greedy suspect gave a wooden response when the police asked him about the missing wallet. (當警察詢問失蹤的錢包時，那名貪婪的嫌犯給出了僵硬的回應。)
+* Screen
+  * (n.) 屏風、螢幕、紗窗
+    * To create a more private atmosphere, the designer placed a screen between the tables. (為了營造更私密的氛圍，設計師在桌子之間放置了一個屏風。)
+    * The surveillance cameras display their recordings on a large high-definition screen in the security room. (監視器將其錄影畫面顯示在保安室的大型高畫質螢幕上。)
+  * (v.) 篩選、過濾、檢查
+    * 在醫療情境中，常見用法為 `screen sb for sth` (為某人篩檢某事物)。
+    * The medical team will screen numerous volunteers to discover who is suitable for the new experiment. (醫療團隊將篩選眾多志願者，以發現誰適合進行這項新實驗。)
+    * We need to screen the patient for antibodies. (我們需要對患者進行抗體篩檢。)
+* Interior
+  * (adj.) 內部的、室內的
+    * The interior parts of the video game system were damaged accidentally when the boy dropped it. (當那個男孩意外摔到電玩系統時，其內部零件受損了。)
+  * (n.) 內部、內陸
+    * `Ministry of the Interior` 指「內政部」。
+    * We spent the whole afternoon cleaning the interior of the car after the long trip to the mountains. (在漫長的山地旅行後，我們花了整個下午清理車子內部。)
+    * The interior ministry is responsible for maintaining public safety regardless of the political atmosphere. (不論政治氣氛為何，內政部負責維持公共安全。)
+* Design
+  * (n.) 設計、圖樣；企圖
+    * John is very impressed by the fantastic interior design of the newly opened Italian restaurant. (John 對那家新開的義大利餐廳美妙的室內設計印象深刻。)
+    * I suspect that the technical error was not accidental; it feels like it was done by design. (我懷疑那個技術錯誤並非意外；感覺它是預謀好的。)
+  * (v.) 設計、構思、計畫
+    * This app was designed to help students hone their writing skills through practical examples. (這款應用程式旨在幫助學生透過實務例子磨練寫作技巧。)
+* Tasteful (adj.) 雅緻的、有品味的
+  * 形容物品、裝潢或人的穿搭具有品味、優雅得體，與`tasty` (美味的) 無關。
+  * The interior design of the apartment is very tasteful, reflecting his unique aesthetic. (這間公寓的室內設計非常雅緻，反映了他的獨特審美。)
+  * She chose a tasteful wooden screen to separate the dining area from the living room. (她選擇了一個雅緻的木質屏風來將用餐區與客廳隔開。)
+* Mistrust (v./n.) 不信任、懷疑
+  * The initial mistrust between the two companies disappeared after a constructive meeting. (兩家公司最初的不信任在一次具建設性的會議後消失了。)
+  * Numerous customers mistrust the quality of the ingredients used in that newly opened bakery. (許多顧客懷疑那家新開的烘焙坊所使用的食材品質。)
+* Maintain (v.) 維持；保養；堅稱
+  * 指維持狀態 (如健康、秩序)、保養設備 (如機器、建築)，或堅持某觀點。&#x20;
+  * She works out every day to maintain her health. (她每天運動以維持健康。)
+  * We need to maintain the machine regularly. (我們需要定期保養這台機器。)
+  * The road needs to be maintained. (這條路需要維護。)
+  * He maintains that he was nowhere near the house. (他堅稱他當時根本不在那棟房子附近。)
+  * The company maintains that the product is safe. (公司堅稱該產品是安全的。)
+* Cleanliness (n.) 清潔、乾淨
+  * The hotel won numerous awards for its dedication to cleanliness and fantastic atmosphere. (這家飯店因其對清潔的奉獻和極佳的氛圍而獲得了無數獎項。)
+* Quality (n.) 品質、特質、特性
+  * High-quality interior design can significantly improve the dining experience of every customer. (優質的室內設計能顯著提升每位顧客的用餐體驗。)
+  * The products are of high quality. (這些產品品質很高。)
+  * Honesty and integrity are the most important qualities of a person, regardless of their career. (無論職業為何，誠實與正直是一個人最重要的特質。)
+* State
+  * (n.) 狀態、情況；國家、政府、州
+    * The scientists are monitoring the state of the polar ice caps very closely. (科學家們正密切監測極地冰蓋的狀態。)
+    * The country is in a state of emergency following the heavy earthquake. (在強烈地震後，該國處於緊急狀態。)
+    * The United States is composed of 50 states. (美國由50個州組成。)
+  * (v.) 陳述、說明
+    * You need to state your reasons clearly if you want to apply for a scholarship. (如果你想申請獎學金，你需要清楚說明你的理由。)
+* Environment (n.) 環境、自然環境
+  * 除了指大自然，也常指社交或工作上的氣氛。
+  * We should take more responsibility for protecting the natural environment. (我們應該為保護自然環境承擔更多責任。)
+  * A quiet and comfortable environment is essential for students to study effectively. (安靜且舒適的環境對於學生有效學習至關重要。)
+  * The company works hard to create a diverse and inclusive working environment. (公司努力營造一個多元且包容的工作環境。)
+* Prove
+  * (v.) 證明、證實
+    * The new DNA evidence will finally prove the man's innocence. (新的 DNA 證據最終將證明那名男子的清白。)
+    * She has worked hard to prove her ability to lead the entire project team. (她努力工作以證明她領導整個專案團隊的能力。)
+  * (v.) 結果是、證明為
+    * 當[連綴動詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)使用。常見用法為 `prove + (to be) + Adj/N`，接形容詞時，`to be` 常可省略。
+    * The new system proved to be a success. (新系統被證明是成功的。)
+    * The simple plan proved (to be) much more effective than we had expected. (這個簡單的計畫結果證明比我們預期的要有效得多。)
+* Tasty (adj.) 美味的、可口的
+  * My grandmother always prepares a tasty meal for us when we visit her on weekends. (我祖母在週末我們去看她時，總是為我們準備美味的一餐。)
+  * Adding some fresh herbs can make a simple chicken soup much more tasty. (加入一些新鮮香草可以讓簡單的雞湯變得更美味。)
+* Newly (adv.) 新近地、最近
+  * 常用於修飾過去分詞，構成 `newly + p.p.` 的複合形容詞結構。
+  * The newly built library will be open to the public starting next month. (新建成的圖書館將從下個月開始對公眾開放。)
+  * The newly appointed manager decided to change the company's marketing strategy. (新任經理決定改變公司的行銷策略。)
+  * They are a newly married couple and are planning their honeymoon in Europe. (他們是一對新婚夫婦，正計畫去歐洲度蜜月。)
+* Standard
+  * (n.) 標準、水平
+    * The hotel was closed because it failed to meet basic safety standards. (這家飯店因為未能達到基本安全標準而被關閉。)
+    * We need to raise the standards of public education to help the next generation. (我們需要提高公共教育的水平以幫助下一代。)
+  * (adj.) 標準的、正規的
+    * Using a seatbelt is the standard procedure for all passengers in a car. (繫安全帶是汽車內所有乘客的標準程序。)
+* Hygiene (n.) 衛生
+  * 形容詞為 `hygienic`。
+  * Personal hygiene, such as washing hands frequently, is essential to prevent the spread of diseases. (個人衛生，例如頻繁洗手，對於預防疾病傳播至關重要。)
+  * The artisan bakery takes pride in its high hygiene and cleanliness. (這家工藝烘焙坊對其高衛生與清潔標準感到自豪。)
+
+</details>
+
+<details>
+
+<summary>作文百句 37 片語整理</summary>
+
+## 片語
+
+* There is a contrast between A and B A 和 B 之間存在差異。
+  * There are stark contrasts between the busy city life and the quiet countryside. (繁華的城市生活與寧靜的鄉村之間存在著鮮明對比。)
+  * There is a sharp contrast between the two reports. (這兩份報告之間存在明顯對比。)
+* In poor condition 狀況不佳
+  * This old car is in poor condition and needs expensive repairs to run again. (這輛舊車狀況不佳，需要昂貴的修理才能再次行駛。)
+  * He was in poor physical condition after the long illness. (久病之後，他的身體狀況很差。)
+* On the floor 在地板上
+  * 用於描述物體位於建築內部的地面上。
+  * The book is on the floor. (書在地板上。)
+
+{% hint style="info" %}
+#### `On the ... floor` 在第...層樓
+
+表達建築物的樓層層級。注意介係詞用 `on`。
+
+* My new apartment is on the fifth floor, and it offers a fantastic view of the city. (我的新公寓在五樓，它提供了這座城市極佳的景觀。)
+* The restaurant is located on the ground floor of the shopping mall. (這家餐廳位於購物中心的一樓。)
+{% endhint %}
+
+* Have a lot to do with N 與...有很大關係
+  * 表示兩者之間存在緊密的邏輯連結或因果關係。
+  * The increase in crime rates in this city might have a lot to do with the high unemployment rate. (這座城市犯罪率的增加可能與高失業率有很大關係。)
+  * Your health has a lot to do with what you eat and how much exercise you get every day. (你的健康與你吃什麼以及你每天運動多少有很大關係。)
+* All in all 總之、總而言之
+  * 用來對前面的論點或經歷進行整體的總結。
+  * All in all, the party was a success and everyone enjoyed themselves. (總之，聚會很成功，每個人都玩得很開心。)
+  * The weather was bad, but all in all, we had a fantastic time during our trip to Japan. (天氣雖然不好，但總之，我們在日本旅行期間過得很愉快。)
+
+</details>
+
+<details>
+
+<summary>作文百句 37 補充資料</summary>
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Sanitary (adj.) 衛生的、乾淨的
+  * 比 `clean` 正式，特別強調符合「公共衛生標準」的清潔。
+  * To ensure food safety, all kitchen staff must follow strict sanitary procedures when handling raw ingredients. (為了確保食品安全，所有廚房員工在處理生鮮食材時必須遵循嚴格的衛生程序。)
+  * The government inspector praised the new restaurant for its sanitary environment and modern kitchen equipment. (政府稽查員稱讚這家新餐廳的衛生環境與現代化的廚房設備。)
+* Ambiance (n.) 氣氛、氛圍
+  * 常用於描述精緻餐廳或藝術空間的「格調」與「情調」，比 `atmosphere` 更具美學色彩。也可以拼成 `ambience`。
+  * The soft lighting and elegant furniture created a romantic ambiance that attracted many young couples. (柔和的燈光與優雅的家具營造出一種吸引許多輕情侶的浪漫氛圍。)
+  * Many people choose to dine at this café not just for the coffee, but for the unique and relaxing ambiance. (許多人選擇在這家咖啡館用餐不只是為了咖啡，更是為了其獨特且令人放鬆的氣氛。)
+* Unsavory (adj.) 難吃的、味道欠佳的；令人討厭的
+  * 除了形容食物難吃，也常引申為「聲名狼藉」或「不道德」。反義詞為 `savory` (鹹的、美味的、可口的、開胃的)。
+  * After one bite, I realized the soup had an unsavory taste because the ingredients were no longer fresh. (喝了一口後，我意識到這碗湯的味道欠佳，因為食材已經不新鮮了。)
+  * The dark alley behind the old building is known as a gathering place for unsavory characters. (舊建築後面的黑暗小巷是眾所周知的討厭人物聚集地。)
+  * He has an unsavory reputation in the business world. (他在商業圈名聲狼藉。)
+* Aesthetic (adj.) 美學的、審美的
+  * 指與美感、藝術品味相關的。常用於描述室內裝潢或視覺設計。
+  * The architect focused on both the functional use and the aesthetic appeal of the new library. (建築師同時專注於新圖書館的功能用途與美學吸引力。)
+  * I really admire the aesthetic choices you made for the interior design of our living room. (我真的很欽佩你為我們客廳室內設計所做的審美選擇。)
+
+#### 與飲食相關的詞彙
+
+* Snack 零食
+  * 指分量較小、非正餐的食物，為<mark style="color:blue;">**可數名詞**</mark>。
+  * If you feel a bit hungry between meals, you can have a healthy snack like some nuts or fruit. (如果你在兩餐之間覺得有點餓，可以吃點堅果或水果之類的健康小吃。)
+  * I usually have a quick snack at 11 a.m. (我通常在上午11點吃個點心。)
+* Street food 街頭小吃、路邊攤美食
+  * 泛指在街頭、夜市或餐車販售的平價、即食食品，為<mark style="color:blue;">**不可數名詞**</mark>。
+  * Let's go to the night market and grab some street food. (我們去夜市吃一些小吃吧！)
+  * What's your favorite street food in Taiwan? (你最喜歡的台灣小吃是什麼？)
+* Night market 夜市
+  * Visiting a night market is the best way to experience the vibrant street food culture of this city. (逛夜市是體驗這座城市充滿活力的街頭美食文化最好的方式。)
+* Street vendor 攤販、小販
+  * 指在街頭售賣商品或食物的人。
+  * The street vendor carefully prepared the tasty fried chicken for the long queue of customers. (攤販為大排長龍的顧客仔細準備著美味的炸雞。)
+  * In some cities, street vendors need a specific license to maintain the hygiene standards of the area. (在某些城市，小販需要特定的執照以維持該地區的衛生標準。)
+* Stall / Stand 攤位
+  * 指在市場或夜市中固定的一個小空間。`stall` 較常用於市場；`stand` 常用於路邊臨時的。
+  * I found a hidden food stall in the corner of the market that serves the best beef noodles. (我在市場角落找到一個隱藏的攤位，供應著最棒的牛肉麵。)
+  * There is a small juice stand on the street corner where you can buy freshly squeezed orange juice. (街角有一個小果汁攤，你可以在那裡買到現榨的柳橙汁。)
+* Market / Bazaar / Fair 市場、市集
+  * `market` 是通用詞；`bazaar` 常指義賣市集或中東、印度、東南亞地區的熱鬧露天市場；`fair` 則常指帶有娛樂性質的博覽會或集市。
+  * We decided to explore the local traditional market to find some fresh ingredients for our dinner. (我們決定探索當地的傳統市場，為我們的晚餐找一些新鮮食材。)
+  * The city's ancient bazaar is full of spices and carpets. (這座城市的古老市集裡到處是香料和地毯。)
+  * We are holding a Christmas bazaar to raise money for charity. (我們正在舉辦聖誕義賣會來為慈善籌款。)
+  * Our school is having a <mark style="color:blue;">**school fair**</mark> this Friday. (我們學校本週五有園遊會。)
+  * The company will attend a computer trade fair next month. (公司下個月將參加電腦貿易展。)
+* Buffet 自助餐
+  * The hotel offers a fantastic breakfast buffet with a wide variety of international dishes. (飯店提供極佳的自助早餐，備有種類繁多的國際菜餚。)
+  * I enjoyed the variety of dishes at the buffet, especially the seafood selection. (我喜歡自助餐的各種菜餚，特別是海鮮選擇。)
+* Set menu / Course meal 套餐、桌菜
+  * `set menu` 指固定菜色的套餐；`course meal` 則強調整套包含前菜、主菜到甜點的「宴席」或「桌菜」，常見用法為 `數字-course meal`。
+  * The restaurant provides a special set menu for couples celebrating Valentine's Day. (這家餐廳為慶祝情人節的情侶提供特別的套餐。)
+  * A traditional Chinese wedding usually features a ten-course meal with various delicacies. (傳統的中式婚禮通常以包含各種佳餚的十道菜桌菜為特色。)
+* Fine dining 高檔餐飲、高級料理
+  * 指環境雅緻、服務優質且價格昂貴的正式用餐體驗。
+  * Phillip's Restaurant is known for its high-quality fine dining and fantastic atmosphere. (菲利浦餐廳以其高質量的進階餐飲和極佳的氣氛聞名。)
+  * When attending a fine dining establishment, it is essential to dress formally. (前往高檔餐飲機構時，著裝正式至關重要。)
+* Delicacy 佳餚、珍饈、美食
+  * 指某種特別、珍貴或具有地方特色的美味食物，為<mark style="color:blue;">**可數名詞**</mark>。
+  * Roasted duck is considered a famous delicacy that every tourist should try in Beijing. (烤鴨被認為是每位遊客在北京都應該嘗試的著名佳餚。)
+  * The chef used rare mushrooms to create a unique delicacy for the VIP customers. (主廚使用稀有蘑菇為 VIP 顧客創造了一道獨特的美食。)
+
+## 寫作建議
+
+當你支持其中一方時，若他有明顯的缺點 (如文中提到 Phillip's 的人氣不高)，不要避而不談，反而要像作者一樣主動提出並給予合理的解釋或猜測。這種寫法會讓閱卷老師覺得你的思維周密且客觀。
+
+</details>
+
 ## 38.
 
 1. Sally <mark style="color:blue;">**rushed**</mark> to the MRT station because she <mark style="color:blue;">**overslept**</mark> and didn't want to be late for school. As she passed by people, she <mark style="color:blue;">**couldn't help but notice**</mark> something unusual: the <mark style="color:blue;">**number**</mark> of people wearing masks was much greater than usual. When she <mark style="color:blue;">**stepped onto**</mark> an MRT car, she was shocked to see that almost every passenger was wearing a mask. She started to wonder if reports of poor air quality had <mark style="color:blue;">**prompted**</mark> so many people to cover their faces. As she checked her smartphone, she found that the news was mainly about a <mark style="color:blue;">**global epidemic**</mark>.
 2. According to news reports, there was an <mark style="color:blue;">**outbreak**</mark> of a new virus in a big city in Asia. Officials were warning the public to protect themselves, especially <mark style="color:blue;">**the elderly**</mark> and those with weak <mark style="color:blue;">**immune systems**</mark>. As time went by, more and more cases were <mark style="color:blue;">**reported**</mark> across the world. People <mark style="color:blue;">**panicked**</mark>, and governments <mark style="color:blue;">**took urgent measures**</mark> to get the <mark style="color:blue;">**epidemic**</mark> under control. <mark style="color:blue;">**On top of that**</mark>, demand for masks was at an <mark style="color:blue;">**all-time high**</mark>, and mask manufacturers just couldn't <mark style="color:blue;">**keep up**</mark>. As a result, <mark style="color:blue;">**restrictions were placed on**</mark> the number of masks people could <mark style="color:blue;">**purchase**</mark>. There was nothing people could do <mark style="color:blue;">**but**</mark> pray the problem could be <mark style="color:blue;">**tackled**</mark> soon.
+
+<details>
+
+<summary>作文百句 38 單字整理</summary>
+
+## 單字
+
+* MRT (n. phr.) 捷運 (大眾捷運系統)
+  * 常見用法為 `take the MRT`。全名為 `Mass Rapid Transit`。
+  * Taking the MRT is the most convenient way to travel around the city during rush hour. (在尖峰時段，搭乘捷運是城市旅行最方便的方式。)
+    * Mass (adj.) 大眾的、大規模的
+      * The government is trying to improve mass communication to reach more citizens. (政府正試圖改善大眾傳播，以接觸更多公民。)
+    * Rapid (adj.) 快速的、迅速的
+      * The city has experienced rapid growth in its population over the last decade. (在過去十年中，這座城市的人口經歷了快速增長。)
+    * Transit (n.) 運輸、載運、過境
+      * The new policy aims to encourage more people to use public transit instead of driving. (新政策旨在鼓勵更多人使用大眾運輸，而不是開車。)
+* Station
+  * (n.) 車站、站
+    * I'll meet you at the main entrance of the subway station in ten minutes. (十分鐘後我會在捷運站的主門口跟你碰面。)
+    * There is a police station right next to the shopping mall for public safety. (為了公共安全，購物中心旁邊就有一個警察局。)
+  * (v.) 駐紮、派駐
+    * Several soldiers were stationed at the border to prevent illegal entry. (幾名士兵被派駐在邊境以防止非法入境。)
+    * The reporter was stationed in the conflict zone to provide first-hand news reports. (記者被派駐在衝突區，以提供第一手新聞報導。)
+* Unusual (adj.) 不尋常的、異常的
+  * 反義詞為 `usual`。
+  * The scientists observed an unusual pattern in the migration of birds this year. (科學家們觀察到今年鳥類遷徙中有一種不尋常的模式。)
+* Wear
+  * (v.) 穿、戴
+    * 三態為 `wear` → `wore` → `worn`。除了穿戴衣服、眼鏡、飾品，帶著笑容也可以用 `wear`。
+    * All students are required to wear their uniforms during the school assembly. (所有學生在學校集會期間都必須穿著校服。)
+    * She always wears a confident smile when she gives a presentation in front of the class. (當她在全班同學面前做簡報時，總是帶著自信的笑容。)
+  * (v.) 磨損
+    * `wear out` 表「磨損」、「用壞」、「使筋疲力盡」，指東西因長時間使用而磨損到無法使用。
+      * The carpet is beginning to wear out. (地毯開始磨損了。)
+      * The long hike wore me out. (長途跋涉使我筋疲力盡。)
+    * `wear down` 表「磨損」、「磨薄」、「磨短」，強調因摩擦或持續使用而導致外表變薄或變小。
+      * The tires are worn down. (輪胎已經磨平了。)
+      * The steps have been worn down over the years. (多年來，台階已被磨損殆盡。)
+  * (n.) 穿著
+    * 通常指特定類型的衣物，為<mark style="color:blue;">**不可數名詞**</mark>。常見搭配有 `casual wear` (休閒服)、`sportswear` (運動服)、`menswear` (男裝)、`womenswear` (女裝)、`evening wear` (晚禮服) 等。
+    * The store sells a variety of summer wear. (這家店賣各式各樣的夏裝。)
+  * (n.) 磨損
+    * 常見片語為 `wear and tear` (折舊、磨損)、show signs of wear (顯示出磨損跡象)。
+    * The expensive tires showed very little wear and tear even after the long journey. (即使在長途旅行後，這些昂貴的輪胎也幾乎沒有顯示出磨損。)
+    * The carpet is showing signs of wear. (地毯出現了磨損的痕跡。)
+* Mask
+  * (n.) 口罩；面具
+    * The doctor put on a surgical mask before entering the operating room. (醫生在進入手術室前戴上了醫用口罩。)
+    * Children love to wear scary masks to celebrate Halloween in the neighborhood. (孩子們喜歡戴上恐怖的面具在社區慶祝萬聖節。)
+  * (v.) 掩飾、遮蓋
+    * 指隱藏情緒或難聞的味道。
+    * He tried to mask his disappointment with a forced smile when he lost the game. (當他輸掉比賽時，他試圖用強顏歡笑來掩飾他的失望。)
+    * The scent of lavender was used to mask the smell of cigarette smoke in the hotel room. (薰衣草的香氣被用來掩蓋飯店房間裡的菸味。)
+* Passenger (n.) 乘客、旅客
+  * 指搭乘各種交通工具 (飛機、火車、公車、汽車等) 但非駕駛的人。
+  * All passengers are requested to remain seated until the plane comes to a complete stop. (所有乘客被要求保持就座，直到飛機完全停穩為止。)
+  * The bus driver reminded the passengers to watch their personal belongings. (公車司機提醒乘客們注意自己的個人財物。)
+* Wonder
+  * (v.) 想知道、納悶
+    * 常見搭配為 `wonder why`, `wonder if/whether`。
+    * I wonder why he slept so early yesterday. (我想知道他昨天為什麼那麼早睡覺。)
+    * The scientists wondered if there was any form of life on the distant planet. (科學家們想知道那顆遙遠的行星上是否有任何形式的生命。)
+  * (n.) 奇蹟、奇觀、驚奇
+    * 常見用法為 `no wonder` (難怪)。
+    * The Grand Canyon is truly one of the natural wonders of the world. (大峽谷確實是世界自然奇蹟之一。)
+    * No wonder he looks so tired; he stayed up all night to tackle the urgent project. (難怪他看起來這麼累；他熬了一整夜來應對那個緊急計畫。)
+    * With his girlfriend in his arms, it's no wonder that Mark becomes the happiest man. (女友在懷，難怪 Mark 成了世界上最幸福的人。)
+* Report
+  * (n.) 報告、報導
+    * 常見搭配有 `weather report` (天氣預報)、`annual report` (年報)、`confidential report` (機密報告)。
+    * The latest report on climate change suggests that we need to take urgent measures immediately. (關於氣候變遷的最新報告建議我們需要立即採取緊急措施。)
+    * According to the official report, the missing stranger was finally found near the mountain station. (根據官方報導，失蹤的陌生人最終在山站附近被發現。)
+  * (v.) 報導、報告、報案
+    * If you see any suspicious behavior in the subway station, you should report it to the police at once. (如果你在捷運站看到任何可疑行為，你應該立即向警方報案。)
+    * The journalist was sent to the conflict zone to report on the current state of the war. (記者被派往衝突區報導戰爭的現狀。)
+* Prompt
+  * (v.) 促使、導致、激起
+    * 指激發或引發某種行動或反應。
+    * The sudden drop in stock prices prompted many investors to sell their shares. (股市價格的突然下跌促使許多投資者賣出股票。)
+    * The feedback from the users prompted the developer to add a new security feature to the app. (使用者的回饋促使開發者在應用程式中加入了一個新的安全功能。)
+  * (adj.) 迅速的
+    * Your prompt response to my request helped us complete the project on time. (你對我要求的迅速回應幫助我們準時完成了計畫。)
+    * Try to be prompt because we'll be very short of time. (儘量快點，因為我們時間很緊迫。)
+  * (n.) 提示、演講或演出時的提詞；提示詞、指令
+    * The actor forgot his lines and needed a prompt. (演員忘詞了，需要提詞。)
+    * I gave the AI tool a detailed prompt to generate the image. (我給了 AI 工具一個詳細的提示詞來生成圖像。)
+* Cover
+  * (v.) 覆蓋、遮蓋
+    * 常見用法為 `be covered with N`
+    * The mountains were completely covered with thick snow after the severe storm last night. (昨晚強烈的暴風雨過後，山脈完全被厚雪覆蓋。)
+  * (v.) 報導
+    * 指媒體對事件的跟蹤。
+    * The journalist spent weeks in the hospital to cover the story of the newly discovered virus. (記者在醫院待了數週，以報導有關新發現病毒的故事。)
+  * (v.) 支付；涵蓋
+    * Don't worry about the travel expenses; the company will cover everything regardless of the cost. (別擔心差旅費；公司會支付一切，不論成本高低。)
+    * The report covers all aspects. (這份報告涵蓋了所有面向。)
+  * (n.) 封面
+    * `from cover to cover` 表「從頭到尾 (讀完一本書)」，形容完整、細緻地閱讀一本書、雜誌或報告，不遺漏任何內容。
+    * Yusuf’s photo was on the cover of the famous science magazine for his extraordinary achievement. (Yusuf 因為他非比尋常的成就而登上了著名科學雜誌的封面。)
+    * I read the book from cover to cover in one day. (我用一天時間把這本書從頭到尾讀完了。)
+    * She read the report from cover to cover. (她把報告從頭到尾看了一遍。)
+  * (n.) 掩蔽處
+    * 常見片語有 `under cover of sth` (秘密地、在...的掩護下)、`take cover` (尋找掩護、躲避)。
+    * They stole the car under cover of darkness. (他們在夜色掩護下偷了那輛車。)
+    * The soldiers moved through the forest under cover of darkness to avoid being seen by the enemy. (士兵們在黑暗的掩護下穿過森林，以避免被敵人看見。)
+    * The soldiers had to take cover from the sniper. (士兵們不得不尋找掩護以躲避狙擊手。)
+  * (n.) 蓋子；音樂翻唱
+    * Please put the cover back on the jar. (請把罐子的蓋子蓋回去。)
+    * This song is a cover of a 1990s hit. (這首歌是90年代熱門歌曲的翻唱。)
+* Smartphone (n.) 智慧型手機
+  * 強調具備電腦功能、可上網、可安裝 App 的智慧型裝置。此外，`phone` 和 `cellphone` 也可以指手機。
+  * Nowadays, almost everyone uses a smartphone to check the news and social media. (現今，幾乎每個人都使用智慧型手機來查看新聞和社群媒體。)
+  * Don't forget to charge your cellphone before you leave for the long journey. (在出發長途旅行前，別忘了幫你的手機充電。)
+  * Please turn off your phone during the session to avoid disturbing others. (環節期間請關機，以免干擾他人。)
+* Mainly (adv.) 主要地、大體上
+  * 指最重要的部分或原因。同義詞有 `primarily`、`mostly`。
+  * My diet consists mainly of fresh vegetables, fruits, and high-quality protein. (我的飲食主要由新鮮蔬菜、水果和高品質蛋白質組成。)
+  * The technical error in the system was mainly caused by an outdated software version. (系統中的技術錯誤主要是由過時的軟體版本引起的。)
+* Global (adj.) 全球的、全世界的；整體的、全面的
+  * 名詞形為 `globe` (地球)，副詞形為 `globally`。
+  * The economic crisis had a global impact, affecting numerous businesses regardless of their size. (經濟危機具有全球性的影響，不論規模大小，影響了眾多企業。)
+  * The company is planning to expand its business into the global market within the next two years. (公司計畫在未來兩年內將業務擴展到全球市場。)
+  * This report gives a global picture of the company's finances. (這份報告對公司的整體財務狀況作了說明。)
+* Epidemic
+  * (n.) 流行病、傳染病
+    * 指在特定地區快速傳播的疾病。
+    * The government launched a massive vaccination campaign to prevent the epidemic from spreading further. (政府發起了一場大規模的疫苗接種運動，以防止流行病進一步傳播。)
+    * We should educate the public about basic hygiene to reduce the risk of a flu epidemic. (我們應該向公眾教育基本衛生知識，以降低流感流行病的風險。)
+  * (adj.) (疾病或負面現象) 流行的
+    * Crime and poverty are epidemic in the city. (犯罪和貧窮在這個城市如瘟疫般蔓延。)
+    * Influenza was epidemic last winter. (流感在去年冬天流行。)
+* Outbreak (n.) (戰爭、疾病或暴力事件) 爆發
+  * The outbreak of the war forced thousands of people to flee to neighboring countries. (戰爭的爆發迫使成千上萬的人逃往鄰國。)
+  * Health officials are working hard to trace the source of the recent salmonella outbreak. (衛生官員正努力追蹤近期沙門氏菌爆發的來源。)
+* Official (n.) 官員 (adj.) 官方的、正式的
+  * Several senior officials attended the international conference to discuss climate change. (幾位高級官員出席了討論氣候變遷的國際會議。)
+  * The bank is waiting for official documents from the headquarters before approving the loan. (銀行在核准貸款前正在等待總部的正式文件。)
+* Protect (v.) 保護、防護
+  * 常見用法為 `protect A from/against B`。
+  * The new law was designed to protect the rights of minority groups in the workplace. (這項新法律旨在保護職場中少數群體的權利。)
+  * Parents should always wear helmets to protect their children from potential head injuries while cycling. (父母在騎單車時應始終戴上頭盔，以保護孩子免受潛在的頭部傷害。)
+  * These special glasses can effectively protect your eyes against harmful ultraviolet radiation. (這些特製眼鏡能有效保護你的眼睛免受有害紫外線輻射。)
+* Elderly (adj.) 年長的、年邁的
+  * 這是比 `old` 委婉且尊重的寫法。`the elderly` 表「年長者」，為集合名詞。
+  * An elderly couple was seen walking hand in hand in the park, enjoying the fantastic atmosphere. (有人看到一對老夫婦在公園裡手牽手散步，享受著極佳的氣氛。)
+  * The government should provide more financial support for the elderly who live alone. (政府應該為獨居老人提供更多經濟支持。)
+* Weak (adj.) 虛弱的、軟弱的
+  * `weak point` 表「弱點」。
+  * The bridge was closed because its structure had become too weak to support heavy trucks. (這座橋被關閉了，因為其結構變得太脆弱，無法支撐重型卡車。)
+  * Alana noticed a weak pulse in the stranger's wrist and immediately called for help. (Alana 注意到那名陌生人的手腕脈搏微弱，立即呼救。)
+* Immune (adj.) 免疫的、受保護的
+  * 常見用法為 `be immune to N`。`immune system` 表「免疫系統」。
+  * Regular exercise and a balanced diet can help strengthen your immune system. (規律運動和均衡飲食能幫助強化你的免疫系統。)
+  * Some people are naturally immune to certain types of viruses found in the rainforest. (有些人天生對雨林中發現的某些類型病毒具有免疫力。)
+  * No one is immune to criticism, regardless of their social status or achievements. (不論其社會地位或成就為何，沒有人能免於批評。)
+* System (n.) 系統、制度、體系
+  * Tokyo has an excellent rail system. (東京有很棒的鐵路系統。)
+  * The educational system in this country focuses more on practical skills than on exams. (這個國家的教育制度比起考試更注重實務技能。)
+  * Our body is a complex system that requires various nutrients to function properly. (我們的身體是一個複雜的體系，需要各種營養才能正常運作。)
+* Case (n.) 案例、病例
+  * 在本文指流行病學中的「確診病例」。此單字的其他意思詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-31-dan-zi-zheng-li)。
+  * The health department reported ten new cases of the virus yesterday. (衛生部門昨天通報了十例新的病毒確診病例。)
+  * Each confirmed case was tracked carefully to prevent a larger outbreak. (每一例確診病例都經過仔細追蹤，以防止更大規模的爆發。)
+* Urgent (adj.) 緊急的、急迫的
+  * I'm sorry to interrupt, but there is an urgent phone call from your manager. (抱歉打擾，但有你經理打來的緊急電話。)
+  * Solving the problem of water pollution has become an urgent task for the local council. (解決水污染問題已成為地方議會的一項緊急任務。)
+* Measure
+  * (n.) 措施、方法
+    * 常見用法為 `take measures`。
+    * The company took urgent measures to protect its database after the cyberattack. (在網路攻擊後，公司採取了緊急措施來保護其資料庫。)
+    * The new law includes several measures to reduce plastic waste in the ocean. (新法律包括幾項減少海洋塑料垃圾的措施。)
+  * (v.) 測量；評估；量起來有...、計作
+    * `measure up to/against N` 表「符合 (標準)、達到 (期望)、與…相當」。
+    * I measured the length of the room. (我測量了房間的長度。)
+    * Scientists are trying to measure the impact of climate change. (科學家們正試圖評估氣候變遷的影響。)
+    * The room measures 5 meters in length. (這房間量起來有5公尺長。)
+    * She could never measure up to her mother's expectations. (她永遠無法達到她母親的期望。)
+* All-time (adj.) 空前的、前所未有的
+  * 通常<mark style="color:blue;">**放在名詞前**</mark>，強調在所有時間紀錄中最高、最低或最棒的。
+  * The team's morale hit an all-time low after losing five games in a row. (在連續輸掉五場比賽後，團隊的士氣跌到了歷史新低。)
+  * This movie is considered one of the all-time greats in the history of science fiction. (這部電影被認為是科幻電影史上空前的偉大作品之一。)
+* High (n.) 高點、紀錄
+  * 常見用法為 `reach/hit a high` (達到高點)。
+  * The stock market reached a new high. (股市達到了新高點。)
+  * During the epidemic, the level of public anxiety hit a new high. (在流行病期間，大眾焦慮的程度達到了新高。)
+* Manufacturer (n.) 製造商、廠商
+  * 動詞形為 `manufacture` (大量生產)。
+  * The car manufacturer decided to recall thousands of vehicles due to a technical error. (由於技術錯誤，這家汽車製造商決定召回數千輛汽車。)
+  * You should contact the manufacturer directly if you find any defects in the smartphone. (如果你發現智慧型手機有任何瑕疵，應該直接聯繫製造商。)
+* Pray (v.) 祈禱、祈求
+  * 除了宗教意義上的祈禱，也可用於一般的誠心希望。
+  * 常見用法為 `pray to sb` (向某人祈禱)、`pray for sth/sb` (祈求某事、為某人祈禱)。
+  * I pray that you will have pity on my distress. (我請求你可怜可怜我的不幸遭遇。)
+  * Many people pray to Wenchang Dijun for success on the tests. (許多人向文昌帝君祈求考試順利。)
+  * The farmers are praying for rain to save their dying crops from the severe drought. (農民們正祈求降雨，以挽救他們因嚴重乾旱而枯萎的作物。)
+  * Let us pray for the victims of this disaster. (讓我們為這次災難的受害者祈禱。)
+* Tackle (v.) 處理、應對 (困難問題)
+  * The local council is determined to tackle the problem of rising crime in the neighborhood. (地方議會決心處理社區犯罪上升的問題。)
+  * We need a professional team to tackle the technical errors in the communication system. (我們需要一個專業團隊來應對通訊系統中的技術錯誤。)
+
+</details>
+
+<details>
+
+<summary>作文百句 38 片語整理</summary>
+
+## 片語
+
+* Rush to N 趕往...、衝向...
+  * The rescue team rushed to the mountain village after receiving an urgent call for help. (救難隊在接到緊急求救電話後趕往山村。)
+  * Don't rush to a conclusion before you check all the evidence in this case. (在檢查這件案子的所有證據之前，不要急於下結論。)
+* Be late for N ...遲到
+  * If you don't leave home right now, you will definitely be late for the important interview. (如果你現在不出門，你絕對會面試遲到。)
+  * Leo is known for being punctual; he has never been late for a meeting. (Leo 以守時聞名；他從未會議遲到過。)
+* The number of ...的數量
+  * 後面必須接<mark style="color:blue;">**可數複數名詞**</mark>，否則須使用 `the amount of`。因為主詞是「那個數字 (the number)」，所以兩者的動詞搭配皆為<mark style="color:blue;">**單數動詞**</mark>。
+  * The number of students in the class <mark style="color:blue;">**is**</mark> 40. (班級的學生人數是40人。)
+  * The number of COVID-19 patients <mark style="color:blue;">**has**</mark> increased. (新冠病患的數量增加了。)
+  * The amount of time needed <mark style="color:blue;">**is**</mark> limited. (所需的時間有限。)
+  * The amount of water in the bottle <mark style="color:blue;">**is**</mark> small. (瓶子裡水的量很少。)
+
+{% hint style="info" %}
+#### `A number of` vs. `An amount of` 許多
+
+* `a number of` 的意思等同於 `many`，後方必須接<mark style="color:blue;">**可數複數名詞**</mark>。因為主詞是「許多的人/物」，所以動詞搭配為<mark style="color:blue;">**複數動詞**</mark>。
+  * A number of people <mark style="color:blue;">**have**</mark> visited the museum. (有許多人參觀過博物館。)
+  * A number of cars <mark style="color:blue;">**were**</mark> damaged. (許多車子毀損了。)
+* `an amount of` 的意思等同於 `much`，後方必須接<mark style="color:blue;">**不可數名詞**</mark>，動詞搭配為<mark style="color:blue;">**單數動詞**</mark>。
+  * A large amount of money <mark style="color:blue;">**was**</mark> spent on the project. (這項目花費了巨額資金。)
+  * A large amount of water <mark style="color:blue;">**is**</mark> needed. (需要大量的水。)
+{% endhint %}
+
+* Step onto N 踏上...、上 (火車、捷運等)
+  * 指進入大型交通工具或站上某個平面。
+  * The young actor felt incredibly nervous as he stepped onto the stage for the first time. (那名年輕演員第一次踏上舞台時感到無比緊張。)
+  * Please mind the gap between the platform and the train when you step onto the car. (上車時請小心月台與列車之間的空隙。)
+* Prompt sb to VR 促使某人做某事
+  * The beautiful sunset prompted him to take a photo of the fantastic landscape. (美麗的日落促使他拍下這片極佳的風景。)
+  * The mysterious smell in the kitchen prompted Yusuf to check the condition of the stove. (廚房裡神祕的味道促使主公去檢查爐火的狀況。)
+* According to N 根據...、依照...
+  * 用來引述資訊來源或準則。
+  * According to the latest weather report, a severe storm will hit the city this weekend. (根據最新天氣預報，這週末強烈暴風雨將襲擊這座城市。)
+  * The students were organized into different groups according to their levels of English. (學生們根據他們的英文程度被組織到不同的組別。)
+* As time goes by 隨著時間流逝
+  * As time goes by, you will discover that honesty is more important than anything else. (隨著時間流逝，你會發現誠實比任何東西都重要。)
+  * Her wound started to heal as time went by, but the mental scar still remained. (隨著時間流逝她的傷口開始癒合，但心理創傷依然存在。)
+* Get sth under control 控制住某事
+  * 常用於描述疾病、火災或混亂局面得到控制。
+  * It took the firefighters several hours to get the forest fire under control. (消防員花了幾個小時才控制住那場森林大火。)
+  * The company's crisis management team worked hard to get the scandal under control. (公司的危機管理團隊努力工作以控制住這場醜聞。)
+* On top of N 除了...之外 (而且)
+  * 用於補充更強而有力的論點或資訊，通常帶有強調意味。
+  * He is very handsome and rich; on top of that, he is a person of integrity. (他長得帥又富有；除此之外，他還是一個正直的人。)
+  * The hotel was in poor condition and on top of that, the service was absolutely disgusting. (那家飯店狀況很差，而且服務絕對令人反感。)
+* Keep up (+ with N) 跟上...、趕上...
+  * 指保持同樣的速度或水平。
+  * Many small businesses struggle to keep up with the rapid changes in technology. (許多小型企業掙扎著要跟上科技的快速變化。)
+  * I had to run fast to keep up with Alana’s long strides during our morning walk. (在我們晨走期間，我必須跑得很快才能跟上 Alana 的大步。)
+* Place restrictions on N 對...實施限制
+  * 除了 `place`，更正式的法律用語會用 `impose` (強制實行)。
+  * During the dry season, the city placed restrictions on watering lawns to save water. (在旱季期間，這座城市對灌溉草坪實施了限制以節約用水。)
+  * The government decided to impose strict restrictions on international travel to prevent the virus from entering. (政府決定對國際旅行實施嚴格限制，以防止病毒進入。)
+
+</details>
+
+<details>
+
+<summary>作文百句 38 文法整理</summary>
+
+## 文法
+
+### Nothing but 僅僅、只有 / Anything but 一點也不
+
+在這裡，`but` 表「除...外」，意思與 `except` 相似，它後方接的詞性由前面的動詞決定。請注意，`nothing but` 和 `anything but` 的意思完全不同。
+
+#### `but` 的前面<mark style="color:blue;">**有動詞**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`do`**</mark>
+
+此時，`but` 後方必須接 `VR`。`do nothing but VR` 也可以替換成 `do little but VR`，表「除了…之外<mark style="color:blue;">**幾乎**</mark>什麼都沒做」。
+
+* He did nothing but <mark style="color:blue;">**complain**</mark> about the weather all day. (他整天除了抱怨天氣之外什麼也沒做。)
+* The little boy did nothing but <mark style="color:blue;">**cry**</mark> for his mother in the MRT station. (那個小男孩在捷運站除了哭著找媽媽外，什麼也沒做。)
+* There is nothing to do but <mark style="color:blue;">**pray**</mark> for a miracle during the outbreak. (在爆發期間，除了祈禱奇蹟，無事可做。)
+* With the global epidemic spreading, the government could do little but <mark style="color:blue;">**impose**</mark> restrictions. (隨著全球疫情蔓延，政府除了實施限制外，幾乎無能為力。)
+* She could do little but <mark style="color:blue;">**watch**</mark> her smartphone screen go black. (除了看著手機螢幕變黑，她幾乎無能為力。)
+* She does anything but <mark style="color:blue;">**study**</mark> when she is at home. (她在家的時候什麼都做，就是不讀書。) → 也可以翻譯成她在家的時候一點也不讀書。
+* The suspicious stranger did anything but <mark style="color:blue;">**tell**</mark> the truth to the police. (那個可疑的陌生人除了對警察說實話外，什麼都做了。)
+
+#### `but` 的前面<mark style="color:blue;">**沒有動詞**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`do`**</mark>
+
+此時，`but` 後方可以接 N/Adj/V-ing...，端看前面的句子結構需要什麼。
+
+* He is nothing but <mark style="color:blue;">**my friend**</mark>. Don't think too much. (他就只是我的朋友而已。別想太多。) → 句構為「is \_\_\_\_」，所以 `but` 後面可以填入名詞 `my friend`。
+* I want nothing but <mark style="color:blue;">**your love and attention**</mark>. (除了你的愛與關注，我什麼都不想要。) → 句構為「want \_\_\_\_」，所以 `but` 後面可以填入名詞 `your love and attention`。
+* During the quarantine, she thought of nothing but <mark style="color:blue;">**travelling**</mark> across the world.\
+  (在隔離期間，她腦子裡除了環遊世界什麼都沒想。) → 句構為「thought of \_\_\_\_」，所以 `but` 後面可以填入動名詞 `traveling`。
+* The test served as nothing but <mark style="color:blue;">**a practice**</mark>. (這場考試僅僅是作為一次練習而已。) → 句構為「served as \_\_\_\_」，所以 `but` 後面可以填入名詞 `a practice`。
+* He enjoys nothing but <mark style="color:blue;">**playing**</mark> video games. (除了玩電玩，他什麼都不喜歡。) → 句構為「enjoys \_\_\_\_」，所以 `but` 後面可以填入動名詞 `playing`。
+* The food was anything but <mark style="color:blue;">**tasty**</mark>. (這食物一點也不好吃。) → 句構為「was \_\_\_\_」，所以 `but` 後面可以填入形容詞 `tasty`。
+* I find playing video games anything but <mark style="color:blue;">**beneficial**</mark> to me. (我覺得打電玩對我來說一點益處也沒有。) → 句構為「find playing video games \_\_\_\_」(`find + O + OC`)，所以 `but` 後面可以填入形容詞 `beneficial`。
+* He dreams of anything but <mark style="color:blue;">**working**</mark> in a crowded office for the rest of his life.\
+  (他夢想著這輩子除了在擁擠的辦公室工作以外的任何事。) → 句構為「dreams of \_\_\_\_」，所以 `but` 後面可以填入動名詞 `working`。
+* The greedy official wants anything but <mark style="color:blue;">**the truth**</mark> to be reported in the news. (這位貪婪的官員希望新聞報導的不是真相，而是其他任何東西。) → 句構為「wants \_\_\_\_」，所以 `but` 後面可以填入名詞 `the truth`。
+* The result of the experiment was anything but <mark style="color:blue;">**satisfactory**</mark>. (實驗結果一點也不令人滿意。) → 句構為「was \_\_\_\_」，所以 `but` 後面可以填入形容詞 `satisfactory`。
+* All but <mark style="color:blue;">**the elderly**</mark> were required to take the long-distance hike. (除了年長者，所有人都被要求進行長途健行。) → 句構為「\_\_\_\_ were required」，所以 `but` 後面可以填入名詞 `the elderly`。
+* Nobody but <mark style="color:blue;">**Sammy**</mark> knows my password. (除了 Sammy，沒人知道我的密碼。) → 句構為「\_\_\_\_ knows」，所以 `but` 後面可以填入名詞 `Sammy`。
+
+</details>
+
+<details>
+
+<summary>作文百句 38 補充資料</summary>
+
+## 文章分析
+
+本文第一段透過 Sally 睡過頭、趕捷運的日常瑣事，由 Sally 的觀察引出「戴口罩的人數異常增加」這個不尋常的現象。這種寫法能迅速抓住讀者的好奇心——為什麼大家都在戴口罩？接著第二段才正式揭曉背後的科學與社會原因 (流行病爆發)，這種由小見大的寫法非常具有吸引力。
+
+本文還使用了大量的因果連結，如：
+
+* 現象：Poor air quality? → Prompted people to cover faces.
+* 事實：New virus outbreak → Officials warning the public.
+* 結果：High demand for masks → Restrictions on purchase.
+
+這種層層遞進的寫法，能讓文章顯得邏輯嚴密。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Contagious (adj.) 接觸傳染的、(情緒) 具感染力的
+  * The new variant of the virus is highly contagious, prompting the government to raise the alert level. (這種新變種病毒具高度傳染性，促使政府提高警戒級別。)
+  * His laughter was so contagious that soon everyone in the room was smiling. (他的笑聲很有感染力，很快房間裡的每個人都笑了。)
+* Quarantine (n./v.) 隔離
+  * Travelers arriving from high-risk areas were required to undergo a fourteen-day quarantine. (來自高風險地區的旅客被要求進行為期十四天的隔離。)
+  * The entire building was quarantined after a confirmed case was found on the third floor. (在三樓發現確診病例後，整棟建築都被隔離了。)
+* Vaccine (n.) 疫苗
+  * 衍生動詞為 `vaccinate` (接種疫苗)，其名詞形為 `vaccination`。
+  * Scientists worked around the clock to develop an effective vaccine against the global epidemic. (科學家們晝夜不停地工作，以研發對抗全球流行病的有效疫苗。)
+  * Vaccination is considered the most effective measure to protect the elderly from severe illness. (接種疫苗被認為是保護年長者免於重病最有效的措施。)
+* Preventive (adj.) 預防性的
+  * 常用於 `preventive measures` (預防措施)。
+  * Wearing masks and washing hands frequently are essential preventive measures during an outbreak. (在疫情爆發期間，戴口罩和勤洗手是必要的預防措施。)
+  * Regular health check-ups serve as a preventive step to detect potential diseases early. (定期健康檢查是早期發現潛在疾病的預防性步驟。)
+* Sanitizer (n.) 消毒劑、洗手液
+  * `hand sanitizer` 指「酒精搓手液/乾洗手」。動詞為 `sanitize`，其形容詞為 `sanitary`，名詞形為 `sanitization`。
+  * Every MRT station is equipped with alcohol-based hand sanitizers for passengers to use. (每個捷運站都配備了酒精洗手液供乘客使用。)
+  * Using sanitizer can effectively eliminate bacteria on your smartphone screen. (使用消毒劑能有效消除智慧型手機螢幕上的細菌。)
+
+#### 醫療場所相關詞彙
+
+* Ward 病房
+  * 指醫院中放置多張病床的大型空間或病房區域。`general ward` 指普通病房。
+  * There are six elderly patients staying in this ward for long-term observation. (有六位年長病患住在這個病房進行長期觀察。)
+  * The patient was transferred from the ICU to the general ward after his condition stabilized. (病人病情穩定後，從加護病房轉入了普通病房。)
+* Examination room 診間、診查室、體檢室
+  * The nurse asked James to wait in the examination room while the doctor prepared the results. (護士請 James 在診間稍候，醫生正在準備結果。)
+  * Patients often spend most of their time in the examination room. (病人通常把大部分時間花在診查室。)
+* Intensive care unit 加護病房
+  * 縮寫為 `ICU`，指專門照顧重症病患的單位。通常作為可數名詞，使用前加 `the`。&#x20;
+  * She has been in the ICU for three days. (她已經在加護病房住了三天。)
+  * Those with weak immune systems may need to be moved to the ICU if the infection worsens. (那些免疫系統較弱的人如果感染惡化，可能需要轉入加護病房。)
+* Operating room 手術室、開刀房
+  * 縮寫為 `OR`，指進行手術 (`surgery`) 的地方。
+  * The medical staff cleaned the operating room thoroughly to ensure a sanitary environment. (醫護人員徹底清潔了手術室，以確保衛生的環境。)
+  * The patient was rushed to the operating room for emergency surgery. (病人被緊急送往手術室進行手術。)
+* Emergency room 急診室
+  * 縮寫為 `ER`，指專門處理突發、危急的疾病或傷勢的單位。
+  * Nancy was rushed to the emergency room after the car accident. (Nancy 車禍後被緊急送往急診室。)
+  * Please wait outside the emergency room. (請在急診室外等候。)
+
+#### 常見疾病與症狀相關詞彙
+
+通常會寫成 `have a/the + 疾病` 表「得了...」。
+
+* Cold (n.) 感冒
+  * 為<mark style="color:blue;">**可數名詞**</mark>，通常寫 `have/catch a cold` (得了/染上感冒)。也可寫成 `common cold`。
+  * I can't help but sneeze because I caught a cold last night. (我忍不住打噴嚏，因為我昨晚感冒了。)
+  * Symptoms of a cold include a sore throat and a runny nose. (感冒症狀包括喉嚨痛和流鼻水。)
+* Flu (n.) 流感
+  * 為<mark style="color:blue;">**不可數名詞**</mark>，但習慣在前面加 `the`，寫成 `have the flu`。
+  * The flu is much more contagious than a common cold regardless of your age. (不論年齡，流感的傳染性都比普通感冒強得多。)
+  * I think I have the flu. (我覺得我得了流感。)
+* Fever (n.) 發燒
+  * 為<mark style="color:blue;">**可數名詞**</mark>，通常寫 `have/run a fever/temperature`。其中，`run` 更多用來描述體溫起伏的「持續性」發燒。
+  * She has a fever and a sore throat. (她發燒且喉嚨痛。)
+  * The child has been running a fever for three days. (這孩子已經持續發燒三天了。)
+  * The doctor asked Mary to stay in bed because she was running a temperature. (醫生要瑪麗臥床休息，因為她當時正在發燒。)
+* Cough (n./v.) 咳嗽
+  * 當名詞時，為<mark style="color:blue;">**可數名詞**</mark>，通常寫 `have a cough`。
+  * She gave a little cough. (她輕輕咳了一聲)。
+  * Using warm water can help soothe a dry cough caused by poor air quality. (喝溫水能幫助緩解空氣品質差引起的乾咳。)
+  * I've had a cough for a few days. (我咳嗽好幾天了。)
+  * Cover your mouth when you cough. (咳嗽時捂住嘴。)
+* Phlegm (n.) 痰
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。`spit out` / `cough up phlegm` 指「吐掉/咳出痰」。
+  * It is a disgusting habit to spit out phlegm on the floor in public places. (在公共場所隨地吐痰是一個噁心的習慣。)
+  * The patient felt better after coughing up some <mark style="color:blue;">**thick phlegm**</mark>. (病人在咳出一些濃痰後感覺好多了。)
+* Runny nose (n. phr.) 流鼻水
+  * 為<mark style="color:blue;">**可數名詞**</mark>，通常寫 `have a runny nose`。
+  * Besides a slight fever, Sally also has a runny nose and a headache. (除了輕微發燒，莎莉還流鼻水和頭痛。)
+* Stuffy nose / Nasal congestion 鼻塞
+  * `stuffy nose` 較口語，為<mark style="color:blue;">**可數名詞**</mark>，通常寫 `have a stuffy nose`；`nasal congestion` 較正式，為<mark style="color:blue;">**不可數名詞**</mark>。
+  * I couldn't sleep well last night because of my stuffy nose. (我昨晚因為鼻塞睡不好。)
+  * He uses a <mark style="color:blue;">**nasal spray**</mark> to relieve his nasal congestion. (他用鼻噴劑來緩解鼻塞。)
+* Sneeze (n./v.) 打噴嚏
+  * 當名詞時，為<mark style="color:blue;">**可數名詞**</mark>。
+  * He let out a loud sneeze that shocked all the passengers on the MRT car. (他打了一個響亮的噴嚏，嚇到了捷運車廂內的所有乘客。)
+  * She gave a violent sneeze. (她打了一個劇烈的噴嚏。)
+  * He started sneezing violently. (他開始劇烈地打噴嚏。)
+  * The pepper made me sneeze. (胡椒讓我打噴嚏。)
+
+</details>
 
 ## 39.
 
