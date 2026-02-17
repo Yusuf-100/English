@@ -10287,8 +10287,412 @@ Indoors (adv.) 在室內、往室內
 ## 40.
 
 1. One evening, James was at the basketball court <mark style="color:blue;">**working on his shooting skills**</mark> in preparation for a big game the next day. <mark style="color:blue;">**Despite his best efforts**</mark>, his performance was horrible. Disappointed <mark style="color:blue;">**in**</mark> himself, James decided to <mark style="color:blue;">**call it a night**</mark> and went home to get some rest. The next day, he arrived at the gym <mark style="color:blue;">**where**</mark> his teammates and <mark style="color:blue;">**opponents**</mark> were already warming up for the <mark style="color:blue;">**three-on-three**</mark> game.
-2. They took their places on the court, and the game began. The teams were <mark style="color:blue;">**evenly matched**</mark> and by the end of the second half, the score <mark style="color:blue;">**was tied**</mark>. James' teammate passed him the ball. He <mark style="color:blue;">**glanced**</mark> up <mark style="color:blue;">**at**</mark> the game clock and saw that only one second remained. Standing behind the <mark style="color:blue;">**three-point line**</mark>, James doubted if he would <mark style="color:blue;">**make the basket**</mark>, but he knew he had to try. He <mark style="color:blue;">**took the shot**</mark> and watched as the ball <mark style="color:blue;">**sailed through the air**</mark>.
+2. They took their places on the court, and the game began. The teams were <mark style="color:blue;">**evenly matched**</mark> and by the end of the second half, the score <mark style="color:blue;">**was tied**</mark>. James' teammate passed him the ball. He <mark style="color:blue;">**glanced**</mark> up <mark style="color:blue;">**at**</mark> the game clock and saw that there was only one second remaining. Standing behind the <mark style="color:blue;">**three-point line**</mark>, James doubted if he would <mark style="color:blue;">**make the basket**</mark>, but he knew he had to try. He <mark style="color:blue;">**took the shot**</mark> and watched as the ball <mark style="color:blue;">**sailed through the air**</mark>.
 3. Surprisingly, it <mark style="color:blue;">**swished cleanly through the hoop**</mark>, and <mark style="color:blue;">**the crowd erupted into cheers**</mark>. At that moment, the <mark style="color:blue;">**buzzer**</mark> <mark style="color:blue;">**went off**</mark>. James <mark style="color:blue;">**sleepily**</mark> opened his eyes and realized that the sound wasn't a <mark style="color:blue;">**buzzer**</mark> at all; it was just his alarm clock. It had all been a dream.
+
+<details>
+
+<summary>作文百句 40 單字整理</summary>
+
+## 單字
+
+* Court
+  * (n.) 球場
+    * 表「球場」時，通常是指體育球場 (如籃球、網球、羽球)，常用 `on the court` (在球場上)
+    * The basketball court was so crowded that we had to wait for an hour to play. (籃球場人滿為患，我們不得不等了一小時才能上場。)
+  * (n.) 法庭；宮廷
+    * 表「法庭」時，常用 `in court` (出庭、審判中)、`in the court` (在法院中)。
+    * The case was settled out of court to avoid a long and expensive trial. (這宗案件在庭外和解，以避免漫長且昂貴的審判。)
+    * The witness was in court today. (證人今天出庭了。)
+    * She was standing in the court waiting for her case to be called. (她站在法庭內等待她的案件被傳喚。)
+  * (v.) 追求、求愛；招致 (危險、災難)
+    * He spent two years courting the woman who eventually became his wife. (他花了兩年時間追求那個最終成為他妻子的女人。)
+    * Running across the busy highway is courting disaster. (橫穿繁忙的高速公路是在招致災難。)
+* Skill (n.) 技巧、技能
+  * 常見用法有 `skill in/at N/V-ing` (在...的技能)、`the skill to VR` (做...的技能)。
+  * Effective communication skills are essential for building a successful career. (有效的溝通技巧對於建立成功的職業生涯至關重要。)
+  * He has a skill at telling stories. (他很會講故事。)
+  * She has the skill to solve this problem. (她有解決這問題的技術。)
+* Horrible (adj.) 糟糕的、極差的；可怕的
+  * The smell coming from the kitchen was absolutely horrible. (從廚房傳來的味道簡直糟糕透頂。)
+  * I had a horrible day. (我今天過得很糟。)
+  * The accident was a horrible sight. (那場事故真是可怕的景象。)
+* Disappointed (adj.) (人) 感到失望的
+  * 常見用法為 `be disappointed with sth / in sb`  (對某事/某人失望)。`disappointing` 表「(事物) 令人失望的」。
+  * I was deeply disappointed with the quality of the service at that five-star hotel. (我對那家五星級飯店的服務品質感到非常失望。)
+  * Her parents were disappointed in her for lying about her grades. (她的父母因為她謊報成績而對她感到失望。)
+  * Don't be disappointed in yourself; you've done your best. (別對自己感到失望；你已經盡力了。)
+* Rest
+  * (v./n.) 休息
+    * 常見用法為 `take/get a rest`、`rest assured (+ that 子句)` (放心)。
+    * The doctor advised him to rest his injured leg for at least a week. (醫生建議他受傷的腿至少要休息一週。)
+    * After hiking for three hours, we decided to take a short rest under the tree. (健行三小時後，我們決定在樹下休息一下。)
+    * You can rest assured that Alana will always take care of your health. (你可以放心，Alana 一定會照顧好你的健康。)
+  * (n.) 剩餘的部分
+    * 常見用法為 `the rest of N`。接單數名詞時，動詞用單數；接複數名詞時，動詞用複數。
+    * You can eat some of the cookies, but please leave the rest for your brother. (你可以吃一些餅乾，但請把剩下的留給你弟弟。)
+    * The rest of the people are waiting outside. (其他人都在外面等。)
+* Arrive (v.) 到達、抵達
+  * 常用搭配有 `arrive in + 大地方`、`arrive at + 小地方`，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-11-pian-yu-zheng-li)。`arrive at a decision/conclusion` 指「達成決定/結論」。
+  * The train is expected to arrive in Taipei in ten minutes. (火車預計在十分鐘後抵達台北。)
+  * We arrived at the airport early to avoid any last-minute stress. (我們提早到達機場，以避免最後一刻的壓力。)
+  * After hours of discussion, the committee finally arrived at a decision. (經過數小時的討論，委員會終於達成了決定。)
+* Gym (n.) 體育館、健身房
+  * 全名為 `gymnasium`。
+  * The students gathered in the school gym for the opening ceremony. (學生們聚集在學校體育館參加開學典禮。)
+  * Our gym membership includes access to the swimming pool and sauna. (我們的健身房會員資格包括可以使用游泳池和三溫暖。)
+* Teammate (n.) 隊友
+  * Trusting your teammates is the most important part of winning a sports game. (信任隊友是贏得運動比賽最重要的因素。)
+  * She is a reliable teammate who always completes her work on time. (她是一位可靠的隊友，總是準時完成工作。)
+* Opponent (n.) 對手、競爭者；反對者
+  * 指在比賽、爭論或戰鬥中處於對立面的人。
+  * In the upcoming election, he will face a very strong opponent. (在即將到來的選舉中，他將面臨一位非常強大的對手。)
+  * He knocked out his opponent in the fourth round. (拳擊手在第四回合擊倒了對手。)
+  * She is one of the strongest opponents of tax reform. (她是稅收改革最堅定的反對者之一。)
+* Warm
+  * (adj.) 溫暖的；熱情的
+    * A warm cup of coffee is the best companion on a snowy winter morning. (在下雪的冬日清晨，一杯溫暖的咖啡是最好的陪伴。)
+    * They gave us a warm welcome. (他們給我們熱烈的歡迎。)
+  * (v.) (使) 溫暖、熱身
+    * 常用 `warm up` 表熱身、機器預熱、加熱，或在表演前炒熱氣氛。
+    * You should warm the milk slightly before giving it to the baby. (在把牛奶給嬰兒喝之前，你應該稍微將它加熱。)
+    * You should always warm up before exercising. (你運動前都應該熱身。)
+    * I warmed up some rice for dinner. (我熱了些飯當晚餐。)
+    * He was warming the audience up with jokes. (他用笑話炒熱觀眾席的氣氛。)
+* Three-on-three (adj./n.) 三對三的 (比賽)
+  * They decided to organize a three-on-three basketball tournament in the local park. (他們決定在當地公園組織一場三對三籃球錦標賽。)
+  * Playing three-on-three requires more individual skills and better stamina. (打三對三比賽需要更多的個人技巧和更好的體力。)
+* Evenly (adv.) 均勻地、平等地；勢均力敵地
+  * 形容詞為 `even`。
+  * Make sure the butter is spread evenly over the entire surface of the toast. (確保奶油均勻地塗抹在整片吐司表面。)
+  * The prize money was divided evenly among the four winners. (獎金被平均分配給四位獲勝者。)
+* Match
+  * (n.) 比賽；搭配；火柴
+    * 指「比賽」時，常用於球賽。
+    * Did you watch the football match last night? (你昨晚看足球賽了嗎？)
+    * Joe and Emily are a great match! (Joe 和 Emily 真是天生一對！)
+    * Do you have a match? (你有火柴嗎？)
+  * (v.) 搭配、符合；匹敵、比得上
+    * 常見用法為 `A matches B` (相配、相符合)、`match A with B` (將 A 與 B 配對)。
+    * Alana's accessories matched her outfit perfectly. (Alana 的配件跟服飾完美搭在一起。)
+    * You need to match the questions with the correct answers. (你需要把問題跟正確答案配對。)
+    * No one can match his speed. (無人能及他的速度。)
+* Tie
+  * (n.) 平手、不分勝負；領帶
+    * By the end of the second half, the score was a tie, leading to an overtime period. (下半場結束時，比分是平手，導致進入加時賽。)
+    * James wore a silk tie to the formal dinner to look more professional. (詹姆斯在正式晚宴上繫了一條絲綢領帶，看起來更專業。)
+  * (v.) 平手、不分勝負；繫、綁
+    * `tie the knot` 是「結婚」的口語用法。
+    * The two candidates are currently tied in the latest opinion polls. (兩位候選人在最新的民意調查中目前持平。)
+    * He struggled to tie his shoelaces because his fingers were numb from the cold. (他費力地繫鞋帶，因為他的手指凍僵了。)
+    * After dating for five years, they finally decided to tie the knot. (交往五年後，他們終於決定結婚了。)
+* Pass (v./n.) 傳球
+  * 後面常接 `to sb` 表傳球的對象。
+  * He passed the ball to his teammate. (他把球傳給隊友。)
+  * The quarterback made a perfect pass to the receiver for a touchdown. (四分衛完成了一次完美的傳球給接球員，成功達陣。)
+* Clock
+  * (n.) 時鐘、計時器
+    * `against the clock` 指「分秒必爭」；`around the clock` 指「全天候、晝夜不停」。
+    * The doctors are racing against the clock to save the patient's life. (醫生們正分秒必爭地挽救病人的生命。)
+    * The factory workers are working around the clock to meet the high demand. (工廠工人們正晝夜不停地工作以滿足高需求。)
+  * (v.) 打卡上下班
+    * `clock in` 表「打卡上班」；`clock out/off` 表「打卡下班」。
+    * He always clocks in exactly at 8 AM. (他總是準時在早上 8 點打卡上班。)
+    * After I clock off, let's get dinner together! (我下班以後，一起去吃晚餐吧！)
+* Second
+  * (n.) 秒
+    * You only have ten seconds left to solve this math question. (你只剩下十秒鐘的時間來回答這道數學題了。)
+  * (adj.) 第二的
+    * `second to none` 指「首屈一指、不亞於任何人」。`without a second thought` 表「不假思索」、「毫不猶豫」、「沒多想」，與 `without hesitation` 意思相近。
+    * This is my second time visiting Taipei. (這是我的第二次造訪台北。)
+    * Her performance in the competition was second to none. (她在比賽中的表現是首屈一指的。)
+    * She would spend $100 on a dress without a second thought. (她會毫不猶豫地花 100 美元買一條裙子。)
+  * (adv.) 第二地、其次
+    * She finished second in the race. (她在比
+    * 賽中獲得第二名。)
+    * First, we check the quality. Second, we check the quantity. (首先，我們檢查品質。其次，我們檢查數量。)
+  * (v.) (會議中、投票) 附議、贊同
+    * 常見用法為 `second + 某提案/某人`，或用被動式表示。
+    * I would like to second the proposal. (我想附議這項提案。)
+    * The motion was seconded by Mr. Smith. (該提案由史密斯先生附議。)
+* Basket (n.) 籃筐、籃子
+  * `make a basket` 指「投籃得分」；<mark style="color:blue;">**`put all one's eggs in one basket`**</mark> 指「孤注一擲」、「將希望寄託在單一事物上」。
+  * We spent the afternoon picking apples and filling our baskets in the orchard. (我們下午在果園裡摘蘋果，把籃子都裝滿了。)
+  * In investment, it is wise not to put all your eggs in one basket. (在投資中，不把雞蛋放在同一個籃子裡是明智的。)
+* Sail
+  * (v.) 航行；輕快地移動、飛過
+    * `sail across N` 表「航越...」、「穿過...」；`be smooth sailing` 表「一帆風順」、「事情進展順利」。
+    * We sailed from England to New Zealand. (我們從英國航行到紐西蘭。)
+    * The ball went sailing over the fence. (球輕快地飛過了圍欄。)
+    * The boat sailed across the bay at sunset. (船在日落時分駛過海灣。)
+    * After the initial technical problems were fixed, the rest of the project was smooth sailing. (在最初的技術問題修復後，專案剩下的部分便一帆風順了。)
+  * (n.) 帆；一次航行
+    * `set sail` 表「啟航」。
+    * The luxury liner is scheduled to set sail for the Caribbean tomorrow morning. (這艘豪華郵輪預定於明天早晨啟航前往加勒比海。)
+    * It’s a two-day sail to the nearest island. (到最近的島嶼需要兩天航程。)
+* Surprisingly (adv.) 出人意料地、驚人地
+  * The test was surprisingly easy compared with the previous ones. (與之前的測試相比，這次測試出人意料地簡單。)
+* Swish
+  * (v.) (移動時) 發出嗖嗖聲；(籃球) 空心入網
+    * 描述物體快速劃過空氣或液體的聲音。
+    * I could hear the long grass swishing against my boots as I walked through the field. (當我走過田野時，可以聽到長草摩擦我的靴子發出嗖嗖聲。)
+    * The curtain swished open, revealing the breathtaking view of the city at night. (窗簾嗖的一聲拉開，展現出驚人的城市夜景。)
+  * (n.) 沙沙聲、咻咻聲；快速揮動、擺動
+    * The whip made a sharp swish in the air. (鞭子在空中發出尖銳的咻咻聲。)
+    * With a swish of the curtains, the stage was revealed. (幕布唰的一聲拉開，舞台便呈現在眼前。)
+* Cleanly (adv.) 俐落地、乾淨地、整齊地
+  * 形容詞為 `clean`。
+  * The knife sliced cleanly through the tomato without crushing it. (刀子俐落地切開番茄而沒有擠壓到它。)
+  * The politician answered all the difficult questions cleanly and honestly. (那位政治家乾淨俐落且誠實地回答了所有困難的問題。)
+  * He managed to jump over the high fence cleanly on his first attempt. (他第一次嘗試就成功俐落地跳過了高柵欄。)
+* Hoop (n.) 箍、環；(籃球) 籃筐
+  * `jump through hoops` 指「排除萬難」、「費盡千辛萬苦以達成某事」。
+  * The little boy was playing with a <mark style="color:blue;">**hula hoop**</mark> in the backyard. (那個小男孩正在後院玩呼拉圈。)
+  * The gymnast moved through the sequence of hoops with incredible grace. (體操運動員以驚人的優雅姿態穿過一系列圓環。)
+  * To get the scholarship, she had to jump through many hoops and pass several interviews. (為了得到獎學金，她必須排除萬難並通過好幾次面試。)
+* Crowd
+  * (n.) 人群、群眾
+    * 指一群聚集的人，通常視為一個整體，後面接單數動詞。`a crowd of N` 指「一群」，後面接<mark style="color:blue;">**可數名詞**</mark>。
+    * The crowd erupted into cheers the moment the concert began. (音樂會開始的那一刻，人群爆發出歡呼聲。)
+    * With his unique fashion sense, he always <mark style="color:blue;">**stands out from the crowd**</mark>. (憑藉其獨特的時尚感，他總能從人群中脫穎而出。)
+  * (v.) 擠滿、使塞滿
+    * 常見用法為 `be crowded with N`、`crowd into N` (擠進...)、`crowd out N` (擠出...；排擠...)。
+    * Thousands of fans crowded the airport to welcome the singer. (數千名粉絲擠滿了機場來迎接歌手。)
+    * Commuters often have to crowd into the small subway cars during rush hour. (通勤者在尖峰時段經常得擠進狹小的地鐵車廂。)
+    * Large supermarkets often crowd out small local grocery stores. (大型超市經常排擠掉當地的小型雜貨店。)
+* Erupt (v.) 爆發、噴出
+  * 可指火山噴發、突發事件 (戰爭、衝突) 爆發、情緒或聲音 (如歡呼、掌聲) 突然爆發。
+  * The active volcano could erupt at any moment, causing a large-scale evacuation. (這座活火山隨時可能噴發，導致大規模疏散。)
+  * Violence erupted in the city on Friday night. (週五晚上城裡爆發了暴力事件。)
+  * The crowd erupted into applause when the singer appeared. (歌手出現時，人群爆發出掌聲。)
+* Cheer
+  * 形容詞為 `cheerful`；副詞形為 `cheerfully`。
+  * (v.) 歡呼、激勵、喝采
+    * 常見用法為 `cheer sb up` (使...振奮)、`cheer for sb` (為...喝采)。
+    * The crowd began to cheer as soon as the home team entered the stadium. (主場球隊一進入體育場，群眾就開始歡呼。)
+    * We bought some flowers to cheer her up after she failed her driving test. (在她駕照考試沒過後，我們買了些花讓她振奮起來。)
+  * (n.) 歡呼、激勵、喝采
+    * `a cheer` 指一聲歡呼；複數 `cheers` 強調群眾的歡呼聲。
+    * A loud cheer went up from the audience when the magic trick was revealed. (當魔術揭曉時，觀眾席發出了一聲巨大的歡呼。)
+    * The team was greeted with a huge cheer. (球隊受到熱烈的歡迎。)
+* Sleepily (adv.) 睏倦地、想睡地
+  * 形容詞為 `sleepy`。
+  * The toddler rubbed his eyes sleepily while listening to his mother's bedtime story. (小男孩一邊聽著媽媽的床邊故事，一邊睡眼惺忪地揉著眼睛。)
+  * She answered the door sleepily, still wearing her thick pajamas. (她睡眼惺忪地去開門，身上還穿著厚厚的睡衣。)
+* Sound
+  * (n.) 聲音
+    * The sound of the waves crashing against the rocks was very relaxing. (海浪拍打岩石的聲音讓人非常放鬆。)
+  * (v.) 聽起來；使發出聲音、鳴響
+    * Your plan sounds interesting, but we need to consider the potential costs. (你的計畫聽起來很有趣，但我們需要考慮潛在的成本。)
+    * He sounded the car's horn. (他按了汽車喇叭。)
+  * (adj.) 健康的、健全的；完好的；明智的；熟睡的
+    * `safe and sound` 表「安然無恙」；<mark style="color:blue;">**`a sound mind in a sound body`**</mark> (健全的心靈寓於健全的身體)，常用於強調運動、健康飲食對心理健康、智力發展或教育的重要性。常作為教育格言、體育標語或健康倡導詞。
+    * Our company is built on sound financial principles and long-term goals. (我們公司建立在穩健的財務原則和長期目標之上。)
+    * The building is still sound after the earthquake. (地震後這棟建築物依然完好。)
+    * The lawyer presented a sound argument. (律師提出了有力的論點。)
+    * That's a sound piece of advice. (那是一個明智的建議。)
+    * After the long flight, he finally fell into a sound sleep. (長途飛行後，他終於進入了沉睡。)
+    * I start my day with a run, believing in a sound mind in a sound body. (我以跑步開啟新的一天，相信健全的精神寓於健康的身體。)
+* Buzzer (n.) 蜂鳴器、信號鈴
+  * 主要指發出蜂鳴聲的電子訊號裝置、門鈴或警報器。常見搭配為 `press/hit the buzzer` (按蜂鳴器、按門鈴)、`sound the buzzer` (響鈴)。表「鈴響」時，常搭配動詞 `sound` 或片語 `go off`。
+  * I pressed the buzzer to his house and waited. (我按了他家的門鈴，然後等著。)
+  * The security guard will sound the buzzer if he sees any suspicious behavior. (如果保安看到任何可疑行為，他會按警報器。)
+  * The buzzer sounds when the switch is activated. (開關啟動時，蜂鳴器會響。)
+* Alarm
+  * (n.) 鬧鐘、警報；驚恐
+    * 常見用法為 `set an alarm for + 時間` (設鬧鐘)、`raise the alarm` (發出警報)。
+    * I set an alarm for 6:00 AM every morning so I won't be late for work. (我每天早上設 6 點的鬧鐘，這樣上班才不會遲到。)
+    * The neighbors raised the alarm when they saw smoke coming out of the house. (當鄰居們看到房子冒出煙霧時，立刻發出了警報。)
+    * She was filled with alarm when she realized her little sister was missing. (當她意識到妹妹失蹤時，心中充滿了驚恐。)
+  * (v.) 使驚恐
+    * `be alarmed at/by N` (對...感到驚恐)。
+    * Please don't be alarmed by the loud noise; it's just the construction workers. (請不要被那巨大的噪音嚇到，那只是建築工人在施工。)
+
+</details>
+
+<details>
+
+<summary>作文百句 40 片語整理</summary>
+
+## 片語
+
+* Work on sth 從事...、致力於...；改善...
+  * The artist is currently working on a new sculpture for the upcoming exhibition in Paris. (藝術家目前正在為即將到來的巴黎展覽製作一個新雕塑。)
+  * If you want to improve your grades, you need to work on your writing skills every day. (如果你想提高成績，你需要每天加強你的寫作技巧。)
+* In preparation for sth 為了...做準備
+  * The soldiers underwent rigorous physical training in preparation for the dangerous mission. (士兵們為了這項危險任務接受了嚴格的體能訓練。)
+  * She is studying late every night in preparation for the final presentation next Monday. (她每天晚上都讀到很晚，為了下週一的期末簡報做準備。)
+* Despite N 儘管...
+  * 與 `in spite of N` 意思相同。若要接完整子句，須用 `despite (the fact) that S + V` 的形式。
+  * He passed the exam despite his illness. (儘管生病，他還是通過了考試。)
+  * Despite being tired, Alana finished the report. (儘管很累，Alana 還是完成了報告。)
+  * Despite (the fact) that it was raining, we went out. (儘管下著雨，我們還是出去了。)
+* Disappointed in sb/sth 對...感到失望
+  * `disappointed in` 通常接人或人的行為；`disappointed with` 則多接具體事物或結果。
+  * The manager was disappointed in the team's lack of motivation lately. (經理對團隊最近缺乏動力感到失望。)
+  * She was disappointed with her exam grades. (她對自己的考試成績感到失望。)
+* Call it a night 結束這晚、回去休息
+  * 指決定結束當晚的活動 (通常是工作、讀書或派對) 並去睡覺。若是白天則說 `call it a day`。
+  * After studying for six hours, Alana decided to call it a night and went home to get some rest. (讀了六小時書後，Alana 決定結束這晚回家休息。)
+  * The party was great, but it was getting late, so we decided to call it a night. (派對很棒，但時間晚了，所以我們決定結束這晚回去休息。)
+* Warm up 熱身、預熱
+  * You should spend at least ten minutes warming up before you start running. (在開始跑步前，你應該花至少十分鐘熱身。)
+  * The oven needs about five minutes to warm up before you put the cake in. (在把蛋糕放進去之前，烤箱需要大約五分鐘預熱。)
+* Take one's place 就位、入座、取得地位
+  * 指在特定場合中到達指定的位置，或在社會、團隊中取得應有的位置。
+  * The musicians took their places on the stage and the concert finally began. (音樂家們在舞台上就位，音樂會終於開始了。)
+  * After years of hard work, she finally took her place among the top designers in the world. (經過多年的努力，她終於在世界頂尖設計師之林中取得了一席之地。)
+* By the end of sth 在...結束之前、到...結束時
+  * I need to finish this report by the end of the day. (我需要在今天結束前完成這份報告。)
+  * By the end of the year, we will have completed the entire construction project. (到今年年底，我們將完成整個建築專案。)
+  * By the end of the movie, everyone was crying. (電影結束時，大家都哭了。)
+* Make a/the basket 投籃得分、進球
+  * 與 `score` 同義，但更具體描述籃球進入籃框的動作。
+  * James felt a surge of confidence after he made the first basket of the game. (在投進比賽的第一球後，James 感到信心大增。)
+  * The team's strategy was simple: get the ball to the center and let him make the basket. (球隊的策略很簡單：把球傳給中鋒，讓他投籃得分。)
+* Take a/the shot
+  * 投籃、嘗試射門
+    * 在運動中 (如籃球、足球、曲棍球)，指出手或射門的行為，但不一定保證得分。
+    * In the final seconds of the game, James decided to take the shot from the three-point line. (在比賽最後幾秒，James 決定從三分線投籃。)
+    * He took a difficult shot during the soccer match, but the ball hit the crossbar. (他在足球比賽中進行了一次困難的射門，但球撞到了橫樑。)
+  * (按下快門) 拍照
+    * The nature photographer waited patiently for hours just to take a perfect shot of the eagle. (那位自然攝影師耐心等待了數小時，只為了拍下一張老鷹的完美照片。)
+  * 瞄準射擊
+    * The soldier took a shot at the target. (士兵對準目標開了一槍。)
+  * 接種疫苗
+    * I need to take a shot for the flu. (我需要去打流感疫苗。)
+  * 喝一小杯烈酒
+    * 此為口語用法。
+    * I'll take a shot of whiskey. (我點一杯威士忌。)
+  * 嘗試、抓住機會
+    * 常見搭配為 `take a shot at N/V-ing`。
+    * Even if the challenge seems impossible, you should take the shot and see what happens. (即使挑戰看起來不可能，你也應該嘗試看看，看看會發生什麼事。)
+    * I'm not sure if I can fix this broken computer, but I'll take a shot at it anyway. (我不確定能不能修好這台壞掉的電腦，但無論如何我會試試看。)
+* Erupt into N 爆發成...；突然陷入... (某種狀態)
+  * 指本來平靜的局面、情緒或情況，突然轉化為暴力的、激烈的或混亂的狀態。通常用於描寫衝突、騷亂或情緒的瞬間激化。
+  * The whole stadium erupted into cheers when the home team made the final goal. (當主場球隊踢進最後一球時，整個體育場爆發出歡呼聲。)
+  * The peaceful protest suddenly erupted into violence as the police arrived. (當警察抵達時，和平抗議突然演變成了暴力衝突。)
+* Go off
+  * 響起、發出聲響
+    * The fire alarm went off in the middle of the night, causing everyone to run outside. (火警在半夜響起，導致每個人都往外跑。)
+    * My alarm didn't go off this morning. (我鬧鐘今早沒響。)
+  * (食物) 變質
+    * If you leave the milk out in the sun, it will go off quickly. (如果你把牛奶留在太陽下，它很快就會變質。)
+  * 爆炸、槍枝走火
+    * The bomb went off at midday. (炸彈在中午爆炸。)
+    * The gun went off by accident. (槍走火了。)
+  * (燈光) 熄滅、(設備) 停止運作
+    * Suddenly the lights went off. (燈突然熄滅了。)
+    * The heating goes off at night. (暖氣夜間停止供熱。)
+    * She went off to get a drink. (她去拿飲料了。)
+  * 匆匆離開、去往某處
+    * 特別是指為了做某事而離開當前場所。常見搭配為 `go off (to a place) (to do sth)`。
+    * She went off to get a drink. (她拿飲料去了。)
+    * He went off to the library to study. (他離開去圖書館讀書。)
+  * (活動) 進展、進行
+    * The protest march went off peacefully. (抗議遊行和平進行。)
+* Not ... at all 一點也不、完全不
+  * 用於加強否定語氣。
+  * The movie wasn't interesting at all, so we decided to leave before it ended. (這部電影一點也不有趣，所以我們決定在結束前離開。)
+  * This does not make sense at all. (這完全說不通。)
+  * That's not a problem at all. (那根本不是問題。)
+
+</details>
+
+<details>
+
+<summary>作文百句 40 補充資料</summary>
+
+## 文章分析
+
+本文採用標準的記敘文結構，並巧妙運用了夢境作為轉折，讓故事在最高潮時戛然而止，令讀者留下深刻印象。
+
+* 第一段：介紹主角 James 與目前的困境。儘管他努力練習，表現卻不如預期。這為後面的「夢境補償」埋下了伏筆。
+* 第二段：描述關鍵的比賽過程。透過「勢均力敵」與「倒數計時」來營造緊張感。
+* 第三段：球賽進球後的歡呼聲與現實的鬧鐘聲重疊，揭露這一切只是夢境，將讀者從激昂的情緒帶回平靜的現實。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Team spirit 團隊精神
+  * 通常視為<mark style="color:blue;">**不可數名詞**</mark>。
+  * In a three-on-three game, team spirit is just as important as individual shooting skills. (在三對三比賽中，團隊精神與個人投籃技巧一樣重要。)
+  * The teacher emphasized that team spirit is the key to winning the relay race. (老師強調團隊精神是贏得大隊接力的關鍵。)
+* Against all odds 克服萬難、儘管困難重重、力排眾議
+  * 通常指在勝算極低、非常不被看好的情況下取得成功。
+  * Against all odds, the team managed to win the championship in the final minute. (儘管困難重重，這支球隊還是在最後一分鐘贏得了冠軍。)
+  * He succeeded against all odds, proving everyone wrong. (他克服萬難取得成功，證明了所有人都錯了。)
+* <mark style="color:blue;">**A blessing in disguise**</mark> 塞翁失馬，焉知非福
+  * 指起初看起來像是災難或倒霉的事，最終卻帶來了好的結果。
+  * Losing the game was a blessing in disguise, as it taught Paul the importance of teamwork. (輸掉比賽是塞翁失馬，因為這教會了 Paul 團隊合作的重要性。)
+  * Getting rejected by the first team turned out to be a blessing in disguise for his career. (被第一支球隊拒絕結果反而對他的職業生涯來說是件好事。)
+
+#### 與運動相關的詞彙
+
+這些字可能還有別的意思，此處僅專注於和運動相關的部分。如果有喜歡的運動，可以多學習與它相關的專業術語，這能讓你的文章更專業。
+
+* Dribble (v.) 運球、盤球
+  * 指在籃球或足球中，透過拍球或踢球連續移動。
+  * In basketball, you must learn how to dribble the ball without looking down at your hands. (在籃球中，你必須學會如何在不低頭看手的情況下運球。)
+  * The soccer player dribbled past three defenders and finally scored a goal. (那名足球員盤球過掉三名防守球員，最終射門得分。)
+* Rebound (n./v.) 籃板球、搶籃板
+  * 指籃球中，球投丟後從籃框彈回時將其抓下的動作。
+  * The center is responsible for grabbing as many rebounds as possible during the game. (中鋒負責在比賽中抓下盡可能多的籃板球。)
+  * Jimmy jumped high to rebound the ball after his teammate's shot missed. (在隊友投籃沒進後，Jimmy 跳得很高去搶籃板球。)
+* Goal (n.) 射門得分、球門
+  * 用於足球、曲棍球等有球門的運動。
+  * He celebrated wildly after kicking the winning goal in the final minute. (他在最後一分鐘踢進致勝的一球後瘋狂慶祝。)
+* Serve (v./n.) 發球
+  * 常用於網球、羽球、排球。
+  * A powerful serve can often force the opponent to make a mistake. (強而有力的發球往往能迫使對手犯錯。)
+  * It's your turn to serve the ball to the other side of the net. (輪到你把球發到網子的另一邊了。)
+* Spike / Smash (v./n.) 扣殺、殺球
+  * 排球常用 `spike`；網球或羽球常用 `smash`。
+  * The volleyball player made a thunderous spike that the other team couldn't return. (排球運動員完成了一次雷霆萬鈞的扣殺，對方球隊無法回擊。)
+  * She spike the ball with incredible force. (她以不可思議的力量扣球。)
+  * She practiced her smash for hours to ensure it was fast and accurate. (她練習殺球數小時，以確保其快速且精準。)
+  * The tennis player smashed the ball into the corner. (網球選手將球猛力擊向角落。)
+* Pitch (v./n.) 投球
+  * 指棒球中投手 (`pitcher`) 將球投向捕手 (`catcher`) 的動作。`batter` 表「打者」。
+  * The pitcher threw a curveball that completely fooled the batter. (投手投出了一顆完全騙過打者的曲球。)
+  * That was a perfect pitch, right in the strike zone. (那是個完美的投球，就在好球帶內。)
+* Home run (n.) 全壘打
+  * Sam hit a spectacular home run that brought his teammates back to the home plate. (Sam 擊出了一支壯觀的全壘打，帶領隊友們回到本壘。)
+* Strikeout (n.) 三振
+  * 指打者三好球出局。
+  * The crowd erupted into cheers when the pitcher achieved his tenth strikeout of the game. (當投手達成這場比賽的第十次三振時，人群爆發出歡呼聲。)
+* Tournament (n.) 錦標賽、聯賽
+  * 指一系列為了爭奪冠軍而舉行的比賽，通常包含預賽與決賽。
+  * Teams from all over the country gathered to participate in the annual basketball tournament. (來自全國各地的球隊聚集在一起參加一年一度的籃球錦標賽。)
+  * Winning a national tournament requires not only talent but also incredible perseverance. (贏得全國錦標賽不僅需要天賦，還需要驚人的毅力。)
+* Championship (n.) 冠軍地位
+  * 指冠軍的「頭銜」。`champion` 才是指「冠軍」。
+  * Tommy has been training relentlessly in hopes of winning the championship this year. (Tommy 一直在不懈地訓練，希望今年能贏得冠軍。)
+  * The entire city erupted into cheers when their local team secured the championship. (當當地球隊奪得冠軍時，整個城市爆發出歡呼聲。)
+* MVP (n.) 最有價值球員
+  * 全稱為 `Most Valuable Player`。指在一場比賽或一個賽季中表現最傑出的球員。
+  * After making the final shot, James was rightfully named the MVP of the game. (投進最後一球後，James 理所當然地被選為這場比賽的最有價值球員。)
+  * Being the MVP comes with great responsibility and expectations from the teammates. (作為最有價值球員，肩負著巨大的責任和隊友的期望。)
+* Underdog (n.) 不被看好的一方、弱勢者
+  * 指在比賽或競爭中，勝算看起來較低的一方。
+  * Surprisingly, the underdogs managed to beat the defending champions in the second half. (出人意料地，不被看好的一方在下半場成功擊敗了衛冕冠軍。)
+  * Everyone loves a story where the underdog eventually achieves a great victory. (每個人都喜歡一個不被看好的人最終取得巨大勝利的故事。)
+* Substitute (n.) 替補球員
+  * The coach decided to bring in a substitute to give the exhausted players a rest. (教練決定換上替補球員，好讓精疲力竭的球員們休息一下。)
+
+## 寫作建議
+
+書寫與「比賽」相關的文章時，可以參考以下建議。
+
+* 營造緊張感：不要讓主角贏得太輕鬆。可以利用時間限制或比分差距，抓住讀者的注意力。
+* 加入內心想法：在關鍵時刻，可以適當描寫主角的自我懷疑，讓他更像一個真實的人，增加讀者的代入感。
+* 善用狀聲詞與動態動詞：如本文的 `sail through the air`, `swished` 都很有畫面感。這種寫法能讓文章更生動。
+* 雖然「這是一場夢」是很方便的收尾方式，但要小心使用。
+  * 優點：可以跳脫邏輯限制，描寫完美的成功。
+  * 缺點：如果前面鋪陳不夠，讀者會有「被騙了」的感覺。建議像原文一樣，在夢醒後加入主角的心理反應，讓夢境對現實產生意義。
+
+</details>
 
 ## 41.
 
