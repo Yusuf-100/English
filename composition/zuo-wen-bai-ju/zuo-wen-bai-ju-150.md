@@ -2867,7 +2867,7 @@ She plays the piano, and she plays the violin, too.
     * Buying a monthly pass is much more economical than paying for each ride. (買月票比每次乘車付費要實惠得多。)
 * Blow (n.) 打擊；挫折
   * Losing the final game was a big blow to the team's confidence. (輸掉決賽對該隊的信心是一個沉重的打擊。)
-* Authorities (n. pl.) 當局；官方
+* Authority (n.) 當局；官方
   * `The authorities concerned` 表「有關當局」，這個詞相當好用。
   * The health authorities are urging everyone to get vaccinated as soon as possible. (衛生當局正敦促每個人盡快接種疫苗。)
 * Announce (v.) 宣佈、公告
@@ -9512,8 +9512,8 @@ Indoors (adv.) 在室內、往室內
   * It took the firefighters several hours to get the forest fire under control. (消防員花了幾個小時才控制住那場森林大火。)
   * The company's crisis management team worked hard to get the scandal under control. (公司的危機管理團隊努力工作以控制住這場醜聞。)
 * On top of N 除了...之外 (而且)
-  * 用於補充更強而有力的論點或資訊，通常帶有強調意味。
-  * He is very handsome and rich; on top of that, he is a person of integrity. (他長得帥又富有；除此之外，他還是一個正直的人。)
+  * 通常帶有<mark style="color:blue;">**負面**</mark>或強調額外負擔的意味。
+  * On top of the parking fee, I got a ticket. (除了停車費，我還收到一張罰單。)
   * The hotel was in poor condition and on top of that, the service was absolutely disgusting. (那家飯店狀況很差，而且服務絕對令人反感。)
 * Keep up (+ with N) 跟上...、趕上...
   * 指保持同樣的速度或水平。
@@ -10701,11 +10701,736 @@ Indoors (adv.) 在室內、往室內
    &#x20;                                                                                                                                   <mark style="color:blue;">**Yours sincerely,**</mark>\
    &#x20;                                                                                                                                           Paul Adams
 
+<details>
+
+<summary>作文百句 41 單字整理</summary>
+
+## 單字
+
+* Dissatisfaction (n.) 不滿、不平
+  * `dissatisfaction with sb/sth` 指對某人/事感到不滿。反義詞為 `satisfaction`。
+  * The lack of transparency led to widespread dissatisfaction among the employees. (缺乏透明度導致員工之間普遍不滿。)
+  * They expressed strong dissatisfaction with the new policy. (他們對新政策表達了強烈不滿。)
+* Order
+  * (v.) 訂購；命令
+    * I would like to order a large pepperoni pizza for delivery. (我想訂一個大份的臘腸比薩外送。)
+    * The general ordered the soldiers to retreat immediately. (將軍命令士兵立即撤退。)
+  * (n.) 訂單；命令
+    * The company received a massive order for its new smartphones. (公司收到了其新款智慧型手機的大量訂單。)
+    * You must follow the orders of your superior officers. (你必須服從上級長官的命令。)
+  * (n.) 順序、排列
+    * 常用 `in + Adj + order` 表「按...順序」，如 `in alphabetical order` (按字母順序), `in numerical order` (按數字順序、依序)。
+    * Please arrange these files in chronological order. (請將這些檔案按時間順序排列。)
+  * (n.) 秩序、狀態
+    * 常用片語 `out of order` (故障)、`law and order` (法律與秩序)。
+    * The elevator is out of order, so we have to take the stairs. (電梯故障了，所以我們得爬樓梯。)
+    * The police are responsible for maintaining public order. (警察負責維持公共秩序。)
+* T-shirt (n.) T 恤
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`T-shirt` 是無領、無扣的休閒圓領短袖衫；`shirt` 通常指有領、有鈕扣的正式或商務襯衫。
+  * On weekends, I usually wear a simple white T-shirt and jeans. (週末時，我通常穿一件簡單的白色 T 恤和牛仔褲。)
+* Pair
+  * (n.) 一雙、一對、一副
+    * 常見用法為 `a pair of N`。
+    * This pair of scissors is very sharp, so please be careful. (這把剪刀非常鋒利，所以請小心。)
+    * The newly married couple are really a happy pair. (這對新婚夫婦真是快樂的一對。)
+    * James needs a new pair of running shoes for the upcoming marathon. (James 為了即將到來的馬拉松需要一雙新的跑鞋。)
+  * (v.) 配對、與…搭配
+    * 常見用法為 `pair N with N` (將...與...配對、搭配)、`pair up (with sb)` ((與...) 組成搭檔)。
+    * You can pair this wine with seafood. (你可以用這款酒搭配海鮮。)
+    * Pair the red socks with black shoes. (把紅襪子和黑鞋子配成一對。)
+    * We need to pair up to finish this task. (我們需要組成搭檔來完成這個任務。)
+* Glove (n.) 手套
+  * 為<mark style="color:blue;">**可數名詞**</mark>。因為手套通常成對使用，所以常以複數形 `gloves` 出現。若只指其中一隻，則用 `a glove`。
+  * Don't forget to wear your gloves before going out into the snow. (在走進雪地前，別忘了戴上手套。)
+  * I lost one glove on the bus, and now the other one is useless. (我在公車上弄丟了一隻手套，現在另一隻也沒用了。)
+* Wool (n.) 羊毛
+  * 作為材質時為<mark style="color:blue;">**不可數名詞**</mark>。
+  * This sweater is made of pure wool, so it's very warm but expensive. (這件毛衣是由純羊毛製成的，所以很暖和但很貴。)
+  * She bought two wool hats—one for herself and one for her sister. (她買了兩頂羊毛帽，一頂給她自己，一頂給她妹妹。)
+* Previous (adj.) 先前的、之前的
+  * 指在時間、順序或位置上發生在當前之前的。
+  * I cannot attend the meeting because I have a previous engagement at that time. (我無法參加會議，因為我那時已經有先約了。)
+  * In the previous chapter, the author introduced the main characters of the story. (在上一章中，作者介紹了故事的主角們。)
+* Occasion (n.) 場合、時刻、時機
+  * 指特定的時間或事件。表「在...的場合」的介係詞為 <mark style="color:blue;">**`on`**</mark>。
+  * 形容詞為 `occasional` (偶爾的)；副詞形為 `occasionally` (偶爾)。
+  * Graduation is a momentous occasion that you will remember for the rest of your life. (畢業是一個重大的場合，你會餘生難忘。)
+  * This meeting provides an occasion to discuss the issues. (這場會議提供了一個討論問題的時機。)
+  * I only wear a tie on special occasions. (我只在特殊場合才打領帶。)
+* Item (n.) 項目、品項、一件物品
+  * 用於指稱清單上的一項，或是一組物品中的單個個體。`an item of clothing` 指一件衣服；`a news item` 指一則新聞。
+  * There are several items on the shopping list that we still need to find. (購物清單上還有幾項我們需要找的物品。)
+  * Each item in the museum is carefully labeled with its historical background. (博物館裡的每一件物品都貼有詳細的歷史背景標籤。)
+  * She bought three items of clothing yesterday. (她昨天買了三件衣服。)
+* Deliver
+  * (v.) 遞送
+    * The online store promised to deliver the goods within three working days. (這家網購商店承諾在三個工作日內送達商品。)
+    * We deliver fresh pizzas as quickly as possible. (我們儘快外送熱騰騰的披薩。)
+  * (v.) 履行 (承諾)、實現 (目標)
+    * 職場中常用，指完成棘手任務或說到做到。`deliver on a promise` 指「履行諾言 」、`deliver the goods` 指「說到做到」、「達到預期要求」。
+    * I am certain that he will deliver on his promise. (我確信他會履行諾言。)
+    * It's a tough assignment, but he can deliver the goods. (這項任務很棘手，但他能做到。)
+  * (v.) 發表 (演說)
+    * The CEO will deliver a speech at the conference. (執行長將在會議上發表演講。)
+  * (v.) 生下孩子、接生
+    * She delivered her third child at home. (她在自家生了第三個孩子。)
+    * The doctor delivered the baby. (醫生替這嬰兒接生。)
+* Badly
+  * (adv.) 拙劣地；嚴重地
+    * 用來修飾動作做得不好，或是情況損害嚴重。
+    * He plays the violin so badly that the neighbors complained about the noise. (他小提琴拉得太爛了，以至於鄰居們投訴噪音。)
+    * The old bridge was badly damaged by the earthquake and is now closed to traffic. (這座舊橋因地震嚴重受損，目前已封閉交通。)
+  * (adv.) 非常
+    * 常見用法為 `want/need sth badly`。
+    * After the long hike, I badly needed a cold drink and a place to rest. (長途健行後，我非常需要一杯冷飲和一個休息的地方。)
+* Torn (adj.) 撕裂的、破爛的
+  * 為動詞 `tear` 的過去分詞。常用於形容衣物或紙張受損。
+  * One of the gloves I received was badly torn, making it impossible to wear. (我收到的一隻手套嚴重撕裂，導致無法穿戴。)
+  * The torn pages of the old book were carefully repaired by the librarian. (那本舊書撕破的頁面被圖書管理員仔細地修復了。)
+* Exchange (v./n.) 交換、換貨
+  * 常見用法為 `exchange A for B`、[`in exchange for N`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-1-pian-yu-zheng-li)。
+  * The students exchanged ideas during the group discussion. (學生們在小組討論中交換了想法。)
+  * Sammy and Leo exchanged business cards with each other. (Sammy 和 Leo 互相交換了名片)。
+  * I’d like to exchange this for a smaller size. (我想把這個換成較小的尺寸。)
+  * I got a free ticket in exchange for my help. (我因幫忙而得到一張免費票。)
+* Clothing (n.) 衣物、服裝
+  * 這是一個集合名詞，泛指所有的衣服，為<mark style="color:blue;">**不可數名詞**</mark>。如果想表達「一件衣服」，可以寫 `an item of clothing` 或 `a piece of clothing`。
+  * You should pack some warm clothing if you are traveling to the mountains. (如果你要去山區旅行，應該帶些保暖的衣物。)
+  * She is wearing a beautiful piece of clothing. (她穿著一件漂亮的衣服。)
+
+{% hint style="info" %}
+#### 相關詞彙
+
+* Clothes (n.) 衣服
+  * <mark style="color:blue;">**恆為複數**</mark>，且要<mark style="color:blue;">**搭配複數動詞**</mark>。
+  * She spent all her money on new clothes. (她把所有的錢都花在買新衣服上了。)
+  * I'm going to wash my clothes today. (我今天要洗我的衣服。)
+  * These clothes are too small for me. (這些衣服對我來說太小了。)
+* Cloth
+  * (n.) 布、布料、織物
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。
+    * Her dress is made from beautiful cloth. (她的連衣裙是用漂亮的布製成的。)
+    * Cloth is sold by the yard. (這布是按碼出售的。)
+  * (n.) 一塊抹布
+    * 為<mark style="color:blue;">**可數名詞**</mark>。
+    * He's using a red cloth to clean the mirror. (他正用一塊紅色的布在擦拭鏡子。)
+    * Wipe the table with a damp cloth. (用濕布擦桌子。)
+{% endhint %}
+
+* Appreciate
+  * (v.) 感激
+    * 後面必須接 `N`，但<mark style="color:blue;">**不能直接接人**</mark>。
+    * I really appreciate your help. (我很感謝你的幫忙。)
+    * We do appreciate your business. (感謝您的惠顧。)
+    * I would greatly appreciate it if you could send the replacement items as soon as possible. (如果您能儘快寄送更換的品項，我將不勝感激。)
+  * (v.) 欣賞；理解、體認
+    * We went to appreciate the art exhibition. (我們去欣賞藝術展。)
+    * To truly appreciate this painting, you need to understand the historical context behind it. (要真正欣賞這幅畫，你需要了解其背後的歷史背景。)
+    * I appreciate the difficulty of the situation. (我理解這個情況的困難。)
+  * (v.) 增值、升值
+    * 通常用於金融、房地產或資產領域。後方可接 `by + 幅度`。
+    * Most property in this area has appreciated significantly over the past five years. (這個地區的大部分房產在過去五年中都大幅增值了。)
+    * The value of our house has appreciated by 50 percent in the last two years. (我們房子的價值在過去兩年內增值了 50%。)
+* Refund (n./v.) 退款、退費
+  * `partial/full refund` 指「部分/全額退款」。
+  * If the product is defective, customers are entitled to a refund within thirty days. (如果產品有瑕疵，顧客有權在三十天內要求退款。)
+  * The price of the ticket will be refunded. (票款將會被退回。)
+  * We will refund you if the product is defective. (如果產品有缺陷，我們會退款給你。)
+* Partial
+  * (adj.) 部分的、局部的
+    * The company offered a partial solution to the problem, which didn't satisfy everyone. (公司對該問題提供了部分的解決方案，但並未讓所有人滿意。)
+    * He gave only a partial explanation for his absence from the meeting. (他僅對自己未出席會議做出部分解釋。)
+  * (adj.) 偏袒的、偏愛的
+    * 常見用法為 `be partial to sb/sth`。
+    * Don't be too partial to your own child. (別太護著自己的孩子。)
+    * His partial attitude called forth a lot of criticism. (他的偏袒態度招致了不少批評。)
+    * He is very partial to sweets. (他非常偏愛甜食。)
+* Original
+  * (adj.) 最初的、原來的；原創的
+    * Please keep the original receipt in case you need to return the product later. (請保留原始收據，以防日後需要退貨。)
+    * We decided to stick with our original design despite the new suggestions. (儘管有新的建議，我們仍決定堅持最初的設計。)
+    * The movie's plot is very original; I've never seen anything like it before. (這部電影的情節非常有創意，我以前從未看過類似的東西。)
+  * (n.) 原件、原作、原型
+    * The original was lost in a fire. (原作在火災中遺失了。)
+    * This is just a copy. I left the original at home. (這只是複本。我把原檔留在家裡。)
+* Mistake
+  * (n.) 錯誤
+    * 常見用法為 `make a mistake` (犯錯)、`by mistake` (無意中、錯誤地)。
+    * It is a common mistake to believe that money can buy happiness. (認為金錢可以買到幸福是一個常見的錯誤。)
+    * It was a mistake to invite her to the party. (邀請她來派對是一個錯誤。)
+    * I made a mistake in my calculation. (我計算錯誤。)
+    * I'm sorry, I took your umbrella by mistake because it looked exactly like mine. (對不起，我拿錯了你的傘，因為它看起來跟我的一模一樣。)
+  * (v.) 誤認
+    * 常見用法為 `mistake A for B` (把 A 誤認為 B)。
+    * Never mistake kindness for weakness. (別把善良當軟弱。)
+    * People often mistake her for a movie star because of her elegant appearance. (人們常因為她優雅的外表而把她誤認為電影明星。)
+* Delay (n./v.) 延遲、延誤；耽擱
+  * `without delay` 表「毫不耽擱地」、「立即」。
+  * The heavy snow caused a long delay in the delivery of our packages. (大雪導致我們的包裹運送嚴重延誤。)
+  * We must act without delay to prevent the situation from getting worse. (我們必須立即行動，以防情況惡化。)
+  * The train was delayed for two hours due to technical problems on the tracks. (由於軌道技術問題，火車延誤了兩小時。)
+* Contact
+  * (v.) 聯絡、接觸
+    * 後面可直接加人或機構 (不用加 `to/with`)。若要表達「在特定地址聯絡」，則可用 `contact sb at + 聯絡方式/地址`。
+    * If you encounter any technical issues, please contact our support team immediately. (如果您遇到任何技術問題，請立即聯繫我們的支援團隊。)
+    * You can contact me at email@example.com. (你可以透過 email@example.com 聯繫我。)
+  * (n.) 聯絡、接觸
+    * 指通訊方式或人際關係。`contact lens` 表「隱形眼鏡」。`keep in contact with sb` 指與某人保持聯絡。
+    * I have been trying to get in contact with him for weeks, but he hasn't returned my calls. (我幾週來一直試圖與他取得聯繫，但他都沒有回我電話。)
+    * The manager remains in close contact with the overseas branch to monitor the progress. (經理與海外分公司保持密切聯繫以監控進度。)
+* Further
+  * (adj./adv.) 更進一步的、更多的
+    * 為比較級，常用於指「程度」、「時間」等抽象概念上的距離更遠。
+    * Please don't hesitate to call me if you have any further questions regarding the contract. (如果您對合約有任何進一步的疑問，請隨時打電話給我。)
+    * Scientists are conducting further research to find a cure for the rare disease. (科學家正進行進一步的研究，以尋找這種罕見疾病的治療方法。)
+    * We need to investigate further before we can arrive at a final decision. (在做出最終決定之前，我們需要進一步調查。)
+  * (v.) 促進、推動、助長
+    * The government wants to further the development of new technology. (政府想要促進新技術的發展。)
+    * She took the job to further her career in marketing. (她接受這份工作以提升她在行銷領域的職涯。)
+    * He donated money to further his own political interests. (他捐錢是為了助長自己的政治利益。)
+
+{% hint style="info" %}
+#### `Farther`
+
+為比較級，通常僅指「物理」、「地理」上的距離更遠。
+
+* He ran farther than I did. (他跑得比我遠。)
+* The park is farther away than I thought. (公園比我想像的還要遠。)
+{% endhint %}
+
+* Detail
+  * (n.) 細節、詳情
+    * `in detail` 表「詳細地」；`go into detail` 表「詳談」、「深入細節」；`attention to detail` 表「注重細節、細心」，常在履歷、面試或工作評估中用來形容一個人專注且能精確完成任務。
+    * Please provide more details about the project. (請提供更多關於專案的細節。)
+    * The architect explained the design of the building in detail during the meeting. (建築師在會議中詳細解釋了建築的設計。)
+    * I won't go into detail about the case over the phone. (我電話裡就不細說這個案件了。)
+    * She has great attention to detail, which makes her an excellent editor. (她非常注重細節，這使她成為一名優秀的編輯。)
+  * (v.) 詳細說明
+    * The report details the steps the company will take to reduce its carbon footprint. (該報告詳細說明了公司為減少碳足跡將採取的步驟。)
+    * She detailed her plans for the future. (她詳細說明了她對未來的計畫。)
+
+</details>
+
+<details>
+
+<summary>作文百句 41 片語整理</summary>
+
+## 片語
+
+* On + Adj + occasion 在某種特定的場合、在某幾次
+  * On every previous occasion, the restaurant had provided excellent food and service. (在先前的每一次，這家餐廳都提供極佳的食物與服務。)
+  * He has expressed his concerns on many occasions. (他在許多場合表達過他的擔憂。)
+* On time 準時
+  * 指在預定的時間準確發生。注意與 [`in time`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-14-pian-yu-zheng-li) (及時) 的區別。
+  * Despite the heavy rain, the delivery driver managed to arrive on time. (儘管下著大雨，外送員仍設法準時抵達。)
+  * If the project isn't finished on time, we might lose the client's trust. (如果計畫沒有準時完成，我們可能會失去客戶的信任。)
+* A number of N 一些、許多
+  * 後接<mark style="color:blue;">**可數名詞**</mark>，<mark style="color:blue;">**搭配複數動詞**</mark>。
+  * A number of students were absent today due to the sudden flu outbreak. (由於突發的流感，今天有許多學生缺席。)
+  * We encountered a number of challenges while setting up the new equipment. (我們在安裝新設備時遇到了許多挑戰。)
+* Up until now 直到現在
+  * 強調某個狀態持續到目前為止，通常暗示接下來發生了改變。
+  * Up until now, the weather has been perfect for our outdoor wedding. (直到現在，天氣對我們的戶外婚禮來說都非常完美。)
+  * Everything has been going smoothly up until now, but we have hit a small problem. (直到現在一切都很順利，但我們遇到了一個小問題。)
+* Exchange A for B 用 A 交換 B、將 A 換成 B
+  * You can exchange your reward points for a discount on your next purchase. (你可以將獎勵積分兌換成下次購物的折扣。)
+* Make up for N 補償...、彌補...
+  * The company offered a free gift to make up for the long delay in shipping. (公司提供了一份免費禮物，以補償運送上的長時間延誤。)
+  * He worked extra hours on Sunday to make up for the time he took off. (他週日加班以彌補他請假的時間。)
+* Contact 人/機構 at +電話/信箱/地址 透過...聯絡某人/某機構
+  * `at` 在這裡用來銜接具體的聯絡管道。最常見的是接電話號碼、電子郵件地址、具體的地點或分機。
+  * If you have any further questions regarding the contract, please contact our legal department at 02-2345-6789. (如果您對合約有任何進一步的疑問，請撥打 02-2345-6789 聯絡我們的法律部門。)
+  * For more information, please contact the organizer at the email address below. (如需了解更多信息，請透過以下電子郵件地址聯絡主辦單位。)
+  * In case of an emergency, contact the duty officer at 911. (如遇緊急狀況，請撥打911聯繫值班人員。)
+  * For technical support, please contact the help desk at extension 505. (如需技術支援，請聯繫分機 505 的服務台。)
+* For further details 欲知詳情
+  * 在書信或公告結尾常用的正式表達。與 `for more information` (欲知更多資訊) 意思相近。
+  * Please contact our customer service department for further details about the warranty. (關於保固的詳情，請聯繫我們的客戶服務部門。)
+  * For further details, please refer to the instruction manual included in the box. (欲知詳情，請參閱隨盒附上的說明手冊。)
+
+</details>
+
+<details>
+
+<summary>作文百句 41 補充資料</summary>
+
+## 寫作補給站
+
+本文提及了一些服飾，這裡再補充一些生活中常見的服飾英文。
+
+#### 常見服裝
+
+* Shirt (n.) 襯衫
+  * 為<mark style="color:blue;">**可數名詞**</mark>。通常指有領子、扣子的男式襯衫或中性襯衫。
+  * He wore a crisp white shirt and a silk tie for the job interview. (他為了求職面試穿了一件挺括的白襯衫並繫了絲綢領帶。)
+  * The blue shirt matches your eyes perfectly. (這件藍襯衫與你的眼睛完美搭配。)
+* Blouse (n.) 女式襯衫
+  * 為<mark style="color:blue;">**可數名詞**</mark>。特指質地較輕柔、剪裁較具女性美感的上衣。
+  * She chose an elegant silk blouse to wear to the formal banquet. (她選擇了一件優雅的絲綢襯衫穿去參加正式宴會。)
+  * The floral pattern on her blouse reflected her cheerful personality. (她襯衫上的花卉圖案反映了她開朗的個性。)
+* Sweater (n.) 毛衣、針織衫
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * This wool sweater is very warm but feels a bit itchy on my skin. (這件羊毛毛衣很暖和，但穿在皮膚上感覺有點癢。)
+  * She knitted a beautiful sweater as a Christmas gift for her grandfather. (她織了一件漂亮的毛衣作為送給祖父的聖誕禮物。)
+* Hoodie (n.) 連帽衫、帽 T
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指帶有帽子 (`hood`) 的運動款上衣。
+  * James likes to wear a comfortable hoodie when he goes to the gym. (James 去健身房時喜歡穿一件舒適的連帽衫。)
+  * The student wore his hoodie to stay warm in the air-conditioned classroom. (那個學生穿著連帽衫，以便在有空調的教室裡保持溫暖。)
+* Suit (n.) 西裝、套裝
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指由外套與褲子 (或裙子) 組成的成套正式服裝。
+  * The businessman looked very professional in his navy blue suit. (那位商人在他的海軍藍西裝中看起來非常專業。)
+  * A tailor-made suit often fits much better than one bought from a store. (訂製的西裝通常比在店裡買的更合身。)
+* Coat (n.) 外套、大衣
+  * 為<mark style="color:blue;">**可數名詞**</mark>。通常指穿在最外面、長度較長 (通常過腰或及膝) 的保暖衣物。`trench coat` 指「風衣」。
+  * Whenever winter arrives, she brings out her heavy wool coat to stay warm. (每當冬天來臨，她就會拿出厚重的羊毛大衣來保暖。)
+  * The detective was known for wearing a long brown coat even in autumn. (那位偵探以即便在秋天也穿著一件棕色長大衣而聞名。)
+  * James hung his trench coat on the rack near the entrance. (James 將他的風衣掛在入口處附近的架子上。)
+* Jacket (n.) 夾克、短外套
+  * 為<mark style="color:blue;">**可數名詞**</mark>。通常指長度僅及腰部的輕便外套。`denim jacket` 指「牛仔夾克」；`leather jacket` 就是黃仁勳常穿的「皮夾克」。
+  * You should bring a light jacket because the temperature might drop in the evening. (你應該帶件薄夾克，因為傍晚氣溫可能會下降。)
+  * He looked very stylish in his new denim jacket and white T-shirt. (他穿著新的牛仔夾克和白 T 恤看起來非常時髦。)
+  * Jensen Huang’s iconic black leather jacket has become a symbol of his personal brand. (黃仁勳標誌性的黑色皮夾克已成為他個人品牌的象徵。)
+* Down jacket / Puffer jacket (n.) 羽絨衣、羽絨外套
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`Down` 在此指「羽絨」。
+  * A high-quality down jacket is essential for surviving the freezing winters in northern countries. (一件高品質的羽絨衣對於在北方國家的嚴冬中生存至關重要。)
+  * Jason bought a lightweight puffer jacket that can be easily folded into a small bag. (Jason 買了一件輕便的羽絨外套，可以輕鬆摺疊進一個小袋子裡。)
+* Raincoat (n.) 雨衣
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`disposable raincoat` 指「一次性雨衣」；`lightweight raincoat` 指「輕便雨衣」
+  * It's pouring outside, so don't forget to put on your yellow raincoat. (外面下著大雨，所以別忘了穿上你的黃色雨衣。)
+  * This disposable raincoat is lightweight and easy to carry. (這件輕便雨衣很輕，容易攜帶)。
+  * The hikers wore lightweight raincoats to protect themselves from the mountain storms. (登山者穿著輕便雨衣，以保護自己免受山區風暴的襲擊。)
+* Gown (n.) 禮服
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指正式場合穿的長禮服，如 `evening gown` (晚禮服)、`ball gown` (舞會大長裙)。若是男士禮服則常用 `tuxedo` (燕尾服/無尾禮服)，複數形為 `tuxedos`。
+  * The actress wore a stunning diamond-encrusted gown to the Oscar ceremony. (那位女演員穿著一件鑲滿鑽石的絕美禮服出席奧斯卡典禮。)
+  * Every graduate wore a black academic gown during the commencement ceremony. (每位畢業生在畢業典禮上都穿著黑色的學位服。)
+  * She spent months searching for the perfect wedding gown. (她花了幾個月的時間尋找最完美的婚紗禮服。)
+* Dress (n.) 洋裝、連身裙
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * She wore a simple floral dress to the summer picnic. (她穿著一件簡單的花卉洋裝去參加夏季野餐。)
+  * That little black dress is perfect for almost any evening party. (那件小黑裙幾乎適合任何晚會。)
+* Pajamas (n.) 睡衣、睡褲
+  * <mark style="color:blue;">**恆為複數名詞**</mark>。指整套睡衣褲。`sleepwear` 則是<mark style="color:blue;">**不可數**</mark>的集合名詞。
+  * The children put on their colorful pajamas and waited for a bedtime story. (孩子們穿上彩色睡衣，等待著床邊故事。)
+  * I usually wear silk pajamas because they feel very cool and smooth. (我通常穿絲綢睡衣，因為它們感覺非常涼爽滑順。)
+* Cloak / Cape (n.) 斗篷、披風
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`cloak` 通常指有帽子、長度較長且能包裹全身的斗篷；`cape` 則通常較短且不一定有帽子。
+  * <mark style="color:blue;">**Not all heroes wear capes.**</mark> (不是所有英雄都穿著披風)，形容真正的英雄不一定像超人或蝙蝠俠那樣穿著斗篷，通常指在日常生活中默默付出、行善、幫助他人，或是平凡但偉大的無名英雄。
+  * In fantasy novels, mysterious characters often wear long black cloaks to hide their identities. (在奇幻小說中，神祕人物經常穿著長黑斗篷來隱藏身份。)
+  * The superhero’s red cape fluttered heroically in the wind as he flew through the sky. (當超級英雄飛過天空時，他的紅色披風在風中英勇地飄動。)
+
+#### 常見褲裝
+
+褲子因為有兩個褲管，所以<mark style="color:blue;">**恆用複數形**</mark>，並<mark style="color:blue;">**搭配複數動詞**</mark>。計量時須使用 `a pair of`，但以此為主詞時，須搭配單數動詞。
+
+* Pants / Trousers (n.) 長褲
+  * `pants` 是美式說法；`trousers` 是英式說法。
+  * I need to find a pair of pants that is both durable and stylish. (我需要找到一條既耐用又時尚的長褲。)
+  * These pants are too long for me; I need to have them shortened. (這條長褲對我來說太長了；我需要把它改短。)
+* Jeans (n.) 牛仔褲
+  * These jeans were on sale, so I bought two pairs. (這些牛仔褲在特價，所以我買了兩條。)
+  * A pair of blue jeans is a must-have item in everyone's wardrobe. (一條藍色牛仔褲是每個人衣櫃裡的必備單品。)
+* Shorts (n.) 短褲
+  * It's too hot to wear jeans; I think I'll change into my shorts. (穿牛仔褲太熱了；我想我會換上我的短褲。)
+  * He packed three pairs of shorts for his summer vacation in Hawaii. (他為在夏威夷的暑假裝了三條短褲。)
+* Cropped pants (n. phr.) 九分褲 / 七分褲
+  * 九分褲也可以寫 `ankle-length pants` (及踝褲)；七分褲也可以寫 `capri pants` (卡普里褲)。
+  * Cropped pants are very popular during the spring and summer seasons. (九分褲在春夏兩季非常受歡迎。)
+  * These ankle-length pants go perfectly with your new leather shoes. (這條九分褲與你的新皮鞋完美搭配。)
+  * She preferred wearing capri pants while strolling along the beach. (她沿著海灘散步時喜歡穿七分褲。)
+* Sweatpants (n.) 棉褲、運動長褲
+  * 指舒適、通常有縮口或束帶的運動用棉長褲。窄管款也常稱為 `joggers`。
+  * After a long day at work, James loves to change into his soft sweatpants. (工作一整天後，James 喜歡換上他柔軟的棉褲。)
+  * A pair of grey sweatpants is ideal for lounging around the house on Sundays. (一條灰色棉褲非常適合週日在家放鬆。)
+
+#### 常見內衣與配件
+
+* Underwear (n.) 內衣褲
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。包含胸罩、內褲、衛生衣等。計量時須用 `an item of` 或 `a piece of`。
+  * Make sure you have enough clean underwear for the entire trip. (確保你為整個旅程準備了足夠的乾淨內衣褲。)
+  * The store sells comfortable cotton underwear for people with sensitive skin. (這家店為皮膚敏感的人販售舒適的棉質內衣褲。)
+* Bra (n.) 胸罩
+  * 為<mark style="color:blue;">**可數名詞**</mark>。全名為 `brassiere`。`sports bra` 指「運動胸罩」。
+  * It is important to find a bra that provides the right amount of support and comfort. (找到一件能提供合適支撐力與舒適度的胸罩是很重要的。)
+  * She decided to buy a sports bra specifically for her morning yoga sessions. (她決定專門為她的晨間瑜伽課買一件運動胸罩。)
+* Sock (n.) 襪子
+  * 為<mark style="color:blue;">**可數名詞**</mark>。因為通常成對出現，所以常用複數。計量時，常用 `a pair of`。
+  * I can never find a matching pair of socks in the morning. (我早上總是找不到成對的襪子。)
+  * There is a hole in my left sock, so I need to buy a new pair. (我的左腳襪子有個洞，所以我需要買一雙新的。)
+* Stockings / Pantyhose (n.) 絲襪、連褲襪
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`stockings` 通常指長筒襪 (至大腿)；`pantyhose` 或 `tights` 指連褲襪。因為通常成對出現，所以常用複數。計量時，常用 `a pair of`。
+  * I accidentally snagged my stockings, and now there’s a noticeable hole in them. (我不小心勾破了絲襪，現在上面有一個明顯的洞。)
+  * The girl who is dancing is wearing high-waisted pantyhose. (那個跳舞的女孩兒穿着高腰褲襪。)
+* Over-the-knee socks / Thigh-high socks (n.) 過膝長襪、大腿襪
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指長度超過膝蓋、達到大腿高度的長襪。因為通常成對出現，所以常用複數。計量時，常用 `a pair of`。
+  * A pair of over-the-knee socks can add a stylish and youthful touch to a school uniform. (一雙過膝長襪可以為校服增添時尚與青春的氣息。)
+  * Thigh-high socks are perfect for keeping your legs warm while wearing a short skirt in autumn. (秋天穿短裙時，大腿襪非常適合用來保持腿部溫暖。)
+* Scarf (n.) 圍巾、絲巾
+  * 為<mark style="color:blue;">**可數名詞**</mark>，複數形為 `scarves`。
+  * A colorful scarf can brighten up a plain outfit. (一條色彩鮮豔的圍巾可以讓單調的裝扮變得明亮。)
+  * She wrapped a thick wool scarf around her neck to block the cold wind. (她將一條厚羊毛圍巾圍在脖子上以阻擋寒風。)
+* Beanie (n.) 毛帽、針織帽
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`beanie` 特指那種緊貼頭部、通常沒有邊緣的毛帽，而 `knit cap` 是所有針織帽的統稱。
+  * Wearing a beanie can help prevent heat loss from your head during cold weather. (在寒冷的天氣裡戴毛帽可以幫助防止頭部熱量流失。)
+  * She pulled her red beanie down to cover her ears against the biting wind. (她拉下紅色毛帽以遮住耳朵，抵擋刺骨的寒風。)
+
+</details>
+
 ## 42.
 
 1. <mark style="color:blue;">**There's no denying**</mark> that everyone hopes to live in a wonderful environment. We will live an enjoyable life <mark style="color:blue;">**only if**</mark> the environment is <mark style="color:blue;">**free from pollution**</mark>. However, <mark style="color:blue;">**with the rapid development of technology**</mark>, many good values have been <mark style="color:blue;">**distorted**</mark>, and pollution has <mark style="color:blue;">**surfaced**</mark>.
 2. Inordinate <mark style="color:blue;">**deforestation**</mark> has harmed the long-term <mark style="color:blue;">**availability**</mark> of natural resources. Factories keep <mark style="color:blue;">**discharging**</mark> <mark style="color:blue;">**sewage**</mark>, therefore making rivers too dirty for fish to live in. <mark style="color:blue;">**On top of**</mark> that, the amount of trash is getting large. Nothing in the world can disappoint me more than seeing the <mark style="color:blue;">**deterioration**</mark> of the environment.
 3. In order to save our environment from <mark style="color:blue;">**deteriorating**</mark>, never <mark style="color:blue;">**should we neglect**</mark> the following solutions <mark style="color:blue;">**to**</mark> the environmental problems. <mark style="color:blue;">**In the first place**</mark>, <mark style="color:blue;">**the authorities concerned**</mark> must <mark style="color:blue;">**enact harsh laws**</mark> as soon as possible. Additionally, these laws <mark style="color:blue;">**ought to**</mark> <mark style="color:blue;">**be enforced**</mark> strictly and thoroughly. To put it differently, whoever pollutes the environment must <mark style="color:blue;">**be fined**</mark> or even punished. <mark style="color:blue;">**Last but not least**</mark>, the <mark style="color:blue;">**conception**</mark> of loving our Mother Earth must be <mark style="color:blue;">**instilled**</mark> into everyone. It is not until we <mark style="color:blue;">**meet**</mark> the three <mark style="color:blue;">**requirements that**</mark> the environment will be so wonderful that it can be called a paradise.
+
+<details>
+
+<summary>作文百句 42 單字整理</summary>
+
+## 單字
+
+* Wonderful (adj.) 極好的、精彩的、奇妙的
+  * 程度比 `good` 強很多。
+  * It's wonderful to see you. (見到你真是太好了。)
+  * The fireworks display last night was absolutely wonderful; I've never seen anything like it. (昨晚的煙火表演真是精彩絕倫；我從未見過那樣的景象。)
+* Enjoyable (adj.) 令人愉快的、好玩的
+  * 請注意，這是用來形容「事物」，而非「人」的感受。
+  * We spent an enjoyable afternoon chatting and sipping coffee by the river. (我們在河邊聊天、喝咖啡，度過了一個愉快的下午。)
+  * The teacher tried various activities to make learning English more enjoyable for the students. (老師嘗試了各種活動，讓學生學習英文變得更有趣。)
+* Free
+  * (adj.) 免費的
+    * The service is completely free. (這項服務完全免費。)
+    * Customers can get a free dessert if they spend more than fifty dollars. (消費超過五十美元的顧客可以獲得一份免費甜點。)
+  * (adj.) 自由的、不受限的
+    * 常見用法為 `feel free to + VR` (請隨意…、請不吝…)。
+    * The bird is finally free. (鳥終於自由了。)
+    * Please feel free to ask any questions if you are confused about the instructions. (如果你對說明感到困惑，請儘管提問。)
+  * (adj.) 空閒的
+    * Are you free this weekend? (你這週末有空嗎？)
+    * I’ll do it in my free time. (我會利用空閒時間做。)
+  * (adj.) 沒有...的
+    * `free from N` 指「不受...影響、免於...」，強調<mark style="color:blue;">**脫離**</mark>負面情境或有害物質；`free of N` 指「無…的、免於…」，強調<mark style="color:blue;">**沒有**</mark>負面物質、特徵或責任，如 `free of charge` (免付費、無額外費用)。
+    * `smoke-free` 表「無菸」；`sugar-free` 表「無糖」；tax-free 表「免稅的」。
+    * This environment is free from noise pollution, making it a perfect place for meditation. (這個環境沒有噪音污染，是冥想的絕佳場所。)
+    * Alana likes to organize her room to stay free of stress. (Alana 喜歡整理房間以保持無壓力。)
+    * The food should be free of any contaminants. (食物應無任何污染物。)
+  * (adv.) 免費地
+    * The elderly travel free on public transport. (老年人可以免費乘坐公共交通。)
+    * We will install your washing machine for free. (我們將會為您免費安裝洗衣機。)
+  * (v.) 釋放、使獲得自由；解除、使擺脫
+    * The slaves were finally freed after years of struggling for their rights. (在為權利奮鬥多年後，奴隸們終於獲得了自由。)
+    * This cream will free your skin from blemishes. (這款乳霜能讓你的皮膚免於瑕疵。)
+* Pollution (n.) 污染
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。常見搭配有 `air/water/noise pollution`。動詞形為 `pollute`。
+  * Noise pollution in the city can cause stress and sleeping problems for many residents. (城市的噪音污染會給許多居民帶來壓力與睡眠問題。)
+  * The new law aims to reduce plastic pollution in our oceans. (新法律旨在減少我們海洋中的塑料污染。)
+* Rapid (adj.) 快速的、迅速的
+  * The company has experienced rapid growth over the past three years due to its innovative products. (由於產品創新，該公司在過去三年中經歷了快速增長。)
+  * We must adapt to the rapid changes in technology to stay competitive in the market. (我們必須適應科技的快速變化，以在市場中保持競爭力。)
+* Development (n.) 發展、成長；新進展、新情況
+  * 指發展的「過程」或「行為」時，為<mark style="color:blue;">**不可數名詞**</mark>；指發展過程中出現的「新事物」、「新進展」時，為<mark style="color:blue;">**可數名詞**</mark>。
+  * `research and development` (`R&D`) 表「研發」，指企業或組織為開發新產品、技術或改善現有服務而進行的系統性工作；`sustainable development` 指「永續發展」。
+  * The development of a child's brain is heavily influenced by their early environment. (兒童大腦的發展受早期環境的影響很大。)
+  * Scientists are closely monitoring the latest developments in the search for a cure. (科學家正密切監測尋找治療方法方面的最新進展。)
+  * The local government is planning a new housing development near the park. (當地政府正計畫在公園附近建設一個新的住宅開發案。)
+* Technology (n.) 科技、技術、工藝
+  * 指某種特定的技術、設備或方法時，為<mark style="color:blue;">**可數名詞**</mark>。其他情況下為不可數名詞。
+  * `state-of-the-art technology` 表「最先進的 (`SOTA`)」技術；`modern technology` 指「現代科技」。
+  * Technology has fundamentally changed the way we communicate and work in the 21st century. (科技從根本上改變了我們在 21 世紀溝通與工作的方式。)
+  * The university is investing millions in new technologies for renewable energy. (這所大學正投入數百萬美元研發再生能源的新技術。)
+* Distort (v.) 扭曲、歪曲
+  * The funhouse mirror distorted her reflection. (哈哈鏡扭曲了她的倒影。)
+  * Some media outlets tend to distort the truth to gain more viewers. (一些媒體機構傾向於歪曲事實以獲得更多觀眾。)
+  * High volume can distort the sound coming from the speakers. (音量過高會使揚聲器傳出的聲音失真。)
+* Surface
+  * (v.) 浮出水面、顯露、露面
+    * The submarine surfaced after three days of underwater operations. (潛水艇在水下作業三天後浮出了水面。)
+    * Reports of the scandal began to surface recently. (該醜聞的報導最近開始浮現。)
+    * She didn't surface until noon. (她直到中午才露面。)
+  * (n.) 表面、表層、外觀
+    * The table has a smooth, shiny surface. (桌子表面光滑發亮。)
+    * Tropical rainforests cover around 3% of the Earth's surface. (熱帶雨林佔了地表3%的面積。)
+* Inordinate (adj.) 過度的、不節制的
+  * He spent an inordinate amount of time playing video games instead of studying. (他花了過多的時間玩電動遊戲而不是讀書。)
+  * The company was criticized for charging inordinate prices for basic necessities. (該公司因對基本生活用品收取過高價格而受到批評。)
+* Deforestation (n.) 砍伐森林、毀林
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。反義詞為 `reforestation`。
+  * Deforestation is one of the main causes of global warming and loss of biodiversity. (砍伐森林是全球暖化與生物多樣性喪失的主要原因之一。)
+  * Many animal species are losing their habitats due to massive deforestation. (許多動物物種正因大規模砍伐森林而失去棲息地。)
+  * The company promotes sustainable agriculture and reforestation in the region. (該公司在該地區推動永續農業與重新造林。)
+* Long-term (adj.) 長期的
+  * 為複合形容詞，通常放在名詞前。
+  * Setting long-term goals is essential for building a successful career path. (設定長期目標對於建立成功的職業生涯至關重要。)
+  * Doctors are still studying the long-term effects of this medication on the human body. (醫生們仍在研究這種藥物對人體的長期影響。)
+  * 片語 `in the long term` 指「長遠來看」。
+    * Although it's expensive now, this investment will be profitable in the long term. (雖然現在很貴，但長遠來看這項投資會是獲利的。)
+* Availability
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。形容詞為 `available`。
+  * (n.) 可獲得性、可用性
+    * 指某物是否可以買到、用到。常見用法為 `availability of N`。`be subject to availability` 表「取決於是否有貨、名額」。
+    * The availability of clean water is a major concern in many developing nations. (清潔水源的可獲得性是許多發展中國家主要擔憂的問題。)
+    * Please <mark style="color:blue;">**check the availability**</mark> of the meeting room. (請確認會議室的可用性。)
+    * All of our special offers are subject to availability. (我們所有的特價優惠均視庫存情況而定。)
+  * (n.) (人) 空閒時間、空檔
+    * 指某人是否有空。
+    * Having a flexible job allows me to increase or decrease my hours depending on my availability. (擁有一份彈性的工作讓我能根據我的時間安排來增加或減少工時。)
+* Natural
+  * (adj.) 自然的、天然的；理所當然的
+    * This juice is made from 100% natural ingredients with no added sugar. (這款果汁由 100% 天然成分製成，不添加糖。)
+    * It is natural that you feel nervous before making a big presentation. (在做重要演講之前感到緊張是很正常的。)
+  * (n.) 天賦異稟的人
+    * 後面常接 `at sth`。
+    * When it comes to playing the piano, Alana is a natural at it. (說到彈鋼琴，Alana 真是個天才。)
+* Resource (n.) 資源；財富；才智
+  * <mark style="color:blue;">**通常寫成複數形**</mark> (`resources`)。`natural resources` 指「自然資源」；`human resources` 指「人力資源；人事部」；`a man of resources` 指「足智多謀的人」。
+  * The country is rich in natural resources such as coal, oil, and iron ore. (該國擁有豐富的自然資源，如煤、石油和鐵礦石。)
+  * Teachers often lack the necessary resources to support students with special needs. (老師們往往缺乏必要的資源來支持有特殊需求的學生。)
+  * During the crisis, he had to rely on his own internal resources to survive. (在危機期間，他必須依靠自己的內在應變能力來生存。)
+* Factory (n.) 工廠
+  * The government has ordered several old factories to stop production until they can reduce their carbon emissions. (政府已下令幾家舊工廠停產，直到他們能減少碳排放為止。)
+  * Working in a shoe factory can be quite exhausting because of the repetitive nature of the tasks. (在鞋廠工作可能相當疲憊，因為任務具有重複性。)
+* Discharge
+  * (v./n.) 排放
+    * 常用於指排放液體、氣體或電力。
+    * It is strictly forbidden to discharge toxic chemicals into the public drainage system. (嚴禁向公共排水系統排放有毒化學品。)
+    * The illegal discharge of industrial waste has led to a major environmental crisis in this region. (非法排放工業廢物已導致該地區嚴重的環境危機。)
+  * (v./n.) 出院
+    * 常寫成 `be discharged from (the hospital)`。
+    * The doctor said I can be discharged next week. (醫生說我下週可以出院。
+    * The doctor will authorize your discharge from the hospital as soon as your fever goes down. (一旦你的燒退了，醫生就會批准你出院。)
+  * (v./n.) 解僱、解除職務；退伍；釋放
+    * 指解除某人的職務、工作或解除合約責任。常見用法為 `be discharged from N`。
+    * He was discharged from his post for misconduct. (他因不當形為而被解除了職務。)
+    * He received an honorable discharge from the army. (他獲得光榮退伍。)
+    * She was given a <mark style="color:blue;">**conditional discharge**</mark>. (她被判有條件釋放。)
+  * (v.) 履行 (責任)
+    * 指完成義務、任務或支付債務。`discharge a debt` 指「清償債務」。
+    * He discharged his duty responsibly. (他負責任地履行了他的職責。)
+* Sewage (n.) 汙水、廢水
+  * 尤指來自家庭或工廠的排泄物與廢水。為<mark style="color:blue;">**不可數名詞**</mark>。
+  * The factory was fined for discharging untreated sewage into the local river. (該工廠因向當地河流排放未經處理的汙水而被罰款。)
+  * A proper sewage system is essential for maintaining public health in a city. (完善的汙水系統對於維持城市的公共衛生至關重要。)
+* Therefore (adv.) 因此、所以
+  * 意思與 [`thus`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-23-dan-zi-zheng-li) 相同。
+  * The candidate failed to meet the minimum requirements. Therefore, his application was rejected. (該候選人未能達到最低要求。因此，他的申請被拒絕了。)
+  * Our team worked through the night and therefore managed to finish the project ahead of schedule. (我們團隊通宵工作，因此設法提前完成了計畫。)
+* Dirty
+  * (adj.) 骯髒的、不公平的
+    * 除指實際上的髒，也可用於描述手段卑鄙或言詞下流。
+    * The river water has become too dirty for local residents to use for washing or drinking. (河水已經變得太髒，以至於當地居民無法將其用於洗滌或飲用。)
+    * In politics, some people are willing to play a dirty game just to stay in power. (在政治中，有些人為了保住權力不惜玩弄卑鄙的手段。)
+    * He told a dirty joke. (他講了一個下流笑話。)
+  * (v.) 弄髒
+    * Please take off your muddy boots so you don't dirty the carpet in the living room. (請脫下你沾滿泥土的靴子，以免弄髒客廳的地毯。)
+* Disappoint (v.) 使失望、使幻滅
+  * I'm sorry to disappoint you, but the restaurant you recommended is closed for renovation. (很抱歉讓你失望，但你推薦的那家餐廳因裝修而關閉了。)
+  * The young athlete promised not to disappoint his fans in the upcoming Olympic games. (這位年輕運動員承諾不會在即將到來的奧運會中讓他的粉絲失望。)
+* Deterioration (n.) 惡化、變壞
+  * 常用於健康、氣候或物質狀況。為<mark style="color:blue;">**不可數名詞**</mark>。`deterioration of N` 指某事物的惡化；`deterioration in N` 指某方面的惡化。
+  * The doctor is concerned about the sudden deterioration of the patient's condition. (醫生對病人狀況的突然惡化感到擔憂。)
+  * I felt a deterioration in my physical strength. (我感到體力退化。)
+  * Deteriorate (v.) 惡化、變壞
+    * 後面常接 `into N` 表惡化成...、演變成... (糟糕、衝突的狀況)。
+    * His health has slowly deteriorated over the past few months. (他過去幾個月健康緩慢惡化。)
+    * The discussion deteriorated into a bitter quarrel. (討論演變成激烈的爭吵。)
+* Following
+  * (adj.) 接下來的
+    * Please answer the following questions. (請回答下列問題。)
+    * She left for Paris the following day to attend her best friend's wedding. (隔天她出發前往巴黎參加她好友的禮禮。)
+  * (n.) 下列事物 (`the following`)
+    * `following` <mark style="color:blue;">**本身視為不可數**</mark> (<mark style="color:blue;">**不加**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`s`**</mark>)，但其後<mark style="color:blue;">**動詞單複數取決於所列舉的內容**</mark>。
+    * Please read the following carefully. (請仔細閱讀下述內容。)
+    * The following is a list of participants. (下列是參加者名單。) → `a list` 為單數，所以動詞用 `is`。
+    * The following are the essential items you need to bring for the three-day camping trip. (以下是你在為期三天的露營旅行中需要帶的必備物品。) → `essential items` 為複數，所以動詞用 `are`。
+  * (prep.) 在...之後
+    * 意思相當於 `after`。
+    * Following the meeting, we went to dinner. (會議之後我們去吃飯。)
+    * Following the global pandemic, many companies have adopted a more flexible remote work policy. (在全球流行病之後，許多公司採取了更靈活的遠端辦公政策。)
+* Enact (v.) 制定 (法律)、通過 (法案)
+  * The legislature is expected to enact a new law to improve animal welfare. (立法機關預計將制定一項新法律以改善動物福利。)
+  * It took years of protesting before the government finally enacted the reform. (經過多年的抗議，政府最終才通過了這項改革。)
+* Harsh (adj.) 嚴厲的、嚴酷的；刺耳的、刺眼的
+  * The government was criticized for its harsh treatment of the protesters last week. (政府因上週對抗議者的嚴厲對待而受到批評。)
+  * Living in the Arctic is a challenge due to the harsh climate and lack of resources. (由於氣候嚴酷且缺乏資源，居住在北極是一個挑戰。)
+  * The designer suggested changing the bulbs because the light in the office was too harsh. (設計師建議更換燈泡，因為辦公室的光線太刺眼了。)
+* Law
+  * (n.) 法律、法規
+    * 指整體的法律體系或法律專業時，為<mark style="color:blue;">**不可數名詞**</mark>。其他情況下為可數名詞。
+    * It is against the law to drive a car without a valid license in this country. (在這個國家，無照駕駛是違法的。)
+    * The parliament is planning to pass a new law to protect personal data online. (議會正計畫通過一項新法律來保護網路個人數據。)
+  * (n.) 定律
+    * Newton's laws of motion explain how objects move under the influence of forces. (牛頓運動定律解釋了物體在力的影響下如何運動。)
+* Enforce (v.) 強制執行、使遵守 (法律、規則)
+  * 主詞通常是權威機構 (如警察或政府)，受詞是法律、規則或決定。
+  * The police are here to enforce the speed limit and ensure road safety. (警察在這裡是為了執行速限並確保道路安全。)
+  * It is difficult to enforce international agreements without a central authority. (沒有中央權威機構，國際協議很難強制執行。)
+* Strictly (adv.) 嚴格地、嚴厲地；完全地
+  * `strictly speaking` 表「嚴格來說...」。形容詞為 `strict`。
+  * All laboratory safety protocols must be strictly followed to avoid accidents. (所有的實驗室安全協議必須被嚴格遵守以避免事故。)
+  * This area is strictly for staff members only; visitors are not allowed. (此區域嚴格僅限員工進入；訪客不得進入。)
+  * Strictly speaking, a tomato is a fruit, even though we often treat it as a vegetable. (嚴格來說，番茄是水果，儘管我們常把它當作蔬菜。)
+* Thoroughly (adv.) 徹底地、詳盡地；非常、完全
+  * Please read the contract thoroughly before you sign your name at the bottom. (在你在底部簽名之前，請徹底閱讀合約。)
+  * The detectives searched the house thoroughly but found no evidence of a crime. (偵探們徹底搜查了房子，但沒發現犯罪證據。)
+  * After the long hike, I thoroughly enjoyed the hot shower and a warm meal. (在長途健行後，我非常享受熱水澡和熱騰騰的飯菜。)
+* Fine (v.) 處以罰金
+  * 指因違法或違反規則而正式收取的金錢懲罰。常見用法為 `fine sb for sth` 或 `be fined + 金額`。
+  * The city council decided to fine residents who do not recycle their household waste properly. (市議會決定對未正確回收生活垃圾的居民處以罰款。)
+  * Jimmy was fined $200 for parking his car in a designated emergency zone. (Jimmy 因將車停在指定的緊急區域而被罰款 200 美元。)
+* Conception
+  * (n.) 概念、見解
+    * 為<mark style="color:blue;">**可數名詞**</mark>。指對某事物的<mark style="color:blue;">**主觀**</mark>理解，或想法、計畫的萌芽。`concept` 則指一個<mark style="color:blue;">**客觀**</mark>的、通用的概念或理論。
+    * Our conception of privacy has changed significantly with the rise of social media. (隨著社群媒體的興起，我們對隱私的見解發生了顯著變化。)
+    * The project was complex from its initial conception to its final execution. (這個專案從最初的構想到最終的執行都非常複雜。)
+  * (n.) 懷孕、受孕
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。指生命開始的過程。
+    * The doctor explained that the baby's health can be influenced even before conception. (醫生解釋說，寶寶的健康甚至在受孕前就會受到影響。)
+* Mother Earth (n. phr.) 大地之母、地球
+  * 這是對地球的擬人化稱呼。為了表示尊重並將其視為專有名詞，<mark style="color:blue;">**兩個單字的首字母都必須大寫**</mark>。相似用法的字有 `Mother Nature` (大自然)
+  * We must learn to live in harmony with Mother Earth before it's too late. (我們必須學會與大地之母和諧共處，以免為時已晚。)
+  * Mother Nature showed her terrifying power during the massive hurricane last month. (大自然在上個月的大型颶風中展現了她可怕的力量。)
+* Instill (v.) 灌輸、注入
+  * 常搭配 `instill sth in/into sb`。指逐漸將觀點、態度或價值觀灌輸給他人。
+  * Parents try to instill a sense of responsibility into their children from a young age. (父母試圖從小培養孩子們的責任感。)
+  * The coach wanted to instill confidence into the team after their recent defeat. (教練想在球隊最近的失敗後為他們灌輸信心。)
+* Requirement (n.) 要求、規定、必要的條件
+  * 為<mark style="color:blue;">**可數名詞**</mark>。常搭配動詞 `meet`/`satisfy` (符合要求)。
+  * The applicant must meet all the minimum requirements to be considered for the position. (申請人必須符合所有最低要求，才能被考慮錄用該職位。)
+  * It is a legal requirement for all passengers in the vehicle to wear their seatbelts. (車內所有乘客都必須繫好安全帶，這是法律規定。)
+  * The new software update has higher hardware requirements than the previous version. (新的軟體更新比舊版本有更高的硬體要求。)
+
+</details>
+
+<details>
+
+<summary>作文百句 42 片語整理</summary>
+
+## 片語
+
+* Be free from N 免於...、脫離... (負面事物)
+  * Every citizen has the right to live a life that is free from fear and violence. (每位公民都有權過上免於恐懼與暴力的生活。)
+  * He was happy to be free from pain. (他很高興不再受痛苦折磨。)
+* Save A from B 解救 A 免於 B
+  * The new laws were enacted to save the endangered species from extinction. (制定新法律是為了保護瀕危物種免於滅絕。)
+  * A quick-thinking neighbor managed to save the family from the burning house. (一位反應迅速的鄰居設法將這家人從著火的房子中救了出來。)
+* Solution to N/V-ing ...的解決方法
+  * 這類表示「對應、解答、關鍵」的名詞，慣用法都是搭配 `to N/V-ing` 而非 `of`。相似用法的片語還有 `answer to N` (...的答案、回應), `key to N` (...的關鍵、秘訣), `response to N` (對...的反應), `guide to N` (...的指南)。
+  * There is no easy solution to the problem of plastic pollution in our oceans. (海洋塑膠污染問題沒有簡單的解決方法。)
+  * Scientists are working hard to find an effective solution to preventing the spread of the virus. (科學家們正在努力尋找有效方法來阻止病毒的傳播。)
+  * Continuous practice is the only key to mastering a new language. (不斷練習是掌握一門新語言的唯一關鍵。)
+* In the first place
+  * 首先、第一點
+    * In the first place, we don't have enough money to buy such an expensive car. (首先，我們沒有足夠的錢買這麼貴的車。)
+  * 當初、一開始、原本
+    * If you didn't want to help, you shouldn't have agreed to do it in the first place. (如果你不想幫忙，當初就不應該答應去做。)
+    * I never wanted to come here in the first place. (我當初根本就不想來這裡。)
+* To put it differently 換句話說、換個說法
+  * The company is suffering from a lack of funds; to put it differently, we are broke. (公司正遭受資金短缺之苦；換句話說，我們破產了。)
+  * He is not very good at expressing his feelings. To put it differently, he is a shy person. (他不太擅長表達感情；換句話說，他是個害羞的人。)
+* Last but not least 最後 (但同樣重要地)
+  * 常用於清單的最後一項，強調其重要性並不亞於前面的項目。
+  * Last but not least, I would like to thank my parents for their constant support. (最後但同樣重要地，我要感謝我的父母一直以來的支持。)
+  * The hotel offers great food, a gym, and last but not least, a beautiful view of the ocean. (飯店提供美味的食物、健身房，最後同樣重要的，還有絕美的海景。)
+* Instill sth in/into sb 在...身上灌輸... (觀念、價值觀、感情)
+  * My parents always tried to instill a sense of discipline into us through daily chores. (我的父母總是試圖透過日常家務在我們身上灌輸紀律感。)
+  * The military training is designed to instill absolute loyalty into the new recruits. (軍事訓練旨在為新兵灌輸絕對的忠誠。)
+  * Good teachers strive to instill a love of learning in their students from a young age. (優秀的老師努力從小在學生心中灌輸對學習的熱愛。)
+* Meet the requirement 符合要求、規定
+  * 其他常見的動詞搭配有 `satisfy` (滿足), `match` (符合), `fulfill` (履行、完成), `comply with` (遵守)。
+  * Does this apartment meet the requirements of your growing family? (這間公寓符合你日益壯大的家庭需求嗎？)
+  * To graduate, every student must fulfill the requirements set by the university. (為了畢業，每位學生必須完成大學設定的要求。)
+  * The new factory was built to comply with the strict environmental requirements. (這座新工廠是為了遵守嚴格的環境要求而建造的。)
+
+</details>
+
+<details>
+
+<summary>作文百句 42 文法整理</summary>
+
+## 文法
+
+* `There's no denying that + S + V` 無可否認...
+  * 用於引導一個顯而易見、大家公認的事實。與 `there's no doubt that` 用法相同。
+  * There's no denying that technology has significantly improved our standard of living. (無可否認，科技顯著提高了我們的生活水準。)
+  * There's no denying that she is the most talented musician in the entire orchestra. (無可否認，她是整個管弦樂團中最具才華的音樂家。)
+* `Only if` 唯有...
+  * 結構為 `S + V + only if + S + V`，表僅有在子句的條件成立時，主句的情況才會成真。若將 `only if` 提到句首，則<mark style="color:blue;">**主句**</mark> (不是子句) <mark style="color:blue;">**須倒裝**</mark>，結構為 `Only if + S + V + 助動詞 + S + VR`。
+  * We can save our planet from global warming only if we reduce carbon emissions. = Only if we reduce carbon emissions <mark style="color:blue;">**can**</mark> we <mark style="color:blue;">**save**</mark> our planet from global warming. (唯有減少碳排放，我們才能將地球從全球暖化中解救出來。)
+  * The pollution problem will be solved only if the laws are strictly enforced. = Only if the laws are strictly enforced <mark style="color:blue;">**will**</mark> the pollution problem <mark style="color:blue;">**be**</mark> solved. (唯有法律被嚴格執行，污染問題才會被解決。)
+
+</details>
+
+<details>
+
+<summary>作文百句 42 補充資料</summary>
+
+## 文章分析
+
+在本文第一段，作者先描述願景 (`everyone hopes to live in a wonderful environment`) 與現實 (價值觀扭曲與污染) 的衝突。接著，作者在第二段，從森林 (過度砍伐)、水資源 (工廠排放汙水)、廢棄物 (垃圾量激增) 等三個面向，列舉具體的問題，並使用 `disappoint...` 強調其痛心的感受。最後，作者在第三段，從法律 (政府制定嚴法)、執行 (嚴格執法)、觀念 (教育與價值觀灌輸) 等三個層面，提出具體解決方案，邏輯相當清晰。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Sustainable (adj.) 永續的、可持續的、能長期維持的
+  * 常用於環保、經濟和能源發展的議題。常見的搭配有 `sustainable development` (發展)/`energy` (能源)`/material` (材料)。
+  * Achieving sustainable development requires a delicate balance between economic growth and environmental preservation. (實現永續發展需要在經濟增長與環境保護之間取得微妙的平衡。)
+  * Using sustainable materials reduces environmental impact. (使用永續材料可以減少對環境的影響。)
+* Disposable (adj.) 一次性的、用完即丟的
+  * To protect Mother Earth, we should avoid using disposable plastic straws and bags whenever possible. (為了保護大地之母，我們應該盡可能避免使用一次性塑膠吸管與提袋。)
+  * The hospital uses disposable medical supplies to ensure the highest level of hygiene and patient safety. (醫院使用一次性醫療用品以確保最高水準的衛生與病人安全。)
+* Preservation (n.) 保護、保存、維護
+  * 為<mark style="color:blue;">**不可數名詞**</mark>，強調「維持現狀、不使其受損」，常用於歷史古蹟或自然棲息地的保護。動詞形為 `preserve`。
+  * The local community is dedicated to the preservation of their unique cultural heritage. (當地社區致力於維護他們獨特的文化遺產。)
+  * Marine preservation efforts have led to a gradual increase in the local dolphin population. (海洋保護工作已導致當地海豚數量逐漸增加。)
+* Conserve (v.) 節約 (資源)、保護
+  * 後面常接 `energy` (能源), `water`, `resources` (資源)。
+  * We must educate the public on how to conserve water during the severe summer drought. (我們必須教育大眾如何在嚴重的夏季乾旱期間節約用水。)
+  * The environmental group is working tirelessly to conserve the natural habitats of endangered species. (該環保組織正不遺餘力地保護瀕危物種的自然棲息地。)
+  * Conservation (n.) (對自然資源的) 保護、保存、節約
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。強調對自然資源有計畫的保護或節省，防止浪費或耗盡，與 `preservation` 的意義不同。
+    * Water conservation is particularly important during the dry summer months to prevent shortages. (在乾旱的夏季月份，節約用水對於防止短缺尤為重要。)
+    * The wildlife conservation group is working to increase the population of giant pandas. (該野生動物保護組織正致力於增加大熊貓的數量。)
+* Biodiversity (n.) 生物多樣性
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。指特定區域內，生物種類的豐富程度。
+  * The massive deforestation in the Amazon rainforest is a direct threat to global biodiversity. (亞馬遜雨林的大規模砍伐是對全球生物多樣性的直接威脅。)
+  * Scientists are concerned that the loss of biodiversity will lead to the collapse of local food chains. (科學家們擔心生物多樣性的喪失將導致當地食物鏈的崩潰。)
+* Pollutant (n.) 污染物、污染源
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指造成污染的具體物質。
+  * The smoke emitted by the factory contains harmful pollutants that can damage our respiratory system. (工廠排放的煙霧含有會損害我們呼吸系統的有害污染物。)
+  * Chemical pollutants from the farm have contaminated the nearby stream, making it unsafe for drinking. (來自農場的化學污染物污染了附近的溪流，使其飲用不安全。)
+* Ecosystem (n.) 生態系統
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指生物與其環境構成的統一整體。
+  * Every species plays a vital role in maintaining the balance of the desert ecosystem. (每個物種在維持沙漠生態系統的平衡中都扮演著至關重要的角色。)
+  * The introduction of an invasive species can severely disrupt a stable ecosystem within a short time. (外來物種的引進可能會在短時間內嚴重破壞穩定的生態系統。)
+* Ecology
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。
+  * (n.) 生態學
+    * She decided to pursue a degree in plant ecology to better understand local forests. (她決定攻讀植物生態學學位，以更深入了解當地的森林。)
+  * (n.) 生態環境
+    * 指某個地區整體的生物與環境的關係。`ecosystem` 則強調在特定區域空間內的「整個系統」。
+    * Human activities are having a disastrous effect on the ecology of the ocean. (人類活動正對海洋生態產生災難性影響。)
+    * The introduction of invasive species can disrupt the entire ecology of a lake. (外來物種的引進可能會破壞整個湖泊的生態。)
+* Eco-friendly (adj.) 環境友善的、環保的
+  * 由 `ecology` 和 `friendly` 形成的複合形容詞。
+  * Switching to eco-friendly products is a small but significant step toward saving our planet. (改用環保產品是解救我們星球的一小步，但意義重大。)
+  * The hotel is known for its eco-friendly practices, such as using solar power and recycling greywater. (這家飯店以其環保做法聞名，例如使用太陽能和回收中水。)
+* Global warming (n. phr.) 全球暖化
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。
+  * Global warming is causing the polar ice caps to melt at an alarming rate, leading to rising sea levels. (全球暖化正導致極地冰帽以驚人的速度融化，從而導致海平面上升。)
+  * Scientists warn that if we do not address global warming now, the ecological consequences will be irreversible. (科學家警告說，如果我們現在不解決全球暖化問題，生態後果將是不可逆轉的。)
+* Natural disaster (n. phr.) 自然災害
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指地震、洪水、颱風等天災。
+  * The Red Cross provided immediate relief and medical support to the victims of the devastating natural disaster. (紅十字會向這場毀滅性自然災害的災民提供了立即的救濟與醫療支援。)
+  * Some experts believe that the increasing frequency of natural disasters is directly linked to climate change. (一些專家認為，自然災害發生頻率的增加與氣候變遷直接相關。)
+* Renewable energy (n. phr.) 再生能源
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。當要區分不同種類的再生能源時，可在後面加上 `sources` (來源)，強調多種再生能源「來源」。
+  * Solar and wind power are the most common forms of renewable energy used to generate electricity today. (太陽能與風能是當今用於發電最常見的再生能源形式。)
+  * Many countries are aiming to get 100% of their electricity from renewable energy sources. (許多國家目標是100%的電力來自再生能源。)
+* Carbon footprint (n. phr.) 碳足跡
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指個人、組織或產品在生產與消費過程中排放的二氧化碳總量。
+  * Taking public transportation or cycling instead of driving is an effective way to shrink your carbon footprint. (搭乘大眾運輸或騎單車代替開車是縮小個人碳足跡的有效方法。)
+  * The new factory implemented advanced filtration systems to minimize its carbon footprint during production. (這座新工廠實施了先進的過濾系統，以盡量減少生產過程中的碳足跡。)
+
+</details>
 
 ## 43.
 
