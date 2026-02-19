@@ -11435,8 +11435,425 @@ Indoors (adv.) 在室內、往室內
 ## 43.
 
 1. One day after an <mark style="color:blue;">**exhausting**</mark> day at school, I <mark style="color:blue;">**dragged my heavy feet**</mark> to the MRT station. <mark style="color:blue;">**Crowded as the train was**</mark>, I was lucky enough to <mark style="color:blue;">**spot**</mark> a <mark style="color:blue;">**vacant**</mark> seat, not noticing that it was a <mark style="color:blue;">**priority seat**</mark>. <mark style="color:blue;">**Upon sitting**</mark> down, I took out my cell phone, starting to check out my friends' Facebook <mark style="color:blue;">**updates**</mark>. Though I could see an old man <mark style="color:blue;">**from the corner of my eyes**</mark>, I was too tired to <mark style="color:blue;">**raise**</mark> my head, <mark style="color:blue;">**not to mention yielding my seat**</mark> to him.
-2. Several days later, while I was playing basketball during the <mark style="color:blue;">**recess**</mark>, I <mark style="color:blue;">**bumped into**</mark> another player, fell to the ground and <mark style="color:blue;">**sprained**</mark> my right <mark style="color:blue;">**ankle**</mark>. Unable to <mark style="color:blue;">**brace**</mark> myself with only one foot, I could only <mark style="color:blue;">**wobble**</mark> on a <mark style="color:blue;">**crutch**</mark>. The next day, on my way to school by MRT, <mark style="color:blue;">**to my disappointment**</mark>, nobody gave up their seat to me. Even the <mark style="color:blue;">**priority seat**</mark> <mark style="color:blue;">**was occupied**</mark> by a student <mark style="color:blue;">**of**</mark> my age.
-3. Pretending to be busy <mark style="color:blue;">**memorizing English vocabulary**</mark>, she ignored my <mark style="color:blue;">**existence**</mark> <mark style="color:blue;">**intentionally**</mark>, which was what I had done to the elderly man <mark style="color:blue;">**a couple of**</mark> days ago. With one hand holding the <mark style="color:blue;">**grip**</mark> and <mark style="color:blue;">**the other**</mark> on the <mark style="color:blue;">**crutch**</mark>, I almost fell several times. Not until then <mark style="color:blue;">**did**</mark> the true meaning of Confucius' teaching <mark style="color:blue;">**dawn on**</mark> me - "<mark style="color:blue;">**Do not do to others what you would not have others do to you**</mark>."
+2. Several days later, while I was playing basketball during <mark style="color:blue;">**recess**</mark>, I <mark style="color:blue;">**bumped into**</mark> another player, fell to the ground and <mark style="color:blue;">**sprained**</mark> my right <mark style="color:blue;">**ankle**</mark>. Unable to <mark style="color:blue;">**brace**</mark> myself with only one foot, I could only <mark style="color:blue;">**wobble**</mark> on a <mark style="color:blue;">**crutch**</mark>. The next day, on my way to school by MRT, <mark style="color:blue;">**to my disappointment**</mark>, nobody gave up their seat to me. Even the <mark style="color:blue;">**priority seat**</mark> <mark style="color:blue;">**was occupied**</mark> by a student <mark style="color:blue;">**of**</mark> my age.
+3. Pretending to be busy <mark style="color:blue;">**memorizing English vocabulary**</mark>, she ignored my <mark style="color:blue;">**existence**</mark> <mark style="color:blue;">**intentionally**</mark>, which was what I had done to the elderly man <mark style="color:blue;">**a couple of**</mark> days ago. With one hand holding the <mark style="color:blue;">**grip**</mark> and <mark style="color:blue;">**the other**</mark> on the <mark style="color:blue;">**crutch**</mark>, I almost fell several times. Not until then <mark style="color:blue;">**did**</mark> the true meaning of Confucius' teaching <mark style="color:blue;">**dawn on**</mark> me—<mark style="color:blue;">**Do not do to others what you would not have others do to you**</mark>.
+
+<details>
+
+<summary>作文百句 43 單字整理</summary>
+
+## 單字
+
+* Exhausting (adj.) (事) 使人筋疲力竭的
+  * 動詞形為 `exhaust`。請注意，形容「人的感受」要用 [`exhausted`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-dan-zi-zheng-li)。
+  * Preparing for the national entrance exam is an exhausting process that requires both mental and physical endurance. (為國家入學考試做準備是一個既需要腦力也需要體力的筋疲力竭的過程。)
+  * After an exhausting ten-hour flight, all I wanted was a warm bed and a long sleep. (在長達十小時的疲累飛行後，我想要的只是張溫暖的床和長時間的睡眠。)
+* Spot
+  * (n.) 地點、斑點
+    * `on the spot` 表「當場、立即」；`put sb on the spot` 表「使某人處於難堪或為難的境地」。
+    * This park is a popular spot for local families to enjoy a weekend picnic. (這座公園是當地家庭享受週末野餐的熱門地點。)
+    * After the accident, the police arrived on the spot within five minutes. (事故發生後，警察在五分鐘內就趕到了現場。)
+  * (v.) 發現、辨認出
+    * The experienced auditor managed to spot several minor errors in the financial report. (經驗豐富的審計員設法辨認出了財務報告中的幾處微小錯誤。)
+* Vacant (adj.) 空缺的、未被佔用的
+  * 常用在建築物、職位或座位。與 `empty` 的區別在於 `vacant` 強調可以被填補或使用。名詞形為 `vacancy`。
+  * We were relieved to find a vacant room in the hotel after driving all night in the rain. (在雨中開了一整晚車後，我們很慶幸能在飯店找到一間空房。)
+  * The lavatory is vacant. (這間廁所現在無人使用。)
+  * Our department has several vacant positions. (我們部門有幾個空缺的職位。)
+* Priority (n.) 優先、優先權
+  * 形容詞為 `prior`。`priority seat` 即「博愛座、優先席」。常見用法為 `give priority to N` (給予...優先權), `take priority (over N)` (優先於...)。
+  * Helping the victims of the earthquake is our top priority at the moment. (幫助地震受難者是我們目前的首要任務。)
+  * Priority will be given to applicants with experience. (經驗豐富的申請者將享有優先權。)
+  * Safety must take priority over speed when designing a new public transportation system. (在設計新的大眾運輸系統時，安全必須優先於速度。)
+* Corner
+  * (n.) 角落、轉角
+    * 指密閉空間的角落時，介係詞常用 `in`；指街道的轉角時，介係詞常用 `on`/`at`。`cut corners (on sth / to VR)` 指為了省時省錢而走捷徑、偷工減料；`around the corner` 表「在附近」、「即將來臨」。
+    * The child sat in the corner of the room, playing quietly with his toy cars. (孩子坐在房間角落，安靜地玩著他的玩具車。)
+    * There's a coffee shop on the corner. (轉角有一間咖啡廳。)
+    * We will meet on the corner of Park Road and Green Road. (我們將在公園路和格林路的轉角碰面。)
+    * We can't afford to cut corners on this project. (我們負擔不起在這個專案上偷工減料。)
+    * They are cutting corners to save money. (他們為了省錢在偷工減料。)
+    * Christmas is just around the corner. (聖誕節即將到來。)
+  * (v.) 將...逼入絕境
+    * The police cornered the thief. (警察把小偷逼到了角落。)
+    * I was cornered by the reporter and had to answer the questions. (我被記者堵住，不得不回答問題。)
+* Recess
+  * (n.) 課間休息、(議會或法院的) 休庭、休會
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。常搭配 `in`、`during` 等介係詞。`winter/summer recess` 指「寒/暑假」。
+    * The kids run outside as soon as recess begins. (下課鈴一響，孩子們就跑出去了。)
+    * Parliament will be in recess for the next two weeks for the spring holiday. (議會將因春季假期在接下來的兩週內休會。)
+  * (n.) 深處、隱蔽處
+    * 通常<mark style="color:blue;">**用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`recesses`**</mark>。指物理上隱蔽、幽暗、深邃的地方，或內心、思想的最深處。後面可接 `of N` 表地點。
+    * He hid the old photographs in the darkest recesses of his attic. (他將舊照片藏在閣樓最陰暗的深處。)
+    * She kept her true feelings in the deep recesses of her heart. (她把真實的情感藏在心靈深處。)
+* Bump
+  * (v.) (無意中) 碰撞
+    * 常見用法為 `bump into N、bump sth against/on/into sth` (撞上...)。`bump up` 表「(價格、數量等) 大幅增加」。
+    * I accidentally bumped my head against the low ceiling while walking in the basement. (在地下室行走時，我不小心把頭撞到了低矮的天花板上。)
+    * They had to bump up the prices due to high demand. (因為需求大，他們不得不提高價格。)
+  * (n.) 碰撞；隆起、腫塊
+    * 為<mark style="color:blue;">**可數名詞**</mark>。<mark style="color:blue;">**`goosebumps`**</mark> (通常寫複數形) 指「雞皮疙瘩」，常見用法為 `give sb goosebumps`。
+    * I felt a violent bump when the car hit the tree. (當車子撞到樹時，我感覺到一陣猛烈的撞擊。)
+    * The baby developed a small bump on his forehead after falling off the couch. (寶寶從沙發上摔下來後，額頭上長了一個小腫塊。)
+    * The chilly wind and the scary movie gave me goosebumps all over my arms. (寒風和那部恐怖電影讓我全身起雞皮疙瘩。)
+* Sprain (v./n.) 扭傷
+  * 常搭配 `ankle` (腳踝) 或 `wrist` (手腕)。
+  * She tripped over a rock and sprained her left ankle during the morning jog. (她在晨跑時被石頭絆倒，扭傷了左腳踝。)
+  * A severe sprain can be even more painful and take longer to heal than a broken bone. (嚴重的扭傷甚至可能比骨折更痛苦，且需要更長時間才能痊癒。)
+* Ankle (n.) 腳踝
+  * `sprain one's ankle` 指「扭傷腳踝」。
+  * She wore a beautiful silver charm bracelet around her left ankle. (她在左腳踝戴了一條漂亮的銀色飾品手鍊。)
+  * Because of the deep snow, I had to wear boots that covered my ankles. (因為積雪很深，我必須穿著蓋過腳踝的靴子。)
+* Brace
+  * (v.) 繃緊、支撐、加固
+    * 指支撐住某物或繃緊身體肌肉以應對衝擊。
+    * The sailors had to brace themselves against the mast as the giant waves hit the ship. (當巨浪襲擊船隻時，水手們必須抵住桅杆支撐住身體。)
+    * He braced the ladder against the wall. (他把梯子靠在牆上加固。)
+    * The structure was braced with steel beams. (結構用鋼樑加固。)
+  * (v.) 做好 (心理) 準備
+    * 通常是面對<mark style="color:blue;">**不愉快的事物**</mark>。常見用法為 `brace oneself for N` (為...做準備)。
+    * You should brace yourself for some bad news regarding your recent job application. (你應該為關於你最近求職申請的一些壞消息做好心理準備。)
+    * Residents are bracing for a long, hot summer. (居民們正為炎熱的長夏做防範準備。)
+  * (n.) 支撐物、架子、護具
+    * The structure needs an extra metal brace to keep it stable. (這個結構需要一個額外的金屬支撐物來保持穩定。)
+    * He was recently fitted with a brace for his bad back. (他最近因為背部不好而裝了一個背部支撐架。)
+    * The doctor recommended a knee brace for my injury. (醫生建議我的傷處使用護膝。)
+  * (n.) 牙套
+    * 常見動詞搭配為 `wear` (戴牙套)。
+    * I had to wear a brace for my crooked teeth when I was a teenager. (我十幾歲時不得不戴牙套來矯正畸形的牙齒。)
+    * She is getting her braces removed next week. (她下週要拆牙套了。)
+* Wobble
+  * (v.) 搖晃、抖動；動搖
+    * 指不穩固地擺動或搖晃，也可以指一個人的決定或信心產生動搖。
+    * The old wooden table wobbles every time I try to write on it, so I put a piece of folded paper under one leg. (這張舊木桌每次我想在上面寫字時都會搖晃，所以我拿了一張摺過的紙墊在其中一隻腳下。)
+    * The puppy's legs wobbled a little as it tried to walk across the slippery kitchen floor for the first time. (小狗第一次試著走過濕滑的廚房地板時，腿稍微抖了一下。)
+    * His confidence began to wobble under pressure. (壓力之下，他的自信心開始動搖。)
+  * (n.) 搖晃、抖動；動搖
+    * 為<mark style="color:blue;">**可數名詞**</mark>。
+    * The plane landed with a slight wobble. (飛機落地時輕微晃動。)
+    * She’s having a bit of a wobble about the job offer. (她對這份工作錄取通知有點猶豫動搖了。)
+    * There was a temporary wobble in the stock market following the news of the bank's bankruptcy. (銀行破產的新聞傳出後，股市出現了暫時性的震盪。)
+* Crutch
+  * (n.) 拐杖
+    * 指拄在腋下或前臂的拐杖，常用於在受傷後輔助步行。常用複數形 `crutches`。`on crutches` 指「拄著拐杖」。
+    * After the knee surgery, Tom had to walk on crutches for nearly two months. (在膝蓋手術後，Tom 必須撐著拐杖走將近兩個月。)
+    * He is lame in one leg and walks with the help of a crutch. (他一條腿跛了，拄著拐杖走路。)
+  * (n.) (心理上的) 支柱、依賴
+    * 為<mark style="color:blue;">**可數名詞**</mark>。
+    * Using alcohol as a crutch to deal with stress will only lead to more problems in the future. (利用酒精作為應對壓力的支撐只會在未來導致更多問題。)
+    * Religion was her crutch in times of sorrow. (宗教是她憂傷時的支柱。)
+    * The book was simply a crutch to my memory. (那本書僅僅是我記憶的支柱。)
+* Pretend
+  * (v.) 假裝、偽裝
+    * 後面常接 `to VR` 或 `that 子句`。請注意，`pretend` 指的是行為上的模仿或掩飾，與 `lie` (說謊) 不同。
+    * James pretended to be asleep when his mother came into the room to check on him. (當他媽媽進房間查看他時，James 假裝睡著了。)
+    * He pretended that he didn't hear the question so that he could have more time to think of an answer. (他假裝沒聽到那個問題，以便有更多時間想出答案。)
+  * (adj.) 假裝的、想像的、不真實的
+    * 主要放在名詞前。常見於兒童遊戲、裝扮或虛構場景中，如 `a pretend sword` (假劍)、`a pretend tea party` (假想茶會)、`a pretend play` (假扮遊戲、扮家家酒)。
+    * They held a pretend wedding. (他們舉行了一場假想婚禮。)
+    * They spent the afternoon having a pretend tea party with their dolls. (他們整個下午都在和他們的洋娃娃舉行假裝的茶話會。)
+* Memorize (v.) 記住、背誦
+  * Students are often required to memorize long lists of historical dates before the final exam. (學生們通常被要求在期末考試前背誦長串的歷史日期。)
+  * The actor spent several weeks memorizing his lines for the upcoming play. (那名演員花了幾週時間背誦他即將演出的戲劇對白。)
+* Vocabulary (n.) 字彙、詞彙量
+  * 通常視為<mark style="color:blue;">**不可數名詞**</mark>。若要表示單個單字，可用 `word` 或在 `vocabulary` 後面加上 `item`，如 `three words` / `three vocabulary items`。
+  * Reading diverse books is one of the most effective ways to expand your English vocabulary. (閱讀各式各樣的書是增加你英文詞彙量最有效的方法之一。)
+  * To achieve a high score on the TOEFL test, you need to have <mark style="color:blue;">**a broad vocabulary**</mark>. (要在托福考試中獲得高分，你需要擁有廣泛的字彙量。)
+
+{% hint style="success" %}
+當形容詞 (如 `large`, `great`, `broad` 等) 修飾不可數名詞並將其描述為「特定種類、程度或單一整體」的特性時，該名詞會被概念化為一個可數的單位，可搭配不定冠詞 `a`/`an`，故 `a broad vocabulary` 是正確的寫法。
+{% endhint %}
+
+* Ignore (v.) (故意) 忽視、不理睬
+  * 名詞形為 `ignorance` (無知)。
+  * If you ignore the warning lights on your car's dashboard, you might end up with a broken engine. (如果你無視車子儀表板上的警告燈，最後可能會導致引擎損壞。)
+  * She decided to ignore the rude comments on her social media post and focus on the positive feedback. (她決定不理會社群媒體貼文上的粗魯留言，並專注於正面回饋。)
+* Existence (n.) 存在、生存
+  * 為<mark style="color:blue;">**不可數名詞**</mark>，表「存在」、「生存」的抽象狀態。常見片語為 `come into existence` (產生、開始存在)、`in existence` (現存的)。
+  * Scientists are still searching for evidence of the existence of liquid water on distant planets. (科學家仍在尋找遙遠行星上存在液態水的證據。)
+  * I don't know when that custom came into existence. (我不知道那個習俗是什麼時候產生的。)
+  * Many ancient traditions and languages are no longer in existence due to the rapid pace of globalization. (由於全球化的快速步伐，許多古代傳統和語言已不復存在。)
+* Intentionally (adv.) 故意地、有意地
+  * 名詞形為 `intention`；形容詞為 `intentional`。
+  * The player was penalized for intentionally tripping his opponent during the game. (那名球員因在比賽中故意絆倒對手而受到處罰。)
+  * I didn't mean to hurt your feelings; I didn't intentionally leave you out of the conversation. (我不是故意要傷你的心；我並非有意在對話中冷落你。)
+* Couple
+  * (n.) 一對；夫妻、情侶
+    * `a couple of` 指「兩個」或「幾個」，<mark style="color:blue;">**後接可數名詞**</mark>。
+    * The young couple decided to move to the countryside to start a more peaceful life together. (這對年輕夫婦決定搬到農村，一起開始更平靜的生活。)
+    * I only have a couple of pages left to read before I can finish this fascinating novel. (在讀完這本迷人的小說之前，我只剩下幾頁要讀了。)
+    * 'll be back in a couple of days. (我幾天後回來。)
+  * (v.) 連結、結合
+    * 常見用法為 [`coupled with N`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-13-pian-yu-zheng-li)。
+    * The electricity generator is coupled with the turbine. (發電機與渦輪機連接在一起。)
+    * High inflation, coupled with rising interest rates, has put significant pressure on small businesses. (高通貨膨脹加上利率上升，給小型企業帶來了巨大壓力。)
+* Grip
+  * (n.) 緊握、抓牢
+    * She tightened her grip on my arm. (她更用力地抓住我的手臂。)
+    * You need to maintain a firm grip on the steering wheel when driving through heavy rain and strong winds. (在暴雨和大風中駕駛時，你需要緊緊握住方向盤。)
+  * (n.) 控制、掌握；理解
+    * 後面常接 `on sth`。
+    * The government has lost its grip on the economy.（政府已經失去了對經濟的控制。）
+    * The dictator had a tight grip on the country. (獨裁者嚴密控制著國家。)
+    * She is trying to get a better grip on the new technology. (她正試圖更深入掌握這項新技術。)
+    * I still don't have a full grip on the new software. (我對這個新軟體還沒完全掌握。)
+  * (n.) 握把、把手
+    * He adjusted the rubber grip on his tennis racket to improve his performance during the match. (他調整了網球拍上的橡膠手柄，以提高比賽中的表現。)
+  * (v.) 緊握、抓牢；(情感、恐懼) 籠罩、控制
+    * He gripped the wheel tighter and tried to regain control of the car. (他緊握方向盤，試圖重新控制車輛。)
+    * Race car tires grip the road much better than normal ones. (賽車輪胎的抓地力比一般輪胎還好。)
+    * Fear gripped the town after the mysterious disappearance. (神秘失蹤事件後，恐懼籠罩了整座城鎮。)
+  * (v.) 吸引 (注意力、情感)
+    * I was gripped throughout the entire two hours of the film. (整整兩個小時我都沉浸在這齣電影裡。)
+    * The suspense thriller gripped me from the very first page. (這本懸疑驚悚小說從第一頁就深深吸引我。)
+* Confucius (n.) 孔子
+  * `Confucianism` 指「儒家思想」、`Confucian` 表「儒家的」，<mark style="color:blue;">**首字須大寫**</mark>。
+  * The teachings of Confucius have profoundly shaped the moral and cultural values of East Asian societies for centuries. (孔子的教誨數世紀以來深刻影響了東亞社會的道德與文化價值觀。)
+  * The study of Confucianism is essential to understanding Chinese history. (研究儒家思想對理解中國歷史至關重要。)
+  * He is a famous Confucian scholar. (他是一位著名的儒家學者。)
+* Teaching
+  * (n.) 教誨、教義、學說
+    * <mark style="color:blue;">**常用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`teachings`**</mark>。
+    * The elder's teachings on forgiveness and compassion stayed with him throughout his entire life. (長者關於寬恕與慈悲的教誨伴隨了他一生。)
+    * He rejects the teachings of modern economics (他排斥現代經濟學的學說。)
+  * (n.) 教學行為、教職
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。
+    * The school implements various creative teaching methods to encourage student participation and critical thinking. (學校採用各種創意教學方法來鼓勵學生參與和批判性思考。)
+    * After working in the corporate world for ten years, Sarah decided to pursue a career in teaching. (在企業界工作十年後，Sarah 決定從事教學工作。)
+
+</details>
+
+<details>
+
+<summary>作文百句 43 片語整理</summary>
+
+## 片語
+
+* Adj/Adv enough (for sb/sth) to VR 足以...
+  * The water in the pool is warm enough for the kids to swim in without catching a cold. (泳池裡的水夠暖和，足以讓孩子們在裡面游泳而不會感冒。)
+  * Sam didn't run fast enough to catch the last train after the late-night movie. (Sam 跑得不夠快，沒趕上看完深夜電影後的末班車。)
+  * `enough` 也可以當限定詞，放在可數或不可數名詞前面。
+    * We have enough evidence to prove that the defendant was at the scene of the crime. (我們有足夠的證據證明被告當時在犯罪現場。)
+* Check out N
+  * 查看、觀察；檢查、核實
+    * We should check out that new Italian restaurant downtown; I heard their lasagna is amazing. (我們應該去瞧瞧市中心那家新開的義大利餐廳；我聽說他們的千層麵很棒。)
+    * I need to check out this information. (我需要核實這項資訊。)
+  * 辦理退房、出院 (`check out`)
+    * Please check out of the hotel before noon to avoid being charged for an extra day. (請在中午前辦理退房，以免被多收一天的費用。)
+    * The patient will check out of the hospital tomorrow. (病人明天將出院。)
+  * (在超市) 結帳 (`check out`)
+    * 名詞形為 `checkout`。
+    * I checked out at the self-service counter. (我在自助櫃檯結帳。)
+    * Please wait in the checkout line. (請在結帳隊伍等候。)
+* From the corner of one's eye 用餘光看到、斜眼瞥見
+  * 指透過眼睛邊緣的視野注意到某物。`from` 可以替換成 `out of`。
+  * From the corner of her eye, she noticed her supervisor watching her every move. (她用餘光注意到她的主管正盯著她的一舉一動。)
+  * I caught a glimpse of a black cat darting across the alley out of the corner of my eye. (我用餘光瞥見一隻黑貓竄過小巷。)
+* Not to mention N/V-ing 更不用說...、更別提...
+  * 用來補充資訊並強調後者比前者程度更甚。通常置於句中，<mark style="color:blue;">**前面需加逗號區隔**</mark>。與 `to say nothing of` 的意思與用法相似。
+  * The island is famous for its crystal clear water, not to mention its white sandy beaches and luxury resorts. (這座島嶼以其清澈見底的海水聞名，更不用說其白沙灘與奢華渡假村了。)
+  * Terry can't even make instant noodles, not to mention cooking a big meal. (Terry 連泡麵都不會煮，更不用說煮大餐了。)
+  * He speaks five languages fluently, not to mention the fact that he is a professional concert pianist. (他能流利地說五種語言，更不用說他還是一位專業的音樂會鋼琴家這個事實了。)
+  * The company has faced several lawsuits, to say nothing of the damage to its public reputation. (該公司面臨了幾起訴訟，更不用說對其公眾聲譽造成的損害了。)
+  * He makes millions on his investments alone, to say nothing of his profits from his business. (單是投資他就賺了幾百萬，更不用說他生意上的獲利了。)
+
+{% hint style="info" %}
+#### `Let alone` 更不用說...、更別提...
+
+和上述片語意思相近，但<mark style="color:blue;">**須用於否定句之後**</mark>，強調前述情況已不可能，後述情況更不可能。請注意，`let alone` 後面接的詞性應與前面被比較的詞性一致，即<mark style="color:blue;">**前後須為**</mark>[<mark style="color:blue;">**對等結構**</mark>](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-5-wen-fa-zheng-li)。
+
+* I can't even _\[walk]_, let alone _\[run]_. (我連走路都沒辦法，更別提跑步了。)
+* She already struggled with _\[walking]_, let alone _\[running]_. (她走路都很困難，更別說跑步了。)
+* I'm barely strong enough to _\[lift this box]_, let alone _\[carry it up the stairs]_! (我幾乎沒力氣舉起這箱子，更別提搬上樓！)
+* I can't even afford _\[a bicycle]_, let alone _\[a brand new sports car]_. (我連腳踏車都買不起了，遑論一輛全新的跑車。)
+* The house is _\[unlivable]_, let alone _\[saleable]_. (這房子不能住，更不用說賣了。)
+{% endhint %}
+
+* Bump into sb/sth 撞到...；巧遇...
+  * 除了指「撞到」，接 `sb` 時，還能指「巧遇」。
+  * The driver lost control of the car and bumped into a lamp post on the side of the road. (司機失去了對汽車的控制，撞到了路邊的燈柱。)
+  * Be careful not to bump into the coffee table when you walk across the room in the dark. (黑暗中走過房間時，小心不要撞到咖啡桌。)
+  * I bumped into my elementary school teacher while I was walking through the shopping mall. (我在逛購物中心時巧遇了我的國小老師。)
+* Fall to N
+  * 墜落到...；降至、跌落到某種狀態或數值
+    * The vase fell to the floor and broke. (花瓶掉到地板上摔碎了。)
+    * After the long hike, he was so exhausted that he fell to the ground as soon as he reached the camp. (長途跋涉後，他筋疲力竭，一到營地就倒在地上。)
+    * The temperature fell to zero. (溫度降到了零度。)
+    * The shares fell to a new low. (股價跌至新低。)
+  * (責任、工作) 落到某人頭上
+    * When the manager resigned unexpectedly, the task of leading the project fell to Sarah. (當經理意外辭職時，領導該專案的任務就落到了 Sarah 頭上。)
+    * The task will fall to the newest member of the team. (任務將落到團隊最新成員的頭上。)
+  * 陷於 (某種狀態)
+    * 指從正常狀態轉變為較差或特殊的狀態。`fall to pieces` 表「崩潰」、「瓦解」、「散架」，形容人因壓力大而情緒失控，或指物體、關係、系統破碎破壞。
+    * The old kingdom finally fell to the invading army after a three-month siege. (在長達三個月的圍攻後，古老王國最終陷落於入侵軍隊之手。)
+    * The old house has fallen into disrepair. (老房子已破舊不堪。
+    * After the divorce, she completely fell to pieces. (離婚後，她徹底崩潰了。)
+  * 開始 (做某事)
+    * 指開始行動，特別是開始工作、吃飯。
+    * After a long hike, they were ready to fall to the delicious meal. (長途跋涉後，他們準備好大快朵頤這頓美味的飯菜。)
+    * They fell to eating before the guest arrived. (客人在到來之前，他們就開始吃了。)
+* On crutches 撐著拐杖 (的狀態)
+  * 表「行動不便需要撐拐杖」的狀態，因為標準的輔助通常是成對的，所以會用<mark style="color:blue;">**複數形**</mark>。本文寫 `on a crutch` 是強調作者當時只撐著一支拐杖。
+  * It's difficult to open doors when you are on crutches. (撐著拐杖時很難開門。)
+  * Since he broke his leg skiing, Tommy has been on crutches for six weeks. (自從滑雪摔斷腿後，Tommy 已經撐了六週的拐杖了。)
+  * He had to wobble along on a single crutch because the other one was broken. (他只好撐著一支拐杖搖搖晃晃地走，因為另一支壞了。) → 強調其中一支。
+* To one's + 情緒名詞 令某人...的是
+  * 例如 `to one's surprise`、`to one's relief` (令某人鬆了一口氣的是)、`to one's regret`、`to one's horror` (令某人驚恐的是)、`to one's disappointment`。通常至於句首，並以逗號隔開後面的句子。
+  * To his utter surprise, his girlfriend proposed to him during their anniversary dinner. (令他極度驚訝的是，他的女朋友在週年慶晚餐上向他求婚了。)
+  * To our great relief, the missing child was found safe and sound near the park. (令我們大為放心的是，失蹤的孩子在公園附近被平安無事地找到了。)
+  * To my deep regret, I didn't get the chance to say goodbye to my grandfather before he passed away. (令我深感遺憾的是，在祖父去世前，我沒有機會跟他道別。)
+* Give up
+  * 放棄；戒掉習慣
+    * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-33-pian-yu-zheng-li)。
+    * `give up on N` 表「對...感到絕望」、「放棄對...的期待」。請注意，它更偏向於「<mark style="color:blue;">**心態**</mark>」、「<mark style="color:blue;">**情感**</mark>」上的放棄，與 `give up N` (放棄) 的語意不同。
+    * Doctors gave up on him. (醫生對他已不再抱希望。)
+    * Never give up on your dreams. (不要放棄夢想。)
+    * I'm not ready to give up on our relationship despite the challenges we are facing. (儘管我們面臨挑戰，我還沒準備好放棄我們的關係。)
+  * 讓出 (座位)
+    * The kind gentleman gave up his seat to the pregnant woman as soon as she boarded the bus. (在孕婦上車後，那位好心的先生立即就把座位讓給了她。)
+* Of one's age 與某人同年齡的、同歲數的
+  * It is surprising to find someone of my age who shares the exact same hobbies and interests. (很驚訝能找到一個跟我同年齡、且有完全相同愛好和興趣的人。)
+* Pretend to VR/that 子句 假裝...
+  * The boy closed his eyes and pretended to be asleep when he heard his father's footsteps. (當男孩聽到父親的腳步聲時，他閉上眼睛假裝睡著了。)
+  * Don't pretend to know the answer if you really have no idea what the teacher is talking about. (如果你真的不知道老師在說什麼，就不要假裝知道答案。)
+  * She pretended that everything was fine, even though she was feeling extremely sad inside. (儘管她內心感到極度悲傷，她仍假裝一切都很好。)
+* Be busy V-ing / with N 忙於...
+  * 若要強調正在進行的動作，用 `V-ing`；若要強調忙碌的對象或事物，用 `with N`。
+  * She is busy preparing for her final presentation, so she won't be able to join us for dinner. (她正忙於準備期末簡報，所以無法加入我們的晚餐。)
+  * Don't disturb your father while he is busy working in the study. (當你父親在書房忙著工作時，不要打擾他。)
+  * The marketing team is busy with the new product launch scheduled for next Monday. (行銷團隊正忙於計畫下週一的新產品發布。)
+* A couple of 幾個
+  * 後面必須接<mark style="color:blue;">**可數名詞**</mark>。
+  * I need to pick up a couple of items from the grocery store before it closes. (在雜貨店關門前，我需要去買幾樣東西。)
+  * Let's wait for a couple of minutes to see if the rain stops before we head out. (在出發前，我們等個幾分鐘看看雨會不會停。)
+* Dawn on sb 某人突然意識到
+  * 常見用法為 `it dawns on sb that...` (某人突然意識到某事)。
+  * The seriousness of the situation dawned on him only after he saw the news on television. (直到他在電視上看到新聞後，他才意識到情況的嚴重性。)
+  * It finally dawned on me that I had been holding the map upside down the entire time. (我終於意識到我一直以來都把地圖拿反了。)
+  * It suddenly dawned on her that she had left the oven on before leaving the house. (她突然意識到她在離開家之前沒關烤箱。)
+* <mark style="color:blue;">**Do not do to others what you would not have others do to you.**</mark> 己所不欲，勿施於人。
+  * Do not do to others what you would not have others do to you is a universal moral principle found in many cultures. (「己所不欲，勿施於人」是存在於許多文化中的普世道德準則。)
+
+</details>
+
+<details>
+
+<summary>作文百句 43 補充資料</summary>
+
+## 文章分析
+
+本文第一段描寫主角因身心疲憊，故選擇在博愛座上休息，並透過查看朋友動態這種極其日常的行為，襯托出他對外界 (尤其是那名老人) 的冷漠與隔絕。文章此處用 `too tired to raise my head` 這種生理狀態的描寫，為其後的道德瑕疵提供了人性化的基調，而非一味的批判。
+
+第二段，作者利用一場突發的籃球意外，將主角從「忽略者」的角色強行推向「受難者」的位置。文中對於主角受傷後 `wobble on a crutch` 的細節描寫，成功營造出視覺上的不安與心理上的脆弱感。第三段，主角在另一名學生身上看見了過去的自己，這種照鏡子般的自省，使得 `which was what I had done` 這一句話更加深刻。結尾處，作者以孔子的經典言論收束，將文章的層次再度提高。
+
+## 寫作補給站
+
+#### 常見醫療輔具
+
+* Assistive device (n. phr.) 輔具
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指任何能幫助身障者、受傷者或老年人完成日常任務的裝置。
+  * The hospital provides various assistive devices to help patients regain their independence during recovery. (醫院提供各種輔具，幫助病人在恢復期間重新獲得獨立能力。)
+  * Advanced assistive devices, such as voice-controlled computers, have changed the lives of many people with disabilities. (先進的輔具，如語音控制電腦，改變了許多殘疾人士的生活。)
+* Wheelchair (n.) 輪椅
+  * 為<mark style="color:blue;">**可數名詞**</mark>。`be in a wheelchair` 指「坐輪椅」。
+  * Since the car accident, James has been in a wheelchair, but he remains optimistic about his future. (自從車禍後，James 一直坐著輪椅，但他對未來仍保持樂觀。)
+  * The new shopping mall is fully accessible to people in wheelchairs, with ramps and wide elevators. (新購物中心對坐輪椅的人完全開放，設有坡道和寬敞的電梯。)
+* Walker (n.) 助行器、助行架
+  * 也常被稱為 `Zimmer frame` (`Zimmer` 的<mark style="color:blue;">**首字要大寫**</mark>)。兩者皆為<mark style="color:blue;">**可數名詞**</mark>。指那種有四隻腳、使用者可以推著走並提供支撐的架子。
+  * My grandfather uses a walker to get around the house safely after his hip replacement surgery. (我祖父在接受髖關節置換手術後，使用助行器在屋子裡安全走動。)
+  * The physical therapist adjusted the height of the walker to ensure the patient maintained proper posture. (物理治療師調整了助行器的高度，以確保病人保持正確的姿勢。)
+* Cane (n.) 手杖、單支拐杖
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指最基本的單點支撐手杖，與 `crutch` 不同。
+  * She walks with a cane after her knee surgery. (她膝蓋手術後拄著拐杖走路。)
+  * Grandpa takes along a cane when he goes out for a walk. (爺爺出去散步時總要帶根手杖。)
+
+{% hint style="info" %}
+#### 進階詞彙
+
+* `quad cane` 四腳拐杖
+  * 底部有四個支點，提供更好的穩定性。請注意，它和 `walker` 或 `Zimmer frame` 是不一樣的東西。
+  * My grandmother feels much more confident walking in the garden when she has her quad cane for extra balance. (當我祖母拿著四腳拐杖來增加平衡感時，她在花園裡散步感到有信心得多。)
+* `white cane` 導盲手杖、白手杖
+  * 是視障者專用的行動輔具。
+  * Please yield to people with a white cane. (請禮讓持白手杖的人。)
+  * The white cane helps visually impaired people detect obstacles. (白手杖幫助視障人士偵測障礙物。)
+{% endhint %}
+
+* Cast (n.) 石膏、石膏固定
+  * 為<mark style="color:blue;">**可數名詞**</mark>。常見用法為 `have/wear a cast on (one's leg/arm)`。
+  * She had to wear a cast on her right arm for six weeks after she fell off her bicycle. (她騎腳踏車摔倒後，右臂必須打上石膏六週。)
+  * All of her classmates signed their names on her leg cast to cheer her up. (所有的同學都在她腿上的石膏上簽名，為她加油打氣。)
+* Sling (n.) 吊帶、掛帶
+  * 為<mark style="color:blue;">**可數名詞**</mark>。指用來支撐受傷手臂的布帶。常見用法為 `have one's arm in a sling`。
+  * Even though his arm was in a sling, he still tried to take notes during the lecture. (儘管他的手臂掛在吊帶裡，他仍試著在講座中做筆記。)
+  * The doctor instructed him to keep his shoulder in a sling to allow the muscles to heal properly. (醫生指示他將肩膀放在吊帶中，以便肌肉能正常癒合。)
+* Splint
+  * (n.) 副木、夾板
+    * 為<mark style="color:blue;">**可數名詞**</mark>。指用於支撐或固定受傷肢體 (如骨折或脫臼) 的堅硬裝置。
+    * The doctor applied a splint on his right forearm. (醫生在他的右前臂上打了夾板。)
+    * The emergency responders used a sugar tong splint to stabilize the patient's fractured wrist before transporting him to the hospital. (急救人員在將病人送往醫院前，使用糖夾式副木固定了其受傷的手腕。)
+  * (v.) 用夾板固定
+    * In an emergency, you can use a sturdy branch or a thick piece of cardboard to splint a broken limb. (在緊急情況下，你可以使用堅固的樹枝或厚紙板來固定折斷的肢體。)
+
+{% hint style="info" %}
+#### 進階詞彙
+
+以下補充幾個常見的 `splint` 類型，有興趣可以上網深入了解它們的差異。
+
+* `sugar tong splint` 糖夾式副木：因形狀像夾糖果的夾子而得名，常用於前臂或腳踝骨折，能限制旋轉動作。
+* `SAM splint` 鋁合金捲式副木：一種輕便、可彎曲的緊急救護用副木。
+* `finger splint` 手指夾板：用於固定受傷的手指。
+{% endhint %}
+
+* Glasses (n.) 眼鏡
+  * <mark style="color:blue;">**恆為複數名詞**</mark>。若要計量，可以用 `a pair of`。
+  * He was diagnosed with severe nearsightedness, so he has to wear his glasses at all times while driving. (他被診斷出患有嚴重近視，因此開車時必須全程佩戴眼鏡。)
+  * I need to get a new pair of glasses because my astigmatism has worsened over the past year. (我需要配一副新眼鏡，因為我的散光在過去一年裡惡化了。)
+  * Many elderly people keep multiple pairs of reading glasses around the house so they can always find one when they need to read the news. (許多老人會在家中各處放幾副老花眼鏡，以便需要看新聞時總能找到一副。)
+
+{% hint style="info" %}
+#### 進階詞彙
+
+以下補充一些醫學專有名詞，可以記憶與自己相關的就好。
+
+* Prescription glasses 處方眼鏡：泛指所有經眼科醫師或驗光師檢查後，為矯正視力而配戴的「度數眼鏡」，近視眼鏡、遠視眼鏡、散光矯正、老花眼鏡都包含在內。
+* Nearsightedness / Myopia 近視：`glasses for nearsightedness/myopia` 指「近視眼鏡」。
+* Farsightedness / Hyperopia 遠視：`glasses for farsightedness/hyperopia` 指「遠視眼鏡」。
+* Astigmatism 散光：`astigmatism glasses` 指「散光眼鏡」。
+* Presbyopia 老花：`reading glasses` 指「老花眼鏡」。
+{% endhint %}
+
+* Hearing aid (n. phr.) 助聽器
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * Modern hearing aids are so small and sophisticated that they are almost invisible to other people. (現代助聽器非常小巧精緻，以至於對其他人來說幾乎是隱形的。)
+  * The audiologist adjusted the settings on the patient's hearing aid to filter out background noise more effectively. (聽力師調整了病患助聽器的設定，以更有效地過濾背景噪音。)
+
+#### 名言
+
+以下提供幾個與本文主題相關的名言。
+
+* <mark style="color:blue;">**Treat others as you would like to be treated.**</mark> 以你希望被對待的方式對待他人。
+  * 這是西方最著名的道德準則。相對於孔子的「己所不欲，勿施於人」(否定句)，這句話是肯定句，強調要「主動」以自己希望被對待的方式去對待他人。
+  * Treat others as you would like to be treated is a simple yet powerful rule that can prevent countless conflicts in our daily lives. (「以你希望被對待的方式對待他人」是一條簡單卻強大的規則，能防止我們日常生活中的無數衝突。)
+  * If everyone followed the principle to treat others as they would like to be treated, the world would be a much kinder place for the elderly and the disabled. (如果每個人都遵循「以希望被對待的方式對待他人」的原則，這世界對老人和身心障礙者來說會是一個更友善的地方。)
+* <mark style="color:blue;">**You never really understand a person until you consider things from his point of view.**</mark> 除非你設身處地從對方的角度來看待事物，否則你永遠無法真正理解一個人。
+  * 也可以寫成 <mark style="color:blue;">**`You never really understand a person until you climb into his skin and walk around in it.`**</mark>。
+  * Atticus Finch's famous advice that you never really understand a person until you consider things from his point of view taught me the importance of empathy. (阿提克斯·芬奇的名言「除非你設身處地從對方的角度來看待事物，否則你永遠無法真正理解一個人」，教會了我同理心的重要性。)
+  * It wasn't until I had to walk on crutches that I understood the quote: "You never really understand a person until you climb into his skin and walk around in it." (直到我必須撐拐杖走路，我才真正理解了那句話：「除非你設身處地從對方的角度來看待事物，否則你永遠無法真正理解一個人。」)
+* <mark style="color:blue;">**Injustice anywhere is a threat to justice everywhere.**</mark> 任何地方的不公不義，都威脅著所有地方的公平正義。
+  * 馬丁·路德·金恩 (Martin Luther King Jr.) 的名言。強調社會中的每一個人都環環相扣，任何人的權利受損 (例如老人沒位子坐)，最終都會威脅到整體的公義。
+  * We should care about the rights of the minority because injustice anywhere is a threat to justice everywhere. (我們應該關心少數人的權利，因為任何地方的不公義都是對所有地方公義的威脅。)
+  * The student realized that ignoring the needs of the elderly was wrong, remembering that injustice anywhere is a threat to justice everywhere. (這名學生意識到忽視老人的需求是錯誤的，並記住了「任何地方的不公義都是對所有地方公義的威脅」。)
+* <mark style="color:blue;">**Empathy is about standing in someone else's shoes, feeling with his or her heart, and seeing with his or her eyes.**</mark> 同理心就是站在對方的立場思考、體會對方的感受，並以對方的視角看待事物。
+  * 可以擷取三個部分的其中幾個就好，不一定要全部引用。
+  * Empathy is about standing in someone else's shoes and understanding their struggles before passing any judgment. (同理心是在做出任何評判之前，站在別人的角度並理解他們的掙扎。)
+  * To build a more inclusive society, we must learn that empathy is about feeling with someone else's heart and seeing with their eyes. (為了建立一個更具包容性的社會，我們必須學會同理心就是用別人的心去感受，用別人的眼睛去看。)
+
+## 寫作建議
+
+寫作時，可以嘗試建立一種「因果報應」或「對稱」的架構，讓主角在故事結尾承受他當初施加給別人的同樣行為，用切身經歷說明你想表達的理念，會使文章更有說服力。
+
+</details>
 
 ## 44.
 
