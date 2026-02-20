@@ -1604,9 +1604,11 @@ She plays the piano, and she plays the violin, too.
   * I have tons of work to do before I can take a rest. (在我休息之前，我有大量的工作要做。)
 * Can't help but + VR 不禁、忍不住...
   * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-6-pian-yu-zheng-li)。
-* Instead of + Ving/N 而不是、代替
-  * 用來對比兩種不同的行為或選擇。
+* Instead of + Ving/N 而不是...、代替...
+  * 用來對比兩種不同的行為或選擇。通常前後是<mark style="color:blue;">**對等結構**</mark>。不過 `of` 是介係詞，所以若接動詞，須寫成 `V-ing`。
   * Instead of staying home, we decided to go for a walk in the park. (我們決定去公園散步，而不是待在家裡。)
+  * You should try to solve the problem yourself instead of always asking for help. (你應該試著自己解決問題，而不是總是尋求幫助。)
+  * He bought a second-hand car instead of a new one to save money. (他買了一輛二手車而不是新車，為了省錢。)
 * Be surrounded by ... 被...圍繞、環繞；處於...狀態或環境
   * 指物理環境的包圍，也可用於抽象的氛圍。
   * The small cottage is surrounded by colorful wildflowers in spring. (春天時，這座小木屋被五顏六色的野花環繞著。)
@@ -5984,10 +5986,6 @@ Indoors (adv.) 在室內、往室內
 * Choose to VR 選擇去做某事
   * 與 `decide to VR` 相似，但 `choose` 更有從多個選項中挑選的意味。
   * I choose to believe that everyone has a kind side. (我選擇相信每個人都有善良的一面。)
-* Instead of 而不是...、代替...
-  * 通常前後是<mark style="color:blue;">**對等結構**</mark>。不過 `of` 是介係詞，所以若接動詞，須寫成 `V-ing`。
-  * You should try to solve the problem yourself instead of always asking for help. (你應該試著自己解決問題，而不是總是尋求幫助。)
-  * He bought a second-hand car instead of a new one to save money. (他買了一輛二手車而不是新車，為了省錢。)
 * In person 親自、本人地
   * I have only talked to my tutor via email, but I hope to meet her in person next week. (我只跟我的導師透過電子郵件聯絡過，但我希望下週能與她本人見面。)
   * You need to sign the contract in person at the main office. (你必須親自到總公司簽署這份合約。)
@@ -7441,6 +7439,10 @@ Indoors (adv.) 在室內、往室內
 ## 文法
 
 ### 附和句
+
+{% hint style="success" %}
+關於「肯定」與「否定」的意思，詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-45-wen-fa-zheng-li)。
+{% endhint %}
 
 #### 肯定附和句 (`肯定句, and so + 助動詞/be動詞 + 主詞`)
 
@@ -11860,10 +11862,645 @@ Indoors (adv.) 在室內、往室內
 1. This <mark style="color:blue;">**bar graph**</mark> shows the kinds of business young adults in Taiwan would like to start as an <mark style="color:blue;">**alternative to**</mark> working for established companies. 70% of people <mark style="color:blue;">**surveyed**</mark> said they'd like to <mark style="color:blue;">**get involved with handicrafts**</mark>, making and selling their own goods. <mark style="color:blue;">**Meanwhile**</mark>, the <mark style="color:blue;">**notion**</mark> of owning a cafe was also popular, <mark style="color:blue;">**with**</mark> 62% of people <mark style="color:blue;">**showing interest**</mark>. Other popular choices were <mark style="color:blue;">**managing social media**</mark>, <mark style="color:blue;">**running a mobile food truck**</mark>, working as a tour guide, and becoming an <mark style="color:blue;">**Internet celebrity**</mark>.
 2. <mark style="color:blue;">**Given**</mark> the choice of these six careers, I'd like to be a tour guide. On large group tours organized by <mark style="color:blue;">**travel agencies**</mark>, everyone is always <mark style="color:blue;">**rushed**</mark> from place to place. If I <mark style="color:blue;">**were**</mark> my own boss, however, I <mark style="color:blue;">**could**</mark> give tours to <mark style="color:blue;">**individuals**</mark> or very small groups, and spend more time getting to know Taiwan. I'm <mark style="color:blue;">**passionate about**</mark> my country, and I love <mark style="color:blue;">**regaling**</mark> people <mark style="color:blue;">**with**</mark> its history; furthermore, I also love Taiwanese <mark style="color:blue;">**cuisine**</mark>, so I could show everyone the best places to eat! Ultimately, these reasons make being a tour guide the ideal <mark style="color:blue;">**vocation**</mark> for me.
 
+<details>
+
+<summary>作文百句 44 單字整理</summary>
+
+## 單字
+
+* Business
+  * (n.) 生意、商務、公事
+    * 指一般的商業活動、貿易或交易，為<mark style="color:blue;">**不可數名詞**</mark>。常用的片語如下：
+      * `on business` 出差、辦公事
+      * `do business with sb` 與某人做生意。
+      * `none of your business` 不關你的事、與你無關：用來強烈拒絕他人探聽隱私、干涉私事或詢問不該問的問題。
+      * `mind your own business` 管好你自己的事、少管閒事、別干涉他人隱私：常在拒絕回答私人問題或斥責他人愛管閒事時使用，也可以指「做自己的事」或「各忙各的」。
+    * Business has been slow lately due to the global economic recession. (由於全球經濟衰退，近來生意一直很冷淡。)
+    * My father is currently in Singapore on business and will be back next Monday. (我父親目前在新加坡出差，下週一回來。)
+    * I’m sorry, but your personal financial situation is none of my business. (抱歉，你的個人財務狀況不關我的事。)
+    * Stop sticking your nose into my affairs! Mind your own business! (別探聽我的私事！管好你自己的事！)
+  * (n.) 公司、企業、店鋪
+    * 為<mark style="color:blue;">**可數名詞**</mark>。`family business` 指「家族企業」。
+    * The two brothers established a clothing retailing business. (這兄弟倆建立了一家服裝零售企業。)
+    * After years of hard work, they finally turned their small family business into a successful international firm. (經過多年的努力，他們終於將家族小企業轉變成一家成功的國際公司。)
+* Alternative
+  * (n.) 替代方案、(二選一的) 另一個選擇
+    * 常見用法為 `alternative to N` (...的替代方案)。
+    * There is no alternative to this plan. (此計劃別無替代。)
+    * Solar power is a clean alternative to fossil fuels for generating electricity. (太陽能是發電時取代化石燃料的一種清潔替代方案。)
+  * (adj.) 非傳統的、另類的；替代的
+    * The gallery focuses on alternative art that challenges traditional perspectives. (這家畫廊專注於挑戰傳統觀點的另類藝術。)
+    * Some people believe in the benefits of alternative medicine. (有些人相信替代醫學的好處。)
+    * Since the main road was blocked by the landslide, we had to find an alternative route to the airport. (由於主幹道被土石流阻塞，我們不得不找一條通往機場的替代路線。)
+* Established (adj.) 穩固的、建立已久的；聲譽卓著的
+  * 動詞形為 `establish`。常用於形容公司、法律、制度或名聲非常穩固。
+  * Working for an established company often provides more stability and better benefits for young professionals. (為一家老牌公司工作通常能為年輕專業人士提供更多穩定性和更好的福利。)
+  * The established rules of the competition must be strictly followed by all participants. (所有參賽者必須嚴格遵守既定的比賽規則。)
+  * Professor Lin is an established authority in the field of quantum physics. (林教授是量子物理領域享有盛譽的權威。)
+* Company
+  * (n.) 公司
+    * 為<mark style="color:blue;">**可數名詞**</mark>。
+    * The tech company is looking for creative designers to join their new marketing team. (這家科技公司正在尋找創意設計師加入他們的新行銷團隊。)
+  * (n.) 陪伴
+    * 指「陪伴」或「相處」的狀態，為<mark style="color:blue;">**不可數名詞**</mark>。常見搭配為 `keep sb company` (陪伴某人)、`in the company of sb` (在某人的陪伴下)。
+    * I really enjoy your company; time always seems to fly when we are together. (我非常享受你的陪伴；我們在一起時時間似乎總是過得很快。)
+    * My dog keeps me company when my wife is travelling. (我妻子旅行時，我的狗會陪著我。)
+    * The hikers felt safer traveling in the company of an experienced mountain guide. (在經驗豐富的登山嚮導陪伴下，登山者們感到更安全。)
+* Involve (v.) 包含、涉及；使參與、牽涉
+  * 描述一個活動所包含的內容，或使某人參與某事。`be involved in/with N/V-ing` 表「參與...」、「與...有關聯」。
+  * The new government project involves several major changes to the current tax system. (這項政府新計畫涉及對現行稅制的幾項重大變革。)
+  * Setting up a cafe involves a great deal of planning and financial investment. (開一家咖啡店需要大量的規劃和財務投資。)
+  * Parents are encouraged to be more involved in their children's school activities. (我們鼓勵家長更多地參與孩子的學校活動。)
+* Handicraft (n.) 手工藝、手工藝品
+  * 指手工製作的技術或行業時為<mark style="color:blue;">**不可數名詞**</mark>；指具體的手工製品時為<mark style="color:blue;">**可數名詞**</mark>，且<mark style="color:blue;">**常用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`handicrafts`**</mark>。
+  * In the age of mass production, many people still appreciate the unique beauty of traditional handicraft. (在大規模生產的時代，許多人仍然欣賞傳統手工藝的獨特美感。)
+  * The competition which threatens local handicraft comes with the rise of world commerce. (威脅本地手工業的競爭隨世界貿易的興起而來。)
+  * The local market is famous for its exquisite handicrafts, such as hand-woven baskets and pottery. (當地的市場以其精美的手工藝品聞名，如手工編織的籃子和陶器。)
+* Good
+  * (n.) 商品、貨物
+    * <mark style="color:blue;">**恆用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`goods`**</mark>。`consumer goods` 指「消費品」，指直接賣給最終消費者、用於個人生活需求的商品。
+    * All the goods in the store are currently on sale with a fifty percent discount. (店裡所有的商品目前都在五折促銷中。)
+    * The report focuses on the market for household consumer goods. (該報告聚焦於家庭消費品市場。)
+  * (n.) 利益、好處、福祉
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。`for the good of N` 指「為了...的好處」。
+    * The charity organization works tirelessly for the public good. (該慈善組織為了公眾利益不懈努力。)
+    * The doctor made the difficult decision for the good of the patient's long-term health. (為了病患的長期健康，醫生做出了艱難的決定。)
+    * We need to make this decision for the good of everyone. (我們需要做此決定是為了大家的好處。)
+* Notion (n.) 想法、概念、念頭
+  * 常指一種不一定有事實根據，或較為模糊、突然產生的看法。
+  * She rejected the notion that success is determined solely by one's academic performance. (她拒絕接受成功僅由學業表現決定的這種想法。)
+  * The traditional notion that men should be the sole breadwinners is changing in modern society. (在現代社會，男人應該是唯一養家糊口的人這種傳統觀念正在改變。)
+  * Jeremy had a sudden notion to quit his stable job and travel around the world. (Jeremy 突然產生一個辭職去環遊世界的念頭。)
+* Popular (adj.) 受歡迎的、流行的
+  * 常見用法為 `be popular with/among sb` (受...歡迎)。
+  * This seaside resort is extremely popular with young couples during the summer holiday. (這個海濱渡假村在暑假期間非常受年輕情侶歡迎。)
+  * The notion of working remotely has become increasingly popular among office workers. (遠距辦公的概念在上班族中變得越來越受歡迎。)
+* Interest
+  * (n.) 興趣、好奇心；利息
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。常見用法為 `show interest in N` (對...展現興趣)。
+    * Despite the difficult subject, the students showed a great interest in learning about space exploration. (儘管主題艱深，學生們對學習太空探索仍表現出極大的興趣。)
+    * The bank offers a high interest rate of three percent for all new savings accounts. (銀行為所有新的儲蓄帳戶提供百分之三的高利率。)
+  * (v.) 使感興趣
+    * Classical history has always interested me since I visited the ancient ruins in Rome. (自從我參觀了羅馬的古蹟後，古典歷史一直讓我感興趣。)
+  * 其他意思詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-23-dan-zi-zheng-li)。
+* Manage
+  * (v.) 經營、管理
+    * 形容詞為 `manageable` (可處理的)。
+    * It takes a lot of experience and patience to manage a team of diverse individuals effectively. (有效地管理一個由多元化個體組成的團隊需要大量的經驗和耐心。)
+    * If you want to expand your business, you must learn how to manage your finances more wisely. (如果你想擴張業務，你必須學習如何更聰明地管理財務。)
+  * (v.) 設法做到
+    * 常見用法為 `manage to VR`。
+    * Despite the heavy traffic, Alana managed to arrive at the interview just in time. (儘管交通擁擠，Alana 還是設法準時趕到了面試現場。)
+* Social media (n.) 社群媒體
+  * 雖然 `media` 是 `medium` 的複數，但 `social media` 通常被視為一個整體的概念，作為<mark style="color:blue;">**不可數名詞**</mark>使用，<mark style="color:blue;">**後面接單數動詞**</mark>。
+  * Advertising on social media has become a key strategy for small businesses to reach younger customers. (在社群媒體上打廣告已成為小企業接觸年輕客戶的關鍵策略。)
+  * Many experts are worried that spending too much time on social media can negatively affect teenagers' self-esteem. (許多專家擔心在社群媒體上花費太多時間會對青少年的自尊產生負面影響。)
+* Run (v.) 經營、運作、管理
+  * 指經營或掌管一個企業、組織或機器。`run a business/store` 表「開公司/店」。
+  * It is not easy to run a mobile food truck because you have to constantly worry about finding a legal parking spot. (經營移動餐車並不容易，因為你必須經常擔心找不到合法的停車位。)
+  * My aunt runs a small bakery downtown that is famous for its fresh sourdough bread. (我阿姨在市中心經營一家小麵包店，以其新鮮的酸種麵包聞名。)
+  * The local government is trying to find more efficient ways to run public transportation systems. (當地政府正試圖尋找更有效率的方式來運作大眾運輸系統。)
+* Mobile (adj.) 可移動的、行動式的
+  * 指某物可以被移動或位置不固定，如 `mobile phone/app`。
+  * The library launched a mobile book service to bring reading materials to children in remote mountain villages. (圖書館推出了行動圖書服務，將閱讀材料帶給偏遠山村的孩子們。)
+  * Because the new robot is highly mobile, it can easily navigate through tight spaces in the warehouse. (因為這台新機器人具有高度移動性，它可以輕鬆穿過倉庫中的狹窄空間。)
+
+{% hint style="info" %}
+#### Motile (adj.) 能動的、具有活動能力的
+
+* 常用於生物學，指生物體或細胞具有自主且獨立的運動能力 (如精子、微生物)。與 `mobile` 意思不同，請勿混用。
+* Scientists observed that the bacteria were motile, using their flagella to swim toward the source of nutrients. (科學家觀察到這些細菌具有運動能力，利用其鞭毛向營養來源游去。)
+* We analyzed the percentage of motile sperm in the sample. (我們分析了樣本中活動精子的百分比。)
+{% endhint %}
+
+* Food truck (n.) 餐車
+  * The food truck parked outside the office building offers a wide variety of delicious tacos and burritos. (停在辦公大樓外的餐車提供各種美味的塔可餅和捲餅。)
+  * Many young entrepreneurs choose to start with a food truck because the initial investment is much lower than opening a traditional restaurant. (許多年輕創業者選擇從餐車開始，因為初始投資比開一家傳統餐廳低得多。)
+* Tour guide (n.) 導遊、嚮導
+  * Our tour guide was extremely knowledgeable and shared many fascinating stories about the historical landmarks. (我們的導遊非常博學，分享了許多關於歷史古蹟的迷人故事。)
+
+{% hint style="info" %}
+#### 補充
+
+* Tour
+  * (n.) 觀光旅遊、旅行團
+    * 指一段有計畫的旅程，通常會造訪多個地點後回到原點。`guided tour` 指「有導覽的行程」；`walking tour` 指「步行導覽」。常見用法為 `take a tour (of place)`。
+    * We took a short tour through the university campus. (我們在校園稍微參觀一下。)
+    * The museum offers a free guided tour every Saturday morning for visitors who want to learn more about the exhibits. (博物館每週六早上為想進一步了解展品的訪客提供免費的導覽行程。)
+  * (n.) 巡演
+    * `on tour` 表「正在巡迴演出」。
+    * The band is currently on a world tour. (這個樂團目前正在進行世界巡迴演唱。)
+    * After the new album was released, the rock band spent six months on tour across Europe and North America. (新專輯發行後，這支搖滾樂團花了六個月的時間在歐洲和北美巡迴演出。)
+  * (v.) 旅遊、參觀；巡演；巡視
+    * My parents are planning to tour the historic cities of Italy and Greece during their summer vacation. (我父母正計畫在暑假期間前往義大利和希臘的歷史城市旅遊。)
+    * The prospective buyers spent the afternoon touring the house to check for any potential repairs. (潛在買家花了一下午的時間參觀這棟房子，以檢查是否有任何潛在的維修需求。)
+    * The band is currently touring to promote the new album. (該樂隊目前正在巡迴以推廣新專輯。)
+    * The prime minister toured the flooded regions. (總理視察了洪水災區。)
+* Guide
+  * (n.) 導遊；指南；準則
+    * `travel/field guide` 指「旅遊/野外指南」；`a guide to N` 指「某事物的指南」。
+    * We hired a local guide to help us navigate through the dense rainforest safely. (我們僱用了一位當地導遊，幫助我們在茂密的雨林中安全穿行。)
+    * This handbook serves as a comprehensive guide to starting your own small business from scratch. (這本手冊是從零開始創業的全面指南。)
+    * Let your conscience be your guide whenever you are faced with a difficult moral dilemma. (每當你面臨艱難的道德困境時，讓你的良知成為你的準則。)
+  * (v.) 引導、指導
+    * 引領某人前往某處，或在精神、決策上提供指導。`guide sb through sth` 指「引領某人完成某事」。名詞形為 `guidance`。
+    * The light guided them back to the harbor. (燈光引導他們返回港口。)
+    * The experienced teacher guided the students through the complex process of writing their first research paper. (經驗豐富的老師引導學生完成撰寫第一篇研究論文的複雜過程。)
+{% endhint %}
+
+* Career (n.) 事業、職業生涯
+  * 為<mark style="color:blue;">**可數名詞**</mark>。相較於 `job` (具體職位) 或 `work` (工作的行為)，`career` 強調的是「長期的專業發展路徑」，如 `career path` (職業道路)。
+  * Choosing the right career is one of the most important decisions a person will make in their lifetime. (選擇正確的事業是一個人一生中會做出的最重要的決定之一。)
+  * Attending workshops and seminars is a great way to advance your career and learn new skills. (參加工作坊和研討會是晉升事業和學習新技能的好方法。)
+  * Joseph had a long and successful career in the financial industry before deciding to retire early. (Joseph 在決定提早退休之前，在金融業有著長期且成功的職業生涯。)
+* Organize (v.) 組織、籌劃；整理
+  * 形容詞為 `organized` (有條理的)；名詞形為 `organization` (組織)。
+  * The students decided to organize a charity concert to raise money for the local animal shelter. (學生們決定籌辦一場慈善音樂會，為當地的動物收容所募款。)
+  * It is important to organize your thoughts before you start writing a formal essay or report. (在開始撰寫正式論文或報告之前，整理好你的思緒是很重要的。)
+  * She spent the entire weekend organizing her bookshelf by genre and author name. (她花了整個週末按類型和作者姓名整理她的書架。)
+* Agency (n.) 代理機構、服務機構；行政機構
+  * 指專門提供某種服務的代理店、公司，或指政府的局、處、署等行政機關，如 `travel agency` (旅行社)、`employment agency` (職業介紹所)、`talent agency` (演藝經紀公司)、`space agency` (太空總署)。
+  * Since we were planning a complex trip through Europe, we decided to seek help from a professional travel agency. (由於我們計畫進行一場複雜的歐洲之旅，我們決定尋求專業旅行社的幫助。)
+  * Many actors and models rely on their talent agency to find new job opportunities and negotiate contracts. (許多演員和模特兒依靠他們的經紀公司來尋找新的工作機會並洽談合約。)
+  * The local agency is responsible for providing clean water and electricity to all residents in the district. (當地的行政機構負責為該地區的所有居民提供乾淨的水和電力。)
+* Boss
+  * (n.) 老闆、上司
+    * 通常不會直接對上司說 "Hello, boss."，比較禮貌的方式是用名字稱呼或職稱。`boss` 較多用於<mark style="color:blue;">**向第三方描述自己的上司**</mark>。
+    * My boss is very supportive and always encourages us to take on new challenges and learn new skills. (我的老闆非常支持我們，總是鼓勵我們接受新挑戰並學習新技能。)
+    * James decided to quit his job and start his own business because he wanted to be his own boss. (James 決定辭職創業，因為他想當自己的老闆。)
+  * (v.) 管理、指揮
+    * `boss sb around` 表「對某人發號施令、頤指氣使」。
+    * He bossed the project and ensured its success. (他管理這個項目並確保了它的成功。)
+    * Please stop trying to boss everyone around; we are a team and should make decisions together. (請不要再對每個人頤指氣使了；我們是一個團隊，應該一起做決定。)
+* Individual
+  * (n.) 個人、個體
+    * 指相對於集體或群體的「單獨一個人」，為<mark style="color:blue;">**可數名詞**</mark>。
+    * Each individual has a unique set of talents and perspectives that can contribute to the success of the company. (每個人都有一套獨特的才能和觀點，可以為公司的成功做出貢獻。)
+    * We must respect the rights of the individual while also considering the welfare of the entire community. (我們必須尊重個人的權利，同時也要考慮整個社群的福祉。)
+  * (adj.) 個別的
+    * The coach provides individual attention to each player to help them improve their specific weaknesses. (教練給予每位球員個別的關注，以幫助他們改善特定的弱點。)
+* Passionate (adj.) 熱情的、狂熱的
+  * 名詞形為 [`passion`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-12-dan-zi-zheng-li)。常見用法為 `be passionate about N/V-ing`。
+  * He gave a passionate speech about the importance of protecting our oceans from plastic pollution. (他發表了一場關於保護海洋免受塑膠污染重要性的慷慨激昂的演說。)
+  * As a passionate advocate for animal rights, she volunteers at the local shelter every weekend. (作為一名熱衷於動物權利的倡導者，她每個週末都在當地的收容所當志工。)
+  * You need to be passionate about your work if you want to achieve great success in the long run. (如果你想長遠地取得巨大成功，你需要對你的工作充滿熱情。)
+* Regale (v.) 以 (故事等) 款待、使愉悅
+  * 指透過講述有趣的故事或經歷來讓聽眾感到開心。常見用法為 `regale sb with sth`。
+  * During the family reunion, Grandpa regaled us with stories of his adventures in the army. (在家庭聚會期間，爺爺講述他在軍中冒險的故事來逗我們開心。)
+  * The traveler regaled the locals with tales of the strange lands he had visited during his journey. (旅行者向當地人講述他在旅途中訪問過的奇異土地的故事，讓他們聽得津津有味。)
+* Furthermore (adv.) 此外、而且、再者
+  * 常放在句首並用逗號隔開。與 `moreover` 意思相近。
+  * The new laptop is lightweight and portable; furthermore, it has a very long battery life. (這台新筆記型電腦輕巧便攜。此外，它還有很長的電池壽命。)
+  * Exercising regularly can help you lose weight. Furthermore, it significantly reduces the risk of heart disease. (定期運動可以幫助你減肥。再者，它能顯著降低患心臟病的風險。)
+* Cuisine (n.) 料理、烹飪、菜餚
+  * 指一個地區、國家或餐廳特有的烹飪風格，為<mark style="color:blue;">**不可數名詞**</mark>。
+  * Italian cuisine is famous for its use of fresh ingredients like tomatoes, garlic, and olive oil. (義大利料理以使用番茄、大蒜和橄欖油等新鮮食材而聞名。)
+  * We spent the entire weekend exploring the diverse street cuisine of Tainan. (我們花了整個週末探索台南多樣的街頭小吃料理。)
+* Ultimately (adv.) 最終、終究
+  * 用於強調事情最後的結果，或者是事情最核心的本質。形容詞為 `ultimate`。
+  * Although the team faced many difficulties, they ultimately won the championship. (儘管團隊面臨許多困難，他們最終還是贏得了冠軍。)
+  * Ultimately, it is up to the individual to decide which career path is right for them. (終究還是要由個人來決定哪條職業道路適合自己。)
+  * The success of a business ultimately depends on the satisfaction of its customers. (企業的成功最終取決於客戶的滿意度。)
+* Vocation (n.) 志業、職業、使命感
+  * 與 `job` 不同，`vocation` 隱含著一個人感覺自己「被召喚」去做某種工作的神聖感或強烈熱情。請注意，勿拼成 `vacation` (假期)。
+  * Nursing is not just a career for her; it is a true vocation that she loves deeply. (護理對她來說不只是一份事業；這是一份她深愛著的真正志業。)
+  * It took me many years to find my true vocation as a high school teacher. (我花了多年時間才找到自己身為高中老師的真正志業。)
+
+</details>
+
+<details>
+
+<summary>作文百句 44 片語整理</summary>
+
+## 片語
+
+* An alternative to N/V-ing ...的替代方案
+  * Eating fresh fruit is a healthy choice as an alternative to consuming processed snacks filled with sugar. (吃新鮮水果是取代攝取充滿糖分加工零食的一種健康選擇。)
+  * Cycling to work has become an alternative to taking the crowded subway for many commuters. (對許多通勤者來說，騎自行車上班已經成為擁擠地鐵之外的選擇。)
+* Be/get involved in/with N/V-ing 參與...、涉及到...
+  * 指投入某項活動、組織或與某種事物產生關聯。
+  * They were involved in a long legal wrangle. (他們陷入了長期的法律糾紛。)
+  * Sammy decided to get involved with the student council to improve his leadership and communication skills. (Sammy 決定加入學生會，以提升他的領導與溝通能力。)
+* Show interest (in N/V-ing) (對...) 展現興趣
+  * Several international investors have shown interest in funding the new technology startup. (幾位國際投資者已表現出資助這家新技術初創公司的興趣。)
+  * Despite his busy schedule, the professor always shows interest in his students' personal research projects. (儘管行程繁忙，教授總是對學生的個人研究計畫表現出興趣。)
+* From place to place 從一處到另一處
+  * 形容在不同地點之間頻繁移動或遷移。
+  * The traveling circus moves from place to place, performing for audiences in different cities every week. (巡迴馬戲團在各地遷移，每週為不同城市的觀眾表演。)
+  * Digital nomads enjoy the freedom of working remotely while traveling from place to place around the world. (數位遊牧民族享受遠距工作的自由，同時在世界各地旅行。)
+* Get to know N 瞭解...、認識...
+  * 指透過相處或研究，逐漸對某人事物有更深入的認識。
+  * It takes time and patience to truly get to know a person's character and values. (真正了解一個人的性格和價值觀需要時間和耐心。)
+  * During her three-month stay in Tainan, Sarah really got to know the city's rich history and diverse culture. (在台南逗留的三個月期間，Sarah 真正了解了這座城市豐富的歷史與多樣的文化。)
+* Be passionate about N/V-ing 對...充滿熱情
+  * He is extremely passionate about marine biology and hopes to work as a researcher after graduation. (他對海洋生物學極其熱衷，希望畢業後能擔任研究員。)
+  * I'm passionate about cooking and love trying out new recipes. (我熱愛烹飪，喜歡嘗試新食譜。)
+* Regale sb with sth 以某事取悅、款待某人
+  * 通常指透過講述有趣的故事、經歷或提供豐富的餘興節目來讓聽眾感到愉悅。
+  * The retired explorer regaled the children with thrilling tales of his encounters with wild animals in Africa. (退休的探險家向孩子們講述他在非洲與野生動物遭遇的驚險故事，讓他們聽得津津有味。)
+  * During the dinner party, the host regaled his guests with funny anecdotes from his recent trip to Paris. (在晚宴期間，主人講述了他最近去巴黎旅行的趣聞軼事來逗客人們開心。)
+
+</details>
+
+<details>
+
+<summary>作文百句 44 補充資料</summary>
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Entrepreneur (n.) 創業者、企業家
+  * `entrepreneurship` 指「創業精神」。請注意這兩個字的拼法，與 `enterprise` 不同，切勿拼錯。
+  * To be a successful entrepreneur, one must possess not only a brilliant idea but also the resilience to face failure. (要成為一名成功的創業者，不僅要有出色的想法，還要有面對失敗的韌性。)
+  * The university offers various workshops to encourage entrepreneurship among students from different departments. (大學提供各種工作坊，以鼓勵不同科系的學生具備創業精神。)
+* Startup (n.) 新創企業、初創公司
+  * Many tech startups choose to set up their offices in this district due to its vibrant business environment. (許多科技新創公司選擇在該區設立辦公室，因為那裡有充滿活力的商務環境。)
+  * Financing a startup is often challenging, requiring owners to pitch their ideas to potential investors. (為新創公司籌集資金通常具有挑戰性，需要老闆向潛在投資者推銷他們的想法。)
+* Niche market (n.) 小眾市場、利基市場
+  * 指大型企業可能忽略的特定、專業的細分市場。
+  * By focusing on handmade wooden toys, the young adult found a profitable niche market in the competitive toy industry. (透過專注於手工木製玩具，這位年輕人在競爭激烈的玩具產業中找到了一個有利可圖的小眾市場。)
+  * Researching the niche market is essential for any small business that wants to avoid direct competition with giants. (對於任何想要避免與巨頭直接競爭的小企業來說，研究小眾市場是必不可少的。)
+
+{% hint style="info" %}
+#### 補充
+
+* Niche
+  * (n.) 利基、小眾市場、合適的定位
+    * 指適合個人或企業發展的獨特且合適的職位或領域、小眾市場、棲身之地。常見用法如下：
+      * `find a niche (for sb/sth) in 領域/市場`：指在特定且狹小的市場需求中，建立自己獨特的定位、優勢或專長，通常用於創業、個人品牌或行銷。
+      * `carve out a niche (for sb/sth) in 領域/市場`：指透過提供獨特產品、服務或專長，在競爭激烈的市場中「闖出一片天」、「開闢利基市場」或「找到獨特定位」。
+    * Many successful entrepreneurs started by identifying a niche that was being ignored by larger companies. (許多成功的企業家都是從發現被大公司忽視的小眾市場開始的。)
+    * After years of searching, Jeremy finally found his niche in the world of independent filmmaking. (經過多年的尋找，Jeremy 終於在獨立電影製作界找到了自己的合適位置。)
+    * The company found a niche for their eco-friendly furniture. (這家公司為他們的環保家具找到了利基市場。)
+    * The company managed to carve out a niche in the highly competitive tech market. (該公司設法在競爭激烈的科技市場中開闢了專屬的利基。)
+  * (n.) 壁龕、牆上的凹處
+    * A small statue was placed in a niche in the wall. (一座小雕像被安置在牆上的壁龕中。)
+  * (adj.) 小眾的
+    * Her blog on orchid care appeals to a niche group of gardeners. (她關於蘭花護理的部落格吸引了一群小眾園丁。)
+    * Although the singer's music is quite niche, she has a very loyal following around the world. (雖然這位歌手的音樂相當小眾，但她在世界各地擁有一群非常忠實的追隨者。)
+{% endhint %}
+
+* Initial capital (n.) 創業資金、初始資本
+  * Running a mobile food truck requires much less initial capital than opening a brick-and-mortar restaurant. (經營移動餐車所需的初始資金比開一家實體餐廳要少得多。)
+  * The ambitious student saved up for three years to accumulate enough initial capital for his handicraft business. (這位有抱負的學生存了三年錢，為他的手工藝生意積累了足夠的初始資金。)
+* Pros and cons (n. phr.) 優缺點、利弊
+  * Before deciding to work as a tour guide, you should carefully weigh the pros and cons of the job. (在決定擔任導遊之前，你應該仔細衡量這份工作的優缺點。)
+  * Every career path has its pros and cons, and what matters most is finding one that aligns with your passion. (每條職業道路都有其利弊，最重要的是找到一條與你的熱情契合的道路。)
+
+#### 常見圖表類型
+
+以下補充一些常見圖表的英文，方便你在撰寫圖表作文時，能選用正確的詞彙。
+
+* Bar graph / Bar chart 長條圖
+  * 用於比較不同類別之間的數據大小。
+  * The bar graph clearly illustrates the difference in energy consumption between different countries. (長條圖清晰地說明了不同國家之間能源消耗的差異。)
+* Histogram 直方圖
+  * 用於顯示連續數據 (如年齡分布) 的頻率分布。
+  * The histogram represents the distribution of test scores among the students in the class. (直方圖代表了班級學生測試成績的分布情況。)
+
+{% hint style="success" %}
+#### 直方圖 vs. 長條圖
+
+直方圖用於呈現「連續」數值資料的分布，長條柱子相連；長條圖則用於比較「類別型 (離散)」資料的項目大小，長條柱子通常分開。
+{% endhint %}
+
+* Pie chart 圓餅圖
+  * According to the pie chart, more than half of the company's budget is spent on research and development. (根據圓餅圖，公司一半以上的預算花在了研發上。)
+* Line graph 折線圖
+  * The line graph shows a steady increase in global temperatures over the past fifty years. (折線圖顯示了過去五十年全球氣溫的穩定上升。)
+* Flow chart 流程圖
+  * The flow chart guides employees through the complex process of applying for a business trip. (流程圖引導員工完成申請出差的複雜過程。)
+* Table 表格
+  * Please refer to the table on page 10 for a detailed breakdown of the survey results. (請參閱第 10 頁的表格，了解調查結果的詳細分類。)
+* Diagram 圖解、示意圖
+  * 是一種透過圖形、符號來視覺化展示結構、流程或概念的工具。
+  * She gave me a diagram of the railway network. (她給了我一張鐵路網圖解。)
+  * The science textbook includes a diagram showing the different parts of a human cell. (科學教科書中包含一張顯示人體細胞不同部分的示意圖。)
+
+#### 進階圖表類型
+
+以下的圖表種類，雖然應該不會出現在作文，但還是蠻常見的。
+
+* Scatter plot 散佈圖、散點圖
+  * 用於顯示兩個變量之間的相關性，圖中的點分布代表數據的集中趨勢。
+  * The scatter plot reveals a strong positive correlation between study hours and exam scores. (散點圖揭示了學習時數與考試成績之間強烈的正相關。)
+* Radar chart / Spider chart 雷達圖、蜘蛛圖
+  * 用於展示多個維度的數據對比，常見於能力評估 (如職場能力或遊戲角色屬性)。
+  * This radar chart helps us compare the strengths and weaknesses of different smartphone models. (這份雷達圖幫助我們比較不同型號智慧型手機的優缺點。)
+* Venn diagram 文氏圖
+  * 用於顯示不同群體或集合之間的邏輯關係、重疊部分 (交集)。<mark style="color:blue;">**`Venn`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**的**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`V`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**要大寫**</mark>。
+  * A Venn diagram is the perfect way to visualize the common characteristics of these two business models. (文氏圖是視覺化這兩種商業模式共同特徵的完美方式。)
+* Gantt chart 甘特圖
+  * 專用於專案管理，用來展示各項任務的進度時間表。<mark style="color:blue;">**`Gantt`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**的**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`G`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**要大寫**</mark>。
+  * The project manager used a Gantt chart to ensure all tasks were completed according to the timeline. (專案經理使用甘特圖來確保所有任務都按照時間表完成。)
+* Heat map 熱力圖
+  * 利用顏色的深淺來代表數據的強度或密度，常用於顯示網頁點擊分布或氣溫分布。
+  * The heat map of the website shows that most users focus on the top-left corner of the page. (網站的熱力圖顯示大多數使用者關注頁面的左上角。)
+* Box plot / Box-and-whisker plot 箱形圖
+  * 用於展示數據的分布情況，包含最大值、最小值、中位數及四分位數。
+  * The box plot allows us to compare the distribution of income across different age groups. (箱形圖讓我們可以比較不同年齡層的收入分布情況。)
+* Area chart 面積圖、區域圖
+  * 與折線圖類似，但將線條下方的區域填滿顏色，用來強調數量隨時間變化的累積規模。
+  * An area chart is useful for showing how individual categories contribute to a total over time. (面積圖有助於展示各個類別如何隨著時間的推移對總量做出貢獻。)
+
+{% hint style="success" %}
+#### 折線圖 vs. 面積圖
+
+折線圖專注於變化率和多條線的精確對比；區域圖則強調量級、累積總量 (面積) 與整體的變化，更適合顯示部分與整體的關係。
+{% endhint %}
+
+## 寫作建議
+
+撰寫圖表作文時，可以參考以下建議。
+
+* 描述多筆數據時，要嘗試像本文一樣變換句型，並適時加入分詞構句與附帶狀況 (如 `with + O + OC`)，讓文章讀起來不會過於單調，也能順勢將趨勢分析加入句子中。
+* 本文使用了 `meanwhile`, `however`, `furthermore`, `ultimately` 等詞彙。寫作時，若能善用過渡詞與連接詞，可以使文章轉折順暢、結構清晰。此外，多筆數據之間也可以用這些詞隔開，表達處境、優劣、盛衰的轉換。
+
+</details>
+
 ## 45.
 
 1. Life is full of regrets, and I have more than my <mark style="color:blue;">**fair share**</mark>. For one, I wish that I <mark style="color:blue;">**had stood up for**</mark> Robert, a boy in my class, when he <mark style="color:blue;">**was being bullied**</mark>. Robert <mark style="color:blue;">**was**</mark> quite <mark style="color:blue;">**sensitive about being short**</mark>, and he got angry easily when other boys made fun of him<mark style="color:blue;">**, which**</mark> only made things worse. Though I <mark style="color:blue;">**personally never called Robert names**</mark> or <mark style="color:blue;">**took part in the bullying**</mark>, I never tried to <mark style="color:blue;">**put a stop to**</mark> it, either. I didn't want to bring the bullies' attention down on me, so I just stayed quiet and let it happen.
 2. Later, Robert <mark style="color:blue;">**transferred to**</mark> another school. His life had become so <mark style="color:blue;">**miserable**</mark> that he couldn't stay at our school anymore. <mark style="color:blue;">**Had I supported him**</mark> and provided some friendship, he <mark style="color:blue;">**might have been happier**</mark> here. When I realized that, I promised myself that if I ever saw someone being bullied again, I wouldn't just keep my mouth shut. <mark style="color:blue;">**Instead**</mark>, I'd take action and make sure the <mark style="color:blue;">**bullying**</mark> stopped right there.
+
+<details>
+
+<summary>作文百句 45 單字整理</summary>
+
+## 單字
+
+* Fair share (n. phr.)
+  * 應得的一份
+    * 指公平分配後的一份 (如酬勞、責任)。
+    * Everyone should pay their fair share of taxes. (每個人都應該繳納他們應分攤的稅款)。
+    * Every member of the team is expected to do their fair share of the work to ensure the project is finished on time. (團隊的每位成員都被期待完成他們應盡的一份工作，以確保專案準時完成。)
+  * (通常指<mark style="color:blue;">**負面**</mark>事物) 相當多、超過一般限度
+    * 指某人或物經歷了「比一般還多」的麻煩、痛苦或遺憾。常用結構為 `have one's fair share of sth`。
+    * I’ve had my fair share of car troubles lately, so I’m thinking about buying a new one. (我最近遇到了相當多的修車麻煩，所以我在考慮買輛新車。)
+    * This old house has seen its fair share of history and survived many natural disasters over the years. (這棟老房子經歷了相當豐富的歷史，並在多年來幸存於多次自然災害。)
+* Bully
+  * (n.) 霸凌者、欺凌弱小者
+    * The school has a zero-tolerance policy for any student who acts like a bully. (學校對於任何表現得像霸凌者的學生都採取零容忍政策。)
+  * (v.) 霸凌、欺負
+    * 常見用法為 `bully sb`、`bully sb into V-ing` (強迫某人做某事)。名詞形為 [`bullying`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-7-dan-zi-zheng-li)。
+    * It’s important to teach children how to stand up for themselves when others try to bully them. (教孩子們在別人試圖欺負他們時如何為自己挺身而出是很重要的。)
+    * Don't let anyone bully you into changing your mind about your future career. (別讓任何人強迫你改變對未來事業的想法。)
+* Personally (adv.) 親自；就個人而言
+  * `take sth personally` 表認為某事是針對個人的、對號入座或因某事而感到不悅、走心。
+  * Although the manager was busy, she personally interviewed every candidate for the new position. (雖然經理很忙，她還是親自面試了每一位新職位的應徵者。)
+  * Personally, I believe that honesty is the most important quality in a true friendship. (就個人而言，我認為誠實是真誠友誼中最重要的特質。)
+  * Please don't take his comments personally; he was just having a very bad day. (請不要介意他的評論；他只是那天心情很糟。)
+* Transfer (v.) 轉學、轉系、調職；轉移、轉讓；轉乘、轉機；轉帳、匯款
+  * 常見用法為 `transfer A to B`。
+  * Due to the bullying he experienced, Robert eventually decided to transfer to another school. (由於經歷了霸凌，Robert 最終決定轉學到另一所學校。)
+  * The company is planning to transfer several experienced engineers to its new branch in Tokyo. (公司計畫將幾位經驗豐富的工程師調往其東京的新分公司。)
+  * You can easily transfer your photos from your smartphone to your computer using a USB cable. (你可以使用 USB 線輕鬆地將照片從手機傳輸到電腦。)
+  * She transferred the property to her daughter. (她把房產轉讓給了女兒。)
+  * We have to transfer to another train at the next station. (我們必須在下一站轉乘另一班火車。)
+  * I need to transfer some money to my savings account. (我需要轉一些錢到我的儲蓄帳戶。)
+* Miserable
+  * (adj.) 痛苦的、慘不忍睹的、糟糕的
+    * He felt miserable for days after he realized he had accidentally hurt his best friend's feelings. (在意識到自己無意中傷害了好友的情感後，他難過了好幾天。)
+    * Seeing the stray dog in such a miserable condition broke Sarah's heart. (看到那隻流浪狗處於如此慘不忍睹的狀況，讓 Sarah 碎了心。)
+    * The weather was miserable, cold and rainy. (天氣很糟糕，又冷又下雨。)
+  * (adj.) 少得可憐的
+    * She only offered me a miserable $20. (她只出少得可憐的20美元。)
+    * How can I live on such a miserable wage? (我怎麼能靠這少得可憐的工資生活？)
+* Support
+  * (v.) 支持；扶養、供養；支撐
+    * My parents have always supported my dream of becoming a professional musician, no matter what. (無論如何，我的父母總是支持我成為職業音樂家的夢想。)
+    * This race is supported by numerous corporate sponsors. (這場比賽由許多企業贊助商贊助。)
+    * I can't support my wife and children on such a small salary. (我薪水如此微薄，無法養活家小。)
+    * This heavy bridge is supported by dozens of massive concrete pillars. (這座沉重的橋樑由數十根巨大的混凝土柱支撐著。)
+  * (n.) 支持、擁護、支撐
+    * 指抽象的支持或幫助時，為<mark style="color:blue;">**不可數名詞**</mark>，如 `emtional/financial support`；指具體的支撐物、支柱或一次次的幫助時，為<mark style="color:blue;">**可數名詞**</mark>。`in support of N` 表「支持...」。
+    * The local community provided a lot of emotional support to the families affected by the flood. (當地社區為受洪水影響的家庭提供了大量的情感支持。)
+    * The student asked for financial support for her tuition fees. (這名學生申請了學費資助。)
+    * She gave me a lot of supports during the crisis. (她在危機中給了我很多次幫助。)
+* Promise
+  * (n.) 諾言、承諾
+    * 常見用法為 `make/keep/break a promise` (許下/遵守/違背諾言)。
+    * If you make a promise to someone, you should do your absolute best to keep it. (如果你向某人許下諾言，你就應該竭盡全力去遵守它。)
+    * He made a solemn promise to pay me back. (他鄭重承諾會還我錢。)
+  * (n.) 前景、希望
+    * 形容詞為 `promising` (有前途的、有希望的)。
+    * The project shows great promise. (這專案非常有前景。)
+    * The bright red sunset gives the promise of another beautiful day tomorrow. (鮮紅的夕陽預示著明天又會是一個美好的日子。)
+  * (v.) 答應、承諾
+    * 後面常接 `to VR` 或 `that 子句`。
+    * I promise to help you with your English assignment as soon as I finish my own work. (我答應一等我完成自己的工作就幫你做英文作業。)
+    * The doctor promised that the surgery would be simple and that the patient would recover quickly. (醫生承諾手術會很簡單，病患也會康復得很快。)
+* Ever (adv.) 在任何時候、曾經
+  * If you ever find yourself in trouble, don't hesitate to call me for help. (如果你萬一遇到麻煩，別猶豫，儘管打電話找我幫忙。)
+  * This is the most beautiful sunset I have ever seen in my entire life. (這是我一生中見過最美麗的落日。)
+  * Do you ever wonder what happened to our old high school friends after all these years? (你是否曾經想過，這麼多年後我們的高中老朋友都怎麼了？)
+  * I promised myself that I would never ever lie to the people I love. (我向自己保證，我絕對不會對我愛的人撒謊。)
+* Shut
+  * (v.) 關上、閉上
+    * 三態同型；現在分詞為 `shutting`。常用於代替 `close`，語氣較直接。
+    * The window won't shut. (這扇窗戶關不上。)
+    * Please shut the door quietly so you don't wake up the baby sleeping in the next room. (請輕輕地關上門，以免吵醒在隔壁房間睡覺的寶寶。)
+    * He shut the shop at 9 p.m. yesterday. (他昨天晚上九點關店。)
+    * 其他常見用法與片語如下：
+      * `shut up` 閉嘴、住口
+        * 通常被視為無禮且憤怒的命令，是不禮貌的口語用法。
+        * `put up or shut up` 指「要就做，不然就閉嘴」，用來要求一直說大話、批評或承諾，但從不採取行動的人，立即付諸實行，否則就停止抱怨或廢話。
+        * He angrily asked me to shut up. (他生氣地要我閉嘴。)
+        * You keep saying you're going to quit, so put up or shut up. (你一直說你要辭職，那要麼辭，不然就閉嘴。)
+        * If you think you can do it better, put up or shut up. (如果你覺得你做得更好，那行你上啊，否則別囉嗦。)
+      * `shut sb up` 讓某人閉嘴、使某人安靜下來；堵住某人的嘴
+        * 透過言語命令或採取行動，使吵鬧、說話不停的人停止出聲。可用於字面上的「不講話」或隱喻上的「阻止對方說出秘密」。
+        * I gave the kid candy to shut him up. (我給那孩子糖果讓他閉嘴。)
+        * It's impossible to shut him up. (要讓他閉嘴是不可能的。)
+        * I gave him some money just to shut him up. (我給他錢只是為了堵住他的嘴。)
+      * `shut N down` 停業、關閉機器
+        * 指永久或暫時停止運作。
+        * The factory was forced to shut down because it could no longer compete with cheaper imports. (工廠被迫停業，因為它再也無法與廉價的進口商品競爭。)
+        * Please shut down the computer before you leave. (離開前請關機。)
+        * The system will automatically shut down in 10 minutes. (系統將在 10 分鐘後自動關機。)
+      * `shut N out` 排除...、將...拒之門外
+        * 指不讓某人進入或不讓某事影響自己。
+        * I tried to shut out the noise from the street by wearing my noise-canceling headphones. (我試著戴上降噪耳機來隔絕街道上的噪音。)
+        * He was shut out of his own house. (他被關在自己家門外。)
+        * He felt he'd been shut out of the discussion. (他覺得他被排除在這個討論外。)
+        * She felt shut out by her classmates. (她覺得被同學排擠。)
+      * `shut N off` 關閉、切斷 (能源、供應、設備)
+        * 常指切斷水、電、煤氣或設備停止運作。表「設備停止運作」時，通常是因為故障，而非人為主動操作導致。
+        * Make sure to shut off the gas before you leave the house for your vacation. (在出發去度假前，請務必關掉瓦斯。)
+        * Please shut off the water before you leave. (離開前請把水關掉。)
+        * The engine suddenly shut off while I was driving. (我開車時引擎突然熄火了。)
+      * `open-and-shut` (adj.) 顯而易見的、容易解決的、一翻兩瞪眼
+        * 形容案件、問題或情況非常明確，不需要複雜的調查。
+        * The police thought it was an open-and-shut case, but they were wrong. (警察原以為這是一件輕而易舉的案子，但他們錯了。)
+        * It's not an open-and-shut case; we need to examine more evidence. (這不是一個一翻兩瞪眼的案子，我們需要檢查更多證據。)
+        * The answer to this problem is not exactly open-and-shut. (這問題的答案並非如此顯而易見。)
+  * (adj.) 關閉的、封閉的
+    * The shop stays shut on Sundays to give the employees a well-deserved rest. (這家店週日休息，好讓員工得到應有的休息。)
+    * Keep your mouth shut while the teacher is explaining the important grammar rules. (老師在講解重要的文法規則時，請閉上嘴巴。)
+    * Her eyes were shut and she was sleeping. (她的眼睛閉著，正在睡覺。)
+* Instead (adv.) 反而、替代地
+  * 通常放句首或句尾。
+  * I'm too tired to go swimming. Instead, I'm going to stay at home. (我太累了不去游泳。相反地，我要待在家。)
+  * We were going to go to the beach, but it started raining, so we went to the cinema instead. (我們原本打算去海邊，但開始下雨了，所以我們改去電影院。)
+  * I didn't have enough money for a new car, so I bought a high-quality used one instead. (我沒有足夠的錢買新車，所以我買了一輛高品質的二手車代替。)
+* Action (n.) 行動、行為、舉動
+  * 指抽象的行動過程或動作時，為<mark style="color:blue;">**不可數名詞**</mark>；指一次具體的行為或舉止時，為<mark style="color:blue;">**可數名詞**</mark>。常見用法為 `take action` (採取行動)、`put sth into action` (將某事付諸實行)。
+  * He is a man of action who prefers doing things rather than just talking about them. (他是一個行動派的人，喜歡動手做而不是光說不練。)
+  * The government must take immediate action to address the issue of rising living costs. (政府必須立即採取行動來解決生活成本上漲的問題。)
+  * It’s time to put our plans into action and start building the new community garden. (是時候將我們的計畫付諸實行，開始建造新的社區花園了。)
+  * His heroic actions during the fire saved several people from the burning building. (他在火災中的英勇行為從燃燒的大樓中救出了幾個人。)
+
+</details>
+
+<details>
+
+<summary>作文百句 45 片語整理</summary>
+
+## 片語
+
+* Stand up for sb 為某人挺身而出、支持某人
+  * 指在他人受到不公平對待或攻擊時，勇敢地站出來為其辯護或保護。
+  * Whenever I see someone being treated unfairly at work, I try my best to stand up for them. (每當我看到有人在工作中受到不公平對待時，我都會盡力為他們挺身而出。)
+  * It takes a lot of courage to stand up for your friends when the rest of the group is against them. (當群體中的其他人都在反對你的朋友時，為他們挺身而出需要很大的勇氣。)
+* Get + Adj (情緒/狀態) 變得...、進入某種狀態
+  * `get` 在這裡作為[連綴動詞](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-16-wen-fa-zheng-li)，表示一種狀態的改變。後接形容詞，用來描述從「不怎麼...」變成「很...」的過程。
+  * I always get nervous before a big presentation, even though I practice a lot. (儘管我練習了很多，但在大型簡報之前我總是會變得緊張。)
+  * The children got very excited when they heard that they were going to the theme park. (當孩子們聽說要去主題樂園時，變得非常興奮。)
+* Make fun of sb 嘲笑某人、取笑某人
+  * 通常帶有<mark style="color:blue;">**貶義**</mark>，指透過開玩笑、戲弄的方式讓某人感到尷尬或難堪。
+  * The children shouldn't make fun of the new student just because he has a different accent. (孩子們不應該只因為新同學有不同的口音就嘲笑他。)
+  * James felt extremely embarrassed when his colleagues started to make fun of his mistake during the meeting. (當同事們開始在會議上取笑他的錯誤時，James 感到非常尷尬。)
+* Make sth worse 使某事變得更糟、惡化
+  * 指某個行為或狀況，讓原本就已經不好的事情變得更加嚴重。
+  * Ignoring the small leak in the roof made the situation much worse after the heavy rainstorm. (大暴雨後，忽視屋頂的小漏水讓情況變得更加惡化。)
+  * Trying to hide your mistakes from the boss will only make matters worse in the long run. (從長遠來看，試圖向老闆隱瞞錯誤只會讓事情變得更糟。)
+* Call sb names 辱罵某人、對某人說難聽的話
+  * 這裡的 `names` 不是指對方的真實姓名，而是指各種侮辱性的綽號或難聽的字眼，<mark style="color:blue;">**必須加**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`s`**</mark>。
+  * The school teacher strictly forbids students to call each other names on the playground. (老師嚴禁學生在操場上互相辱罵。)
+  * Growing up, James was often picked on by the older kids who would call him names because of his glasses. (在成長過程中，James 經常被大孩子找麻煩，他們會因為他戴眼鏡而對他口出惡言。)
+  * No matter how angry you are, it’s never acceptable to call your partner names during an argument. (無論你多麼生氣，在爭吵中辱罵伴侶都是不可接受的。)
+* Take part in sth 參加某事、參與某活動
+  * 與 `participate in` 意思相近，指投入或加入某個正在進行的活動。
+  * All students are encouraged to take part in the school's annual charity run to raise money for the poor. (我們鼓勵所有學生參加學校年度慈善跑步活動，為貧困者募款。)
+  * Sarah was too shy to take part in the classroom discussion, even though she had many great ideas. (儘管 Sarah 有很多很棒的想法，她還是太害羞了，不敢參與課堂討論。)
+* Put a stop to sth 制止某事、結束某事
+  * The principal promised to take strict measures to put a stop to bullying in the school. (校長承諾將採取嚴格措施，以制止學校裡的霸凌行為。)
+  * We need to put a stop to this argument before it ruins our friendship completely. (在這次爭論徹底破壞我們的友誼之前，我們需要制止它。)
+* Bring sth down on sb 給某人招致 (<mark style="color:blue;">**麻煩**</mark>或<mark style="color:blue;">**負面影響**</mark>)
+  * 常指因為某種行為而讓自己或他人陷入困境、引來責罵或注意。
+  * I didn't want to report the mistake because I was afraid it would bring the boss's anger down on me. (我不想回報那個錯誤，因為我擔心這會招致老闆對我的憤怒。)
+  * His reckless behavior eventually brought a lot of trouble down on his entire family. (他魯莽的行為最終給他的整個家庭帶來了許多麻煩。)
+* Let sth happen 任由某事發生
+  * 指雖然知道某事正在發生，卻不採取任何行動去阻止或改變。
+  * You shouldn't just stand there and let it happen when you see someone hurting a stray animal. (當你看到有人傷害流浪動物時，不應該只是站在那裡任由它發生。)
+  * The manager was criticized for letting the decline in service quality happen without taking any action. (經理因任由服務品質下降而未採取任何行動而受到批評。)
+* Transfer to N
+  * 詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-45-dan-zi-zheng-li)。
+* Keep one's mouth shut 閉嘴、保持沉默
+  * If you can't say something kind or helpful, it's often better to just keep your mouth shut. (如果你不能說些友善或有幫助的話，通常最好就保持沉默。)
+  * The witness was threatened and told to keep his mouth shut about what he had seen that night. (證人受到威脅，被要求對他那天晚上看到的事情保持沉默。)
+* Take action 採取行動
+  * Instead of just talking about climate change, it's time for governments to take real action. (與其只是空談氣候變遷，政府現在該採取實際行動了。)
+  * The security guards had to take action immediately when they saw the suspicious man trying to enter the building. (當保全看到那名可疑男子試圖進入大樓時，他們不得不立即採取行動。)
+
+</details>
+
+<details>
+
+<summary>作文百句 45 文法整理</summary>
+
+## 文法
+
+* `Either` 用於否定附和句
+  * `either` 相當於<mark style="color:blue;">**否定句**</mark>的「也」，<mark style="color:blue;">**放在句尾**</mark>，通常前面會用逗號隔開。如果是一般<mark style="color:blue;">**肯定句**</mark>的「也」，則用 `too` 或 `also`。
+  * Although she was tired, she didn't want to go to bed, either. (雖然她累了，但她也不想去睡覺。)
+  * Alana never complained about the workload, and her colleagues didn't, either. (Alana 從不抱怨工作量，她的同事們也不抱怨。)
+  * I haven't seen that movie yet, and my sister hasn't seen it, either. (我還沒看過那部電影，我妹妹也沒看過。)
+
+{% hint style="warning" %}
+#### `also`
+
+雖然有時會看到 `I also don't like him.` 這種寫法，但在標準英文中，<mark style="color:blue;">**不建議於否定句中使用**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`also`**</mark> 來表達「也...不...」。此外，`also` 和 `too` 的意思皆為「也...」，在肯定句中<mark style="color:blue;">**僅能擇一使用**</mark>。
+{% endhint %}
+
+{% hint style="info" %}
+#### 文法否定 vs. 語義否定
+
+只要句中出現 <mark style="color:blue;">**`not`**</mark> 或 <mark style="color:blue;">**否定副詞**</mark> (如 `never`, `seldom`, `hardly`, `rarely`, `scarcely`, `few`, `little`...)，這句話在文法上就被視為「否定句」。這種情況下，<mark style="color:blue;">**必須使用**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`either`**</mark>；如果動詞本身帶有負面意思 (如 `hate`, `fail`, `refuse`, `dislike`)，但文法結構是肯定的 (沒有 `not` 或否定副詞)，這句話在文法上仍被視為「肯定句」。這種情況下，<mark style="color:blue;">**必須使用**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`too`**</mark>。
+
+* Yusuf never eats onions, and I don't, either. (Yusuf 從不吃洋蔥，我也不吃。) → 有 `not`，為文法否定，用 `either`。
+* He hardly ever goes to the gym, and his brother doesn't, either. (他幾乎不去健身房，他哥哥也不去。) → 有 `hardly` (否定副詞)，為文法否定，用 `either`。
+* There is little hope left, and there is little time, either. (剩下的希望微乎其微，時間也所剩無幾了。) → 有 `little` (否定副詞)，為文法否定，用 `either`。
+* I hate that movie. My sister hates it, too. (我討厭那部電影。我妹妹也討厭。) → 為語義否定，但文法肯定，用 `too`。
+* He failed the test, and his friend failed, too. (他考試不及考，他的朋友也沒過。) → 為語義否定，但文法肯定，用 `too`。
+* I dislike cold weather. Yusuf dislikes it, too. (我不喜歡冷天氣。Yusuf 也不喜歡。) → 為語義否定，但文法肯定，用 `too`。
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 45 補充資料</summary>
+
+## 文章分析
+
+作者並非從受害者或霸凌者的視角切入，而是採用最能引起共鳴，但也最常被忽視的「旁觀者」視角。本文開篇直接以 `Life is full of regrets` 破題，將這段往事定調為「生命中沉重的遺憾」，瞬間抓住讀者的注意力。在衝突的部分，作者先描述受害者 Robert 的特質 (身高較矮、易怒)，接著坦誠地剖析霸凌發生的動態過程，以及自己當時選擇沉默的人性弱點——害怕引火燒身。這種誠實讓文章顯得格外真實且深刻。
+
+第二段，作者從 Robert 的轉學切入，描述遺憾的不可挽回性。隨後用倒裝形式的假設語氣，強化「悔不當初」的情感。文章最後，作者以一個堅定的承諾作結，將負面的遺憾轉化為正向的行動力，使文章從單純的悔過書，提升到了道德成長的高度。
+
+## 寫作補給站
+
+以下提供一些與本文主題相關的詞彙。
+
+* Empathy (n.) 同理心、共感
+  * 指設身處地理解他人感受的能力。<mark style="color:blue;">**與**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`sympathy`**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**(同情心) 不同**</mark>，`empathy` 強調「感同身受」。
+  * If the narrator had more empathy for Robert at the time, he might have been brave enough to speak up. (如果作者當時對 Robert 有更多的同理心，他或許就有足夠的勇氣說出來了。)
+  * Developing empathy for others is a crucial step in preventing bullying and creating a supportive school environment. (對他人培養同理心是預防霸凌並營造支持性校園環境的關鍵一步。)
+* Conscience (n.) 良知、良心
+  * 指內心判斷對錯的正義感，為<mark style="color:blue;">**不可數名詞**</mark>。`a clear/`[`guilty conscience`](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-24-bu-chong-zi-liao) 表「問心無愧/內疚」。
+  * He couldn't leave the injured kitten on the street because his conscience wouldn't allow it. (他不能把受傷的小貓留在街上，因為他的良知不允許他這麼做。)
+  * After returning the lost wallet to its owner, Yusuf felt a sense of peace and a clear conscience. (在將丟失的皮夾歸還給主人後，Yusuf 感到平靜且問心無愧。)
+* Victim (n.) 受害者、罹難者
+  * 指在犯罪、事故或不公平待遇中受到傷害的人。
+  * The organization provides free legal and psychological support to the victims of domestic violence. (該組織為家庭暴力的受害者提供免費的法律與心理支持。)
+  * It is important to listen to the victims' stories and ensure they feel safe and supported. (傾聽受害者的故事並確保他們感到安全與受到支持是很重要的。)
+* Leave sb out 排除某人、冷落某人
+  * 指故意不讓某人參與群體活動，這也是一種常見的社交霸凌。
+  * It’s cruel to intentionally leave someone out of a party just because they are a bit different. (僅僅因為某人有點不同就故意將其排除在派對之外是很殘忍的。)
+  * Yusuf felt a bit left out when his colleagues started talking about a movie he hadn't seen yet. (當同事們開始談論一部他還沒看過的電影時，Yusuf 感到有點被冷落。)
+* Stand by and do nothing 袖手旁觀、坐視不管
+  * It is heartbreaking to see so many people stand by and do nothing while a person is being harassed in public. (看到這麼多人對一個在公共場合被騷擾的人袖手旁觀，真是令人心碎。)
+  * We cannot afford to stand by and do nothing as our planet faces such a severe climate crisis. (當我們的星球面臨如此嚴峻的氣候危機時，我們不能坐視不管。)
+* Look the other way 故意不看、視而不見
+  * The supervisor was accused of looking the other way when he discovered the safety violations. (該主管被指控在發現違反安全規定時視而不見。)
+  * We should never look the other way when we see someone being bullied or treated with disrespect. (當我們看到有人被霸凌或受到不尊重對待時，絕不應該視而不見。)
+* Speak up / Voice out 大聲說出、表達心聲
+  * 指公開表達反對意見或支持某人，特別是在面臨壓力時。
+  * If you see an injustice happening, you have a responsibility to speak up and defend the victim. (如果你看到不公正的事情發生，你有責任大聲說出來並保護受害者。)
+  * He is willing to speak up for the rights of women. (他願意為婦女權益發聲。)
+  * It’s not always easy to voice out your opinions, but your words can make a significant difference in someone's life. (表達自己的意見並不總是容易的，但你的話語可以為某人的生活帶來顯著的改變。)
+  * It's time to voice out our concerns about the new policy. (是時候大聲說出我們對這項新政策的擔憂了。)
+* Stick up for sb 挺身支持某人、維護某人
+  * 與 `stand up for sb` 意思相同。
+  * Thank you for sticking up for me during the meeting when everyone was criticizing my proposal. (謝謝你在會議上大家都批評我的提議時挺身支持我。)
+  * As an older brother, Tom always sticks up for his younger sister whenever she gets into trouble. (作為哥哥，每當妹妹遇到麻煩時，Tom 總會挺身維護她。)
+* Lend sb a helping hand 向某人伸出援手
+  * A true friend is someone who is always willing to lend you a helping hand without expecting anything in return. (真正的朋友是那個總願意無私向你伸出援手的人。)
+  * If the narrator had lent Robert a helping hand earlier, the situation might not have ended so sadly. (如果作者早點向 Robert 伸出援手，情況或許不會結束得這麼悲傷。)
+* Follow the crowd 從眾、隨波逐流
+  * Instead of following the crowd, Alana always has the courage to express her unique opinions. (Alana 總是勇於表達自己獨特的見解，而不是隨波逐流。)
+  * It’s easy to follow the crowd, but it takes true strength to walk your own path. (從眾很容易，但走自己的路需要真正的力量。)
+
+## 寫作建議
+
+書寫與「遺憾」相關的文章時，可以參考以下建議。
+
+* 成長往往來自於對自身錯誤的承認。請誠實面對人性弱點，不要把主角寫成完美的聖人。像文中提到「因為害怕而保持安靜」，這種真實的恐懼反而能贏得閱卷老師的同理心。
+* 在遺憾的部分，可以使用假設語氣，表示當時該做而未做。這類句型在語氣上帶有一種沉重的嘆息感，能讓情感表達更精準。
+* 在寫作時，給受害者或霸凌事件一個具體的起因或細節，會讓故事更具真實感。例如，文中先提及 Robert 的特徵，接著才描寫他被霸凌的過程。
+
+</details>
 
 ## 46.
 
