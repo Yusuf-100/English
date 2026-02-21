@@ -1782,7 +1782,7 @@ She plays the piano, and she plays the violin, too.
   * He flew into a rage when he realized his computer had crashed again. (當他發現電腦再次當機時，他突然大發雷霆。)
   * It is important to control your rage even when you feel mistreated. (即使感到受了委屈，控制自己的怒氣也很重要。)
 * Sink (v.) 下沉、沉沒
-  * 在本文中以 `my heart sank` 表示心沉了下去、感到失望或沮喪。
+  * 三態變化為 `sink` → `sank` → `sunk`。在本文中以 `my heart sank` 表示心沉了下去、感到失望或沮喪。
   * My heart sank when I realized I had failed the driving test again. (當我意識到我再次沒通過駕照考試時，我的心沉了下去。)
   * The heavy stone sank to the bottom of the clear lake. (重石沉到了清澈湖泊的底部。)
 * Snobbish (adj.) 勢利的、自命不凡的
@@ -12507,6 +12507,430 @@ Indoors (adv.) 在室內、往室內
 1. For years, Jack had sat on a <mark style="color:blue;">**dingy**</mark> street corner <mark style="color:blue;">**begging**</mark> for <mark style="color:blue;">**change**</mark>. Today, as usual, in the corner <mark style="color:blue;">**against**</mark> the wall he <mark style="color:blue;">**nestled**</mark> his head. Just then, a stranger walked <mark style="color:blue;">**past**</mark> <mark style="color:blue;">**scratching**</mark> an itch, not <mark style="color:blue;">**noticing**</mark> a NT$1,000 bill fall from his pocket onto the ground. However, Jack's eyes <mark style="color:blue;">**locked**</mark> onto it instantly. For him, the <mark style="color:blue;">**crumpled**</mark> banknote represented a week's <mark style="color:blue;">**worth**</mark> of meals, or maybe a pair of shoes.
 2. But it wasn't <mark style="color:blue;">**rightfully**</mark> his, so he called out to the stranger. His heart <mark style="color:blue;">**sank**</mark> as the man turned around, but Jack smiled anyway as he gave up the money. The young man paused before <mark style="color:blue;">**grinning**</mark> widely. "You passed! <mark style="color:blue;">**Congratulations**</mark>!" "wh...what?" Jack looked up, <mark style="color:blue;">**confused**</mark>, as a <mark style="color:blue;">**crew**</mark> with microphones and cameras emerged. The young man explained that this was all a social <mark style="color:blue;">**experiment**</mark>. Now they were offering him a new life: apartment, job training, and more. They were giving him everything he'd <mark style="color:blue;">**longed for**</mark>.
 3. Jack paused. "What <mark style="color:blue;">**would have happened**</mark> if I <mark style="color:blue;">**hadn't given it back**</mark>?" "What? But you did; that's the point," the young man <mark style="color:blue;">**replied**</mark>. "You <mark style="color:blue;">**would have left me**</mark> on the street if <mark style="color:blue;">**I had taken it to feed**</mark> myself, huh? Why would you mess with someone's life that way?" Jack sat back down. "I'll make my own way, thanks. I don't need conditional <mark style="color:blue;">**charity**</mark>." The shocked <mark style="color:blue;">**crew**</mark> members looked at each other and then slowly left. Jack felt a strong sense of <mark style="color:blue;">**self-worth**</mark> right then. He determined <mark style="color:blue;">**then and there**</mark> that he'd work to <mark style="color:blue;">**better**</mark> his own life rather than let others decide his fate for him.
+
+<details>
+
+<summary>作文百句 46 單字整理</summary>
+
+## 單字
+
+* Dingy (adj.) 昏暗的、髒兮兮的、褪色的
+  * 常描述建築物、房間或街道因年代久遠、缺乏光線或未經清理而顯得破舊且陰暗。
+  * The old bookstore was located in a dingy basement, but it was filled with rare and precious treasures. (那家舊書店位於一個昏暗破舊的地下室，但裡面裝滿了稀有珍貴的寶藏。)
+  * After living in that dingy apartment for five years, Sarah was thrilled to move into a bright and modern house. (在那間髒兮兮的公寓住了五年後，Sarah 對於搬進一間明亮現代的房子感到非常興奮。)
+* Beg (v.) 乞討；懇求、請求
+  * 常見用法為 `beg for sth` (如食物、金錢)、`beg sb to VR`。
+  * They have to beg for a living. (他們不得不乞討為生。)
+  * For years, the homeless man had to beg for change on the street corner just to survive. (多年來，這名無家可歸的男子為了生存，不得不在街角乞討零錢。)
+  * I beg you to reconsider your decision; it’s too dangerous to go out in this heavy storm. (我懇求你重新考慮你的決定；在這麼大的暴風雨中出門太危險了。)
+  * She begged her mother for a new dress. (她懇求母親買新衣服。)
+  * I beg that you will say nothing. (我請求你什麼也別說。)
+  * Go begging 行乞；無人問津、沒人要、閒置無用
+    * 表示進行「乞討」的動作，也可以形容商品、職位或機會因無人問津而剩餘。
+    * After losing his job and home, he was forced to go begging on the streets. (失業又失去家園後，他被迫上街乞討。)
+    * Many tickets were still going begging. (許多票仍然無人問津。)
+    * If that food is going begging, I'll take it. (如果那食物沒人要，那我就拿走了。)
+    * The position went begging for months. (這個職位閒置了好幾個月。)
+* Change (n.) 零錢、找零
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。常見用法為 `keep the change` (不用找錢了、零錢不用找了)。
+  * Here is your change. (這是找你的零錢。)
+  * Excuse me, do you have any change for a hundred-dollar bill? I need to use the vending machine. (請問你有百元鈔的零錢嗎？我需要用自動販賣機。)
+  * Can you make change for a 100? (可以幫我把100塊找開嗎？)
+* Nestle
+  * (v.) 依偎、舒適地安頓
+    * 常見搭配如下：
+      * `nestle up to` 緊貼在旁、親熱地靠近
+        * 通常是指從遠一點的地方慢慢移動並緊貼在某人或某物旁邊。
+        * The child nestled up to her mother. (孩子依偎在母親身邊。)
+        * The cat nestled up to me while I was reading. (我讀書時，貓咪緊緊依偎著我。)
+      * `nestle in` 窩在...裡面、安頓在...裡面
+        * 指被舒適地包圍，通常在柔軟的空間中。
+        * The kitten loves to nestle against its mother's warm fur while it’s sleeping. (小貓睡覺時喜歡依偎在母親溫暖的毛皮旁。)
+        * Yusuf’s head nestled comfortably into the soft pillow after a long day of hard work. (在辛苦工作一整天後，Yusuf 的頭舒服地安頓在柔軟的枕頭上。)
+      * `nestle against` 緊靠著...表面
+        * 側重於身體表面與垂直表面 (如牆、胸膛、枕頭) 的接觸。
+        * He nestled his head against her shoulder. (他把頭靠在她的肩上。)
+      * `nestle on` 依偎在...上面
+        * 指放置於水平的物體表面。
+        * The cat nestled on the warm blanket. (貓咪依偎在溫暖的毯子上。)
+      * `nestle down` 舒服地安頓下來、窩著
+        * 通常帶有溫暖、舒適或準備長期安頓 (如睡覺、閱讀) 的意味。
+        * She nestled down into the big sofa and began to enjoy music. (她舒服地坐進大沙發，開始欣賞音樂。)
+  * (v.) (建築物) 坐落於隱蔽處
+    * The village nestled at the foot of the hill. (那村莊坐落在山腳下。)
+    * Our little cabin nestles in the heart of the forest, far away from the noise of the city. (我們的小木屋座落在森林深處，遠離城市的喧囂。)
+* Past
+  * (adj.) 過去的
+    * The past month was difficult. (上個月很艱難。)
+    * Over the past few months, Yusuf has improved his English speaking skills significantly. (在過去的幾個月裡，Yusuf 的英文口說能力有了顯著提升。)
+  * (n.) 過去、往事
+    * 常寫 `in the past`。
+    * That is a thing of the past. (那是過去的事了。)
+    * We can learn valuable lessons from the past, but we shouldn't live in it forever. (我們可以從過去學習寶貴的教訓，但不該永遠活在過去。)
+  * (adv.) 經過
+    * A fast car just drove past, nearly splashing water on my new shoes. (一輛快車剛才開了過去，差點把水濺到我的新鞋上。)
+    * As the battleship sailed past, everyone on deck waved. (戰艦駛過時，甲板上的每個人都在揮手。)
+  * (prep.) 經過 (某處)；晚於、超過 (某時間)
+    * The mysterious man walked past the old fountain without looking at anyone. (那名神秘男子經過舊噴泉，沒有看任何人。)
+    * It is already ten minutes past five; we should hurry if we want to catch the train. (現在已經是五點十分了；如果我們想趕上火車，我們應該快一點。)
+* Itch
+  * (n./v.) 癢
+    * I have a terrible itch on my back that I just can't reach. (我背上有一處好癢，我剛好抓不到。)
+    * These new wool sweaters always make my skin itch, no matter how much I wash them. (這些新羊毛衣總會讓我的皮膚發癢，不管我洗了多少次都一樣。)
+  * (n./v.) 渴望、衝動
+    * `itch for sth` / `to VR` 表「渴望做某事」。
+    * After staying in the same city for ten years, Alana has an itch to travel across the world. (在同一個城市待了十年後，Alana 渴望去環遊世界。)
+    * I'm itching for a vacation. (我好渴望去度假。)
+    * The boys were itching to go camping. (男孩子們急著想去露營。)
+* Bill
+  * 皆為<mark style="color:blue;">**可數名詞**</mark>。
+  * (n.) 鈔票
+    * 相當於 `banknote`。
+    * He realized he only had a twenty-dollar bill in his wallet when he tried to pay for the coffee. (當他試圖付咖啡錢時，他發現錢包裡只有一張二十美元的鈔票。)
+  * (n.) 帳單
+    * 指餐廳、消費或水電費的帳單、請款單。
+    * <mark style="color:blue;">**May I have the bill**</mark>, please? (我要結帳了。)
+    * Don't forget to pay the electricity bill before the end of the month to avoid any late fees. (別忘了在月底前繳電費帳單，以避免滯納金。)
+  * (n.) 法案
+    * The new bill regarding environmental protection was passed by the parliament yesterday. (關於環境保護的新法案昨天由議會通過。)
+    * The government passed the new tax bill. (政府通過了新稅法。)
+  * (n.) 鳥喙
+    * 特別指鴨、鵝、水鳥等嘴部較寬、較扁平的類型。`beak` 通常指較尖、較鉤的鳥嘴 (如老鷹、鸚鵡)。
+    * The duck cleaned its feathers with its bill. (鴨子用喙清理羽毛。)
+* Lock
+  * (v.) 鎖住；固定
+    * Make sure to lock the back door when you leave the house for your vacation. (出門度假時，務必鎖好後門。)
+    * Jack’s eyes locked onto the fallen money as if nothing else in the world existed. (Jack 的眼睛鎖定了那筆掉落的錢，彷彿世界上其他事物都不存在了一樣。)
+  * (n.) 鎖
+    * I need to change the lock on my apartment because I lost my spare key yesterday. (我需要更換公寓的鎖，因為我昨天弄丟了備用鑰匙。)
+  * (n.) 一小撮、一縷頭髮
+    * 常用 `a lock of hair`。
+    * She kept a lock of hair from her first child as a precious memory. (她保留了第一胎孩子的一縷頭髮，作為珍貴的回憶。)
+* Instantly (adv.) 立即、即刻
+  * 同義詞有 `immediately`。
+  * When the fire alarm went off, everyone in the office instantly stopped working. (當火警鈴響起時，辦公室裡的每個人都立即停止了工作。)
+  * The photos you take with this new camera can be instantly shared on social media. (你用這台新相機拍的照片可以立即在社群媒體上分享。)
+* Crumpled (adj.) 皺巴巴的、扭曲的
+  * 通常形容紙張、衣服或金屬被用力擠壓後留下的皺摺。與 `wrinkled` (皮膚或布料的皺摺) 意思略有不同。動詞形為 `crumple`。
+  * He pulled a crumpled NT$1,000 bill out of his pocket and handed it to the cashier. (他從口袋裡掏出一張皺巴巴的千元大鈔交給收銀員。)
+  * The front of the car was crumpled after the accident, but luckily no one was hurt. (車頭在事故後被撞得歪七扭八，但幸好沒人受傷。)
+* Banknote (n.) 鈔票、紙幣
+  * 為<mark style="color:blue;">**可數名詞**</mark>。
+  * The central bank is going to issue new banknotes with enhanced security features next year. (中央銀行明年將發行具有增強安全防偽功能的新鈔票。)
+  * The vending machine accepts only banknotes. (這台自動販賣機只收紙鈔。)
+  * The collector was proud of his collection of rare banknotes from different historical periods. (這位收藏家對自己收藏的來自不同歷史時期的稀有鈔票感到自豪。)
+* Represent
+  * (v.) 代表、象徵
+    * The white dove is often used to represent peace and hope in many different cultures. (在許多不同的文化中，白鴿常被用來代表和平與希望。)
+    * The white flag represents surrender. (白旗象徵投降。)
+  * (v.) 擔任代理人
+    * The elected officials are supposed to represent the interests of the people who voted for them. (被選出的官員應該代表投票給他們的選民利益。)
+    * She was chosen to represent our company at the conference. (她被選中代表我們公司出席會議。)
+  * (v.) 描繪、表現、在地圖或圖表中表示...
+    * The painting represents a scene from ancient history. (這幅畫描繪了古代歷史的場景。)
+    * The blue lines represent rivers. (藍線代表河流。)
+* Rightfully (adv.) 合法地、正當地、理所當然地
+  * 強調在法律或道德上是正確且應得的。形容詞為 `rightful`。
+  * The throne rightfully belonged to the young prince, but his uncle had seized it by force. (王位理所當然地屬於那位年輕王子，但他的叔叔卻用武力奪取了它。)
+  * After the investigation, the stolen artwork was rightfully returned to its original owner. (調查結束後，失竊的藝術品被合法地歸還給了原主人。)
+* Pause (v./n.) 暫停、停頓
+  * 當名詞使用時，為可數名詞。`without a pause` 指「不停地」。
+  * Could you please pause the movie? (可以幫我暫停電影嗎？)
+  * Before answering the difficult question, the professor paused for a moment to think carefully. (在回答那個難題之前，教授停頓了一下以仔細思考。)
+  * There was an awkward pause in the conversation when neither of them knew what to say next. (當他們兩人都不知道接下來該說什麼時，對話中出現了一段尷尬的停頓。)
+  * She talked for an hour without a pause. (她連續講了一個小時，沒有停下來。)
+* Grin (v./n.) 露齒而笑、咧嘴笑
+  * 與 `smile` (微笑) 不同，`grin` 通常指笑得比較開，甚至露出牙齒，帶有興奮、滿足或頑皮的感覺。後面常接 `at sb`。`grin from ear to ear` 表「笑得合不攏嘴」。
+  * Jason grinned widely when he saw the surprise birthday party his friends had planned for him. (當 Jason 看到朋友們為他策劃的驚喜生日派對時，他開心地咧嘴而笑。)
+  * He grinned at me when he heard the good news. (他聽到好消息時，對我咧嘴而笑。)
+  * The little boy had a mischievous grin on his face after hiding his sister's favorite toy. (小男孩在藏起姐姐最喜歡的玩具後，臉上掛著頑皮的笑。)
+  * I assumed things had gone well because he had a big grin on his face. (我想一切進展順利...因為他臉上掛著巨大的笑容。)
+* Congratulations (n.) 祝賀、恭喜
+  * <mark style="color:blue;">**通常用複數形**</mark>。常簡寫為 `congrats`。常見用法為 `congratulations on N/V-ing`。
+  * Congratulations! You have worked so hard for this achievement, and you truly deserve it. (恭喜！你為了這項成就如此努力，你實至名歸。)
+  * Congratulations on getting married! (新婚快樂！)
+  * Please accept my warmest congratulations on your promotion to senior manager. (請接受我對你晉升為高級經理最誠摯的祝賀。)
+* Confused (adj.) (人) 感到困惑的、糊塗的
+  * 常見用法為 `be/feel confused about sth`。若是形容事物讓人困惑，則使用 `confusing`。動詞形為 `confuse`。
+  * Many students felt confused about the complex instructions given by the teacher. (許多學生對老師給出的複雜指令感到困惑。)
+  * I’m a bit confused; could you explain the rules of the game to me one more time? (我有點糊塗了，你能再跟我解釋一次遊戲規則嗎？)
+* Crew (n.) 全體工作人員、隊員
+  * 為集合名詞，指一組共同工作的人，後面接單數 (視為整體) 或複數 (強調成員個體) 動詞皆可。`a film/camera/cabin crew` 指「電影/攝影/機組人員」。
+  * The entire flight crew worked together to ensure the safety and comfort of all the passengers. (全體機組人員共同努力，以確保所有乘客的安全與舒適。)
+  * The crew is working hard. (全體工作人員正努力工作。)
+  * A rescue crew was sent to the mountain to look for the hikers who had gone missing in the storm. (一支救援隊被派往山上，尋找在暴風雨中失蹤的登山者。)
+* Microphone (n.) 麥克風、話筒
+  * 為<mark style="color:blue;">**可數名詞**</mark>。口語上常簡稱為 `mic`。`speak/talk into the microphone` 表「對著麥克風說話」。
+  * The reporter held the microphone close to the witness to record her statement clearly. (記者將麥克風靠近證人，以便清晰地記錄她的陳述。)
+  * Please speak into the microphone. (請對著麥克風說話。)
+* Emerge (v.) 出現、浮現、顯露
+  * 描述人/物從隱蔽處顯露出來、人/物從不為人知變得知名或脫穎而出、新的現象/問題/事實被發現或變得明顯。常見搭配為 `emerge from N` (從...出來)、`emerge as N` (作為某種身分出現)。
+  * New details about the historical event started to emerge as historians studied the old letters. (隨著歷史學家研究那些舊信件，關於那起歷史事件的新細節開始浮現。)
+  * It emerged that she had lied to her employers. (真相大白，原來她對雇主撒了謊。)
+  * Important questions about the environment are emerging. (有關環境的重要問題正在湧現。)
+  * The sun slowly emerged from behind the thick clouds after the heavy rain stopped. (大雨停止後，太陽慢慢地從厚厚的雲層後面露了出來。)
+  * The young artist emerged as a prominent figure. (這位年輕藝術家開始嶄露頭角，成為重要人物。)
+* Explain (v.) 解釋、說明
+  * 常見結構為 `explain sth to sb`、`explain why/how/that 子句`。
+  * Could you explain the meaning of this complex English poem to me? (你能向我解釋這首複雜的英文詩的意思嗎？)
+  * The teacher used a simple diagram to explain how the water cycle works in nature. (老師用一張簡單的圖解來解釋大自然中的水循環是如何運作的。)
+  * It’s difficult to explain why I made such a silly mistake during the interview. (很難解釋為什麼我在面試中犯了這麼愚蠢的錯誤。)
+* Social
+  * (adj.) 社會的、與社會有關的
+    * Social divisions in the city are stark. (城市的社會階層分明。)
+    * Poverty and unemployment are major social problems that require urgent attention from the government. (貧困與失業是需要政府緊急關注的主要社會問題。)
+  * (adj.) 社交的；(人) 善於交際的、好交際的
+    * `social butterfly` 指「社交高手、交際花」。
+    * I spend way too much time on social media. (我花了太多時間在社群軟體上。)
+    * I had an active social life when I was at college. (我念大學時，社交生活很豐富。)
+    * Alana is very social and loves meeting new people. (Alana 非常喜歡社交，熱愛結交新朋友。)
+  * (adj.) 群居的
+    * Bees are known as social insects because they live and work together in organized colonies. (蜜蜂被稱為群居昆蟲，因為牠們在有組織的群落中共同生活與工作。)
+* Experiment (n./v.) 實驗、試驗
+  * 為<mark style="color:blue;">**可數名詞**</mark>。常見用法為 `conduct/perform/run/do an experiment`，後面可接 `on sth` (對...做實驗)、`with sth` (以...做實驗)、`in 領域`。`by experiment` 指「通過實驗」。
+  * The scientists are conducting a series of experiments to test the effectiveness of the new medicine. (科學家們正在進行一系列實驗，以測試新藥的療效。)
+  * The project is an experiment in alternative education. (這專案是一個另類教育的試驗。)
+  * They found the answer by experiment. (他們通過實驗找到了答案。)
+  * It is unethical to experiment on human beings. (在人類身上做實驗是不道德的。)
+  * It’s okay to experiment with different cooking styles to find what tastes best to you. (嘗試不同的烹飪風格以找到最適合你的口味是可以的。)
+* Offer (v./n.) 提供、提議
+  * 作為動詞時，常見用法為 `offer sb sth` 或 `offer to VR`。
+  * Our school offers classes at night. (我們學校提供夜間課程。)
+  * The company offered Candy a high-paying job in their New York office, but she decided to stay here. (公司在紐約辦公室提供給 Candy 一份高薪工作，但她決定留下來。)
+  * He offered to help me move. (他主動提出要幫我搬家。)
+  * Thank you for your offer of help, but I think I can handle this project on my own. (謝謝你提議幫忙，但我想我可以獨自處理這個企劃。)
+  * After considering several job offers, I accepted the position. (考慮了幾份工作機會後，我接受了該職位。)
+* Apartment (n.) 公寓
+  * `studio apartment` 指「單間公寓」、「開放式套房」，指將臥室、客廳和廚房結合在一個開放空間的租房房型，僅衛浴獨立隔開，常見於北美與留學租屋。
+  * After graduating from college, Peter moved into a small apartment near his new workplace. (大學畢業後，Peter 搬進了新工作地點附近的一間小公寓。)
+  * The rent for a two-bedroom apartment in the city center has increased significantly over the past year. (市中心兩房一廳公寓的租金在過去一年中顯著上漲。)
+* Training (n.) 訓練、培訓
+  * 指學習某種技能的過程，如 `job/vocational/physical training` (工作/職業/體能訓練)，為<mark style="color:blue;">**不可數名詞**</mark>。
+  * All new employees are required to undergo two weeks of intensive training before they start work. (所有新員工在開始工作前都必須接受為期兩週的密集培訓。)
+  * To become a professional pilot, one must complete hundreds of hours of flight training. (要成為一名職業飛行員，必須完成數百小時的飛行訓練。)
+* Long (v.) 渴望、熱望
+  * 常見用法為 `long for N / to VR`。
+  * After being away from home for so long, the soldier longed to see his family again. (在離家這麼久之後，那名士兵渴望能再次見到家人。)
+  * Many people living in crowded cities long for the peace and quiet of the countryside. (許多住在擁擠城市的人渴望鄉村的寧靜與祥和。)
+  * I have been longing for a chance to discuss this project with you in person. (我一直渴望有機會能親自與你討論這個企劃。)
+* Reply (v./n.) 回答、回覆
+  * 常接 `to N` 表回覆的對象。
+  * Sara sent an email to the company yesterday, but she hasn't received a reply yet. (Sara 昨天發了封郵件給公司，但還沒收到回覆。)
+  * When I asked him if he was coming to the party, he replied with a simple "maybe." (當我問他是否要來參加派對時，他只簡單回了一句「或許吧」。)
+  * Please reply to my email. (請回覆我的郵件。)
+* Feed
+  * (v.) 餵食、供養
+    * The mother bird spends most of her day searching for insects to feed her hungry chicks. (母鳥一整天的大部分時間都在尋找昆蟲來餵養飢餓的小鳥。)
+    * Growing up in a poor family, Jack often had to work multiple jobs just to feed himself. (在貧困家庭長大，Jack 經常要打好幾份工才能養活自己。)
+  * (v.) 供給、提供
+    * `feed sth into sth` 指「將資料、能源輸入進...」。
+    * The river feeds the lake. (這條河流注入這個湖。)
+    * You need to feed the data into the system before you can generate the final report. (在產出最終報告之前，你需要將數據輸入系統。)
+  * (n.) 飼料
+    * 為<mark style="color:blue;">**不可數名詞**</mark>。
+    * The farmer bought a bag of chicken feed. (農夫買了一袋雞飼料。)
+    * The chickens need more feed. (雞需要更多飼料。)
+  * (n.) 動態消息
+    * 為<mark style="color:blue;">**可數名詞**</mark>。
+    * I spent an hour scrolling through my feed. (我花了一小時滑動態消息。)
+    * I subscribed to three news feeds. (我訂閱了三個新聞訊號。)
+* Mess
+  * (v.) 弄亂；干擾
+    * 常見用法為 `mess up sth` (弄亂、搞砸)、`mess with sb/sth` (招惹、干擾、胡亂擺弄)。
+    * Don't mess up my room. (別弄亂我的房間。)
+    * I really messed up the interview. (我真的把面試搞砸了。)
+    * Don't mess with my computer while I'm away; I have some very important files open. (我不在的時候別動我的電腦；我有一些非常重要的檔案開著。)
+    * If you keep messing with that beehive, you're going to get stung eventually. (如果你繼續去招惹那個蜂巢，你最終會被螫的。)
+  * (n.) 凌亂、混亂的狀態、困境
+    * 為<mark style="color:blue;">**可數名詞**</mark>。常見用法為 `in a mess`、`clean up the mess`。
+    * My life was a total mess after I lost my job, but I’ve finally started to get things back on track. (失業後我的生活一團糟，但我終於開始讓一切步入正軌。)
+    * The economy is in a mess. (經濟狀況一團糟。)
+    * It took hours to clean up the mess. (清理這場混亂花了好幾個小時。)
+* Conditional (adj.) 有條件的
+  * 後面可接 `on/upon N/V-ing` 表「視...而定」。反義詞為 `unconditional`。
+  * The bank gave him a conditional loan approval, meaning he still needs to provide more financial documents. (銀行給了他有條件的貸款核准，這意味著他仍需提供更多財務文件。)
+  * The offer is conditional on a medical check-up. (此報價以健康檢查結果為前提。)
+  * Their approval is conditional upon the contract being signed. (他們的批准取決於合約是否簽署。)
+  * A mother's love for her children is usually unconditional, lasting through all the ups and downs of life. (母親對孩子的愛通常是無條件的，貫穿生活的起伏。)
+* Charity
+  * (n.) 慈善、施捨；慈悲、仁愛、寬待
+    * 為不可數<mark style="color:blue;">**名詞**</mark>。
+    * After the earthquake, many people donated money and clothes out of charity. (地震過後，許多人出於慈善之心捐款捐物。)
+    * "I don't need your charity!" the proud man shouted when the stranger tried to give him money. (當陌生人試圖給他錢時，那名高傲的男子大喊：「我不需要你的施捨！」)
+    * She regards his faults with charity. (她寬容地對待他的錯誤。)
+  * (n.) 慈善機構
+    * 為可數<mark style="color:blue;">**名詞**</mark>。
+    * Alana supports several local charities that provide food and shelter for the homeless. (Alana 支持幾家為無家可歸者提供食物和住所的當地慈善機構。)
+* Self-worth (n.) 自我價值感、自尊
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。常與 `a sense of` 連用。
+  * You shouldn't let other people's negative comments define your self-worth. (你不應該讓別人的負面評論來定義你的自我價值。)
+  * Accomplishing small goals every day can help build a strong sense of self-worth and confidence. (每天達成小目標有助於建立強烈的自我價值感與自信。)
+* Determine
+  * (v.) 下定決心、決定
+    * 常見用法為 `determine to VR`、`be determined to VR`。
+    * She determined then and there that she would never let anyone treat her with disrespect again. (她當下就下定決心，再也不讓任何人對她無禮。)
+    * Despite many failures, the young athlete was determined to win a gold medal in the next Olympics. (儘管經歷多次失敗，這位年輕運動員仍下定決心要在下屆奧運奪金。)
+  * (v.) 判定
+    * `determine the cause of sth` 指「判定某事的起因」。
+    * The police are still working to determine the exact cause of the fire that broke out last night. (警方仍在努力判定昨晚發生火災的確切原因。)
+* Fate (n.) 命運、結局
+  * 通常為<mark style="color:blue;">**不可數名詞**</mark>。若指特定的結局，則可當可數名詞使用。
+  * It was fate that we met. (是命運讓我們相遇。)
+  * No one knows what fate has in store for them, so we should cherish every moment we have. (沒人知道命運為他們準備了什麼，所以我們應該珍惜擁有的每一刻。)
+  * His fate is in your hands. (他的命運掌握在你手中。)
+  * The building suffered the same fate as the rest of the neighborhood and was destroyed in the fire. (這棟大樓遭遇了與社區其他部分同樣的命運，在火災中被毀了。)
+* Better (v.) 改善、使更好
+  * 雖然 `better` 常作形容詞，但在本文中作為及物動詞，意思等同於 `improve`。
+  * He worked two jobs to better his family's living conditions and provide his children with a good education. (他打兩份工來改善家人的生活條件，並為孩子提供良好的教育。)
+  * If you want to better yourself, you should read more books and learn new skills. (如果你想讓自己變得更好，你應該多讀書並學習新技能。)
+
+</details>
+
+<details>
+
+<summary>作文百句 46 片語整理</summary>
+
+## 片語
+
+* Scratch an itch 抓癢；滿足渴望、慾望
+  * 除字面意義外，也可以指滿足內心深處長久以來的某種強烈渴望、愛好或癮頭。
+  * I had a literal itch on my back, but I couldn't reach it to scratch it. (我背上真的有個地方在癢，但我抓不到。)
+  * After weeks of wanting a new gaming laptop, Alana finally bought one to scratch that itch. (在渴望買新電競筆電好幾週後，Alana 終於買了一台來滿足那個心癢難耐的慾望。)
+  * The chef is always looking for new ingredients to scratch his itch for culinary creativity. (主廚總是在尋找新食材，以滿足他對烹飪創意的渴望。)
+* Lock onto N 鎖定某物、目標
+  * 特別指「視線」、「雷達」、「飛彈」緊緊鎖定一個目標。
+  * As soon as her husband walked into the room, Alana’s eyes locked onto him and never moved away. (當她丈夫一走進房間，Alana 的眼睛就鎖定了他，再也沒移開。)
+  * The camera’s autofocus system locked onto the actor's face as he moved across the stage. (相機的自動對焦系統在演員穿過舞台時鎖定了他的臉。)
+  * The heat-seeking missile was able to lock onto the target even in the middle of a thick fog. (熱感應飛彈即使在濃霧中也能鎖定目標。)
+* Call out to sb 向某人大聲呼喊、叫住某人
+  * When Timmy saw his old friend across the busy street, he called out to him and waved his hand. (當 Timmy 在繁忙的街道對面看到老友時，他向他大聲呼喊並揮手。)
+  * The teacher called out to the students who were still running on the playground after the bell rang. (鈴響後，老師叫住了那些還在操場上奔跑的學生。)
+* Turn around 轉身、轉過頭；(局面) 好轉
+  * 本意是指身體的旋轉，引申為情況好轉。
+  * The stranger turned around quickly when he heard someone calling from behind him. (當那名陌生人聽到後面有人喊他時，迅速地轉過身來。)
+  * With the help of the new manager, the company's financial situation finally started to turn around. (在新經理的幫助下，公司的財務狀況終於開始好轉。)
+  * Leo turned his family business around after introducing a new menu. (Leo 引入新菜單後，扭轉了家族事業的劣勢。)
+* Make one's (own) way 走自己的路、自食其力
+  * 強調不依靠他人的施捨或幫助，透過自己的努力在社會上立足。
+  * After leaving his parents' house, Jeremy worked hard to make his own way in the competitive business world. (離開父母家後，Jeremy 努力在競爭激烈的商界自食其力。)
+  * Jack preferred to make his own way rather than accept what he called "conditional charity." (Jack 寧願走自己的路，也不願接受他所說的「有條件的施捨」。)
+* Make one's (own) way
+  * 前往、動身去某處
+    * 後面可接 `to/towards/back + 目的地`。
+    * After the meeting ended, everyone began to make their way to the cafeteria for lunch. (會議結束後，大家開始前往餐廳吃午餐。)
+    * People started making their way towards the exit after the movie. (電影結束後，人們開始往出口方向前進。)
+  * 費力、緩慢前進
+    * 強調移動的過程。
+    * We slowly made our way down the river. (我們慢慢地沿河而下。)
+    * She made her way through the crowd. (她穿過人群前進。)
+    * We slowly made our way through the thick forest, trying to find the hidden path. (我們緩慢地穿過茂密的森林，試圖尋找那條隱藏的小徑。)
+  * 獲得成功
+    * He had to make his own way in the world. (他必須在社會上靠自己闖出一片天。)
+    * It is difficult for young artists to make their own way in such a competitive industry. (年輕藝術家要在競爭如此激烈的產業中自食其力出人頭地是很困難的。)
+* Then and there 當時當地、當下
+  * 強調事情發生或下決定的瞬間，帶有一種堅定的語氣。
+  * When she saw the puppy abandoned in the rain, she decided then and there to take it home. (當她看到小狗被遺棄在雨中時，她當下就決定帶它回家。)
+  * Sammy realized he was in love with Alana then and there, as they studied together under the moonlight. (當他們在月光下一起學習時，Sammy 就在那瞬間意識到自己愛上了 Alana。)
+* Decide one's fate 決定某人的命運、結局
+  * The jury spent three days deliberating before they finally decided the prisoner's fate. (陪審團在最終決定囚犯的命運前，花了三天的時間進行商議。)
+  * Ultimately, your hard work and attitude will decide your fate in this company. (最終，你的努力和態度將決定你在這家公司的前途。)
+
+</details>
+
+<details>
+
+<summary>作文百句 46 文法整理</summary>
+
+## 文法
+
+### `Rather than` 是…而不是…
+
+`rather than` 可以放句首或句中。作<mark style="color:blue;">**連接詞**</mark>時，連接的兩個部分須為<mark style="color:blue;">**對等結構**</mark>。
+
+* I prefer _\[tea]_ rather than _\[coffee]_.
+* For exercise, I _\[walk]_ rather than _\[run]_.
+* Rather than _\[let]_ others decide his fate, Jack _\[took]_ control of his own life.
+* It is better to _\[speak up]_ rather than _\[remain silent]_.
+* He enjoys _\[running]_ rather than _\[swimming]_.
+* The task was _\[rewarding]_ rather than _\[exhausting]_.
+* He talks _\[slowly]_ rather than _\[quickly]_.
+* It would be better to go _\[in October]_ rather than _\[in July]_.
+* We should define our self-worth _\[by our actions]_ rather than _\[by what others say]_.
+
+其他關於 `rather than` 的搭配用法詳見[此處](zuo-wen-bai-ju-150.md#zuo-wen-bai-ju-21-wen-fa-zheng-li)。
+
+{% hint style="warning" %}
+#### `rather than` vs. `instead of`
+
+`rather than` 強調「偏好」，通常作對等連接詞使用；`instead of` 則強調「取代」的概念，為介係詞，後面接 `N/V-ing`。`rather than` 也可以當介係詞，此時它的意思和用法與 `instead of` 相同，但一般情況下還是更常作對等連接詞使用。
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>作文百句 46 補充資料</summary>
+
+## 寫作補給站
+
+以下補充一些與本文主題相關的詞彙。
+
+* Exploit
+  * (v.) 剝削
+    * 指不公平地利用他人，通常為了獲取私利或剝削勞力。
+    * Many unscrupulous companies were criticized for exploiting child labor in their overseas factories. (許多不肖公司因在其海外工廠剝削童工而受到批評。)
+    * The company is known for exploiting its employees and not paying for overtime. (這家公司以剝削員工且不付加班費聞名。)
+  * (v.) 充分利用 (資源、機會、漏洞)
+    * To win the game, you must learn how to exploit your opponent's weaknesses while protecting your own. (要贏得比賽，你必須學會如何利用對方的弱點，同時保護自己的弱點。)
+    * We need to exploit our full potential. (我們需要發揮全部潛能。)
+    * The company exploited a tax loophole to avoid paying millions. (該公司利用稅法漏洞避稅數百萬。)
+  * (n.) 豐功偉績
+    * <mark style="color:blue;">**通常用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`exploits`**</mark>。
+    * The documentary detailed the legendary explorer's daring exploits in the Arctic circle. (這部紀錄片詳細描述了那位傳奇探險家在北極圈的英勇事蹟。)
+    * She told us about her exploits during her backpacking trip. (她向我們講述了她背包旅行時的奇遇。)
+* Kindness (n.) 善良、仁慈
+  * 為<mark style="color:blue;">**不可數名詞**</mark>。`an act of kindness` 指「一項善舉」。
+  * I will never forget the kindness you showed me during the most difficult time of my life. (我永遠不會忘記在我生命中最艱難的時期，你對我展現的仁慈。)
+  * He offered to drive me to the airport out of pure kindness, not because he wanted anything in return. (他純粹是出於好意才提出送我去機場，而不是因為想要任何回報。)
+  * Helping the elderly woman carry her groceries was a simple act of kindness that made her day. (幫助老太太提雜物是一件簡單的善舉，這讓她開心了一整天。)
+* Generosity (n.) 慷慨、大方
+  * 指願意分享金錢、時間或資源的精神，為<mark style="color:blue;">**不可數名詞**</mark>。意思與 `kindness` 略有不同。
+  * 後面可接 `to/towards sb` (對某人慷慨)、`in sth` (在某事上很慷慨)。`an act of generosity` 指「一項慷慨的行為」。
+  * The local community was overwhelmed by the generosity of the anonymous donor who funded the new library. (當地社區對那位資助新圖書館的匿名捐贈者的慷慨感到驚訝不已。)
+  * His generosity to the poor is well known. (他對窮人的慷慨為人所熟知。)
+  * I am deeply grateful for your generosity in sharing your expertise with the entire team. (我對你慷慨地與整個團隊分享專業知識深表感謝。)
+* Ego (n.) 自我、自尊心
+  * 為<mark style="color:blue;">**可數名詞**</mark>。常見搭配如下：
+    * `boost one's ego` 增加自信心
+      * Getting the promotion really boosted his ego, making him feel much more confident in his abilities. (這次晉升大大提升了他的自尊心，讓他對自己的能力更有自信。)
+    * `feed one's ego` 滿足虛榮心
+      * That applause really fed his ego. (那陣掌聲真的滿足了他的虛榮心。)
+      * Flattering the manager just to get a favor is a common way to feed his ego. (為了得到好處而奉承經理，是滿足他虛榮心的常見方式。)
+    * `bruise one's ego` 打擊自信、打擊自尊心
+      * This remark really bruised my ego. (這句話確實傷害了我的自尊心。)
+      * Losing the game seriously bruised his ego. (輸掉比賽極大地挫傷了他的自尊心。)
+    * `ego trip` 自我膨脹、自戀行為
+      * 常與 `on`/`go on` 搭配。
+      * His long speech was just an ego trip, full of self-praise. (他冗長的演講只是一場自我膨脹，充滿自我吹噓。)
+      * She has been on an ego trip since she got the promotion. (她升職後就一直自我膨脹。)
+      * Sorry, I guess I'm on another ego trip. (抱歉，我想我又在自吹自擂了。)
+  * Some celebrities have a fragile ego and cannot handle even the slightest bit of criticism from the public. (有些名人自尊心脆弱，連公眾最輕微的批評都受不了。)
+  * He has a huge ego and always thinks he's right. (他自我意識很強，總覺得自己是對的。)
+* Rags-to-riches (adj.) 白手起家、由貧至富
+  * `rags` 指破爛的布料。
+  * The film tells the rags-to-riches story of a young street performer. (這部電影講述了一位年輕街頭藝人白手起家的故事。)
+  * Her rags-to-riches journey inspires millions to pursue their dreams. (她的逆襲人生激勵了數百萬人去追求夢想。)
+  * His story is a classic example of going <mark style="color:blue;">**from rags to riches**</mark>. (他的故事是從貧困到富有的經典例子。)
+* In rags 衣衫襤褸
+  * After the long war, many refugees were found wandering the streets in rags and starving for food. (長年的戰爭後，許多難民被發現穿著破爛、在街頭流浪並飢餓求食。)
+  * The character in the play starts out in rags but eventually becomes the king through wisdom and courage. (劇中的角色一開始衣衫襤褸，但最終透過智慧與勇氣成為了國王。)
+* Strings attached 附帶條件、有附加限制
+  * 通常用於協議、贈與或提議中。
+  * I'll lend you the money, no strings attached. (我會借你這筆錢，不用任何回報/無條件。)
+  * Most of these special offers come with strings attached. (這些特價優惠通常都帶有附加限制。)
+  * True kindness should be given freely with no strings attached. (真正的善意應該是不附加任何條件的。)
+
+</details>
 
 ## 47.
 
