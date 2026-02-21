@@ -12888,6 +12888,12 @@ Indoors (adv.) 在室內、往室內
     * <mark style="color:blue;">**通常用複數形**</mark><mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**`exploits`**</mark>。
     * The documentary detailed the legendary explorer's daring exploits in the Arctic circle. (這部紀錄片詳細描述了那位傳奇探險家在北極圈的英勇事蹟。)
     * She told us about her exploits during her backpacking trip. (她向我們講述了她背包旅行時的奇遇。)
+* Dehumanize (v.) 使失去人性、使非人化、剝奪人性
+  * 指將人視為機器、物品或動物，剝奪其尊嚴、情感或自主權。
+  * The war has dehumanized the soldiers. (戰爭已使士兵們失去人性。)
+  * These workers felt dehumanized by the harsh working conditions. (這些工人覺得在艱苦的工作環境下被非人化了。)
+  * Using a homeless person as an unwitting subject in a hidden camera show can dehumanize them for entertainment. (將無家可歸者作為偷拍節目的無意識受試者，會為了娛樂而將他們非人化。)
+  * The system tends to dehumanize patients by treating them as mere numbers on a medical chart. (該系統傾向於將病人視為醫療圖表上的數字，從而剝奪他們的人性。)
 * Kindness (n.) 善良、仁慈
   * 為<mark style="color:blue;">**不可數名詞**</mark>。`an act of kindness` 指「一項善舉」。
   * I will never forget the kindness you showed me during the most difficult time of my life. (我永遠不會忘記在我生命中最艱難的時期，你對我展現的仁慈。)
@@ -12916,6 +12922,10 @@ Indoors (adv.) 在室內、往室內
       * Sorry, I guess I'm on another ego trip. (抱歉，我想我又在自吹自擂了。)
   * Some celebrities have a fragile ego and cannot handle even the slightest bit of criticism from the public. (有些名人自尊心脆弱，連公眾最輕微的批評都受不了。)
   * He has a huge ego and always thinks he's right. (他自我意識很強，總覺得自己是對的。)
+* Self-reliant (adj.) 自食其力的、自立的
+  * 強調不依靠他人，靠自己的能力生活。
+  * Jack’s decision to return to the street showed his desire to remain self-reliant rather than become a puppet for a show. (Jack 決定回到街頭，展現了他渴望保持自立，而非成為節目的傀儡。)
+  * To truly help the poor, we should provide them with the tools to become self-reliant in the long term. (為了真正幫助窮人，我們應該提供讓他們能長期自食其力的工具。)
 * Rags-to-riches (adj.) 白手起家、由貧至富
   * `rags` 指破爛的布料。
   * The film tells the rags-to-riches story of a young street performer. (這部電影講述了一位年輕街頭藝人白手起家的故事。)
