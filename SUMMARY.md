@@ -26,7 +26,8 @@
 ## composition
 
 * [作文百句](composition/zuo-wen-bai-ju/README.md)
-  * [作文百句 1\~50](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-150.md)
+  * [作文百句 1\~25](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-125.md)
+  * [作文百句 26\~50](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-2650.md)
   * [作文百句 51\~100](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-51100.md)
   * [作文百句 101\~148](composition/zuo-wen-bai-ju/zuo-wen-bai-ju-101148.md)
 * [文章欣賞](composition/wen-zhang-xin-shang.md)
