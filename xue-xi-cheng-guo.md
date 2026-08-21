@@ -70,7 +70,7 @@ Sally.
 
 ### Before
 
-<figure><img src=".gitbook/assets/1111 (1).png" alt="" width="474"><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/1111 (1).png" alt="" width="474"><figcaption></figcaption></figure></div>
 
 &#x20;       Speaking of the environmental issues that we are being confronted with nowadays, I will choose the exhaust discharged by vehicles because I hate to breathe it in when I am waiting for a traffic light to turn to green. Why not turn off the power while waiting for it especially when it takes a long time? Recently, I have introduced the notion of turning off the power to my brother and some of his friends.
 
@@ -90,7 +90,7 @@ Sally.
 
 ## 作文四：A Tourist Attraction in Taiwan that I Would Recommend
 
-<div align="center"><figure><img src=".gitbook/assets/2222.png" alt="" width="332"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/2222.png" alt="" width="332"><figcaption></figcaption></figure></div>
 
 &#x20;       When you plan to travel somewhere, where will you think of first? Undoubtedly, landmarks will be most people's answers. When traveling to Taiwan, what landmark will you visit right away?
 
