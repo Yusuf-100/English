@@ -14,7 +14,7 @@ Author: Yusuf 100
 
 如果這裡對你有幫助的話，就和大家分享這個網站吧！若對本網頁有任何建議，可以加入我的 **Discord 群組**，在裡面 @ 我即可。另外，也邀請大家到我的高中選修化學教學網站看看！
 
-<a href="https://discord.gg/gkVjnqzeFr" class="button primary" data-icon="book-open">Discord 讀書群</a><a href="https://hackmd.io/@Yusuf100/chemistry-1" class="button primary" data-icon="book-open">高中選修化學一</a><a href="https://hackmd.io/@Yusuf100/chemistry-2" class="button primary" data-icon="book-open">高中選修化學二</a>
+<a href="https://discord.gg/gkVjnqzeFr" class="button primary" data-icon="book-open">Discord 讀書群</a><a href="https://hackmd.io/@Yusuf100/chemistry" class="button primary" data-icon="book-open">高中選修化學</a>
 
 <a href="https://youtube.com/@yusuf-dh8lu?si=rCLEk4uLwtcalpyp" class="button primary" data-icon="gamepad-modern">YouTube</a><a href="https://www.instagram.com/yusuf._.100?igsh=MTJlaWQ5ZnpqOW5mcA%3D%3D&#x26;utm_source=qr" class="button primary" data-icon="envira">IG</a>
 
